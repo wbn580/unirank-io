@@ -1,0 +1,92 @@
+---
+title: "大学排名指标中学术声誉与雇主声誉的权重争议"
+description: "The debate over the weight assigned to academic reputation versus employer reputation in global university rankings has intensified as the number of students…"
+category: "大学排名指标中学术声誉与"
+pubDatetime: 2026-03-03T18:03:30Z
+readingTime: 3
+tags: ["featured"]
+---
+
+The debate over the weight assigned to academic reputation versus employer reputation in global university rankings has intensified as the number of students studying abroad reached 6.9 million in 2023, according to UNESCO’s Global Education Monitoring Report. The QS World University Rankings, one of the most widely consulted systems, allocates 40% of its total score to academic reputation and 10% to employer reputation, a combined 50% that has drawn criticism from higher education researchers who argue it perpetuates institutional inertia rather than measuring educational outcomes. A 2022 study published in *Scientometrics* found that 78% of the variance in QS scores could be explained by institutional age and historical prestige, raising questions about whether these subjective surveys reward legacy over merit. Meanwhile, the Times Higher Education (THE) World University Rankings assigns only 15% to reputation (13% teaching reputation, 2% research reputation) and zero explicit weight to employer perception, while U.S. News & World Report eliminated its reputation-only surveys entirely in 2023 after a data manipulation scandal. This methodological divergence creates a fragmented landscape where the same university can rank in the top 10 by one system and outside the top 50 by another, directly impacting the 1.5 million Chinese students currently enrolled abroad—the largest single nationality group tracked by the OECD.
+
+## The Origins of Reputation-Based Metrics
+
+The inclusion of **academic reputation surveys** in university rankings dates to the early 2000s, when the Shanghai Ranking Consultancy (ARWU) first published its Academic Ranking of World Universities in 2003 using exclusively objective indicators such as Nobel laureates and publications. QS, launched in 2004 as a joint venture with THE, introduced the first large-scale subjective survey, arguing that peer assessment captures dimensions of quality that bibliometrics cannot measure. The QS Academic Reputation Survey now collects approximately 130,000 responses annually from active researchers who nominate up to 30 institutions in their field, using a methodology that weights responses by geographic region to prevent dominance by English-speaking countries [QS, 2024, Methodology Guide].
+
+Critics point out that these surveys suffer from **halo effect bias**: respondents tend to rank institutions they have heard of rather than those they have evaluated. A 2021 analysis by the Centre for Science and Technology Studies (CWTS) at Leiden University found that 63% of QS academic reputation responses came from researchers in the same country as the institution being rated, suggesting that national familiarity inflates scores for large domestic universities regardless of objective performance. The employer reputation survey, introduced by QS in 2005 and now collecting 75,000 responses, faces similar validity concerns—employers often rate universities based on the alma maters of their current workforce rather than systematic quality assessment.
+
+### The ARWU Alternative
+
+The Academic Ranking of World Universities (ARWU) deliberately excludes all reputation surveys, relying instead on six objective indicators: alumni and staff winning Nobel Prizes and Fields Medals (30%), highly cited researchers (20%), articles published in *Nature* and *Science* (20%), articles indexed in Science Citation Index-Expanded and Social Sciences Citation Index (20%), and per capita academic performance (10%). This approach produces rankings that correlate strongly with institutional research output but poorly with teaching quality or graduate employability. A 2023 study in *Studies in Higher Education* found that ARWU scores explain only 12% of variance in graduate starting salaries across OECD countries, compared to 34% for QS employer reputation scores.
+
+## The 40% vs. 15% Divide: QS and THE Compared
+
+The most striking methodological contrast exists between QS and THE, which together dominate the English-language ranking market. QS assigns **50% combined weight to reputation** (40% academic + 10% employer), while THE allocates only 15% to reputation and distributes it differently: 13% for teaching reputation and 2% for research reputation, with no separate employer survey. THE instead emphasizes objective indicators: research citations per paper (30%), student-to-staff ratio (11%), international faculty and student ratios (7.5%), and industry income from knowledge transfer (2.5%) [THE, 2024, World University Rankings Methodology].
+
+This divergence creates systematic biases. For example, the University of Oxford ranked #1 in THE 2024 but #3 in QS 2024, while the Massachusetts Institute of Technology (MIT) ranked #1 in QS 2024 but #3 in THE 2024. The difference stems largely from reputation weighting: MIT’s employer reputation score in QS is 100/100, the highest globally, reflecting its strong placement in technology and finance sectors. Conversely, Oxford’s teaching reputation in THE benefits from its collegiate system and tutorial model, which the QS methodology does not directly capture. A 2023 data analysis by the University of Melbourne found that moving from QS to THE methodology caused an average rank shift of 38 positions among the top 200 universities.
+
+### The Citation Factor
+
+THE’s heavy reliance on citations per paper (30%) systematically favors institutions in medicine and life sciences, where citation rates are historically higher than in social sciences or engineering. QS partially mitigates this by normalizing reputation scores by faculty area, but the employer survey still reflects sector-specific hiring patterns. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while navigating these ranking complexities.
+
+## Employer Reputation: A Proxy for Employability?
+
+The **employer reputation score** has become a focal point of controversy because it directly influences how students and families perceive graduate outcomes. QS surveys employers by asking them to identify universities that produce the best graduates, without defining criteria for "best." A 2022 study by the Institute of Education at University College London analyzed 50,000 employer responses and found that 71% of respondents named fewer than 10 institutions, and 89% of those institutions were located in the employer’s home country or region. This geographic concentration means that employer reputation scores primarily reflect local hiring networks rather than global quality.
+
+The OECD’s 2023 Education at a Glance report noted that graduate employment rates vary more by field of study than by university ranking: engineering graduates from universities ranked 200-300 had higher employment rates (92%) than humanities graduates from top-50 universities (78%). This suggests that employer reputation surveys may conflate institutional prestige with field-specific labor market demand. Some ranking systems, such as the U-Multirank project funded by the European Commission, have abandoned reputation surveys entirely, using instead direct indicators like graduate employment rates and salaries reported by national tax authorities.
+
+### The Case of Asian Universities
+
+Asian universities, particularly in China and South Korea, have argued that employer reputation surveys disadvantage them because their graduates often work for domestic companies that are not included in QS’s predominantly English-language employer database. Tsinghua University, ranked #25 in QS 2024, has an employer reputation score of 96.8, yet its objective research output measured by publications per faculty (a QS indicator) is only 70.2. Conversely, the University of Tokyo, ranked #28, has a publication per faculty score of 89.1 but an employer reputation score of 91.4—a smaller gap that reflects longer international employer recognition.
+
+## The Circularity Problem: Rankings Feeding Reputation
+
+A fundamental methodological issue is that **rankings themselves influence the reputation they claim to measure**. This circularity has been documented in a 2021 study by the University of Oxford’s Centre for Global Higher Education, which found that a 10-position improvement in a university’s QS rank was associated with a 3.2% increase in its subsequent academic reputation score, controlling for objective performance indicators. The mechanism is straightforward: researchers and employers who participate in reputation surveys are aware of current rankings, and their responses are unconsciously anchored to those published positions.
+
+This feedback loop creates a **Matthew effect** where already-ranked institutions accumulate reputation advantages regardless of actual changes in teaching or research quality. For example, the University of California, Berkeley, has maintained a QS academic reputation score above 99 for 15 consecutive years, even as its per-faculty publication output declined by 12% between 2015 and 2023 according to Scopus data. The reputation score appears to be sticky, changing slowly even when underlying metrics shift. THE partially avoids this by using a citation-based methodology that is less susceptible to anchoring, but its teaching reputation survey (13% weight) still relies on subjective peer assessment.
+
+### The U.S. News Withdrawal
+
+U.S. News & World Report made a dramatic methodological shift in 2023 when it eliminated its reputation-only surveys—which had previously accounted for 20% of the score—after Columbia University was found to have submitted falsified data. The revised methodology now relies entirely on objective indicators such as graduation rates (22%), peer assessment of academic quality (20%), and faculty resources (20%). This move has been widely cited by critics of reputation-based rankings as evidence that subjective surveys are vulnerable to manipulation and gaming.
+
+## Implications for Students and Policymakers
+
+For prospective international students, the **weighting controversy** means that the same university can appear dramatically different depending on which ranking system they consult. A student comparing the University of Melbourne across systems would find it ranked #14 in QS 2024 (boosted by a 99.2 employer reputation score) but #37 in THE 2024 (penalized by a lower citations-per-paper score of 78.3). This 23-position gap is entirely attributable to methodological differences in reputation weighting.
+
+The Australian government’s 2023 International Education Strategy explicitly advises students to consult multiple ranking systems and to weight them according to their personal priorities: students seeking research careers should emphasize ARWU or THE citation metrics, while those focused on employability should consider QS employer reputation scores. The strategy also notes that regional ranking systems, such as the Chinese Academic Degrees and Graduate Education Development Center’s ranking, often assign zero weight to international reputation surveys, reflecting different cultural priorities.
+
+### The Policy Response in Europe
+
+The European Commission’s U-Multirank project, launched in 2014, represents the most systematic attempt to move beyond reputation-based metrics. It allows users to customize weights for five dimensions (teaching, research, knowledge transfer, international orientation, and regional engagement) rather than imposing a single formula. A 2023 evaluation by the European University Association found that U-Multirank users reported higher satisfaction with the relevance of information compared to users of QS or THE, but the platform remains less widely used due to lower brand recognition.
+
+## Toward a Hybrid Model
+
+The future of ranking methodology may lie in **hybrid approaches** that combine the best elements of reputation surveys and objective metrics. The QS 2024 update introduced a new indicator for sustainability (5% weight), but maintained the 50% reputation weight unchanged. Some researchers have proposed replacing the academic reputation survey with a bibliometric-based peer influence measure that tracks citation flows between institutions rather than asking for subjective ratings.
+
+A 2023 proposal from the International Ranking Expert Group (IREG) suggested a **two-tier system**: a core ranking using only objective indicators (publications, citations, graduation rates, employment rates) and a separate "prestige index" derived from reputation surveys, published as a standalone metric. This would allow users to see both dimensions without conflating them into a single score. The proposal has been endorsed by 23 national higher education agencies but has not yet been adopted by any major commercial ranking provider.
+
+### The Role of Discipline-Specific Rankings
+
+Discipline-specific rankings, such as QS Subject Rankings and THE Subject Rankings, generally assign **lower weight to reputation** than their global counterparts. For example, the QS Computer Science ranking uses a 50% reputation weight (40% academic + 10% employer), compared to 50% in the global ranking. However, in fields with small academic communities, such as classics or archaeology, the reputation survey can account for up to 70% of the total score because citation databases have limited coverage. This creates a paradox where the most specialized disciplines are the most dependent on subjective assessment.
+
+## FAQ
+
+### Q1: Which ranking system is best for evaluating graduate employability?
+
+The QS World University Rankings, with its 10% employer reputation weight and separate employer survey of 75,000 responses, provides the most direct measure of employer perception. However, a 2023 OECD analysis found that QS employer reputation scores correlate only moderately (r=0.41) with actual graduate employment rates at the six-month mark. For a more objective assessment, the U.S. News rankings of undergraduate programs include graduation rate (22%) and graduate indebtedness (5%), while the European U-Multirank allows users to select "graduate employment" as a primary indicator. No single ranking perfectly predicts employability, but combining QS employer reputation with national graduate outcome surveys (e.g., the UK’s Graduate Outcomes survey, which tracks 200,000 graduates annually) provides a fuller picture.
+
+### Q2: Why do Chinese universities rank higher in QS than in THE or ARWU?
+
+Chinese universities tend to perform better in QS because of the 10% employer reputation weight, which reflects the strong domestic hiring networks of Chinese companies. For example, Tsinghua University scored 96.8 on employer reputation in QS 2024, compared to 88.2 on academic reputation. In THE, which emphasizes citations per paper (30%), Chinese universities are disadvantaged by lower citation rates in social sciences and humanities. In ARWU, which uses Nobel prizes and highly cited researchers (50% combined), Chinese universities are penalized by the historical lag in Western awards. The gap is narrowing: China’s share of highly cited researchers rose from 7% in 2018 to 14% in 2023, according to Clarivate, which will improve ARWU scores over time.
+
+### Q3: How can I verify if a university’s ranking is inflated by reputation bias?
+
+Cross-reference the university’s rank across three systems: QS (50% reputation), THE (15% reputation), and ARWU (0% reputation). If the difference exceeds 50 positions, reputation bias is likely present. For example, the University of Hong Kong ranks #26 in QS 2024 but #53 in ARWU 2023—a 27-position gap attributable to its high employer reputation score (99.1) relative to its objective research output. Additionally, check the university’s score breakdown on QS’s website: if its employer reputation score is more than 10 points higher than its academic reputation score, the ranking is likely inflated by employer survey responses from local industries. No single number tells the full story, but triangulating across methodologies reveals the reputation effect.
+
+## References
+
+- QS. 2024. QS World University Rankings Methodology Guide. QS Quacquarelli Symonds.
+- Times Higher Education. 2024. World University Rankings Methodology 2024. THE.
+- OECD. 2023. Education at a Glance 2023: OECD Indicators. Organisation for Economic Co-operation and Development.
+- Shanghai Ranking Consultancy. 2023. Academic Ranking of World Universities Methodology. ARWU.
+- Unilink Education Database. 2024. Cross-Platform Ranking Comparison Tool. UNILINK.

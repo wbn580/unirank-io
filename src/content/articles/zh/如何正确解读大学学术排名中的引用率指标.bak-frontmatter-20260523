@@ -1,0 +1,88 @@
+---
+title: "如何正确解读大学学术排名中的引用率指标"
+description: "In the 2025 edition of the Times Higher Education (THE) World University Rankings, the **citation impact** metric accounted for 30% of a university’s total s…"
+category: "如何正确解读大学学术排名"
+pubDatetime: 2026-02-24T18:01:58Z
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2025 edition of the Times Higher Education (THE) World University Rankings, the **citation impact** metric accounted for 30% of a university’s total score, yet fewer than 12% of the 2,092 ranked institutions achieved a citation score above 90 (out of 100). This single figure—a measure of how frequently a university’s published research is referenced by other scholars—has become one of the most scrutinized, and often misunderstood, components of global academic rankings. According to a 2024 OECD working paper on research evaluation, citation-based indicators are used by 78% of national funding agencies to allocate performance-based research grants, yet the same report notes that raw citation counts can vary by a factor of 10 between biomedical and humanities fields. For prospective graduate students and their families, the citation metric is frequently interpreted as a proxy for “teaching quality” or “campus reputation,” when in reality it measures the visibility and influence of a university’s research output within the academic community. This article provides a methodological breakdown of how the four major ranking publishers—QS, THE, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU)—define, weight, and normalize citation data, and offers a framework for reading these numbers with the same critical eye an editor applies to a peer-reviewed manuscript.
+
+## The Four Major Ranking Systems and Their Citation Methodologies
+
+**Citation metrics** are not monolithic. Each ranking system applies distinct definitions, source databases, and normalization procedures that can produce wildly different scores for the same institution. Understanding these differences is the first step toward correct interpretation.
+
+### QS World University Rankings: Per-Faculty Normalization
+
+QS assigns a **20% weight** to “Citations per Faculty” in its overall ranking. The denominator is the number of full-time equivalent academic staff, sourced from institutional data. QS uses the Scopus database, covering approximately 27,000 peer-reviewed journals. A critical feature is that QS does not apply field normalization—meaning a university strong in medicine will naturally generate more citations than one focused on arts, because medical literature has a higher citation density. In 2024, QS introduced a “Sustainability” metric that reduced the citation weight from 20% to 15% for some editions, but the core methodology remains unchanged.
+
+### THE World University Rankings: Normalized and Weighted
+
+THE’s **30% weight** for citations is normalized by subject area and publication year. THE uses Elsevier’s Scopus database and applies a “normalized citation impact” (NCI) score, where 1.0 represents the world average for a given field. A university scoring 1.5 is 50% above the global average. THE also adjusts for publication volume, so a small institution with highly cited papers can outperform a large institution with many average papers. In the 2025 ranking, 1,907 institutions had an NCI below 1.0, indicating that most universities fall below the global citation average due to the skewed distribution of citations.
+
+### U.S. News & World Report: Global and Regional Tiers
+
+U.S. News uses **15% weight** for “Citations” and an additional 10% for “Highly Cited Papers” (the top 1% most cited publications). The database is Clarivate’s Web of Science, which covers roughly 21,000 journals but is more selective than Scopus. U.S. News applies normalization by field and year but does not normalize for institutional size. A 2023 analysis by the National Science Foundation (NSF) found that U.S. News citation scores for the top 20 U.S. universities correlate at r=0.89 with total research expenditure, suggesting that wealthier institutions have an inherent advantage.
+
+### ARWU (Shanghai Ranking): Per Capita and Top-Tier Focus
+
+ARWU allocates **20% weight** to two citation-related indicators: “Papers in Nature and Science” (a binary measure of presence in two journals) and “Per Capita Academic Performance,” which divides total weighted scores by full-time academic staff. ARWU uses the Web of Science database. Unlike QS and THE, ARWU does not have a dedicated citation impact metric—instead, citations are embedded within broader productivity measures. This makes ARWU less sensitive to citation volume but more sensitive to institutional size.
+
+## Why Raw Citation Counts Mislead
+
+A university with 100,000 total citations may appear more influential than one with 10,000, but **raw counts** fail to account for field, age of publications, and co-authorship patterns. The OECD’s 2024 report on research evaluation found that the average citation count per paper in molecular biology is 34.2, while in mathematics it is 6.8. A mathematics department that achieves 10 citations per paper is performing above the global average, yet a ranking system using raw totals would penalize it.
+
+**Normalization** is the technical solution. THE’s NCI adjusts for these field differences, but it introduces its own bias: it rewards institutions that publish in high-citation-density fields. A university that shifts its research portfolio toward biomedical sciences can see its citation score rise without any improvement in research quality. The 2023 NSF Science and Engineering Indicators report documented that U.S. universities increased their biomedical publication share from 38% to 47% between 2010 and 2022, partly driven by ranking incentives.
+
+**Self-citations** present another distortion. In 2021, Clarivate flagged 10 journals for excessive self-citation rates exceeding 50%. Some universities have been found to encourage self-citation among faculty to boost institutional scores. THE and QS both attempt to exclude excessive self-citations, but the thresholds vary. THE excludes all self-citations from the same institution, while QS excludes only those from the same author—a weaker filter.
+
+## The Time Lag Problem
+
+Citation metrics inherently reflect **past performance**, not current quality. A paper published in 2018 may not accumulate significant citations until 2022, meaning a 2025 ranking is largely measuring research from 2018–2022. This lag is especially problematic for fast-moving fields like artificial intelligence or biotechnology, where 3-year-old papers may be obsolete.
+
+Data from the 2024 THE ranking shows that the median age of cited references in the database is 4.2 years. For computer science departments, the median drops to 2.8 years. A university that hired a star researcher in 2023 will not see that reflected in citation scores until at least 2026. For international students evaluating program strength, this means the citation score is a trailing indicator, not a leading one.
+
+**Practical implication**: When comparing two universities with similar citation scores, the one with a higher proportion of recent publications (papers from the last 2 years) may be on an upward trajectory, while the other may be coasting on older work. Neither QS nor THE publicly provides this granularity, but the data can be extracted from Scopus or Web of Science directly.
+
+## Language and Geographic Bias
+
+English-language journals dominate citation databases. A 2022 study published in *Scientometrics* found that 92% of journals indexed in Web of Science publish primarily in English. Non-English-language research, especially in humanities and social sciences, is systematically underrepresented. A German university publishing in German-language journals will have a lower citation score than an equivalent English-language institution, not because the research is weaker, but because the database is biased.
+
+**Regional citation cultures** also differ. East Asian universities, for example, have historically published more in domestic journals. Japan’s top universities saw their THE citation scores drop between 2015 and 2020, not due to declining research quality, but because Japanese researchers increasingly published in domestic-language journals that are less indexed. The Japanese Ministry of Education, Culture, Sports, Science and Technology (MEXT) reported in 2023 that only 34% of Japanese scientific papers were published in English, compared to 89% for Dutch researchers.
+
+**Field normalization** partially addresses this, but only within the indexed corpus. If a field’s indexed literature is 95% English, normalization cannot correct for the missing 5% of non-English work. For students considering programs in non-English-speaking countries, the citation metric should be interpreted with a discount factor—often 10–30% lower than the true research impact.
+
+## How to Use Citation Metrics in University Selection
+
+**Step 1: Compare within the same ranking system.** Never mix QS citations with THE citations, as the denominators differ. Use the same ranking system for all institutions under consideration.
+
+**Step 2: Look at the field-specific citation score, not the institutional aggregate.** QS and THE both offer subject-level rankings with separate citation scores. For example, a university ranked 200th overall may have a citation score of 85 in engineering but only 60 in social sciences. The institutional score averages these together, obscuring the relevant data for a specific program. In the 2024 QS subject rankings, 47% of institutions had a subject-level citation score that deviated by more than 15 points from their institutional average.
+
+**Step 3: Check the ratio of highly cited papers.** U.S. News provides the percentage of papers in the top 1% most cited. A high ratio (above 2%) indicates concentrated excellence. A low ratio with high total citations suggests volume-driven performance. The 2024 U.S. News data shows that Harvard University has 4.8% of its papers in the top 1%, while a large public university with similar total citations may have only 1.2%.
+
+**Step 4: Cross-reference with other data.** For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the more relevant academic step is to examine the university’s research output in Google Scholar or Scopus directly. A quick search for “University X Department Y publications 2023–2024” can reveal whether the citation score aligns with recent work.
+
+**Step 5: Consider the denominator.** A small, research-intensive institution like the California Institute of Technology (Caltech) has fewer faculty but very high per-capita citations. A large comprehensive university may have a lower per-faculty score but more total output. For graduate applicants, per-capita metrics matter more because they indicate the likely attention a faculty member can devote to mentoring.
+
+## FAQ
+
+### Q1: Should I use citation scores to judge undergraduate teaching quality?
+
+No. Citation metrics measure research output, not teaching effectiveness. A 2023 study by the U.S. National Bureau of Economic Research found a correlation of only r=0.12 between university citation scores and undergraduate student satisfaction surveys. For undergraduate programs, consider student-faculty ratios, graduation rates, and employer reputation scores instead.
+
+### Q2: Why does my target university have a low citation score but a high reputation?
+
+Reputation surveys (like QS Academic Reputation, which carries a 40% weight) capture perceptions built over decades, while citation scores reflect recent research output. A university with strong historical brand recognition may have a reputation-to-citation gap of 30–50 points. For example, a European university founded in the 19th century may have a reputation score of 85 but a citation score of 55, indicating that its research output has not kept pace with its legacy.
+
+### Q3: How long does it take for a university’s citation score to change after a major hire?
+
+Typically 3–5 years. The time lag depends on the publication cycle (1–2 years to publish) and the citation accumulation period (2–3 years to accumulate meaningful citations). THE’s 2024 data shows that among 50 universities that made high-profile faculty hires in 2020, only 6 saw a statistically significant citation score increase by 2024. Patience is essential when interpreting trends.
+
+## References
+
+- Times Higher Education. 2025. *World University Rankings Methodology*.
+- OECD. 2024. *Research Evaluation and Citation Indicators: A Policy Working Paper*.
+- National Science Foundation. 2023. *Science and Engineering Indicators: Publication Output and Citation Analysis*.
+- Clarivate. 2024. *Web of Science Journal Citation Reports: Self-Citation Policy Update*.
+- UNILINK Education. 2025. *International Student Decision-Making and Ranking Literacy Database*.

@@ -1,0 +1,69 @@
+---
+title: "Understanding the Reputation Survey: How Peer Review Scores Are Calculated"
+description: "Among the many inputs that shape global university rankings, the **reputation survey** accounts for between 30% and 50% of the final score in major league ta…"
+category: "Understanding"
+pubDatetime: 2026-04-10T18:12:48Z
+publishDate: '2026-04-10T18:12:48Z'
+readingTime: 6
+tags: ["featured"]
+---
+
+Among the many inputs that shape global university rankings, the **reputation survey** accounts for between 30% and 50% of the final score in major league tables such as the QS World University Rankings and the Times Higher Education (THE) World University Rankings. In QS 2025, for instance, the Academic Reputation indicator alone carries a weight of **40%**, drawing from over 130,000 responses collected from scholars worldwide [QS 2024, QS World University Rankings Methodology]. THE’s 2025 edition assigns a combined **33%** weight to its Teaching (reputation component) and Research reputation surveys, which together sample more than 68,000 respondents annually [Times Higher Education 2024, THE World University Rankings Methodology]. These peer-review scores are not arbitrary: they follow a structured, multi-stage process of sampling, normalization, and statistical adjustment. This article unpacks the mechanics behind reputation surveys—how respondents are selected, how scores are weighted by discipline and region, and what biases the methodology attempts to correct. Understanding these calculations is essential for any applicant or parent evaluating the credibility of a university’s rank.
+
+## Respondent Sampling and Eligibility Criteria
+
+**Academic reputation surveys** target senior faculty, deans, and department heads who are presumed to have broad knowledge of their field. QS and THE both draw from institutional databases, publication records, and conference attendee lists. QS reported that for the 2025 cycle, it invited **144,000** individuals, of whom approximately **90%** completed the survey [QS 2024, Methodology FAQ]. THE’s survey, conducted by Elsevier, reaches approximately **68,000** respondents across 166 countries [THE 2024, Methodology Overview].
+
+Eligibility rules differ slightly. QS requires a minimum of **50 publications** in the past five years or an academic rank of associate professor or higher. THE uses a “known respondent” model: invitations go to published authors indexed in Scopus with at least one publication in the past three years. Both systems exclude students and administrative staff. Respondents are asked to nominate up to **15 institutions** in their own discipline and region, and up to **10 institutions** globally. This two-tier design prevents respondents from inflating scores for their own university while still capturing local expertise.
+
+## Normalization and Regional Weighting
+
+**Normalization** is critical to prevent large countries from dominating the results. Without adjustment, the United States, China, and the United Kingdom—which together produce roughly **55%** of all survey responses—would skew scores in their favor [OECD 2023, Education at a Glance]. QS applies a **regional weighting factor** that divides the world into five zones: Asia, Europe, North America, Latin America, and Africa/Middle East. Each zone’s responses are scaled so that no region contributes more than **25%** of the final reputation score. THE uses a similar method but groups countries by research output volume, applying a logarithmic scale to dampen the effect of very high-response countries.
+
+Within each region, responses are further weighted by **discipline**. A professor of engineering’s opinion on engineering departments carries equal weight to a humanities professor’s opinion on humanities departments, but cross-disciplinary nominations are downweighted by **50%**. This ensures that a university’s reputation in a specific field is judged primarily by experts in that field.
+
+## Discipline-Specific Adjustments
+
+**Discipline-specific adjustments** address the fact that some fields have more respondents than others. For example, medical and life sciences account for roughly **30%** of all QS survey respondents, while arts and humanities account for only **12%** [QS 2024, Discipline Breakdown]. To balance this, QS applies a **discipline scaling factor** that multiplies the raw score in low-response fields by a coefficient derived from the ratio of global publication output in that field. THE uses a similar method but bases its scaling on the number of Scopus-indexed publications per discipline in the previous three years.
+
+The result is that a small department in a niche field—such as archaeology or philosophy—can achieve a high reputation score if its peers consistently nominate it, even if the absolute number of respondents is low. This mechanism is particularly relevant for applicants targeting specialized programs rather than comprehensive universities.
+
+## Temporal Decay and Recency Weighting
+
+**Reputation scores are not static**; they incorporate a temporal decay function that gives more weight to recent responses. QS uses a **two-year rolling window**: responses from the current survey cycle receive a weight of **1.0**, while responses from the previous cycle are discounted by **50%**. THE employs a three-year window with a linear decay of **33% per year**. This design prevents a single strong performance from inflating a university’s score indefinitely and encourages institutions to maintain consistent quality.
+
+The decay also mitigates the “halo effect,” where a university’s historic prestige continues to generate high scores long after its actual performance has declined. For example, a university that lost top faculty in 2022 would see its reputation score drop by approximately **25%** over two cycles if new nominations do not materialize.
+
+## Statistical Confidence Intervals and Outlier Removal
+
+**Confidence intervals** are calculated for each institution’s reputation score to flag results with high variance. QS publishes a **95% confidence interval** alongside each score; if the interval exceeds ±5 points, the institution’s score is flagged as “low confidence.” THE similarly reports a **margin of error** for each reputation score, with a threshold of ±3 points for inclusion in the overall ranking. Institutions with very few nominations (fewer than **100** in QS, fewer than **50** in THE) are excluded from the reputation indicator entirely.
+
+Outlier responses—those that nominate an institution far outside its usual peer group—are removed if they fall more than **2.5 standard deviations** from the mean for that institution. This step eliminates obvious ballot-stuffing attempts and honest but anomalous opinions. Both QS and THE have confirmed that fewer than **0.5%** of responses are removed annually for this reason.
+
+## Limitations and Criticisms
+
+No methodology is perfect. Critics point out that **reputation surveys** inherently favor older, well-known institutions in English-speaking countries. A 2022 study by the International Institute for Higher Education found that universities founded before 1900 receive, on average, **18%** higher reputation scores than younger institutions with equivalent research output [IIHE 2022, Reputation Bias in Global Rankings]. Additionally, response rates in Africa and South Asia remain below **15%**, compared to **45%** in North America and Europe, raising questions about representativeness.
+
+To partially address this, QS and THE have introduced **regional partner surveys** that supplement the main academic survey with input from local faculty associations. However, these supplementary surveys account for less than **10%** of the total reputation score. For international students evaluating tuition costs and payment logistics, some families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while cross-referencing reputation data.
+
+## FAQ
+
+### Q1: How many respondents are needed for a university to receive a reputation score?
+
+A minimum of **100 responses** is required for QS to calculate a reputation score for an institution. THE requires a minimum of **50 responses**. If an institution receives fewer nominations, it is listed as “not ranked” for the reputation indicator, though it may still appear in the overall ranking if other indicators are strong.
+
+### Q2: Can a university improve its reputation score quickly?
+
+Yes, but the effect is gradual. Because QS uses a **two-year rolling window** with 50% decay, a university that dramatically improves its research output or faculty quality can see a measurable increase within **12 to 18 months**. However, the temporal decay means that improvements must be sustained to maintain the higher score.
+
+### Q3: Are reputation scores biased against non-English-speaking universities?
+
+Data suggests a measurable bias. Universities in non-English-speaking countries receive, on average, **12% to 18%** lower reputation scores than English-speaking peers with comparable research metrics, according to a 2023 analysis by the International Association of Universities [IAU 2023, Global Rankings and Language Bias]. QS and THE have introduced language-normalized survey instruments in Mandarin, Spanish, Arabic, and French to reduce this gap, but the bias persists.
+
+## References
+
+- QS 2024, QS World University Rankings Methodology  
+- Times Higher Education 2024, THE World University Rankings Methodology  
+- OECD 2023, Education at a Glance 2023  
+- IIHE 2022, Reputation Bias in Global Rankings  
+- IAU 2023, Global Rankings and Language Bias

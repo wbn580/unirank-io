@@ -1,0 +1,77 @@
+---
+title: "大学排名指标中学术不端行为的负面评价机制"
+description: "University ranking systems such as QS, THE, US News, and ARWU have become central arbiters of institutional prestige, yet their methodological response to ac…"
+category: "大学排名指标中学术不端行"
+pubDatetime: 2026-04-01T18:10:43Z
+readingTime: 3
+tags: ["featured"]
+---
+
+University ranking systems such as QS, THE, US News, and ARWU have become central arbiters of institutional prestige, yet their methodological response to academic misconduct remains opaque and inconsistently applied. A 2023 analysis by Times Higher Education found that only 12 of the top 200 universities globally had a formal, publicly documented policy linking ranking scores to verified research integrity violations. Meanwhile, a 2022 OECD report on higher education governance noted that over 60% of surveyed institutions in 35 countries lacked any internal mechanism to report misconduct data to ranking bodies. This gap between the rhetoric of quality assurance and the reality of enforcement forms the core tension explored in this article. As students and families increasingly rely on these rankings for high-stakes decisions—affecting tuition payments, visa applications, and career trajectories—the mechanisms (or lack thereof) for penalizing academic dishonesty at the institutional level demand scrutiny. This piece examines how the four major ranking frameworks handle (or fail to handle) negative signals from retractions, data fabrication, and plagiarism, drawing on publicly available methodology documents and recent case studies.
+
+## The Absence of a Unified `**misconduct penalty**` Metric
+
+None of the four major ranking systems—QS, THE, US News, and ARWU—currently include a standalone indicator for institutional academic integrity. Instead, misconduct is theoretically captured through indirect proxies such as citation impact, research income, and reputation surveys. A 2023 study in *Scientometrics* found that universities with a high retraction rate (≥ 5 retractions per 1,000 publications) experienced an average 2.1-point drop in their THE overall score within two years, but this effect was not explicitly attributed to misconduct in the ranking methodology. The lack of a dedicated `**misconduct penalty**` means that a single high-profile fraud case can be absorbed into aggregate statistics without triggering a formal review of the institution's ranking eligibility.
+
+### QS: Reputation Surveys as a Blunt Instrument
+QS relies heavily on academic and employer reputation surveys, which account for 50% of the overall score. While a major scandal could theoretically influence respondent perceptions, the effect is delayed and diffuse. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, making the financial consequence of a ranking drop immediate for the institution. However, QS has never publicly adjusted a university's rank retroactively due to a confirmed misconduct case.
+
+### THE: Citation-Based Retraction Tracking
+THE's methodology includes a "research influence" metric (30% weight) that uses normalized citation impact. A 2024 internal review by THE confirmed that retracted papers are excluded from citation counts, but only if the retraction is recorded in the Scopus database within the data collection window. This creates a lag of 12–18 months between retraction and ranking adjustment.
+
+## The `**retraction penalty**` Across Ranking Systems
+
+Retractions represent the most verifiable form of academic misconduct, yet their treatment varies dramatically across ranking bodies. ARWU, which relies on a basket of high-impact journals, does not adjust scores for retracted papers unless the retraction occurs in a journal that subsequently loses its indexing status. US News, in its global rankings, uses Clarivate's Web of Science data, which flags retracted articles but does not penalize the institution beyond removing the citation count.
+
+### Case Study: The Anesthesiology Retraction Wave
+Between 2018 and 2022, a cluster of 44 papers from a single Japanese university were retracted due to fabricated data. THE's ranking for that institution dropped from 351–400 to 501–600 over three years, but a 2023 analysis by the University of Tokyo's research integrity office attributed only 0.8 points of the decline to the retractions, with the remainder due to normal fluctuations in research output and reputation.
+
+### The `**self-citation**` Controversy
+A more subtle form of misconduct—excessive self-citation to inflate impact factors—has prompted targeted responses. In 2022, Clarivate delisted 35 journals from the Web of Science for citation stacking, directly affecting the ARWU scores of universities that published heavily in those journals. The average score drop for affected institutions was 3.4 points in the "research" category.
+
+## Reputation Surveys and `**reputation bias**`
+
+Reputation surveys, which constitute 40–50% of the QS and THE scores, are inherently vulnerable to bias from misconduct scandals. A 2023 experiment by the University of Oxford's Centre for Global Higher Education found that when survey respondents were presented with a university's verified retraction rate (≥ 10 per year), their reputation score for that institution dropped by an average of 1.7 points on a 10-point scale. However, the effect was strongest among respondents from the same region, suggesting a `**reputation bias**` that penalizes some institutions more harshly than others.
+
+### Geographical Disparities
+Institutions in East Asia and Southern Europe reported the largest reputation score declines after a misconduct case, while North American universities experienced smaller drops. This asymmetry raises questions about whether ranking systems inadvertently reinforce existing prestige hierarchies rather than penalizing misconduct uniformly.
+
+## The Role of `**data transparency**` in Enforcement
+
+A critical barrier to effective misconduct penalties is the lack of transparent, standardized data. Ranking bodies rely on third-party databases (Scopus, Web of Science, and Google Scholar) that do not uniformly report retraction reasons. A 2024 audit by the International Committee of Medical Journal Editors found that only 34% of retraction notices in Scopus included a clear reason for the action, making it difficult for ranking algorithms to distinguish between honest error and fraud.
+
+### Institutional Self-Reporting
+Some universities voluntarily report misconduct to ranking bodies, but incentives are misaligned. A 2023 survey by the European University Association found that only 22% of member institutions had a policy to self-report verified misconduct to ranking organizations. Without mandatory reporting, ranking systems operate on incomplete data.
+
+## Legal and `**regulatory pressure**` on Ranking Bodies
+
+Government intervention is reshaping the landscape. In 2023, the Australian government's Tertiary Education Quality and Standards Agency (TEQSA) mandated that all universities report confirmed research misconduct to the Department of Education within 30 days, with the data shared with ranking bodies. Similarly, the European Commission's 2024 Horizon Europe framework requires grant recipients to disclose retractions in their annual reports, which are then accessible to ranking compilers.
+
+### The `**financial consequence**` for Institutions
+A 2024 study by the World Bank estimated that a one-position drop in the QS World University Rankings correlates with a 2.7% decrease in international student enrollment for non-English-speaking institutions. For a mid-sized university with 5,000 international students, this translates to an average revenue loss of US$8.5 million per year. This financial pressure creates an incentive for institutions to underreport misconduct, further complicating ranking accuracy.
+
+## Methodological Proposals for `**integrity indicators**`
+
+Several proposals have emerged to integrate misconduct penalties directly into ranking methodologies. The Leiden Manifesto (2015) recommended that rankings include a "retraction ratio" (retractions per 1,000 publications) as a separate indicator. In 2024, the International Network of Research Management Societies (INORMS) proposed a `**integrity indicator**` with a 5% weight in overall scores, based on verified retraction data and institutional self-reports.
+
+### Implementation Challenges
+Ranking bodies cite resource constraints and data reliability as primary obstacles. A 2023 feasibility study commissioned by QS estimated that implementing a misconduct indicator would increase data collection costs by 12–15% and require an additional 6–8 months of verification per cycle. Critics argue that these costs are manageable relative to the US$1.2 billion global ranking industry (2023 estimate by the Observatory on Academic Rankings).
+
+## FAQ
+
+### Q1: How quickly does a retraction affect a university's ranking position?
+The impact is typically delayed by 12–18 months because ranking bodies use annual data snapshots. A retraction recorded in Scopus in March 2024 will not affect THE or QS scores until the 2025–2026 cycle. The average score drop for a single retraction is 0.01–0.05 points, but a cluster of 10 or more retractions can reduce a university's research score by 0.8–1.2 points within two years.
+
+### Q2: Can a university be removed from a ranking due to misconduct?
+No major ranking system has a formal expulsion clause for academic misconduct. However, US News delisted 10 universities from its 2024 Best Global Universities rankings for submitting falsified data to the ranking survey itself. The delisting was temporary, lasting 12 months, and the institutions were reinstated after submitting verified data.
+
+### Q3: Do ranking bodies verify retraction data independently?
+Ranking bodies rely entirely on third-party databases (Scopus, Web of Science, and Google Scholar) for retraction data. They do not conduct independent audits. A 2023 investigation by *Nature* found that 14% of retracted papers in Scopus were still listed as "published" in the database used by THE for its 2022 rankings, meaning those institutions received credit for invalid research.
+
+## References
+
+- Times Higher Education. 2023. *THE World University Rankings Methodology Review: Integrity Indicators*.
+- OECD. 2022. *Higher Education Governance and Research Integrity: A Cross-Country Analysis*.
+- Clarivate. 2022. *Journal Citation Reports: Citation Stacking and Journal Delisting*.
+- World Bank. 2024. *The Economic Impact of University Rankings on International Student Mobility*.
+- UNILINK Education Database. 2024. *Institutional Integrity Metrics and Ranking Correlation*.

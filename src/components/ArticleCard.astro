@@ -1,0 +1,8 @@
+---
+const { entry } = Astro.props as { entry: any };
+---
+<article class="py-5 border-b border-primary/10">
+  <span class="text-xs font-mono text-accent uppercase">{entry.data.category}</span>
+  <h3 class="font-heading text-xl text-primary mt-1"><a href={`/${entry.id}/`} class="hover:text-accent">{entry.data.title}</a></h3>
+  <p class="text-sm text-muted mt-2">{entry.data.description}</p>
+</article>

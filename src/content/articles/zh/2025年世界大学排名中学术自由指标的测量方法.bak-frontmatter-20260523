@@ -1,0 +1,74 @@
+---
+title: "2025年世界大学排名中学术自由指标的测量方法"
+description: "In the 2025 iteration of global university rankings, the measurement of academic freedom has undergone its most significant methodological revision since the…"
+category: "2025年世界大学排名中"
+pubDatetime: 2026-04-04T18:11:27Z
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2025 iteration of global university rankings, the measurement of academic freedom has undergone its most significant methodological revision since the 2020 U-Multirank pilot. The **Academic Freedom Index (AFI)**, now incorporated as a weighted component in the Times Higher Education (THE) World University Rankings, draws on data from the V-Dem Institute at the University of Gothenburg, which evaluates 179 countries on a 0–1 scale. In the 2024 V-Dem report, the global average score for academic freedom stood at 0.62, down from 0.68 in 2015, indicating a measurable decline across 42% of assessed nations [V-Dem Institute, 2024, Democracy Report]. Concurrently, the QS World University Rankings introduced a dedicated “Sustainability” pillar in 2023, within which academic freedom constitutes 5% of the overall score—a shift that affected the standings of 1,500 institutions globally [QS, 2024, Sustainability Rankings Methodology]. These changes reflect a broader demand from both applicants and accreditation bodies for transparency in how institutional autonomy is quantified, moving beyond reputation surveys toward verifiable indicators such as citation censorship rates and faculty dismissal frequencies.
+
+## The V-Dem Academic Freedom Index as the Core Metric
+
+The **Academic Freedom Index** (AFI) developed by the Varieties of Democracy (V-Dem) project serves as the primary data source for THE’s academic freedom component in 2025. The index aggregates five sub-indicators: freedom to research and teach, freedom of academic exchange and dissemination, institutional autonomy, integrity of academic tenure, and absence of censorship in academic publishing. Each country receives a score between 0 (lowest) and 1 (highest), based on assessments from over 3,000 country experts worldwide.
+
+In the 2025 THE World University Rankings, institutions located in countries with an AFI below 0.4 are automatically flagged, and their overall ranking score is adjusted downward by up to 15% in the “Research Environment” pillar. This adjustment affected 23 universities in the top 500 in 2025, compared to 14 in 2023 [Times Higher Education, 2025, World University Rankings Methodology]. The threshold of 0.4 was chosen because it corresponds to the median AFI score of countries that experienced at least one major academic freedom violation event (e.g., forced faculty resignation, closure of a department) between 2010 and 2024, as documented by the Scholars at Risk Network.
+
+## QS Sustainability Pillar and Academic Freedom Weighting
+
+The QS World University Rankings introduced its **Sustainability** pillar in 2023, with academic freedom embedded as a sub-measure within the “Environmental Impact” category. This sub-measure accounts for 5% of the total Sustainability score, which itself constitutes 15% of the overall QS ranking in 2025. The metric is derived from a combination of publicly available government reports and institutional self-disclosures, verified by QS’s research team.
+
+Data from the 2025 QS ranking shows that institutions in countries with a V-Dem AFI score above 0.8 (e.g., Denmark, New Zealand, Canada) scored an average of 92.3 out of 100 on the academic freedom sub-measure, while those in countries with an AFI below 0.5 (e.g., China, Russia, Turkey) averaged 41.7 [QS, 2025, Sustainability Rankings Dataset]. This 50.6-point gap represents the largest disparity among all sub-measures within the Sustainability pillar. QS also cross-references the Scholars at Risk Network’s annual “Free to Think” report, which recorded 509 attacks on higher education in 2023–2024, a 12% increase from the previous year [Scholars at Risk, 2024, Free to Think Report].
+
+## U.S. News Global Universities and the “Research Integrity” Indicator
+
+The U.S. News & World Report Best Global Universities Rankings employs a **Research Integrity** indicator, introduced in 2024, that indirectly captures aspects of academic freedom. This indicator accounts for 2.5% of the total score and penalizes institutions with a high frequency of retracted publications due to fraud or ethical violations. In 2025, U.S. News expanded the indicator to include retractions linked to government-mandated censorship of research topics (e.g., genetics, public health, political science).
+
+Analysis of the 2025 dataset reveals that 67% of retractions flagged under this expanded definition occurred at institutions in countries with a V-Dem AFI below 0.5, compared to 12% in countries with an AFI above 0.8 [U.S. News, 2025, Global Universities Methodology]. The indicator uses data from Retraction Watch and Crossref, covering over 40,000 retraction notices published between 2010 and 2024. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while navigating institutions with varying research integrity profiles.
+
+## ARWU and the Absence of Explicit Academic Freedom Metrics
+
+The Academic Ranking of World Universities (ARWU), published by ShanghaiRanking Consultancy, does not include an explicit **academic freedom** indicator in its 2025 methodology. ARWU’s six objective indicators—Alumni and Award winners (10% each), Highly Cited Researchers (20%), Nature and Science papers (20%), papers indexed in Science Citation Index-Expanded and Social Sciences Citation Index (20%), and Per Capita Performance (10%)—remain unchanged from 2024.
+
+This omission has drawn criticism from academic liberty advocacy groups. A 2024 study by the International Association of Universities found that ARWU’s top 100 institutions are disproportionately located in countries with high AFI scores (mean AFI of 0.87), yet the ranking does not penalize institutions in low-AFI countries that may achieve high publication counts through state-directed research agendas [International Association of Universities, 2024, Academic Freedom and Global Rankings]. For example, a Chinese university in the ARWU top 200 may produce 30% more Nature-indexed papers than a comparable European institution, but those papers are 4.2 times more likely to avoid politically sensitive topics, according to a 2023 analysis of publication titles in Scopus [Scopus, 2023, Publication Topic Analysis].
+
+## Methodological Challenges and Data Transparency
+
+All four major ranking systems face **methodological challenges** in measuring academic freedom. The primary difficulty lies in distinguishing between institutional-level autonomy and country-level legal frameworks. A university may have a strong internal tenure policy while operating under a government that restricts research on certain topics—a scenario that the V-Dem AFI captures at the national level but that THE and QS apply to individual institutions.
+
+To address this, THE introduced a “Contextualized Academic Freedom Score” in 2025, which adjusts the national AFI by the institution’s self-reported governance indicators (e.g., existence of an independent ethics board, faculty senate composition). Preliminary data from 120 participating institutions shows a correlation of 0.74 between the contextualized score and the national AFI, suggesting that institutional governance explains 26% of the variance [Times Higher Education, 2025, Pilot Data Report]. QS, in contrast, relies solely on national-level data, arguing that institutional self-reports are subject to bias in low-AFI countries where 83% of surveyed universities declined to provide governance data in 2024 [QS, 2024, Survey Response Analysis].
+
+## Impact on University Rankings and Student Decision-Making
+
+The inclusion of academic freedom metrics has measurably altered **university rankings** for institutions in countries with low AFI scores. In the 2025 THE ranking, 11 universities from China, 6 from Russia, and 4 from Turkey dropped by more than 50 positions compared to 2022, before the academic freedom adjustment was applied. Conversely, universities in Finland, Sweden, and the Netherlands saw an average increase of 8 positions, attributable to their high AFI scores (0.91–0.95) [Times Higher Education, 2025, Year-on-Year Comparison].
+
+For prospective students, the academic freedom score is increasingly used as a decision-making filter. A 2024 survey by the Institute of International Education found that 34% of international graduate students considered academic freedom a “very important” factor in selecting a destination country, up from 22% in 2020 [Institute of International Education, 2024, Graduate Student Survey]. Among students in the social sciences and humanities, this figure rose to 51%. The U.S. Department of State’s 2024 Open Doors Report noted that enrollment from China in U.S. graduate programs declined by 4.2%, while enrollment from India increased by 12.3%, a shift partly attributed to perceived differences in academic freedom conditions [U.S. Department of State, 2024, Open Doors Report].
+
+## Future Directions for Academic Freedom Measurement
+
+Ranking organizations are already planning **future refinements** to academic freedom metrics for the 2026–2027 cycles. THE has announced a pilot program to incorporate real-time citation censorship alerts from the Censorship Index, a database tracking journal article removals by governments, which recorded 1,247 removals in 2024 alone [Censorship Index, 2024, Annual Report]. QS is developing a “Faculty Mobility Index” that will track the movement of researchers between countries, using ORCID data covering 14 million researcher profiles, with the hypothesis that low-AFI countries experience net outflows of senior researchers.
+
+ARWU has faced pressure from the European University Association to introduce an academic freedom indicator by 2027. A working group convened by ShanghaiRanking Consultancy in late 2024 proposed a “Research Environment Index” that would include three sub-indicators: publication diversity (measured by topic dispersion across 254 Scopus subject categories), international co-authorship rates, and faculty turnover rates. A pilot test on 50 universities showed a correlation of 0.68 with the V-Dem AFI, suggesting feasibility [ShanghaiRanking Consultancy, 2024, Working Group Report]. These developments indicate that academic freedom will become a standard, non-optional component across all major rankings by 2030.
+
+## FAQ
+
+### Q1: How is academic freedom measured differently across QS, THE, and U.S. News?
+
+THE uses the V-Dem Academic Freedom Index (AFI) as a national-level score, adjusting institutional rankings by up to 15% if the AFI falls below 0.4. QS embeds academic freedom as a sub-measure within its Sustainability pillar, accounting for 5% of that pillar’s score, and relies on V-Dem data plus institutional self-disclosures. U.S. News uses a Research Integrity indicator that penalizes retractions linked to government-mandated censorship, covering 2.5% of the total score. ARWU currently does not include any explicit academic freedom metric.
+
+### Q2: Which countries have the highest and lowest academic freedom scores in the 2025 rankings?
+
+According to the V-Dem 2024 data used in the 2025 rankings, the highest-scoring countries include Denmark (0.97), New Zealand (0.95), and Sweden (0.94). The lowest-scoring countries include China (0.21), Russia (0.28), and Turkey (0.35). The global average AFI stands at 0.62, with 42% of assessed countries showing a decline since 2015. These national scores directly affect the rankings of universities located in those countries under THE and QS methodologies.
+
+### Q3: Why does ARWU not include academic freedom, and is this likely to change?
+
+ARWU’s methodology focuses exclusively on objective research output indicators (publications, citations, awards) and does not include subjective or institutional governance metrics. The ShanghaiRanking Consultancy has faced criticism from the European University Association and has convened a working group to explore a “Research Environment Index” that would include publication diversity and faculty turnover. A 2024 pilot test showed a 0.68 correlation with the V-Dem AFI, and a formal proposal is expected by 2027.
+
+## References
+
+- V-Dem Institute, 2024, Democracy Report: Academic Freedom Index
+- Times Higher Education, 2025, World University Rankings Methodology
+- QS, 2025, Sustainability Rankings Dataset and Methodology
+- Scholars at Risk Network, 2024, Free to Think Report
+- U.S. Department of State, 2024, Open Doors Report on International Educational Exchange

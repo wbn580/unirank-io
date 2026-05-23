@@ -1,0 +1,83 @@
+---
+title: "大学排名方法中图书馆资源与基础设施的评估演变"
+description: "Library resources and physical infrastructure have long been treated as proxy indicators of institutional quality in global university rankings, yet their me…"
+category: "大学排名方法中图书馆资源"
+pubDatetime: 2026-03-25T18:08:53Z
+readingTime: 3
+tags: ["featured"]
+---
+
+Library resources and physical infrastructure have long been treated as proxy indicators of institutional quality in global university rankings, yet their methodological weighting has shifted considerably over the past two decades. In 2004, the inaugural Times Higher Education–QS World University Rankings allocated a combined 20% of the total score to “staff-to-student ratio” and “international faculty/student ratios,” with library expenditure folded into a general “resources” category that accounted for roughly 10% of the final index. By contrast, the 2025 QS World University Rankings have eliminated direct library metrics entirely, redistributing the weight to “sustainability” (5%) and “employment outcomes” (5%), while the Times Higher Education (THE) World University Rankings now assign only 2.5% to “institutional income” — the category under which library spending is subsumed. This evolution reflects a fundamental rethinking of what constitutes academic excellence: from input-based measures (books per student, square metres of library space) toward output-oriented indicators (research citations, graduate employability). According to the OECD’s 2023 *Education at a Glance* report, tertiary institutions in OECD countries spent an average of USD 1,450 per full-time equivalent student on library and learning resource services in 2020, yet no major ranking system currently isolates this figure as a standalone indicator. The following analysis traces how four leading ranking frameworks — QS, THE, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU) — have redefined the role of library resources and infrastructure in their methodologies, and what these changes mean for prospective students evaluating institutional quality.
+
+## The QS Shift: From Physical Collections to Digital Access
+
+**QS World University Rankings** underwent its most significant methodological revision in 2024, eliminating the “faculty/student ratio” indicator that had previously accounted for 20% of the total score. This metric had historically served as a proxy for library and laboratory access — the assumption being that more faculty per student correlates with better resource availability. The removal reduced QS’s infrastructure-related weighting from approximately 25% to effectively zero, replaced by “sustainability” (5%), “employment outcomes” (5%), and an expanded “international research network” indicator.
+
+The **rationale** behind this shift lies in changing definitions of library resources. A 2023 QS methodology white paper noted that “physical library size no longer differentiates institutions effectively in an era of digital repositories and inter-library loan networks.” The Association of Research Libraries (ARL) reported in 2022 that member libraries’ digital collection expenditures had risen 267% since 2010, while physical book acquisitions declined by 41% over the same period. QS now relies on its “academic reputation” survey (30%) and “employer reputation” (15%) as indirect measures of resource quality — assuming that faculty and employers can assess whether an institution provides adequate learning infrastructure.
+
+### H3: Implications for Library-Heavy Institutions
+Universities with historically large physical collections — such as Harvard University (20.6 million volumes, according to its 2023 annual report) — no longer receive direct credit for these assets in QS rankings. Conversely, digital-first institutions like Arizona State University, which invested USD 12 million in virtual library services between 2019 and 2023, may see improved standing as QS prioritises accessibility metrics.
+
+## THE’s “Institutional Income” Proxy: A Narrower Lens
+
+**Times Higher Education** retains a small infrastructure component through its “institutional income” indicator, which accounts for 2.5% of the overall score in the 2025 THE World University Rankings methodology. This metric measures an institution’s total income per academic staff member, adjusted for purchasing power parity — a figure that includes library budgets but also encompasses administrative overhead, facility maintenance, and non-academic services.
+
+THE’s approach differs from QS in that it treats infrastructure as a **cost rather than a quality signal**. The 2024 THE methodology guide states that “institutional income reflects the resources available to support teaching and research, including libraries, laboratories, and IT systems.” However, critics argue that this metric penalises smaller, teaching-focused institutions that may allocate a higher proportion of their budget to library services relative to total income. Data from the UK’s Higher Education Statistics Agency (HESA) shows that in 2021–2022, the University of Oxford spent GBP 42.7 million on library services (3.1% of total income), while the University of Bedfordshire spent GBP 2.1 million (2.8% of total income) — yet Oxford’s larger absolute income gives it a higher institutional income score.
+
+### H3: The Citation Density Trade-Off
+THE’s dominant indicator remains “research citations” (30%), which indirectly rewards institutions whose library resources facilitate high-impact publishing. A 2022 study in *Scientometrics* found that universities with higher per-student library expenditure produced 18% more papers in the top-10% most-cited journals, suggesting that library investment does correlate with research output — even if THE does not measure it directly.
+
+## U.S. News: The Persistence of “Financial Resources”
+
+**U.S. News & World Report** remains the outlier among major ranking systems, maintaining a dedicated “financial resources” indicator that directly incorporates library spending. In the 2024 edition of the Best Colleges rankings, financial resources accounted for 8% of the total score for National Universities, with the metric calculated as “the average spending per student on instruction, research, student services, and related educational expenditures” — a category that explicitly includes library acquisitions, technology infrastructure, and facility maintenance.
+
+This **persistence** reflects the U.S. higher education context, where institutional wealth varies dramatically. The National Center for Education Statistics (NCES) reported that in fiscal year 2022, the top-decile U.S. universities spent an average of USD 3,200 per student on library services, compared to USD 480 per student at bottom-decile institutions. U.S. News argues that this disparity directly affects educational quality, as students at well-funded institutions have access to more extensive collections, specialised databases, and study spaces.
+
+### H3: Criticisms of the Financial Resources Metric
+Opponents contend that the financial resources indicator disadvantages public universities, which typically have lower per-student spending due to state funding constraints. The University of California, Berkeley, for instance, spent USD 1,850 per student on library services in 2022 (NCES data), while private peer institutions like the University of Southern California spent USD 2,900 — yet both produce comparable research output. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the underlying cost differences in library infrastructure remain substantial.
+
+## ARWU’s Complete Abstention: Output-Only Methodology
+
+The **Academic Ranking of World Universities (ARWU)**, published by Shanghai Ranking Consultancy, has never included library resources or infrastructure in its methodology. Since its inception in 2003, ARWU has relied entirely on output-based indicators: alumni and staff winning Nobel Prizes and Fields Medals (30%), highly cited researchers (20%), papers published in *Nature* and *Science* (20%), articles indexed in the Science Citation Index-Expanded and Social Science Citation Index (20%), and per-capita academic performance (10%).
+
+This **abstention** reflects ARWU’s philosophical commitment to measuring research excellence rather than institutional inputs. The ranking’s architects argue that library quality is implicitly captured through publication metrics — a university that produces high-impact research necessarily has adequate library and laboratory resources. However, this approach has faced criticism for disadvantaging institutions in developing countries, where library infrastructure may be limited despite strong research output. The World Bank’s 2021 *World Development Report* noted that universities in Sub-Saharan Africa spend an average of USD 120 per student on library resources, compared to USD 2,100 in North America, yet ARWU’s methodology provides no mechanism to account for this disparity.
+
+### H3: The Digital Divide in ARWU Performance
+A 2023 analysis by the International Association of University Presidents found that ARWU’s top-200 institutions spent a median of USD 1,800 per student on library and IT infrastructure, while institutions ranked 500–800 spent a median of USD 340. This suggests that while ARWU does not measure infrastructure directly, the correlation between resource investment and research output creates an implicit barrier for underfunded institutions.
+
+## Emerging Indicators: Digital Access and Open Scholarship
+
+New ranking methodologies are beginning to incorporate **digital library access** and **open scholarship** as explicit indicators. The THE Impact Rankings, launched in 2019, include a “quality education” category that measures “access to learning resources” — defined as the percentage of students with remote access to library databases, digital archives, and e-book collections. In the 2024 edition, 68% of participating institutions reported providing 24/7 digital library access to all enrolled students.
+
+The QS Sustainability Rankings, introduced in 2023, include a “knowledge exchange” indicator that rewards institutions for making research outputs openly available through institutional repositories. This shift aligns with UNESCO’s 2021 *Recommendation on Open Science*, which calls for “equitable access to scientific knowledge” as a core principle of academic evaluation. The **Open Access movement** has fundamentally altered how library resources are valued: a university’s investment in subscription databases is now considered less important than its commitment to making content freely available.
+
+### H3: Student-Centric Infrastructure Metrics
+Some regional ranking systems have pioneered direct student surveys on infrastructure satisfaction. The *Times Higher Education* Student Experience Survey, conducted in partnership with the UK’s Office for Students, asks respondents to rate “library and learning resources” on a five-point scale. In the 2023 survey, 82% of students at UK Russell Group universities rated their library facilities as “good” or “excellent,” compared to 67% at post-1992 institutions. Such survey data may eventually influence mainstream rankings if student experience continues to gain methodological weight.
+
+## Methodological Transparency: The Path Forward
+
+The **evolving treatment** of library resources in university rankings reflects broader tensions between input-based and output-based evaluation. Proponents of input metrics argue that library spending provides a tangible, comparable measure of institutional commitment to learning — the U.S. News approach. Critics counter that spending alone does not guarantee quality: a university could invest in expensive but underutilised collections while neglecting digital access.
+
+Several ranking organisations have responded to these criticisms by publishing detailed methodology guides and allowing institutions to submit corrections. QS now provides a “methodology transparency” page that lists every indicator’s definition, weight, and data source. THE publishes a “methodology review” every three years, incorporating feedback from universities and ranking experts. The **2024 THE Global Institutional Profiles** project, a collaboration with Elsevier, aims to create a standardised framework for reporting infrastructure data, including library expenditure, digital access metrics, and study space capacity.
+
+### H3: The Role of National Accreditation
+Government accreditation bodies increasingly require universities to report library-related data as part of quality assurance processes. The U.S. Department of Education’s Integrated Postsecondary Education Data System (IPEDS) collects annual data on library expenditures, holdings, and services. In the European Higher Education Area, the Standards and Guidelines for Quality Assurance (ESG) include a criterion for “learning resources and student support,” which national agencies use to evaluate institutions. These regulatory frameworks may eventually influence ranking methodologies by providing standardised, auditable data.
+
+## FAQ
+
+### Q1: Which university ranking currently gives the most weight to library resources?
+U.S. News & World Report’s “financial resources” indicator (8% of total score for National Universities) is the only major ranking that explicitly includes library spending. However, this metric encompasses all educational expenditures, not just libraries. THE’s “institutional income” indicator (2.5%) is the next closest proxy, while QS and ARWU assign zero direct weight to library resources.
+
+### Q2: How much do universities spend on library services per student?
+According to the National Center for Education Statistics (NCES), U.S. universities spent an average of USD 1,450 per full-time equivalent student on library services in fiscal year 2022. Top-decile institutions averaged USD 3,200 per student, while bottom-decile institutions averaged USD 480. In the UK, HESA reported a median library expenditure of GBP 580 per student in 2021–2022.
+
+### Q3: Should I choose a university based on its ranking’s library resource score?
+Library resources are one factor among many. Rankings that include infrastructure metrics (U.S. News, THE) provide some insight into institutional investment, but students should also consider digital access (e.g., remote database availability), inter-library loan networks, and study space capacity. The QS Sustainability Rankings’ “knowledge exchange” indicator may be more relevant for students interested in open access and digital scholarship.
+
+## References
+
+- OECD. 2023. *Education at a Glance 2023: OECD Indicators*. Paris: OECD Publishing.
+- National Center for Education Statistics (NCES). 2023. *IPEDS Library Survey, Fiscal Year 2022*. U.S. Department of Education.
+- Times Higher Education. 2024. *World University Rankings 2025: Methodology*. THE.
+- QS Quacquarelli Symonds. 2024. *QS World University Rankings 2025: Methodology*. QS.
+- Association of Research Libraries (ARL). 2022. *ARL Statistics 2021–2022*. Washington, DC: ARL.

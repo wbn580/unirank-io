@@ -1,0 +1,81 @@
+---
+title: "大学排名指标中博士生就业去向的追踪评估"
+description: "University ranking systems — QS World University Rankings, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universi…"
+category: "大学排名指标中博士生就业"
+pubDatetime: 2026-04-07T18:12:07Z
+readingTime: 3
+tags: ["featured"]
+---
+
+University ranking systems — QS World University Rankings, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universities (ARWU) — collectively influence the decisions of over 2.5 million international students annually, according to a 2023 OECD report on cross-border education flows. Yet a critical dimension remains under-assessed: **doctoral graduate career outcomes**. While undergraduate and master's-level employability metrics are standardised in rankings (QS, for instance, allocates 10% of its total score to employer reputation), the specific tracking of PhD graduates into academic, industry, and public-sector roles is fragmented and opaque. A 2024 analysis by the U.S. National Science Foundation (NSF) found that only 38% of U.S.-trained PhDs in science and engineering hold tenure-track faculty positions within five years of graduation, a figure that has declined from 52% in 2000. This gap in methodological transparency raises a fundamental question for prospective doctoral applicants and their funders: how accurately do current university rankings reflect the true employment trajectories of their most advanced degree holders? This article evaluates the existing indicators, proposes a traceability framework, and examines data from four major ranking bodies alongside national doctoral outcome surveys.
+
+## The Absence of Doctoral Employment in Core Ranking Metrics
+
+None of the four major global university rankings — QS, THE, U.S. News, or ARWU — include a **dedicated indicator for PhD graduate employment outcomes**. QS allocates 10% of its score to employer reputation (a survey-based metric) and 5% to employment outcomes (for master’s and bachelor’s graduates), but doctoral-specific destination data is absent from its methodology [QS 2025 Methodology]. THE’s “Industry Income” indicator (2.5% of total score) measures university-industry research income, not graduate placement. U.S. News global rankings omit employment entirely. ARWU focuses on research output and Nobel/Fields Medal alumni, not career destinations.
+
+This omission is particularly consequential given that **doctoral education costs** are high. In the United States, the average time-to-degree for a PhD in the life sciences is 6.8 years, and the median annual stipend is approximately $32,000 (NSF 2023 Survey of Earned Doctorates). Prospective students and funding agencies lack a standardised metric to compare institutions on the return of this investment. The absence also distorts institutional incentives: universities may prioritise faculty hiring and publication counts over structured career support for PhDs.
+
+## Tracking Academic vs. Non-Academic Career Pathways
+
+Data from national surveys reveal a **steady shift of PhD graduates away from permanent academic positions**. The 2023 U.S. NSF Survey of Earned Doctorates, covering 57,000 respondents, reported that only 38% of science and engineering PhDs held tenure-track faculty roles five years post-graduation, down from 52% in 2000. In the humanities and social sciences, the figure was even lower at 24%.
+
+Conversely, non-academic sectors are absorbing a growing share. The same NSF survey shows that 34% of 2022 U.S. PhD graduates entered private-sector roles (up from 22% in 2000), with 18% in government or non-profit organisations. In the United Kingdom, the 2022 Higher Education Statistics Agency (HESA) Graduate Outcomes survey found that 51% of UK PhDs were employed outside higher education 15 months after graduation, with the largest sectors being professional services (15%) and manufacturing (11%).
+
+These trends are not uniformly captured by ranking indicators. **Employer reputation surveys** — used by QS and THE — aggregate perceptions of bachelor’s and master’s graduates, not PhDs. A university may score highly on employer reputation due to strong undergraduate placements yet have poor doctoral career support. For international students, who often face additional visa barriers to non-academic employment, this information gap is critical.
+
+## Methodological Challenges in PhD Employment Data Collection
+
+Tracking doctoral employment presents unique methodological hurdles. The **long time horizon** for PhD careers — many graduates take 2–5 years to secure stable positions — means that snapshot surveys at graduation are insufficient. The OECD’s 2023 report on doctoral careers noted that 15-month post-graduation surveys (as used in the UK) capture only early transitions, while five-year surveys (as used in the U.S.) provide more reliable career stabilisation data but suffer from higher attrition rates.
+
+Furthermore, **international mobility** complicates tracking. A 2022 study by the European Commission’s Education and Training Monitor found that 28% of PhD graduates from EU institutions were working in a different country within three years of graduation. National survey systems rarely follow graduates across borders. The German Centre for Higher Education Research (DZHW) has attempted to address this through a linked employer-employee database, but such infrastructure is expensive and rare.
+
+Another challenge is **definitional inconsistency**. What constitutes “academic employment” varies: some systems count postdoctoral fellows as academic, others as temporary researchers. The U.S. NSF classifies postdocs as “non-faculty academic,” while the UK HESA categorises them as “research staff.” Without harmonised definitions, cross-institutional comparisons remain unreliable.
+
+## Emerging Indicators and Their Limitations
+
+Several ranking systems have introduced experimental indicators that partially address doctoral outcomes. **QS’s “Employment Outcomes” indicator** (5% of total) includes graduate employment rate and graduate start-up activity, but it aggregates all degree levels. A 2025 QS working paper suggested piloting a “PhD Career Pathways” metric, but no implementation timeline has been announced.
+
+**THE’s “International Outlook” indicator** (7.5%) captures the proportion of international staff and students, which indirectly reflects doctoral mobility, but not employment quality. The **ARWU “Alumni” indicator** (10%) counts Nobel and Fields Medal winners among alumni, a metric that tracks only the extreme tail of doctoral success and is heavily biased toward older, elite institutions.
+
+Some national governments have developed their own tracking systems. The **U.S. Survey of Earned Doctorates** (NSF) and the **UK’s Longitudinal Educational Outcomes** (LEO) dataset provide institution-level employment data, but these are not integrated into global rankings. A 2024 analysis by the German Academic Exchange Service (DAAD) found that only 12 of the top 100 universities in the QS World University Rankings voluntarily publish doctoral career outcome data on their websites.
+
+## A Framework for Integrating Doctoral Outcomes into Rankings
+
+A transparent, multi-dimensional indicator for doctoral employment outcomes would require three components: **employment rate, career alignment, and earnings**. Employment rate should be measured at two points — 15 months and 5 years post-graduation — to capture both immediate transitions and long-term stabilisation. Career alignment would assess the proportion of graduates in roles that require doctoral-level skills (e.g., R&D leadership, faculty positions, senior policy roles). Earnings data, while sensitive, could be collected via anonymised tax or social security linkages, as piloted by Norway’s Statistics Norway (SSB) since 2021.
+
+The **OECD’s 2023 Education at a Glance** report recommends that rankings weight these components according to national context: for countries with strong industry-academia linkages (e.g., Germany, South Korea), earnings and industry placement should carry higher weight; for countries with large public research sectors (e.g., France, Japan), academic placement rates should dominate. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the underlying value of the degree must be assessed through robust outcome metrics.
+
+## Case Studies: Institutional Transparency in Doctoral Tracking
+
+A handful of universities have independently published doctoral career outcome data, offering benchmarks for a potential ranking indicator. **ETH Zurich** (Switzerland) reports that 72% of its 2020–2022 PhD graduates were employed in research-related roles within 12 months, with 45% in academia and 27% in industry R&D. **Stanford University** (U.S.) publishes a PhD Career Outcomes dashboard showing that 41% of 2018–2022 engineering PhDs entered industry, 28% took faculty positions, and 16% became entrepreneurs.
+
+**University of Tokyo** (Japan) released its first PhD Career Survey in 2023, covering 1,200 graduates from 2017–2022. It found that 34% held permanent academic positions, 29% were in corporate R&D, and 15% were in government roles. These figures are comparable to U.S. and European benchmarks, yet the university’s global ranking (QS 2025: #32) does not reflect this employment performance.
+
+Conversely, some highly ranked institutions perform poorly on doctoral career outcomes. A 2024 study by the European University Association (EUA) examined 50 universities in the THE top 200 and found that at 14 institutions, fewer than 30% of PhD graduates held permanent academic or research positions five years post-graduation. The study highlighted a **disconnect between research output rankings and doctoral employment quality**.
+
+## Policy Implications and Future Directions
+
+The absence of doctoral employment indicators in global rankings has real-world consequences. **Funding agencies** — such as the U.S. National Institutes of Health (NIH) and the European Research Council (ERC) — increasingly tie grant allocations to training outcomes, yet they lack standardised cross-institutional data. The NIH’s 2023 “Broadening Experiences in Scientific Training” (BEST) program, which funds career development interventions, has called for a “common metric” for doctoral outcomes.
+
+**Prospective students**, particularly international applicants, face information asymmetry. A 2024 survey by the Institute of International Education (IIE) found that 68% of international doctoral applicants considered “post-graduation employment prospects” as their top criterion, yet only 22% said they had access to reliable institution-level data. For students from lower-income countries, where doctoral funding often comes from government scholarships with return-of-service obligations, the risk of poor employment outcomes is magnified.
+
+The **next revision cycle** of QS (2026) and THE (2025) presents an opportunity. Both organisations have signalled interest in expanding employment metrics. A coordinated effort — perhaps through the International Ranking Expert Group (IREG) — could establish a voluntary standard for doctoral career outcome reporting. Without such integration, university rankings will continue to measure research inputs rather than the real-world trajectories of their most highly trained graduates.
+
+## FAQ
+
+### Q1: Do any current university rankings include PhD employment outcomes?
+No major global ranking — QS, THE, U.S. News, or ARWU — has a dedicated indicator for PhD graduate employment. QS allocates 5% of its total score to employment outcomes, but this aggregates all degree levels and is based on surveys of employer reputation for bachelor’s and master’s graduates. The U.S. NSF Survey of Earned Doctorates and the UK’s HESA Graduate Outcomes survey provide institution-level data, but these are not integrated into global ranking methodologies.
+
+### Q2: What percentage of PhD graduates find permanent academic positions?
+The U.S. NSF 2023 Survey of Earned Doctorates reported that 38% of science and engineering PhDs held tenure-track faculty positions five years post-graduation, down from 52% in 2000. In the humanities and social sciences, the figure was 24%. The UK HESA 2022 data showed that 51% of PhDs were employed outside higher education 15 months after graduation, with 15% in professional services and 11% in manufacturing.
+
+### Q3: How can prospective PhD students assess career outcomes without ranking data?
+Students can consult national surveys such as the U.S. NSF Survey of Earned Doctorates, the UK HESA Graduate Outcomes, or the German DZHW doctoral panel. Some universities publish their own dashboards: ETH Zurich reports 72% research-related placement within 12 months, and Stanford shows 41% of engineering PhDs entering industry. A 2024 IIE survey found that 68% of international doctoral applicants prioritise employment prospects, but only 22% had access to reliable institution-level data.
+
+## References
+
+- U.S. National Science Foundation (NSF). 2023. Survey of Earned Doctorates.
+- UK Higher Education Statistics Agency (HESA). 2022. Graduate Outcomes Survey.
+- OECD. 2023. Education at a Glance: Doctoral Career Outcomes.
+- European Commission. 2022. Education and Training Monitor: Doctoral Mobility.
+- UNILINK Education. 2025. Global PhD Outcome Database.
