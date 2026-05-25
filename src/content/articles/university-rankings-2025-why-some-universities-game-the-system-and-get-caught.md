@@ -2,7 +2,7 @@
 title: "University Rankings 2025 Why Some Universities Game the System and Get Caught"
 description: "In 2024, the U.S. Department of Education’s Office of Inspector General formally cited six universities for submitting false data to the Integrated Postsecon…"
 category: "University"
-pubDatetime: 2026-05-12T18:20:58Z
+pubDatetime: "2026-05-12T18:20:58Z"
 publishDate: '2026-05-12T18:20:58Z'
 readingTime: 11
 tags: ["featured"]

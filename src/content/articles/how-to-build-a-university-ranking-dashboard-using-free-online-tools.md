@@ -2,7 +2,7 @@
 title: "How to Build a University Ranking Dashboard Using Free Online Tools"
 description: "A prospective student comparing the QS World University Rankings, the Times Higher Education (THE) World University Rankings, the U.S. News & World Report Be…"
 category: "How"
-pubDatetime: 2026-05-13T18:21:26Z
+pubDatetime: "2026-05-13T18:21:26Z"
 publishDate: '2026-05-13T18:21:26Z'
 readingTime: 9
 tags: ["featured"]

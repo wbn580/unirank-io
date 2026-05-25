@@ -2,7 +2,7 @@
 title: "Best Irish Universities Ranked by Their Industry Collaboration Scores in 2025"
 description: "Ireland’s higher education sector has recorded a notable shift in its global standing, with three universities now placing inside the top 100 worldwide for i…"
 category: "Best"
-pubDatetime: 2026-04-30T18:17:55Z
+pubDatetime: "2026-04-30T18:17:55Z"
 publishDate: '2026-04-30T18:17:55Z'
 readingTime: 8
 tags: ["featured"]

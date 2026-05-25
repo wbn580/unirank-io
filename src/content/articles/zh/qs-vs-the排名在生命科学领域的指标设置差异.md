@@ -2,7 +2,7 @@
 title: "QS vs THE排名在生命科学领域的指标设置差异"
 description: "Among the dozens of university ranking systems available to prospective graduate students in the life sciences, the QS World University Rankings and the Time…"
 category: "QS vs THE排名在"
-pubDatetime: 2026-04-02T18:10:49Z
+pubDatetime: "2026-04-02T18:10:49Z"
 publishDate: '2026-04-02T18:10:49Z'
 readingTime: 3
 tags: ["featured"]

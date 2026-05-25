@@ -2,7 +2,7 @@
 title: "How the COVID Legacy Continues to Affect University Ranking Metrics in 2025"
 description: "The COVID-19 pandemic’s disruption to global higher education has permanently altered the data that feeds the world’s most influential university rankings. I…"
 category: "How"
-pubDatetime: 2026-04-26T18:16:47Z
+pubDatetime: "2026-04-26T18:16:47Z"
 publishDate: '2026-04-26T18:16:47Z'
 readingTime: 9
 tags: ["featured"]

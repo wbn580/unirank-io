@@ -2,7 +2,7 @@
 title: "Comparing QS THE and ARWU for Business School Rankings Which Is Most Accurate"
 description: "A prospective MBA candidate scanning Quacquarelli Symonds (QS), Times Higher Education (THE), and the Academic Ranking of World Universities (ARWU) will enco…"
 category: "Comparing"
-pubDatetime: 2026-04-16T18:14:23Z
+pubDatetime: "2026-04-16T18:14:23Z"
 publishDate: '2026-04-16T18:14:23Z'
 readingTime: 9
 tags: ["featured"]

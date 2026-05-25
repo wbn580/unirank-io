@@ -2,7 +2,7 @@
 title: "Why University Rankings Often Ignore the Quality of Student Mental Health Services"
 description: "Every September, as high school seniors finalise their university applications, the metrics they consult—graduation rates, faculty-to-student ratios, researc…"
 category: "Why"
-pubDatetime: 2026-05-18T18:22:44Z
+pubDatetime: "2026-05-18T18:22:44Z"
 publishDate: '2026-05-18T18:22:44Z'
 readingTime: 9
 tags: ["featured"]

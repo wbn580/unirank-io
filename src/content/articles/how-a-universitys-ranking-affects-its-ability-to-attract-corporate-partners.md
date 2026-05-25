@@ -2,7 +2,7 @@
 title: "How a Universitys Ranking Affects Its Ability to Attract Corporate Partners"
 description: "In 2023, Times Higher Education (THE) reported that universities in the top 100 of its World University Rankings collectively secured 78% of all corporate re…"
 category: "How"
-pubDatetime: 2026-05-09T18:20:26Z
+pubDatetime: "2026-05-09T18:20:26Z"
 publishDate: '2026-05-09T18:20:26Z'
 readingTime: 11
 tags: ["featured"]

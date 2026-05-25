@@ -2,7 +2,7 @@
 title: "The Psychology of Rankings Why Students Obsess Over the Number One Spot"
 description: "When the QS World University Rankings 2025 placed the Massachusetts Institute of Technology (MIT) at number one globally for the thirteenth consecutive year,…"
 category: "The"
-pubDatetime: 2026-04-23T18:16:13Z
+pubDatetime: "2026-04-23T18:16:13Z"
 publishDate: '2026-04-23T18:16:13Z'
 readingTime: 11
 tags: ["featured"]

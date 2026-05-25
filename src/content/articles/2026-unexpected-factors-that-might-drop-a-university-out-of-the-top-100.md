@@ -2,7 +2,7 @@
 title: "2026 Unexpected Factors That Might Drop a University Out of the Top 100"
 description: "In the 2025 QS World University Rankings, the 100th position was held by the University of California, Santa Barbara, with a composite score of 55.2, while t…"
 category: "2026"
-pubDatetime: 2026-05-01T18:18:06Z
+pubDatetime: "2026-05-01T18:18:06Z"
 publishDate: '2026-05-01T18:18:06Z'
 readingTime: 9
 tags: ["featured"]

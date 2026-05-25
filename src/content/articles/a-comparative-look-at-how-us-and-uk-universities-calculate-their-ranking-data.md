@@ -2,7 +2,7 @@
 title: "A Comparative Look at How US and UK Universities Calculate Their Ranking Data"
 description: "The annual release of university rankings by QS, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universities (ARWU…"
 category: "A"
-pubDatetime: 2026-05-14T18:21:48Z
+pubDatetime: "2026-05-14T18:21:48Z"
 publishDate: '2026-05-14T18:21:48Z'
 readingTime: 8
 tags: ["featured"]

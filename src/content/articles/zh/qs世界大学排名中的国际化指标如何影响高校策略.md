@@ -2,7 +2,7 @@
 title: "QS世界大学排名中的国际化指标如何影响高校策略"
 description: "In the 2025 QS World University Rankings, the “International Faculty Ratio” and “International Student Ratio” indicators collectively account for 10% of a un…"
 category: "QS世界大学排名中的国际"
-pubDatetime: 2026-03-02T18:03:17Z
+pubDatetime: "2026-03-02T18:03:17Z"
 publishDate: '2026-03-02T18:03:17Z'
 readingTime: 3
 tags: ["featured"]

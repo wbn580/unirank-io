@@ -2,7 +2,7 @@
 title: "The Role of Government Funding in the Rise of Chinese Universities in Rankings"
 description: "Between 2012 and 2022, China’s government expenditure on higher education rose from RMB 1.1 trillion to RMB 2.4 trillion, a compound annual growth rate of ap…"
 category: "The"
-pubDatetime: 2026-04-13T18:13:48Z
+pubDatetime: "2026-04-13T18:13:48Z"
 publishDate: '2026-04-13T18:13:48Z'
 readingTime: 7
 tags: ["featured"]

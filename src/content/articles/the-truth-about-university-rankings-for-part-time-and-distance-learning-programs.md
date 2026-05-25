@@ -2,7 +2,7 @@
 title: "The Truth About University Rankings for Part Time and Distance Learning Programs"
 description: "Global university rankings have long been the compass for prospective students navigating higher education, yet their methodology overwhelmingly favors full-…"
 category: "The"
-pubDatetime: 2026-04-26T18:16:54Z
+pubDatetime: "2026-04-26T18:16:54Z"
 publishDate: '2026-04-26T18:16:54Z'
 readingTime: 11
 tags: ["featured"]

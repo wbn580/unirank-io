@@ -2,7 +2,7 @@
 title: "How to Use University Rankings to Identify Scholarships Tied to Performance"
 description: "International students and their families often treat university rankings as a proxy for academic prestige, but a less-publicised function of these ranking s…"
 category: "How"
-pubDatetime: 2026-05-18T18:22:31Z
+pubDatetime: "2026-05-18T18:22:31Z"
 publishDate: '2026-05-18T18:22:31Z'
 readingTime: 11
 tags: ["featured"]

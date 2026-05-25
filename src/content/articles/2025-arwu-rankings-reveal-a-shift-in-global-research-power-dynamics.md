@@ -2,7 +2,7 @@
 title: "2025 ARWU Rankings Reveal a Shift in Global Research Power Dynamics"
 description: "The 2025 Academic Ranking of World Universities (ARWU), released on August 15 by ShanghaiRanking Consultancy, has documented a measurable reconfiguration of …"
 category: "2025"
-pubDatetime: 2026-04-13T18:13:31Z
+pubDatetime: "2026-04-13T18:13:31Z"
 publishDate: '2026-04-13T18:13:31Z'
 readingTime: 8
 tags: ["featured"]

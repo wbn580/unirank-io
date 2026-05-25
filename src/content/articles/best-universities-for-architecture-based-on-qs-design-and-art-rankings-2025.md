@@ -2,7 +2,7 @@
 title: "Best Universities for Architecture Based on QS Design and Art Rankings 2025"
 description: "The QS World University Rankings by Subject 2025 placed the Massachusetts Institute of Technology (MIT) at the top of the Architecture & Built Environment ca…"
 category: "Best"
-pubDatetime: 2026-05-19T18:22:54Z
+pubDatetime: "2026-05-19T18:22:54Z"
 publishDate: '2026-05-19T18:22:54Z'
 readingTime: 7
 tags: ["featured"]

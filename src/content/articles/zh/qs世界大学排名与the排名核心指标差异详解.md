@@ -2,7 +2,7 @@
 title: "QS世界大学排名与THE排名核心指标差异详解"
 description: "Two of the most widely referenced global university rankings—QS World University Rankings and Times Higher Education (THE) World University Rankings—employ f…"
 category: "QS世界大学排名与THE"
-pubDatetime: 2026-02-21T18:01:18Z
+pubDatetime: "2026-02-21T18:01:18Z"
 publishDate: '2026-02-21T18:01:18Z'
 readingTime: 3
 tags: ["featured"]

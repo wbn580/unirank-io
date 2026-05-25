@@ -2,7 +2,7 @@
 title: "QS vs THE vs 软科：三大排名在媒体传播中的形象差异"
 description: "When Quacquarelli Symonds (QS) published its 2025 World University Rankings in June 2024, the methodology shift—doubling the weight of “Sustainability” to 5%…"
 category: "QS vs THE vs"
-pubDatetime: 2026-03-25T18:09:08Z
+pubDatetime: "2026-03-25T18:09:08Z"
 publishDate: '2026-03-25T18:09:08Z'
 readingTime: 3
 tags: ["featured"]

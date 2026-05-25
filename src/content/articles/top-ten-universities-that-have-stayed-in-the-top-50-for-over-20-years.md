@@ -2,7 +2,7 @@
 title: "Top Ten Universities That Have Stayed in the Top 50 for Over 20 Years"
 description: "Between 2004 and 2024, the number of institutions appearing in the top 50 of the QS World University Rankings has fluctuated by less than 5% annually, yet fe…"
 category: "Top"
-pubDatetime: 2026-05-11T18:20:53Z
+pubDatetime: "2026-05-11T18:20:53Z"
 publishDate: '2026-05-11T18:20:53Z'
 readingTime: 9
 tags: ["featured"]

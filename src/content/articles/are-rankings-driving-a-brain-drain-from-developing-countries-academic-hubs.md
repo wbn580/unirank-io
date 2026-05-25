@@ -2,7 +2,7 @@
 title: "Are Rankings Driving a Brain Drain from Developing Countries Academic Hubs"
 description: "Global university rankings have evolved from a niche curiosity into a structural force reshaping the geography of talent. In 2023, the World Bank estimated t…"
 category: "Are"
-pubDatetime: 2026-04-19T18:15:16Z
+pubDatetime: "2026-04-19T18:15:16Z"
 publishDate: '2026-04-19T18:15:16Z'
 readingTime: 9
 tags: ["featured"]

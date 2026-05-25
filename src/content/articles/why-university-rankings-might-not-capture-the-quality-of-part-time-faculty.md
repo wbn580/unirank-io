@@ -2,7 +2,7 @@
 title: "Why University Rankings Might Not Capture the Quality of Part Time Faculty"
 description: "In the 2023–24 academic year, part-time faculty accounted for approximately 54% of all instructional staff at U.S. degree-granting postsecondary institutions…"
 category: "Why"
-pubDatetime: 2026-05-06T18:19:42Z
+pubDatetime: "2026-05-06T18:19:42Z"
 publishDate: '2026-05-06T18:19:42Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Best Canadian Universities Ranked by Research Partnerships and Industry Links"
 description: "Canada’s 15 largest research universities collectively secured CAD 4.3 billion in sponsored research revenue in fiscal year 2022–2023, according to Statistic…"
 category: "Best"
-pubDatetime: 2026-04-14T18:13:53Z
+pubDatetime: "2026-04-14T18:13:53Z"
 publishDate: '2026-04-14T18:13:53Z'
 readingTime: 10
 tags: ["featured"]

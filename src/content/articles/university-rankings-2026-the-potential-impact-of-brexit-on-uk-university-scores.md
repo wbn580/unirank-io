@@ -2,7 +2,7 @@
 title: "University Rankings 2026 The Potential Impact of Brexit on UK University Scores"
 description: "The 2026 edition of global university rankings is expected to show measurable shifts in the standing of UK institutions, driven by the prolonged structural e…"
 category: "University"
-pubDatetime: 2026-05-11T18:20:52Z
+pubDatetime: "2026-05-11T18:20:52Z"
 publishDate: '2026-05-11T18:20:52Z'
 readingTime: 7
 tags: ["featured"]

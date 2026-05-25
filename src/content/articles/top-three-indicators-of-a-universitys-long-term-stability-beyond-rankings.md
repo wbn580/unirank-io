@@ -2,7 +2,7 @@
 title: "Top Three Indicators of a Universitys Long Term Stability Beyond Rankings"
 description: "Every year, hundreds of thousands of prospective students consult global league tables to gauge institutional quality, yet rankings alone offer a narrow and …"
 category: "Top"
-pubDatetime: 2026-05-05T18:19:17Z
+pubDatetime: "2026-05-05T18:19:17Z"
 publishDate: '2026-05-05T18:19:17Z'
 readingTime: 8
 tags: ["featured"]

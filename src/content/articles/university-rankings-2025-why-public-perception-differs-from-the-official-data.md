@@ -2,7 +2,7 @@
 title: "University Rankings 2025 Why Public Perception Differs From the Official Data"
 description: "Every year, millions of prospective students and their families consult global university rankings to inform one of the most consequential financial and acad…"
 category: "University"
-pubDatetime: 2026-05-13T18:21:28Z
+pubDatetime: "2026-05-13T18:21:28Z"
 publishDate: '2026-05-13T18:21:28Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How Regional Conflicts Are Reshaping University Rankings in Eastern Europe"
 description: "Since the full-scale invasion of Ukraine in February 2022, the Eastern European higher education landscape has undergone a measurable structural shift, direc…"
 category: "How"
-pubDatetime: 2026-04-10T18:12:52Z
+pubDatetime: "2026-04-10T18:12:52Z"
 publishDate: '2026-04-10T18:12:52Z'
 readingTime: 7
 tags: ["featured"]

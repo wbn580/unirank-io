@@ -2,7 +2,7 @@
 title: "A Critical Review of the ARWU Methodology for Measuring Research Collaboration"
 description: "Since its inception in 2003, the Academic Ranking of World Universities (ARWU) has become one of the most cited global university league tables, with over 2,…"
 category: "A"
-pubDatetime: 2026-04-28T18:17:16Z
+pubDatetime: "2026-04-28T18:17:16Z"
 publishDate: '2026-04-28T18:17:16Z'
 readingTime: 10
 tags: ["featured"]

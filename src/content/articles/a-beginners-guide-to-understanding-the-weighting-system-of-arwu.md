@@ -2,7 +2,7 @@
 title: "A Beginners Guide to Understanding the Weighting System of ARWU"
 description: "The Academic Ranking of World Universities (ARWU), often referred to as the Shanghai Ranking, employs a weighting system that distinctively prioritises resea…"
 category: "A"
-pubDatetime: 2026-04-18T18:14:46Z
+pubDatetime: "2026-04-18T18:14:46Z"
 publishDate: '2026-04-18T18:14:46Z'
 readingTime: 12
 tags: ["featured"]

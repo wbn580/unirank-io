@@ -2,7 +2,7 @@
 title: "The Hidden Costs of Chasing Rankings A Perspective from University Presidents"
 description: "In late 2024, a survey conducted by the American Council on Education (ACE) found that 68% of university presidents in the United States believe global ranki…"
 category: "The"
-pubDatetime: 2026-04-19T18:15:04Z
+pubDatetime: "2026-04-19T18:15:04Z"
 publishDate: '2026-04-19T18:15:04Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "FAQ: How Often Do QS and THE Update Their Indicator Weights Each Year"
 description: "For students and families navigating the complex landscape of global higher education, the frequency with which QS World University Rankings and Times Higher…"
 category: "FAQ:"
-pubDatetime: 2026-04-09T18:12:38Z
+pubDatetime: "2026-04-09T18:12:38Z"
 publishDate: '2026-04-09T18:12:38Z'
 readingTime: 8
 tags: ["featured"]

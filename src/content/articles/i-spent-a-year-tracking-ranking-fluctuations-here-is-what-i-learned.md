@@ -2,7 +2,7 @@
 title: "I Spent a Year Tracking Ranking Fluctuations Here Is What I Learned"
 description: "In 2024, the four major global university ranking systems—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & W…"
 category: "I"
-pubDatetime: 2026-04-08T18:12:25Z
+pubDatetime: "2026-04-08T18:12:25Z"
 publishDate: '2026-04-08T18:12:25Z'
 readingTime: 8
 tags: ["featured"]

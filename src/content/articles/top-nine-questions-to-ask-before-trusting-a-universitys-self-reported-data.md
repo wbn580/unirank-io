@@ -2,7 +2,7 @@
 title: "Top Nine Questions to Ask Before Trusting a Universitys Self Reported Data"
 description: "In 2023, a working paper from the U.S. National Bureau of Economic Research (NBER) analyzed 190 U.S. universities and found that roughly 12% had submitted po…"
 category: "Top"
-pubDatetime: 2026-05-06T18:19:40Z
+pubDatetime: "2026-05-06T18:19:40Z"
 publishDate: '2026-05-06T18:19:40Z'
 readingTime: 13
 tags: ["featured"]

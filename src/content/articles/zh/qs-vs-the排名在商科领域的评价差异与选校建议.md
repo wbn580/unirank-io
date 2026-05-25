@@ -2,7 +2,7 @@
 title: "QS vs THE排名在商科领域的评价差异与选校建议"
 description: "In 2025, the divergence between the QS World University Rankings and the Times Higher Education (THE) World University Rankings in the field of business and …"
 category: "QS vs THE排名在"
-pubDatetime: 2026-03-08T18:04:46Z
+pubDatetime: "2026-03-08T18:04:46Z"
 publishDate: '2026-03-08T18:04:46Z'
 readingTime: 3
 tags: ["featured"]

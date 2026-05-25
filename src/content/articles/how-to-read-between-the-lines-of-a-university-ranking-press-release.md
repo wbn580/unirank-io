@@ -2,7 +2,7 @@
 title: "How to Read Between the Lines of a University Ranking Press Release"
 description: "Every spring and autumn, university communications teams issue press releases celebrating their institution’s ascent in global rankings. A typical headline m…"
 category: "How"
-pubDatetime: 2026-04-18T18:14:52Z
+pubDatetime: "2026-04-18T18:14:52Z"
 publishDate: '2026-04-18T18:14:52Z'
 readingTime: 7
 tags: ["featured"]

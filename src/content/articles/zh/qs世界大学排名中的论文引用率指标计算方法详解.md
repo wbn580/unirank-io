@@ -2,7 +2,7 @@
 title: "QS世界大学排名中的论文引用率指标计算方法详解"
 description: "The QS World University Rankings assign a weight of 20% to the 'Citations per Faculty' metric, a figure derived from a five-year publication window (2019–202…"
 category: "QS世界大学排名中的论文"
-pubDatetime: 2026-03-04T18:03:52Z
+pubDatetime: "2026-03-04T18:03:52Z"
 publishDate: '2026-03-04T18:03:52Z'
 readingTime: 3
 tags: ["featured"]

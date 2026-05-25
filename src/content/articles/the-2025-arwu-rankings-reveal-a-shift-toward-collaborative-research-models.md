@@ -2,7 +2,7 @@
 title: "The 2025 ARWU Rankings Reveal a Shift Toward Collaborative Research Models"
 description: "In the 2025 edition of the Academic Ranking of World Universities (ARWU), published by ShanghaiRanking Consultancy, a structural transformation in how top-ti…"
 category: "The"
-pubDatetime: 2026-05-21T18:23:20Z
+pubDatetime: "2026-05-21T18:23:20Z"
 publishDate: '2026-05-21T18:23:20Z'
 readingTime: 9
 tags: ["featured"]

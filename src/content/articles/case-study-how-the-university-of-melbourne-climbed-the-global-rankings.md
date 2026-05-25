@@ -2,7 +2,7 @@
 title: "Case Study: How the University of Melbourne Climbed the Global Rankings"
 description: "Between 2015 and 2025, the University of Melbourne executed one of the most sustained upward trajectories in global higher education rankings, rising from 33…"
 category: "Case"
-pubDatetime: 2026-04-09T18:12:26Z
+pubDatetime: "2026-04-09T18:12:26Z"
 publishDate: '2026-04-09T18:12:26Z'
 readingTime: 7
 tags: ["featured"]

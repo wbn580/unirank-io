@@ -2,7 +2,7 @@
 title: "Why University Rankings for Medical Schools Dont Always Reflect Clinical Quality"
 description: "Every year, thousands of prospective medical students consult the QS World University Rankings by Subject, the Times Higher Education (THE) World University …"
 category: "Why"
-pubDatetime: 2026-04-30T18:17:45Z
+pubDatetime: "2026-04-30T18:17:45Z"
 publishDate: '2026-04-30T18:17:45Z'
 readingTime: 11
 tags: ["featured"]

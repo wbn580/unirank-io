@@ -2,7 +2,7 @@
 title: "How to Leverage University Rankings in Your Scholarship Application Essay"
 description: "Scholarship application essays often demand more than personal anecdotes; they require applicants to demonstrate a clear understanding of their chosen instit…"
 category: "How"
-pubDatetime: 2026-04-29T18:17:41Z
+pubDatetime: "2026-04-29T18:17:41Z"
 publishDate: '2026-04-29T18:17:41Z'
 readingTime: 9
 tags: ["featured"]

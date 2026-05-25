@@ -2,7 +2,7 @@
 title: "Why University Rankings for Law Schools Favor Institutions with Deep Pockets"
 description: "The global landscape of legal education is increasingly shaped by a quantifiable reality: the top-tier law school rankings published by QS World University R…"
 category: "Why"
-pubDatetime: 2026-05-05T18:19:14Z
+pubDatetime: "2026-05-05T18:19:14Z"
 publishDate: '2026-05-05T18:19:14Z'
 readingTime: 8
 tags: ["featured"]

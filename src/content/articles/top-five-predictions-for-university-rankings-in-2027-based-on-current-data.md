@@ -2,7 +2,7 @@
 title: "Top Five Predictions for University Rankings in 2027 Based on Current Data"
 description: "The global university ranking ecosystem—comprising QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Re…"
 category: "Top"
-pubDatetime: 2026-05-20T18:23:11Z
+pubDatetime: "2026-05-20T18:23:11Z"
 publishDate: '2026-05-20T18:23:11Z'
 readingTime: 11
 tags: ["featured"]

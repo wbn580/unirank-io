@@ -2,7 +2,7 @@
 title: "Why University Rankings Should Be Just One Tool in Your Study Abroad Kit"
 description: "Each year, over 1.1 million international students choose a study destination based partly on global university rankings, yet only 37% of surveyed students r…"
 category: "Why"
-pubDatetime: 2026-04-22T18:16:02Z
+pubDatetime: "2026-04-22T18:16:02Z"
 publishDate: '2026-04-22T18:16:02Z'
 readingTime: 11
 tags: ["featured"]

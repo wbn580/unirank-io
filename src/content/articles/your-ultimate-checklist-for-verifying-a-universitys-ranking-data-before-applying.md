@@ -2,7 +2,7 @@
 title: "Your Ultimate Checklist for Verifying a Universitys Ranking Data Before Applying"
 description: "Every year, over 4.5 million students cross borders for higher education, according to UNESCO’s 2024 Global Education Monitoring Report, yet fewer than 15% o…"
 category: "Your"
-pubDatetime: 2026-04-10T18:12:42Z
+pubDatetime: "2026-04-10T18:12:42Z"
 publishDate: '2026-04-10T18:12:42Z'
 readingTime: 7
 tags: ["featured"]

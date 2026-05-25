@@ -2,7 +2,7 @@
 title: "Top Five Ways University Rankings Affect Your Post Graduation Visa Options"
 description: "University rankings are increasingly being used by immigration authorities as a proxy for human capital, directly linking an applicant’s alma mater to their …"
 category: "Top"
-pubDatetime: 2026-05-08T18:20:05Z
+pubDatetime: "2026-05-08T18:20:05Z"
 publishDate: '2026-05-08T18:20:05Z'
 readingTime: 6
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "什么是ARWU排名？深度解析软科世界大学学术排名方法论"
 description: "The Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking, stands as one of the most influential global university league tab…"
 category: "什么是ARWU排名？深度"
-pubDatetime: 2026-02-22T18:01:21Z
+pubDatetime: "2026-02-22T18:01:21Z"
 publishDate: '2026-02-22T18:01:21Z'
 readingTime: 3
 tags: ["featured"]

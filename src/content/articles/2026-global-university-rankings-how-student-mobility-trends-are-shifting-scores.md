@@ -2,7 +2,7 @@
 title: "2026 Global University Rankings How Student Mobility Trends Are Shifting Scores"
 description: "The 2026 edition of the integrated global university ranking—a composite of QS World University Rankings, Times Higher Education (THE) World University Ranki…"
 category: "2026"
-pubDatetime: 2026-05-19T18:22:46Z
+pubDatetime: "2026-05-19T18:22:46Z"
 publishDate: '2026-05-19T18:22:46Z'
 readingTime: 10
 tags: ["featured"]

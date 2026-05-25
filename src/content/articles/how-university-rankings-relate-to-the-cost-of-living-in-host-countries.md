@@ -2,7 +2,7 @@
 title: "How University Rankings Relate to the Cost of Living in Host Countries"
 description: "The relationship between a university’s global ranking and the cost of living in its host country is not linear, yet it forms a critical axis for decision-ma…"
 category: "How"
-pubDatetime: 2026-05-14T18:21:29Z
+pubDatetime: "2026-05-14T18:21:29Z"
 publishDate: '2026-05-14T18:21:29Z'
 readingTime: 12
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Compare University Rankings When the Metrics Are Not Transparent"
 description: "Every year, over 1.5 million prospective students and their families consult the QS World University Rankings, the Times Higher Education (THE) World Univers…"
 category: "How"
-pubDatetime: 2026-05-09T18:20:21Z
+pubDatetime: "2026-05-09T18:20:21Z"
 publishDate: '2026-05-09T18:20:21Z'
 readingTime: 10
 tags: ["featured"]

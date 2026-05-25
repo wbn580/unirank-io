@@ -2,7 +2,7 @@
 title: "QS vs THE vs ARWU：三大排名体系在雇主视角下的差异"
 description: "Each year, hundreds of thousands of prospective graduate students and their families consult global university rankings to inform their application decisions…"
 category: "QS vs THE vs"
-pubDatetime: 2026-03-12T18:05:48Z
+pubDatetime: "2026-03-12T18:05:48Z"
 publishDate: '2026-03-12T18:05:48Z'
 readingTime: 3
 tags: ["featured"]

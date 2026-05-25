@@ -2,7 +2,7 @@
 title: "University Rankings vs University Rankings for Specific Majors Which Matters More"
 description: "In 2024, the global higher education landscape saw over 6.5 million international students enrolled across OECD countries, a 12% increase from 2020, accordin…"
 category: "University"
-pubDatetime: 2026-05-15T18:21:53Z
+pubDatetime: "2026-05-15T18:21:53Z"
 publishDate: '2026-05-15T18:21:53Z'
 readingTime: 9
 tags: ["featured"]

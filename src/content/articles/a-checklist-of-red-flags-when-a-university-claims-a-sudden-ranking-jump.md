@@ -2,7 +2,7 @@
 title: "A Checklist of Red Flags When a University Claims a Sudden Ranking Jump"
 description: "A university’s ascent of 50 or more places in a single global ranking cycle is rare enough to warrant scrutiny. Between 2021 and 2024, the QS World Universit…"
 category: "A"
-pubDatetime: 2026-05-22T18:23:29Z
+pubDatetime: "2026-05-22T18:23:29Z"
 publishDate: '2026-05-22T18:23:29Z'
 readingTime: 10
 tags: ["featured"]

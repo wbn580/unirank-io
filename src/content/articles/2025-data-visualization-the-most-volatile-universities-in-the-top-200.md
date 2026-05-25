@@ -2,7 +2,7 @@
 title: "2025 Data Visualization The Most Volatile Universities in the Top 200"
 description: "Between 2018 and 2025, the global university rankings landscape underwent a period of significant reshuffling. An analysis of the QS World University Ranking…"
 category: "2025"
-pubDatetime: 2026-05-07T18:19:44Z
+pubDatetime: "2026-05-07T18:19:44Z"
 publishDate: '2026-05-07T18:19:44Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Use University Rankings to Find Universities With Low Application Competition"
 description: "Every year, over 4.5 million students pursue higher education across OECD countries, yet the distribution of applications remains heavily skewed toward a nar…"
 category: "How"
-pubDatetime: 2026-05-21T18:23:17Z
+pubDatetime: "2026-05-21T18:23:17Z"
 publishDate: '2026-05-21T18:23:17Z'
 readingTime: 9
 tags: ["featured"]

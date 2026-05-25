@@ -2,7 +2,7 @@
 title: "How University Rankings Are Used by Governments to Shape Immigration Policy"
 description: "In 2023, the United Kingdom introduced the High Potential Individual (HPI) visa, a policy that explicitly ties eligibility to the **QS World University Ranki…"
 category: "How"
-pubDatetime: 2026-05-14T18:21:49Z
+pubDatetime: "2026-05-14T18:21:49Z"
 publishDate: '2026-05-14T18:21:49Z'
 readingTime: 10
 tags: ["featured"]

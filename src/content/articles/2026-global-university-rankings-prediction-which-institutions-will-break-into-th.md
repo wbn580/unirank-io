@@ -2,7 +2,7 @@
 title: "2026 Global University Rankings Prediction: Which Institutions Will Break Into the Top 100"
 description: "The 2026 cycle of global university rankings is expected to see the most significant compositional shift in the top 100 since 2020, driven by a recalibration…"
 category: "2026"
-pubDatetime: 2026-04-11T18:12:55Z
+pubDatetime: "2026-04-11T18:12:55Z"
 publishDate: '2026-04-11T18:12:55Z'
 readingTime: 8
 tags: ["featured"]

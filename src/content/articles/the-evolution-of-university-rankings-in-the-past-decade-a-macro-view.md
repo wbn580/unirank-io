@@ -2,7 +2,7 @@
 title: "The Evolution of University Rankings in the Past Decade A Macro View"
 description: "Between 2013 and 2023, the global university ranking ecosystem underwent a structural transformation, shifting from a handful of Anglo-American league tables…"
 category: "The"
-pubDatetime: 2026-04-12T18:13:21Z
+pubDatetime: "2026-04-12T18:13:21Z"
 publishDate: '2026-04-12T18:13:21Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Top Ten Universities with the Fastest Rising Research Output in 2025"
 description: "Between 2020 and 2025, global research output has grown at a compound annual rate of 4.7%, yet a small cluster of universities has outpaced this average by a…"
 category: "Top"
-pubDatetime: 2026-04-09T18:12:26Z
+pubDatetime: "2026-04-09T18:12:26Z"
 publishDate: '2026-04-09T18:12:26Z'
 readingTime: 10
 tags: ["featured"]

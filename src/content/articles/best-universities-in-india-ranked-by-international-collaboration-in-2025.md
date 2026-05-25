@@ -2,7 +2,7 @@
 title: "Best Universities in India Ranked by International Collaboration in 2025"
 description: "India’s higher education sector has seen a measurable shift in research output metrics, with international co-authorship rising from 18.7% of total publicati…"
 category: "Best"
-pubDatetime: 2026-05-09T18:20:25Z
+pubDatetime: "2026-05-09T18:20:25Z"
 publishDate: '2026-05-09T18:20:25Z'
 readingTime: 6
 tags: ["featured"]

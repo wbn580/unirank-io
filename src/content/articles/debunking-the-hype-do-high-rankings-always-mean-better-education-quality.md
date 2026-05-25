@@ -2,7 +2,7 @@
 title: "Debunking the Hype: Do High Rankings Always Mean Better Education Quality"
 description: "Each year, hundreds of thousands of prospective students consult global university rankings as a primary filter for their study-abroad decisions. The QS Worl…"
 category: "Debunking"
-pubDatetime: 2026-04-12T18:13:23Z
+pubDatetime: "2026-04-12T18:13:23Z"
 publishDate: '2026-04-12T18:13:23Z'
 readingTime: 10
 tags: ["featured"]

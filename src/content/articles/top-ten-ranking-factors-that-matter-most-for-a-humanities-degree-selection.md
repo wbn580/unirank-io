@@ -2,7 +2,7 @@
 title: "Top Ten Ranking Factors That Matter Most for a Humanities Degree Selection"
 description: "Selecting a humanities degree today demands a more nuanced evaluation than simply scanning an overall university rank. While the QS World University Rankings…"
 category: "Top"
-pubDatetime: 2026-04-23T18:16:11Z
+pubDatetime: "2026-04-23T18:16:11Z"
 publishDate: '2026-04-23T18:16:11Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Beyond the Top 50: Hidden Gems in the 2025 World University Rankings"
 description: "The global fixation on the top 50 of university rankings overlooks a significant portion of the world’s highest-quality higher education institutions. In the…"
 category: "Beyond"
-pubDatetime: 2026-04-13T18:13:37Z
+pubDatetime: "2026-04-13T18:13:37Z"
 publishDate: '2026-04-13T18:13:37Z'
 readingTime: 10
 tags: ["featured"]

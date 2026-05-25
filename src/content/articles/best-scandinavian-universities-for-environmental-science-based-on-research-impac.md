@@ -2,7 +2,7 @@
 title: "Best Scandinavian Universities for Environmental Science Based on Research Impact"
 description: "Scandinavian universities have established a disproportionate global influence in environmental science, a field where research output per capita consistentl…"
 category: "Best"
-pubDatetime: 2026-04-26T18:16:56Z
+pubDatetime: "2026-04-26T18:16:56Z"
 publishDate: '2026-04-26T18:16:56Z'
 readingTime: 9
 tags: ["featured"]

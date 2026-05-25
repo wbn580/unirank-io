@@ -2,7 +2,7 @@
 title: "How the Concept of World Class University Is Shaped by Ranking Systems"
 description: "The term “world-class university” (WCU) has become a central objective for higher education institutions globally, yet its definition remains remarkably flui…"
 category: "How"
-pubDatetime: 2026-05-02T18:18:43Z
+pubDatetime: "2026-05-02T18:18:43Z"
 publishDate: '2026-05-02T18:18:43Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "An Insider Look at How Universities Strategically Improve Their THE Scores"
 description: "The Times Higher Education (THE) World University Rankings 2025 evaluated over 2,000 institutions across 115 countries, making it one of the most closely wat…"
 category: "An"
-pubDatetime: 2026-04-20T18:15:17Z
+pubDatetime: "2026-04-20T18:15:17Z"
 publishDate: '2026-04-20T18:15:17Z'
 readingTime: 8
 tags: ["featured"]

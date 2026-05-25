@@ -2,7 +2,7 @@
 title: "How the Rise of Microcredentials Could Fragment Traditional University Rankings"
 description: "In 2023, the global microcredentials market was valued at approximately $17.6 billion, with projections to exceed $31.5 billion by 2030, according to a repor…"
 category: "How"
-pubDatetime: 2026-05-08T18:20:07Z
+pubDatetime: "2026-05-08T18:20:07Z"
 publishDate: '2026-05-08T18:20:07Z'
 readingTime: 10
 tags: ["featured"]

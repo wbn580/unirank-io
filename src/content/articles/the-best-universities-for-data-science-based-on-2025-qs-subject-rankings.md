@@ -2,7 +2,7 @@
 title: "The Best Universities for Data Science Based on 2025 QS Subject Rankings"
 description: "Data science has cemented itself as one of the most sought-after fields of study, with global demand for data scientists projected to grow by 36% between 202…"
 category: "The"
-pubDatetime: 2026-04-11T18:12:53Z
+pubDatetime: "2026-04-11T18:12:53Z"
 publishDate: '2026-04-11T18:12:53Z'
 readingTime: 8
 tags: ["featured"]

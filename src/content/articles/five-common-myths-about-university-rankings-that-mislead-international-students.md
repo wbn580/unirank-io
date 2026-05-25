@@ -2,7 +2,7 @@
 title: "Five Common Myths About University Rankings That Mislead International Students"
 description: "Each year, over 1.1 million international students enroll in degree programs across the United States, the United Kingdom, Australia, and Canada, according t…"
 category: "Five"
-pubDatetime: 2026-04-09T18:12:40Z
+pubDatetime: "2026-04-09T18:12:40Z"
 publishDate: '2026-04-09T18:12:40Z'
 readingTime: 9
 tags: ["featured"]

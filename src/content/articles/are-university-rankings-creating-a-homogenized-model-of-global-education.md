@@ -2,7 +2,7 @@
 title: "Are University Rankings Creating a Homogenized Model of Global Education"
 description: "The global higher education sector has witnessed a dramatic consolidation of institutional behaviour since the first international university ranking was pub…"
 category: "Are"
-pubDatetime: 2026-04-23T18:16:14Z
+pubDatetime: "2026-04-23T18:16:14Z"
 publishDate: '2026-04-23T18:16:14Z'
 readingTime: 11
 tags: ["featured"]

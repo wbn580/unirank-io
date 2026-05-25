@@ -2,7 +2,7 @@
 title: "基于排名与兴趣选择大学专业指南：STEM领域的选校逻辑"
 description: "STEM fields—science, technology, engineering, and mathematics—accounted for approximately 2.3 million new bachelor’s degree graduates in the United States in…"
 category: "基于排名与兴趣选择大学专"
-pubDatetime: 2026-03-21T18:08:06Z
+pubDatetime: "2026-03-21T18:08:06Z"
 publishDate: '2026-03-21T18:08:06Z'
 readingTime: 3
 tags: ["featured"]

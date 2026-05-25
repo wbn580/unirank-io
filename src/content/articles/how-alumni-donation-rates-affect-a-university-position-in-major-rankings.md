@@ -2,7 +2,7 @@
 title: "How Alumni Donation Rates Affect a University Position in Major Rankings"
 description: "In 2025, a university’s position in global rankings is increasingly tied to the financial loyalty of its graduates. Alumni donation rates—the percentage of l…"
 category: "How"
-pubDatetime: 2026-04-14T18:13:49Z
+pubDatetime: "2026-04-14T18:13:49Z"
 publishDate: '2026-04-14T18:13:49Z'
 readingTime: 9
 tags: ["featured"]

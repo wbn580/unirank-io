@@ -2,7 +2,7 @@
 title: "QS与THE排名指标差异对亚洲高校排名的具体影响"
 description: "In 2025, the divergence between the QS World University Rankings and the Times Higher Education (THE) World University Rankings is most starkly illustrated i…"
 category: "QS与THE排名指标差异"
-pubDatetime: 2026-02-27T18:02:34Z
+pubDatetime: "2026-02-27T18:02:34Z"
 publishDate: '2026-02-27T18:02:34Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "2026 Trends in Higher Education That Will Redefine Global University Rankings"
 description: "The 2026 cycle of global university rankings will reflect structural changes that extend far beyond the traditional metrics of citation counts and faculty-to…"
 category: "2026"
-pubDatetime: 2026-04-25T18:16:40Z
+pubDatetime: "2026-04-25T18:16:40Z"
 publishDate: '2026-04-25T18:16:40Z'
 readingTime: 7
 tags: ["featured"]

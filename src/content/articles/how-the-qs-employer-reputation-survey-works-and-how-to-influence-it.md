@@ -2,7 +2,7 @@
 title: "How the QS Employer Reputation Survey Works and How to Influence It"
 description: "Each year, millions of prospective students and their families consult the QS World University Rankings to benchmark institutional quality globally. Among th…"
 category: "How"
-pubDatetime: 2026-04-20T18:15:16Z
+pubDatetime: "2026-04-20T18:15:16Z"
 publishDate: '2026-04-20T18:15:16Z'
 readingTime: 10
 tags: ["featured"]

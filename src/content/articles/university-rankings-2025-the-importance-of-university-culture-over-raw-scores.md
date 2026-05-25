@@ -2,7 +2,7 @@
 title: "University Rankings 2025 The Importance of University Culture Over Raw Scores"
 description: "The 2025 edition of the QS World University Rankings places the Massachusetts Institute of Technology (MIT) at number one globally for the 13th consecutive y…"
 category: "University"
-pubDatetime: 2026-05-16T18:22:09Z
+pubDatetime: "2026-05-16T18:22:09Z"
 publishDate: '2026-05-16T18:22:09Z'
 readingTime: 10
 tags: ["featured"]

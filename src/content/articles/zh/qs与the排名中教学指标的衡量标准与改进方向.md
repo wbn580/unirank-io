@@ -2,7 +2,7 @@
 title: "QS与THE排名中教学指标的衡量标准与改进方向"
 description: "The global university ranking landscape is dominated by two influential frameworks—QS World University Rankings and Times Higher Education (THE) World Univer…"
 category: "QS与THE排名中教学指"
-pubDatetime: 2026-03-06T18:04:10Z
+pubDatetime: "2026-03-06T18:04:10Z"
 publishDate: '2026-03-06T18:04:10Z'
 readingTime: 3
 tags: ["featured"]

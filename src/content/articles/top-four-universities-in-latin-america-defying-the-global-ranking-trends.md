@@ -2,7 +2,7 @@
 title: "Top Four Universities in Latin America Defying the Global Ranking Trends"
 description: "In 2025, while the majority of the world’s top 200 universities experienced a median decline of 2.3 positions in the QS World University Rankings due to inte…"
 category: "Top"
-pubDatetime: 2026-04-25T18:16:33Z
+pubDatetime: "2026-04-25T18:16:33Z"
 publishDate: '2026-04-25T18:16:33Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "A Practical Guide to Comparing University Rankings Across Different Disciplines"
 description: "In 2024, the four principal global university ranking systems—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News…"
 category: "A"
-pubDatetime: 2026-04-11T18:13:15Z
+pubDatetime: "2026-04-11T18:13:15Z"
 publishDate: '2026-04-11T18:13:15Z'
 readingTime: 10
 tags: ["featured"]

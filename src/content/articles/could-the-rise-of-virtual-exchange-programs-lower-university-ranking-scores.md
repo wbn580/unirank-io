@@ -2,7 +2,7 @@
 title: "Could the Rise of Virtual Exchange Programs Lower University Ranking Scores"
 description: "Since 2019, the number of students participating in **virtual exchange programs** has grown by over 400%, with the Stevens Initiative reporting that more tha…"
 category: "Could"
-pubDatetime: 2026-04-16T18:14:30Z
+pubDatetime: "2026-04-16T18:14:30Z"
 publishDate: '2026-04-16T18:14:30Z'
 readingTime: 7
 tags: ["featured"]

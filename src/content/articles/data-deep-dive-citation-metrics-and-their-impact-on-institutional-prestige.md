@@ -2,7 +2,7 @@
 title: "Data Deep Dive: Citation Metrics and Their Impact on Institutional Prestige"
 description: "In the 2025 edition of the Times Higher Education World University Rankings, a single metric—research citation impact—accounted for 30% of an institution's o…"
 category: "Data"
-pubDatetime: 2026-04-08T18:12:25Z
+pubDatetime: "2026-04-08T18:12:25Z"
 publishDate: '2026-04-08T18:12:25Z'
 readingTime: 8
 tags: ["featured"]

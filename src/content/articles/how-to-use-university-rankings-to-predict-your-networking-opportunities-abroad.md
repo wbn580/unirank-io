@@ -2,7 +2,7 @@
 title: "How to Use University Rankings to Predict Your Networking Opportunities Abroad"
 description: "University rankings are traditionally used to gauge academic prestige, research output, and faculty quality, but they also serve as a powerful, underutilized…"
 category: "How"
-pubDatetime: 2026-05-07T18:19:55Z
+pubDatetime: "2026-05-07T18:19:55Z"
 publishDate: '2026-05-07T18:19:55Z'
 readingTime: 11
 tags: ["featured"]

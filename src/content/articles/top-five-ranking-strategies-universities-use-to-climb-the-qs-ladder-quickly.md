@@ -2,7 +2,7 @@
 title: "Top Five Ranking Strategies Universities Use to Climb the QS Ladder Quickly"
 description: "Since 2010, the QS World University Rankings have become one of the most closely watched performance metrics in global higher education, influencing institut…"
 category: "Top"
-pubDatetime: 2026-04-27T18:17:04Z
+pubDatetime: "2026-04-27T18:17:04Z"
 publishDate: '2026-04-27T18:17:04Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "2025 Data Shows a Strong Correlation Between Research Spending and Ranking"
 description: "A 2025 analysis of the world’s top 200 universities across the QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. New…"
 category: "2025"
-pubDatetime: 2026-04-17T18:14:38Z
+pubDatetime: "2026-04-17T18:14:38Z"
 publishDate: '2026-04-17T18:14:38Z'
 readingTime: 9
 tags: ["featured"]

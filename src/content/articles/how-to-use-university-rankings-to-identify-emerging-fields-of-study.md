@@ -2,7 +2,7 @@
 title: "How to Use University Rankings to Identify Emerging Fields of Study"
 description: "University rankings have long served as a proxy for institutional prestige, but prospective students increasingly leverage them to identify **emerging fields…"
 category: "How"
-pubDatetime: 2026-04-15T18:14:04Z
+pubDatetime: "2026-04-15T18:14:04Z"
 publishDate: '2026-04-15T18:14:04Z'
 readingTime: 8
 tags: ["featured"]

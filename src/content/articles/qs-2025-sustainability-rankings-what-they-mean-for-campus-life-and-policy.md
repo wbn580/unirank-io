@@ -2,7 +2,7 @@
 title: "QS 2025 Sustainability Rankings: What They Mean for Campus Life and Policy"
 description: "In December 2024, QS Quacquarelli Symonds released its third annual Sustainability Rankings, evaluating 1,744 institutions globally—a 24% increase from the 1…"
 category: "QS"
-pubDatetime: 2026-04-13T18:13:30Z
+pubDatetime: "2026-04-13T18:13:30Z"
 publishDate: '2026-04-13T18:13:30Z'
 readingTime: 10
 tags: ["featured"]

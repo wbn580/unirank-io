@@ -2,7 +2,7 @@
 title: "Top Seven Universities That Excel in Both Research and Student Wellbeing Metrics"
 description: "For decades, the narrative surrounding elite higher education has been dominated by a single, often unforgiving, metric: research output. However, a signific…"
 category: "Top"
-pubDatetime: 2026-04-30T18:17:46Z
+pubDatetime: "2026-04-30T18:17:46Z"
 publishDate: '2026-04-30T18:17:46Z'
 readingTime: 9
 tags: ["featured"]

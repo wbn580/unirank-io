@@ -2,7 +2,7 @@
 title: "ARWU排名方法详解：从学术论文到诺贝尔奖的量化路径"
 description: "The Academic Ranking of World Universities (ARWU), first published by Shanghai Jiao Tong University in 2003 and now maintained by ShanghaiRanking Consultancy…"
 category: "ARWU排名方法详解：从"
-pubDatetime: 2026-03-11T18:05:24Z
+pubDatetime: "2026-03-11T18:05:24Z"
 publishDate: '2026-03-11T18:05:24Z'
 readingTime: 3
 tags: ["featured"]

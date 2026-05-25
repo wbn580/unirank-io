@@ -2,7 +2,7 @@
 title: "2026 Global University Rankings Preview The Battle Between Oxford and Cambridge"
 description: "The 2026 global university ranking cycle is already generating significant data, with early indicators from the three major publishers—QS, Times Higher Educa…"
 category: "2026"
-pubDatetime: 2026-04-23T18:16:06Z
+pubDatetime: "2026-04-23T18:16:06Z"
 publishDate: '2026-04-23T18:16:06Z'
 readingTime: 8
 tags: ["featured"]

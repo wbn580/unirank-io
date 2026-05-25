@@ -2,7 +2,7 @@
 title: "How to Decipher the Subject Level Breakdowns in the THE Rankings Report"
 description: "The Times Higher Education (THE) World University Rankings by Subject, released annually each October, now evaluate performance across 11 broad subject areas…"
 category: "How"
-pubDatetime: 2026-05-15T18:21:55Z
+pubDatetime: "2026-05-15T18:21:55Z"
 publishDate: '2026-05-15T18:21:55Z'
 readingTime: 7
 tags: ["featured"]

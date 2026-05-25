@@ -2,7 +2,7 @@
 title: "How to Use University Rankings to Find the Best Master Programs in Finance"
 description: "A single master’s degree in Finance can cost between USD 30,000 and USD 120,000 in tuition alone, with total expenses (including living costs) often exceedin…"
 category: "How"
-pubDatetime: 2026-05-10T18:20:41Z
+pubDatetime: "2026-05-10T18:20:41Z"
 publishDate: '2026-05-10T18:20:41Z'
 readingTime: 11
 tags: ["featured"]

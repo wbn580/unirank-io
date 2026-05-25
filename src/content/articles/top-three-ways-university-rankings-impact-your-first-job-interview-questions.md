@@ -2,7 +2,7 @@
 title: "Top Three Ways University Rankings Impact Your First Job Interview Questions"
 description: "A 2023 survey by the National Association of Colleges and Employers (NACE) found that 67.3% of employers consider a candidate’s college or university to be a…"
 category: "Top"
-pubDatetime: 2026-05-14T18:21:48Z
+pubDatetime: "2026-05-14T18:21:48Z"
 publishDate: '2026-05-14T18:21:48Z'
 readingTime: 7
 tags: ["featured"]

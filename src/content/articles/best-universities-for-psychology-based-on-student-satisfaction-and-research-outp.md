@@ -2,7 +2,7 @@
 title: "Best Universities for Psychology Based on Student Satisfaction and Research Output"
 description: "Psychology remains one of the most sought-after undergraduate and graduate disciplines globally, with over 3.5 million students enrolled in psychology progra…"
 category: "Best"
-pubDatetime: 2026-05-12T18:20:57Z
+pubDatetime: "2026-05-12T18:20:57Z"
 publishDate: '2026-05-12T18:20:57Z'
 readingTime: 9
 tags: ["featured"]

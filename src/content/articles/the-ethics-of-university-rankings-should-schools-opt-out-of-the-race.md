@@ -2,7 +2,7 @@
 title: "The Ethics of University Rankings Should Schools Opt Out of the Race"
 description: "The global higher-education ecosystem now operates under the gaze of at least four major ranking systems—QS World University Rankings, Times Higher Education…"
 category: "The"
-pubDatetime: 2026-05-07T18:20:00Z
+pubDatetime: "2026-05-07T18:20:00Z"
 publishDate: '2026-05-07T18:20:00Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "The 2026 Global University Rankings A Preview of the BRICS Nations Rise"
 description: "The 2026 edition of the four major global university rankings—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News…"
 category: "The"
-pubDatetime: 2026-05-10T18:20:37Z
+pubDatetime: "2026-05-10T18:20:37Z"
 publishDate: '2026-05-10T18:20:37Z'
 readingTime: 9
 tags: ["featured"]

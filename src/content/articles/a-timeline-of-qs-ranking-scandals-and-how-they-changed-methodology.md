@@ -2,7 +2,7 @@
 title: "A Timeline of QS Ranking Scandals and How They Changed Methodology"
 description: "In 2024, QS World University Rankings faced its most significant methodological overhaul in a decade, dropping the “Faculty Student Ratio” indicator (weighte…"
 category: "A"
-pubDatetime: 2026-05-02T18:18:37Z
+pubDatetime: "2026-05-02T18:18:37Z"
 publishDate: '2026-05-02T18:18:37Z'
 readingTime: 8
 tags: ["featured"]

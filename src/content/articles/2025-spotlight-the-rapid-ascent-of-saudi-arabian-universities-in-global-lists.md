@@ -2,7 +2,7 @@
 title: "2025 Spotlight: The Rapid Ascent of Saudi Arabian Universities in Global Lists"
 description: "Between 2019 and 2025, Saudi Arabian universities recorded a 47% increase in their aggregate citation impact score across the Times Higher Education (THE) Wo…"
 category: "2025"
-pubDatetime: 2026-04-19T18:15:13Z
+pubDatetime: "2026-04-19T18:15:13Z"
 publishDate: '2026-04-19T18:15:13Z'
 readingTime: 8
 tags: ["featured"]

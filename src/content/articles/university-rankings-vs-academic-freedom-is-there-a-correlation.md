@@ -2,7 +2,7 @@
 title: "University Rankings vs Academic Freedom Is There a Correlation"
 description: "A 2024 analysis of 1,500 institutions by the International Association of Universities (IAU) found that **47% of universities in the top 100 of the QS World …"
 category: "University"
-pubDatetime: 2026-05-10T18:20:33Z
+pubDatetime: "2026-05-10T18:20:33Z"
 publishDate: '2026-05-10T18:20:33Z'
 readingTime: 10
 tags: ["featured"]

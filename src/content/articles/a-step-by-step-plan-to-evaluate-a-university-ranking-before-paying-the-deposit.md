@@ -2,7 +2,7 @@
 title: "A Step by Step Plan to Evaluate a University Ranking Before Paying the Deposit"
 description: "The decision to accept a university offer and pay the non-refundable deposit — which, for international students, can range from £2,000 to £10,000 depending …"
 category: "A"
-pubDatetime: 2026-04-16T18:14:11Z
+pubDatetime: "2026-04-16T18:14:11Z"
 publishDate: '2026-04-16T18:14:11Z'
 readingTime: 10
 tags: ["featured"]

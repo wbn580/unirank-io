@@ -2,7 +2,7 @@
 title: "How University Rankings Impact the Recruitment of Tenure Track Faculty"
 description: "Between 2012 and 2022, the number of tenure-track faculty positions in the United States declined by approximately 26%, according to the American Association…"
 category: "How"
-pubDatetime: 2026-05-20T18:22:54Z
+pubDatetime: "2026-05-20T18:22:54Z"
 publishDate: '2026-05-20T18:22:54Z'
 readingTime: 7
 tags: ["featured"]

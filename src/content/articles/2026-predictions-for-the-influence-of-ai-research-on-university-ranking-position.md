@@ -2,7 +2,7 @@
 title: "2026 Predictions for the Influence of AI Research on University Ranking Positions"
 description: "The 2026 cycle of global university rankings—QS, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universities (ARWU…"
 category: "2026"
-pubDatetime: 2026-04-21T18:15:34Z
+pubDatetime: "2026-04-21T18:15:34Z"
 publishDate: '2026-04-21T18:15:34Z'
 readingTime: 8
 tags: ["featured"]

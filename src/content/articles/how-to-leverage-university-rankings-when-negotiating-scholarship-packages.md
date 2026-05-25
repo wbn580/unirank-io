@@ -2,7 +2,7 @@
 title: "How to Leverage University Rankings When Negotiating Scholarship Packages"
 description: "Between 2019 and 2023, the average annual tuition at U.S. public four-year institutions rose by 4.7% to $11,260 for in-state students, according to the Colle…"
 category: "How"
-pubDatetime: 2026-05-21T18:23:20Z
+pubDatetime: "2026-05-21T18:23:20Z"
 publishDate: '2026-05-21T18:23:20Z'
 readingTime: 7
 tags: ["featured"]

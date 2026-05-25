@@ -2,7 +2,7 @@
 title: "Best Universities in Germany Ranked by Tuition Free Policy and Research Output"
 description: "Since 2014, 16 German federal states have successively abolished undergraduate tuition fees for domestic and international students alike, a policy that now …"
 category: "Best"
-pubDatetime: 2026-04-24T18:16:15Z
+pubDatetime: "2026-04-24T18:16:15Z"
 publishDate: '2026-04-24T18:16:15Z'
 readingTime: 8
 tags: ["featured"]

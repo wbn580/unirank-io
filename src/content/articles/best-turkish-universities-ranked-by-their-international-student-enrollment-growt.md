@@ -2,7 +2,7 @@
 title: "Best Turkish Universities Ranked by Their International Student Enrollment Growth"
 description: "Turkey’s higher education system has experienced a pronounced shift in its international student composition over the past five years, with total foreign enr…"
 category: "Best"
-pubDatetime: 2026-05-18T18:22:33Z
+pubDatetime: "2026-05-18T18:22:33Z"
 publishDate: '2026-05-18T18:22:33Z'
 readingTime: 12
 tags: ["featured"]

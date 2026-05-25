@@ -2,7 +2,7 @@
 title: "Understanding the Subject Breadth Metric in the THE World University Rankings"
 description: "The Times Higher Education (THE) World University Rankings 2025 evaluated more than 2,000 institutions across 115 countries, yet one of its most consequentia…"
 category: "Understanding"
-pubDatetime: 2026-04-21T18:15:36Z
+pubDatetime: "2026-04-21T18:15:36Z"
 publishDate: '2026-04-21T18:15:36Z'
 readingTime: 9
 tags: ["featured"]

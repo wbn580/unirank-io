@@ -2,7 +2,7 @@
 title: "How to Use University Rankings to Assess a Universitys Internationalization Strategy"
 description: "International students and their families often rely on global university rankings to gauge academic prestige, but a less scrutinized dimension—a university’…"
 category: "How"
-pubDatetime: 2026-05-19T18:22:51Z
+pubDatetime: "2026-05-19T18:22:51Z"
 publishDate: '2026-05-19T18:22:51Z'
 readingTime: 10
 tags: ["featured"]

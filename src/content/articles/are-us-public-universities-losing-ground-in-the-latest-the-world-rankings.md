@@ -2,7 +2,7 @@
 title: "Are US Public Universities Losing Ground in the Latest THE World Rankings"
 description: "The 2025 Times Higher Education (THE) World University Rankings, released in October 2024, evaluated 2,092 institutions across 115 countries, with the United…"
 category: "Are"
-pubDatetime: 2026-04-11T18:13:02Z
+pubDatetime: "2026-04-11T18:13:02Z"
 publishDate: '2026-04-11T18:13:02Z'
 readingTime: 9
 tags: ["featured"]

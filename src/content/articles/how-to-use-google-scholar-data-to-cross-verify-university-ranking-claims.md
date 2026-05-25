@@ -2,7 +2,7 @@
 title: "How to Use Google Scholar Data to Cross Verify University Ranking Claims"
 description: "University ranking tables from QS, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universities (ARWU) are among th…"
 category: "How"
-pubDatetime: 2026-05-04T18:19:11Z
+pubDatetime: "2026-05-04T18:19:11Z"
 publishDate: '2026-05-04T18:19:11Z'
 readingTime: 9
 tags: ["featured"]

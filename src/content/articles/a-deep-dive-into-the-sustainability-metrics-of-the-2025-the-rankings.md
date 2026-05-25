@@ -2,7 +2,7 @@
 title: "A Deep Dive into the Sustainability Metrics of the 2025 THE Rankings"
 description: "The 2025 Times Higher Education (THE) World University Rankings have introduced a recalibrated methodology that significantly elevates the weight of sustaina…"
 category: "A"
-pubDatetime: 2026-05-19T18:22:54Z
+pubDatetime: "2026-05-19T18:22:54Z"
 publishDate: '2026-05-19T18:22:54Z'
 readingTime: 8
 tags: ["featured"]

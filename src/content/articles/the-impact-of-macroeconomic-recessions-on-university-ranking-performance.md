@@ -2,7 +2,7 @@
 title: "The Impact of Macroeconomic Recessions on University Ranking Performance"
 description: "The 2008 Global Financial Crisis (GFC) produced a measurable, lagged impact on university research output and reputation metrics, a pattern that offers a pre…"
 category: "The"
-pubDatetime: 2026-04-24T18:16:23Z
+pubDatetime: "2026-04-24T18:16:23Z"
 publishDate: '2026-04-24T18:16:23Z'
 readingTime: 8
 tags: ["featured"]

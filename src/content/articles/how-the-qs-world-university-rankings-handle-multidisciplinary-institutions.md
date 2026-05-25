@@ -2,7 +2,7 @@
 title: "How the QS World University Rankings Handle Multidisciplinary Institutions"
 description: "The QS World University Rankings, first published in 2004, now evaluate over 1,500 institutions annually, a figure that has grown by 42% since 2019 alone [QS…"
 category: "How"
-pubDatetime: 2026-05-17T18:22:29Z
+pubDatetime: "2026-05-17T18:22:29Z"
 publishDate: '2026-05-17T18:22:29Z'
 readingTime: 8
 tags: ["featured"]

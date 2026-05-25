@@ -2,7 +2,7 @@
 title: "From Local to Global: How Small Liberal Arts Colleges Compete in World Rankings"
 description: "Global university rankings have long been dominated by large, research-intensive institutions with tens of thousands of students and billion-dollar endowment…"
 category: "From"
-pubDatetime: 2026-04-15T18:14:04Z
+pubDatetime: "2026-04-15T18:14:04Z"
 publishDate: '2026-04-15T18:14:04Z'
 readingTime: 10
 tags: ["featured"]

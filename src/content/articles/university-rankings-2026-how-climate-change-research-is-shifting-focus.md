@@ -2,7 +2,7 @@
 title: "University Rankings 2026 How Climate Change Research Is Shifting Focus"
 description: "The 2026 edition of global university rankings reveals a measurable recalibration of institutional prestige, driven by the rapid expansion of climate change …"
 category: "University"
-pubDatetime: 2026-05-05T18:19:18Z
+pubDatetime: "2026-05-05T18:19:18Z"
 publishDate: '2026-05-05T18:19:18Z'
 readingTime: 10
 tags: ["featured"]

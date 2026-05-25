@@ -2,7 +2,7 @@
 title: "How Artificial Intelligence Is Changing How Rankings Are Calculated and Audited"
 description: "In the 2025 edition of the QS World University Rankings, the methodology incorporated a new “Sustainability” indicator weighted at 5%, while the Times Higher…"
 category: "How"
-pubDatetime: 2026-04-27T18:17:09Z
+pubDatetime: "2026-04-27T18:17:09Z"
 publishDate: '2026-04-27T18:17:09Z'
 readingTime: 8
 tags: ["featured"]

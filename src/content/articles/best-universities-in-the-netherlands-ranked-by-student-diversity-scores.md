@@ -2,7 +2,7 @@
 title: "Best Universities in the Netherlands Ranked by Student Diversity Scores"
 description: "The 2024 student body at Dutch research universities comprises 62.4% domestic students, 20.1% from other European Economic Area (EEA) countries, and 17.5% fr…"
 category: "Best"
-pubDatetime: 2026-05-07T18:19:52Z
+pubDatetime: "2026-05-07T18:19:52Z"
 publishDate: '2026-05-07T18:19:52Z'
 readingTime: 10
 tags: ["featured"]

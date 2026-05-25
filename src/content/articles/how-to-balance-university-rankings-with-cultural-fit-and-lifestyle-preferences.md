@@ -2,7 +2,7 @@
 title: "How to Balance University Rankings with Cultural Fit and Lifestyle Preferences"
 description: "In 2024, over 2.8 million international students were enrolled in OECD member countries, a figure that has grown by 68% since 2010 according to the OECD’s *E…"
 category: "How"
-pubDatetime: 2026-04-28T18:17:27Z
+pubDatetime: "2026-04-28T18:17:27Z"
 publishDate: '2026-04-28T18:17:27Z'
 readingTime: 10
 tags: ["featured"]

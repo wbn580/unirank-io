@@ -2,7 +2,7 @@
 title: "How to Create a Personalized University Ranking Based on Your Career Goals"
 description: "Every year, more than 4.5 million students cross borders for tertiary education, according to the OECD’s *Education at a Glance 2024* report, yet fewer than …"
 category: "How"
-pubDatetime: 2026-04-20T18:15:33Z
+pubDatetime: "2026-04-20T18:15:33Z"
 publishDate: '2026-04-20T18:15:33Z'
 readingTime: 9
 tags: ["featured"]

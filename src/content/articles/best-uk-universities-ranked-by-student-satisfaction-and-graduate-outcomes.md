@@ -2,7 +2,7 @@
 title: "Best UK Universities Ranked by Student Satisfaction and Graduate Outcomes"
 description: "In the 2024 National Student Survey (NSS), 79.4% of final-year undergraduates across UK higher education institutions reported overall satisfaction with thei…"
 category: "Best"
-pubDatetime: 2026-04-18T18:15:02Z
+pubDatetime: "2026-04-18T18:15:02Z"
 publishDate: '2026-04-18T18:15:02Z'
 readingTime: 8
 tags: ["featured"]

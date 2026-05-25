@@ -2,7 +2,7 @@
 title: "What the ARWU Nobel Prize Indicator Really Tells Us About Research Legacy"
 description: "The Academic Ranking of World Universities (ARWU), first published by Shanghai Jiao Tong University in 2003 and now maintained by ShanghaiRanking Consultancy…"
 category: "What"
-pubDatetime: 2026-04-15T18:14:09Z
+pubDatetime: "2026-04-15T18:14:09Z"
 publishDate: '2026-04-15T18:14:09Z'
 readingTime: 11
 tags: ["featured"]

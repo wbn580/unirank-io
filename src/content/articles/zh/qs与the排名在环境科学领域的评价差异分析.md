@@ -2,7 +2,7 @@
 title: "QS与THE排名在环境科学领域的评价差异分析"
 description: "In the 2025 QS World University Rankings by Subject, the University of California, Berkeley secured the top position in Environmental Sciences, while the 202…"
 category: "QS与THE排名在环境科"
-pubDatetime: 2026-04-06T18:11:49Z
+pubDatetime: "2026-04-06T18:11:49Z"
 publishDate: '2026-04-06T18:11:49Z'
 readingTime: 3
 tags: ["featured"]

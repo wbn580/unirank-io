@@ -2,7 +2,7 @@
 title: "Decoding the International Research Network Indicator in the THE Rankings"
 description: "The Times Higher Education (THE) World University Rankings 2025 evaluated over 2,000 institutions from 115 countries and territories, with the International …"
 category: "Decoding"
-pubDatetime: 2026-05-01T18:18:07Z
+pubDatetime: "2026-05-01T18:18:07Z"
 publishDate: '2026-05-01T18:18:07Z'
 readingTime: 8
 tags: ["featured"]

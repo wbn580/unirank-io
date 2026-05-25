@@ -2,7 +2,7 @@
 title: "Why University Rankings for Engineering Often Overlook Practical Lab Experience"
 description: "Each year, millions of prospective engineering students and their families consult global university league tables—QS World University Rankings, Times Higher…"
 category: "Why"
-pubDatetime: 2026-05-21T18:23:23Z
+pubDatetime: "2026-05-21T18:23:23Z"
 publishDate: '2026-05-21T18:23:23Z'
 readingTime: 9
 tags: ["featured"]

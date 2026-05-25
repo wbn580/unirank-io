@@ -2,7 +2,7 @@
 title: "University Rankings 2026 What the EU Horizon Europe Funding Means for Schools"
 description: "The European Commission allocated €95.5 billion to Horizon Europe for the 2021–2027 funding cycle, making it the world’s largest multinational research progr…"
 category: "University"
-pubDatetime: 2026-05-08T18:20:17Z
+pubDatetime: "2026-05-08T18:20:17Z"
 publishDate: '2026-05-08T18:20:17Z'
 readingTime: 10
 tags: ["featured"]

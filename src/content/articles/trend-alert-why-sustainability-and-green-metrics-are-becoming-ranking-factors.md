@@ -2,7 +2,7 @@
 title: "Trend Alert: Why Sustainability and Green Metrics Are Becoming Ranking Factors"
 description: "In 2023, Times Higher Education (THE) launched its inaugural **Impact Rankings**, assessing 1,591 universities against the United Nations’ 17 Sustainable Dev…"
 category: "Trend"
-pubDatetime: 2026-04-10T18:12:44Z
+pubDatetime: "2026-04-10T18:12:44Z"
 publishDate: '2026-04-10T18:12:44Z'
 readingTime: 7
 tags: ["featured"]

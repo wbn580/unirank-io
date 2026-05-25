@@ -2,7 +2,7 @@
 title: "QS世界大学排名中的单位教职论文引用数指标分析"
 description: "In the 2025 edition of the QS World University Rankings, the “Citations per Faculty” indicator carries a weight of 20%, a reduction from 30% in prior years, …"
 category: "QS世界大学排名中的单位"
-pubDatetime: 2026-03-15T18:06:25Z
+pubDatetime: "2026-03-15T18:06:25Z"
 publishDate: '2026-03-15T18:06:25Z'
 readingTime: 3
 tags: ["featured"]

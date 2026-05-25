@@ -2,7 +2,7 @@
 title: "QS vs THE: Which Ranking System Better Predicts Graduate Employment Outcomes"
 description: "For students and families navigating the competitive landscape of higher education, the choice between the QS World University Rankings and the Times Higher …"
 category: "QS"
-pubDatetime: 2026-04-08T18:12:25Z
+pubDatetime: "2026-04-08T18:12:25Z"
 publishDate: '2026-04-08T18:12:25Z'
 readingTime: 9
 tags: ["featured"]

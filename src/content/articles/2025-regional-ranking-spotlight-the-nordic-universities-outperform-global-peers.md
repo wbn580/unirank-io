@@ -2,7 +2,7 @@
 title: "2025 Regional Ranking Spotlight The Nordic Universities Outperform Global Peers"
 description: "The 2025 iteration of global university rankings confirms a structural shift: Nordic institutions, long admired for their egalitarian education models, now s…"
 category: "2025"
-pubDatetime: 2026-05-09T18:20:21Z
+pubDatetime: "2026-05-09T18:20:21Z"
 publishDate: '2026-05-09T18:20:21Z'
 readingTime: 7
 tags: ["featured"]

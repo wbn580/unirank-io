@@ -2,7 +2,7 @@
 title: "如何根据个人需求选择QS、THE还是ARWU排名参考"
 description: "Selecting a university ranking system is a pivotal step for prospective students and their families, yet the three most widely consulted indices—QS World Uni…"
 category: "如何根据个人需求选择QS"
-pubDatetime: 2026-02-22T18:01:20Z
+pubDatetime: "2026-02-22T18:01:20Z"
 publishDate: '2026-02-22T18:01:20Z'
 readingTime: 3
 tags: ["featured"]

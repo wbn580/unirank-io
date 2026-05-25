@@ -2,7 +2,7 @@
 title: "How International Student Ratios Influence a Universitys QS Score"
 description: "For applicants comparing global universities, the QS World University Rankings remain one of the most consulted benchmarks, with over 1,500 institutions eval…"
 category: "How"
-pubDatetime: 2026-04-12T18:13:18Z
+pubDatetime: "2026-04-12T18:13:18Z"
 publishDate: '2026-04-12T18:13:18Z'
 readingTime: 9
 tags: ["featured"]

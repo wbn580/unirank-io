@@ -2,7 +2,7 @@
 title: "How the QS Stars Rating System Differs from the Classic QS World Rankings"
 description: "The QS World University Rankings, published annually since 2004, have become one of the most widely cited metrics for institutional prestige, evaluating over…"
 category: "How"
-pubDatetime: 2026-04-28T18:17:21Z
+pubDatetime: "2026-04-28T18:17:21Z"
 publishDate: '2026-04-28T18:17:21Z'
 readingTime: 7
 tags: ["featured"]

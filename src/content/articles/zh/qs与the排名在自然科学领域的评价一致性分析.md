@@ -2,7 +2,7 @@
 title: "QS与THE排名在自然科学领域的评价一致性分析"
 description: "Institutional rankings from QS World University Rankings and Times Higher Education (THE) World University Rankings frequently serve as primary references fo…"
 category: "QS与THE排名在自然科"
-pubDatetime: 2026-03-16T18:06:47Z
+pubDatetime: "2026-03-16T18:06:47Z"
 publishDate: '2026-03-16T18:06:47Z'
 readingTime: 3
 tags: ["featured"]

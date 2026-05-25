@@ -2,7 +2,7 @@
 title: "University Rankings 2026 What the New US Federal Research Funding Means"
 description: "The 2026 cycle of global university rankings arrives at a moment of significant recalibration, driven in large part by shifts in U.S. federal research fundin…"
 category: "University"
-pubDatetime: 2026-05-03T18:18:44Z
+pubDatetime: "2026-05-03T18:18:44Z"
 publishDate: '2026-05-03T18:18:44Z'
 readingTime: 10
 tags: ["featured"]

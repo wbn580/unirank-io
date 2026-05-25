@@ -2,7 +2,7 @@
 title: "QS与THE排名在社会科学领域的评价差异对比"
 description: "For students and families navigating the complex landscape of global higher education, the divergence between major ranking systems in specific academic fiel…"
 category: "QS与THE排名在社会科"
-pubDatetime: 2026-03-29T18:10:00Z
+pubDatetime: "2026-03-29T18:10:00Z"
 publishDate: '2026-03-29T18:10:00Z'
 readingTime: 3
 tags: ["featured"]

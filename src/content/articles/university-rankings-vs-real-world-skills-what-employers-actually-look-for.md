@@ -2,7 +2,7 @@
 title: "University Rankings vs Real World Skills What Employers Actually Look For"
 description: "A 2024 survey by the National Association of Colleges and Employers (NACE) found that 82.6% of employers prioritize problem-solving skills and the ability to…"
 category: "University"
-pubDatetime: 2026-04-18T18:15:01Z
+pubDatetime: "2026-04-18T18:15:01Z"
 publishDate: '2026-04-18T18:15:01Z'
 readingTime: 8
 tags: ["featured"]

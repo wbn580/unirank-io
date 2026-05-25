@@ -2,7 +2,7 @@
 title: "三大排名体系QS、THE、ARWU的适用场景与局限性"
 description: "Every year, millions of prospective students and their families consult global university rankings to narrow down the daunting list of over 20,000 higher-edu…"
 category: "三大排名体系QS、THE"
-pubDatetime: 2026-02-25T18:02:00Z
+pubDatetime: "2026-02-25T18:02:00Z"
 publishDate: '2026-02-25T18:02:00Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How the Methodology of ARWU Penalizes Universities with Strong Humanities"
 description: "The Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking, has been a fixture in global higher education assessment since its…"
 category: "How"
-pubDatetime: 2026-05-16T18:21:59Z
+pubDatetime: "2026-05-16T18:21:59Z"
 publishDate: '2026-05-16T18:21:59Z'
 readingTime: 9
 tags: ["featured"]

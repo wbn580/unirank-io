@@ -2,7 +2,7 @@
 title: "How to Interpret the Student Exchange Ratio in the THE Ranking Methodology"
 description: "The Times Higher Education (THE) World University Rankings, one of the most consulted global league tables, allocates a specific weight to **international ou…"
 category: "How"
-pubDatetime: 2026-04-26T18:16:56Z
+pubDatetime: "2026-04-26T18:16:56Z"
 publishDate: '2026-04-26T18:16:56Z'
 readingTime: 9
 tags: ["featured"]

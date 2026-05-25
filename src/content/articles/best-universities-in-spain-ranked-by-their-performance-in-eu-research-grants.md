@@ -2,7 +2,7 @@
 title: "Best Universities in Spain Ranked by Their Performance in EU Research Grants"
 description: "Spain’s higher education system secured €1.28 billion from the European Research Council (ERC) between 2014 and 2024, representing 6.7% of total ERC funding …"
 category: "Best"
-pubDatetime: 2026-05-12T18:21:18Z
+pubDatetime: "2026-05-12T18:21:18Z"
 publishDate: '2026-05-12T18:21:18Z'
 readingTime: 7
 tags: ["featured"]

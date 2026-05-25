@@ -2,7 +2,7 @@
 title: "Unpacking the 'International Faculty' Metric in THE and QS Rankings"
 description: "The Times Higher Education (THE) World University Rankings and the QS World University Rankings collectively influence the decisions of over 1.5 million pros…"
 category: "Unpacking"
-pubDatetime: 2026-04-16T18:14:28Z
+pubDatetime: "2026-04-16T18:14:28Z"
 publishDate: '2026-04-16T18:14:28Z'
 readingTime: 9
 tags: ["featured"]

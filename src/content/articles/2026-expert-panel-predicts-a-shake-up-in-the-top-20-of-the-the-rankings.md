@@ -2,7 +2,7 @@
 title: "2026 Expert Panel Predicts a Shake Up in the Top 20 of the THE Rankings"
 description: "The 2026 edition of the Times Higher Education (THE) World University Rankings is projected to witness the most significant positional churn among the top 20…"
 category: "2026"
-pubDatetime: 2026-04-29T18:17:41Z
+pubDatetime: "2026-04-29T18:17:41Z"
 publishDate: '2026-04-29T18:17:41Z'
 readingTime: 9
 tags: ["featured"]

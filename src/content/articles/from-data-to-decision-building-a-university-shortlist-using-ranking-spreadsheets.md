@@ -2,7 +2,7 @@
 title: "From Data to Decision: Building a University Shortlist Using Ranking Spreadsheets"
 description: "A prospective applicant in 2025 faces a landscape of over 20,000 degree-granting institutions worldwide, yet the decision often narrows to fewer than ten app…"
 category: "From"
-pubDatetime: 2026-04-25T18:16:42Z
+pubDatetime: "2026-04-25T18:16:42Z"
 publishDate: '2026-04-25T18:16:42Z'
 readingTime: 8
 tags: ["featured"]

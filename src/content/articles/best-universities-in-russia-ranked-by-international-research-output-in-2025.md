@@ -2,7 +2,7 @@
 title: "Best Universities in Russia Ranked by International Research Output in 2025"
 description: "Russia’s higher education sector produced 82,314 Scopus-indexed publications in 2024, a 7.2% increase from the 76,810 recorded in 2023, according to the Russ…"
 category: "Best"
-pubDatetime: 2026-05-21T18:23:15Z
+pubDatetime: "2026-05-21T18:23:15Z"
 publishDate: '2026-05-21T18:23:15Z'
 readingTime: 8
 tags: ["featured"]

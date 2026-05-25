@@ -2,7 +2,7 @@
 title: "2025 QS Ranking Focus The Transformation of South Korean Universities"
 description: "South Korea’s higher education sector has recorded its strongest collective performance in the 2025 QS World University Rankings, with 43 institutions now ap…"
 category: "2025"
-pubDatetime: 2026-05-15T18:21:53Z
+pubDatetime: "2026-05-15T18:21:53Z"
 publishDate: '2026-05-15T18:21:53Z'
 readingTime: 9
 tags: ["featured"]

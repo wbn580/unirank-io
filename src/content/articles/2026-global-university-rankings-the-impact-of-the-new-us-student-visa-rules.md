@@ -2,7 +2,7 @@
 title: "2026 Global University Rankings The Impact of the New US Student Visa Rules"
 description: "The 2026 global university rankings cycle arrives amid the most consequential shift in US student visa policy in over a decade. On 24 January 2025, the US De…"
 category: "2026"
-pubDatetime: 2026-04-19T18:15:03Z
+pubDatetime: "2026-04-19T18:15:03Z"
 publishDate: '2026-04-19T18:15:03Z'
 readingTime: 9
 tags: ["featured"]

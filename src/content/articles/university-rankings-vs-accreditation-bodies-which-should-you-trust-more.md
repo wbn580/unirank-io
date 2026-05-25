@@ -2,7 +2,7 @@
 title: "University Rankings vs Accreditation Bodies Which Should You Trust More"
 description: "In 2024, the QS World University Rankings evaluated over 5,600 institutions globally, while the U.S. Department of Education’s Database of Accredited Postsec…"
 category: "University"
-pubDatetime: 2026-04-30T18:17:46Z
+pubDatetime: "2026-04-30T18:17:46Z"
 publishDate: '2026-04-30T18:17:46Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Identify a University That Is Overrated by Global Ranking Systems"
 description: "Every year, millions of prospective students and their families consult global university ranking systems—QS World University Rankings, Times Higher Educatio…"
 category: "How"
-pubDatetime: 2026-05-03T18:18:49Z
+pubDatetime: "2026-05-03T18:18:49Z"
 publishDate: '2026-05-03T18:18:49Z'
 readingTime: 12
 tags: ["featured"]

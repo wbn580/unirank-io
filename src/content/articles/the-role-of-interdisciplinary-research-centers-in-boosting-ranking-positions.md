@@ -2,7 +2,7 @@
 title: "The Role of Interdisciplinary Research Centers in Boosting Ranking Positions"
 description: "The relationship between a university’s investment in interdisciplinary research centers and its subsequent ascent in global ranking tables has moved from co…"
 category: "The"
-pubDatetime: 2026-05-05T18:19:13Z
+pubDatetime: "2026-05-05T18:19:13Z"
 publishDate: '2026-05-05T18:19:13Z'
 readingTime: 10
 tags: ["featured"]

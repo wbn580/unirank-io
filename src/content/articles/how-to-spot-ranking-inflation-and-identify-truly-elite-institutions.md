@@ -2,7 +2,7 @@
 title: "How to Spot Ranking Inflation and Identify Truly Elite Institutions"
 description: "University rankings have become the single most consulted metric for prospective international students, yet their methodological fragility is rarely scrutin…"
 category: "How"
-pubDatetime: 2026-04-12T18:13:25Z
+pubDatetime: "2026-04-12T18:13:25Z"
 publishDate: '2026-04-12T18:13:25Z'
 readingTime: 8
 tags: ["featured"]

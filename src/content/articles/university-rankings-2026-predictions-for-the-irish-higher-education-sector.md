@@ -2,7 +2,7 @@
 title: "University Rankings 2026 Predictions for the Irish Higher Education Sector"
 description: "Ireland’s higher education sector, currently hosting over 35,000 non-EU students in the 2023/24 academic year according to the Irish Department of Further an…"
 category: "University"
-pubDatetime: 2026-05-07T18:19:44Z
+pubDatetime: "2026-05-07T18:19:44Z"
 publishDate: '2026-05-07T18:19:44Z'
 readingTime: 8
 tags: ["featured"]

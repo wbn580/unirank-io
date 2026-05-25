@@ -2,7 +2,7 @@
 title: "University Rankings 2025 A Critical Look at the Gender Diversity Metrics"
 description: "In the 2025 iteration of the Times Higher Education (THE) World University Rankings, only 38% of participating institutions reported a student body where wom…"
 category: "University"
-pubDatetime: 2026-04-14T18:13:49Z
+pubDatetime: "2026-04-14T18:13:49Z"
 publishDate: '2026-04-14T18:13:49Z'
 readingTime: 10
 tags: ["featured"]

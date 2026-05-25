@@ -2,7 +2,7 @@
 title: "How to Use the QS Employability Rankings to Target Companies for Internships"
 description: "Each year, over 1,600 higher education institutions are assessed by the QS Graduate Employability Rankings, a metric that evaluates universities not merely o…"
 category: "How"
-pubDatetime: 2026-05-01T18:18:04Z
+pubDatetime: "2026-05-01T18:18:04Z"
 publishDate: '2026-05-01T18:18:04Z'
 readingTime: 8
 tags: ["featured"]

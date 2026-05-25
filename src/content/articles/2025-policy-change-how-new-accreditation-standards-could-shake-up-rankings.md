@@ -2,7 +2,7 @@
 title: "2025 Policy Change How New Accreditation Standards Could Shake Up Rankings"
 description: "In 2025, a fundamental shift in accreditation protocols is poised to recalibrate the global higher education landscape, with direct implications for universi…"
 category: "2025"
-pubDatetime: 2026-04-25T18:16:34Z
+pubDatetime: "2026-04-25T18:16:34Z"
 publishDate: '2026-04-25T18:16:34Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "A Comparative Analysis of US News vs QS vs THE for Undergraduate Programs"
 description: "Each year, more than 1.1 million international students enroll in undergraduate programs across the United States, the United Kingdom, and Australia, a cohor…"
 category: "A"
-pubDatetime: 2026-04-24T18:16:29Z
+pubDatetime: "2026-04-24T18:16:29Z"
 publishDate: '2026-04-24T18:16:29Z'
 readingTime: 10
 tags: ["featured"]

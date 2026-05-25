@@ -2,7 +2,7 @@
 title: "How University Rankings Influence Immigration Policies for International Graduates"
 description: "In 2023, the United Kingdom updated its Graduate Route visa, tying post-study work eligibility to institutions that meet specific quality thresholds, directl…"
 category: "How"
-pubDatetime: 2026-04-18T18:15:01Z
+pubDatetime: "2026-04-18T18:15:01Z"
 publishDate: '2026-04-18T18:15:01Z'
 readingTime: 9
 tags: ["featured"]

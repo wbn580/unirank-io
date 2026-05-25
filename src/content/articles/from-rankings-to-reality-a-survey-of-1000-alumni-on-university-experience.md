@@ -2,7 +2,7 @@
 title: "From Rankings to Reality: A Survey of 1000 Alumni on University Experience"
 description: "University league tables have long served as the primary compass for prospective students navigating the global higher education market. Yet a growing body o…"
 category: "From"
-pubDatetime: 2026-04-30T18:17:52Z
+pubDatetime: "2026-04-30T18:17:52Z"
 publishDate: '2026-04-30T18:17:52Z'
 readingTime: 7
 tags: ["featured"]

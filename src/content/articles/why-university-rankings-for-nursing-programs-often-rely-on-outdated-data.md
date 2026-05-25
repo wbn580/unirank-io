@@ -2,7 +2,7 @@
 title: "Why University Rankings for Nursing Programs Often Rely on Outdated Data"
 description: "Each year, hundreds of thousands of prospective nursing students consult global university rankings to decide where to apply, yet the data underpinning these…"
 category: "Why"
-pubDatetime: 2026-05-09T18:20:17Z
+pubDatetime: "2026-05-09T18:20:17Z"
 publishDate: '2026-05-09T18:20:17Z'
 readingTime: 8
 tags: ["featured"]

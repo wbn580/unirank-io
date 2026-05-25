@@ -2,7 +2,7 @@
 title: "How to Use the QS By Subject Rankings to Narrow Down Your Major Choice"
 description: "In 2024, QS Quacquarelli Symonds evaluated 5,643 institutions across 55 subject areas, publishing rankings that draw on 17.5 million academic papers and 144,…"
 category: "How"
-pubDatetime: 2026-04-24T18:16:21Z
+pubDatetime: "2026-04-24T18:16:21Z"
 publishDate: '2026-04-24T18:16:21Z'
 readingTime: 9
 tags: ["featured"]

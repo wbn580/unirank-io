@@ -2,7 +2,7 @@
 title: "University Rankings 2025 The Unseen Effect of University Location on Score"
 description: "A student at a university in central London pays approximately £18,000 per year for accommodation, while a peer enrolled in a comparable institution in Sheff…"
 category: "University"
-pubDatetime: 2026-05-17T18:22:29Z
+pubDatetime: "2026-05-17T18:22:29Z"
 publishDate: '2026-05-17T18:22:29Z'
 readingTime: 9
 tags: ["featured"]

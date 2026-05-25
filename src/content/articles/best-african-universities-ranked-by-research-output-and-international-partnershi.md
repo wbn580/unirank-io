@@ -2,7 +2,7 @@
 title: "Best African Universities Ranked by Research Output and International Partnerships"
 description: "Africa’s higher education landscape has undergone a measurable transformation over the past decade, with several institutions now competing effectively on gl…"
 category: "Best"
-pubDatetime: 2026-04-28T18:17:25Z
+pubDatetime: "2026-04-28T18:17:25Z"
 publishDate: '2026-04-28T18:17:25Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "University Rankings and Their Role in International Student Loan Approvals"
 description: "The relationship between university rankings and international student loan approvals has become increasingly quantifiable over the past five years. A 2023 s…"
 category: "University"
-pubDatetime: 2026-04-25T18:16:36Z
+pubDatetime: "2026-04-25T18:16:36Z"
 publishDate: '2026-04-25T18:16:36Z'
 readingTime: 10
 tags: ["featured"]

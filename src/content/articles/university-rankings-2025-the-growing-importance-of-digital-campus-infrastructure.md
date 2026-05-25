@@ -2,7 +2,7 @@
 title: "University Rankings 2025 The Growing Importance of Digital Campus Infrastructure"
 description: "The 2025 iteration of global university rankings—including the QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. New…"
 category: "University"
-pubDatetime: 2026-04-29T18:17:33Z
+pubDatetime: "2026-04-29T18:17:33Z"
 publishDate: '2026-04-29T18:17:33Z'
 readingTime: 10
 tags: ["featured"]

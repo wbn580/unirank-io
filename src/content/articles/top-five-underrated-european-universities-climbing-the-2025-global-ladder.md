@@ -2,7 +2,7 @@
 title: "Top Five Underrated European Universities Climbing the 2025 Global Ladder"
 description: "European higher education has long been dominated by a handful of globally recognised names: Oxford, Cambridge, ETH Zurich, and the Sorbonne. Yet beneath thi…"
 category: "Top"
-pubDatetime: 2026-04-11T18:13:14Z
+pubDatetime: "2026-04-11T18:13:14Z"
 publishDate: '2026-04-11T18:13:14Z'
 readingTime: 8
 tags: ["featured"]

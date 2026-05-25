@@ -2,7 +2,7 @@
 title: "Is the ARWU Focus on Hard Sciences Discriminating Against Social Sciences"
 description: "The Academic Ranking of World Universities (ARWU), first published in 2003 by Shanghai Jiao Tong University, has become one of the most cited global universi…"
 category: "Is"
-pubDatetime: 2026-04-21T18:15:33Z
+pubDatetime: "2026-04-21T18:15:33Z"
 publishDate: '2026-04-21T18:15:33Z'
 readingTime: 9
 tags: ["featured"]

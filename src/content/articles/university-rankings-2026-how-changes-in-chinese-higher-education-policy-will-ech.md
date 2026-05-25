@@ -2,7 +2,7 @@
 title: "University Rankings 2026 How Changes in Chinese Higher Education Policy Will Echo"
 description: "The 2026 iteration of global university ranking cycles—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News Best G…"
 category: "University"
-pubDatetime: 2026-05-20T18:23:07Z
+pubDatetime: "2026-05-20T18:23:07Z"
 publishDate: '2026-05-20T18:23:07Z'
 readingTime: 11
 tags: ["featured"]

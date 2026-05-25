@@ -2,7 +2,7 @@
 title: "University Rankings vs University Branding Which One Attracts Better Faculty"
 description: "Faculty hiring constitutes the single largest long-term investment any university makes. A single tenured professor represents a commitment of USD 3–5 millio…"
 category: "University"
-pubDatetime: 2026-05-02T18:18:44Z
+pubDatetime: "2026-05-02T18:18:44Z"
 publishDate: '2026-05-02T18:18:44Z'
 readingTime: 9
 tags: ["featured"]

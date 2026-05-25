@@ -2,7 +2,7 @@
 title: "QS vs THE排名在计算机科学领域的指标权重对比"
 description: "Two of the most widely consulted ranking systems for computer science, QS World University Rankings by Subject and Times Higher Education World University Ra…"
 category: "QS vs THE排名在"
-pubDatetime: 2026-03-20T18:07:35Z
+pubDatetime: "2026-03-20T18:07:35Z"
 publishDate: '2026-03-20T18:07:35Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Best Universities in France Ranked by Their Start Up Incubation Success Rates"
 description: "France’s higher education system has long been synonymous with elite engineering and business schools, yet a less-publicised metric is reshaping how internat…"
 category: "Best"
-pubDatetime: 2026-05-13T18:21:27Z
+pubDatetime: "2026-05-13T18:21:27Z"
 publishDate: '2026-05-13T18:21:27Z'
 readingTime: 7
 tags: ["featured"]

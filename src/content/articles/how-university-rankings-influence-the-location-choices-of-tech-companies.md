@@ -2,7 +2,7 @@
 title: "How University Rankings Influence the Location Choices of Tech Companies"
 description: "Between 2018 and 2023, the proportion of new research and development (R&D) centers established by Fortune 500 technology firms within a 50-kilometer radius …"
 category: "How"
-pubDatetime: 2026-05-15T18:21:56Z
+pubDatetime: "2026-05-15T18:21:56Z"
 publishDate: '2026-05-15T18:21:56Z'
 readingTime: 11
 tags: ["featured"]

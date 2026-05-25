@@ -2,7 +2,7 @@
 title: "University Rankings 2025 The Rise of Universities in the Middle East and North Africa"
 description: "In the 2025 edition of the QS World University Rankings, 47 institutions from the Middle East and North Africa (MENA) region appear in the global top 1,000, …"
 category: "University"
-pubDatetime: 2026-05-02T18:18:39Z
+pubDatetime: "2026-05-02T18:18:39Z"
 publishDate: '2026-05-02T18:18:39Z'
 readingTime: 9
 tags: ["featured"]

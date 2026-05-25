@@ -2,7 +2,7 @@
 title: "How Student to Faculty Ratios Vary Significantly Across Ranking Systems"
 description: "The student-to-faculty ratio is one of the most cited metrics in university rankings, yet its definition and weight vary dramatically across the four major g…"
 category: "How"
-pubDatetime: 2026-05-01T18:17:56Z
+pubDatetime: "2026-05-01T18:17:56Z"
 publishDate: '2026-05-01T18:17:56Z'
 readingTime: 10
 tags: ["featured"]

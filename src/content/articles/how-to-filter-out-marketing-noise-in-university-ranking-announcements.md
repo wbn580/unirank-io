@@ -2,7 +2,7 @@
 title: "How to Filter Out Marketing Noise in University Ranking Announcements"
 description: "Every October, university rankings from QS, Times Higher Education, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU) trigger a…"
 category: "How"
-pubDatetime: 2026-05-05T18:19:33Z
+pubDatetime: "2026-05-05T18:19:33Z"
 publishDate: '2026-05-05T18:19:33Z'
 readingTime: 13
 tags: ["featured"]

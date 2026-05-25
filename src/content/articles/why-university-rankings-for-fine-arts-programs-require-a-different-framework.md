@@ -2,7 +2,7 @@
 title: "Why University Rankings for Fine Arts Programs Require a Different Framework"
 description: "The global university ranking industry, valued at an estimated USD 2.5 billion annually according to a 2023 analysis by the World Education Services, primari…"
 category: "Why"
-pubDatetime: 2026-05-03T18:18:46Z
+pubDatetime: "2026-05-03T18:18:46Z"
 publishDate: '2026-05-03T18:18:46Z'
 readingTime: 10
 tags: ["featured"]

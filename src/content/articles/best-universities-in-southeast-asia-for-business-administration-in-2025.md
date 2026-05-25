@@ -2,7 +2,7 @@
 title: "Best Universities in Southeast Asia for Business Administration in 2025"
 description: "The global business landscape is increasingly turning its attention to Southeast Asia, a region projected by the International Monetary Fund (IMF, 2024, Worl…"
 category: "Best"
-pubDatetime: 2026-05-04T18:19:11Z
+pubDatetime: "2026-05-04T18:19:11Z"
 publishDate: '2026-05-04T18:19:11Z'
 readingTime: 9
 tags: ["featured"]

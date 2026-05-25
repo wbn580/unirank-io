@@ -2,7 +2,7 @@
 title: "How University Rankings Affect the Salary Expectations of Fresh Graduates"
 description: "A graduate from a university ranked in the global top 100 can expect a starting salary approximately 18.6% higher than a peer from an institution outside the…"
 category: "How"
-pubDatetime: 2026-04-22T18:15:49Z
+pubDatetime: "2026-04-22T18:15:49Z"
 publishDate: '2026-04-22T18:15:49Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Comparing the University Rankings of Australia vs New Zealand Which Is Better"
 description: "Australia and New Zealand together host over 720,000 international students as of 2023, according to the Australian Department of Education and New Zealand’s…"
 category: "Comparing"
-pubDatetime: 2026-04-20T18:15:33Z
+pubDatetime: "2026-04-20T18:15:33Z"
 publishDate: '2026-04-20T18:15:33Z'
 readingTime: 8
 tags: ["featured"]

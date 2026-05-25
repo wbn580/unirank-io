@@ -2,7 +2,7 @@
 title: "Why University Rankings for PhD Programs Should Prioritize Supervisor Reputation"
 description: "For prospective doctoral students, the conventional university ranking—aggregating metrics such as faculty-student ratios, citation counts, and international…"
 category: "Why"
-pubDatetime: 2026-05-16T18:22:10Z
+pubDatetime: "2026-05-16T18:22:10Z"
 publishDate: '2026-05-16T18:22:10Z'
 readingTime: 9
 tags: ["featured"]

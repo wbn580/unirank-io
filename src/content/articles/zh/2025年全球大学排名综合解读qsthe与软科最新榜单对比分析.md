@@ -2,7 +2,7 @@
 title: "2025年全球大学排名综合解读：QS、THE与软科最新榜单对比分析"
 description: "The 2025 edition of the global university rankings cycle has introduced significant methodological recalibrations across the three most consulted league tabl…"
 category: "2025年全球大学排名综"
-pubDatetime: 2026-02-22T18:01:20Z
+pubDatetime: "2026-02-22T18:01:20Z"
 publishDate: '2026-02-22T18:01:20Z'
 readingTime: 3
 tags: ["featured"]

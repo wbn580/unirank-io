@@ -2,7 +2,7 @@
 title: "QS、THE与软科排名体系在雇主评价指标上的差异"
 description: "University rankings have become a cornerstone of institutional reputation, yet the weight they assign to employer perception varies dramatically. The QS Worl…"
 category: "QS、THE与软科排名体"
-pubDatetime: 2026-02-28T18:02:50Z
+pubDatetime: "2026-02-28T18:02:50Z"
 publishDate: '2026-02-28T18:02:50Z'
 readingTime: 3
 tags: ["featured"]

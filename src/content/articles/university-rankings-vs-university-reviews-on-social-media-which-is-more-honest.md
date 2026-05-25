@@ -2,7 +2,7 @@
 title: "University Rankings vs University Reviews on Social Media Which Is More Honest"
 description: "A prospective student in 2025 faces two competing sources of truth when evaluating universities. On one side sit institutional rankings: QS World University …"
 category: "University"
-pubDatetime: 2026-05-20T18:23:04Z
+pubDatetime: "2026-05-20T18:23:04Z"
 publishDate: '2026-05-20T18:23:04Z'
 readingTime: 9
 tags: ["featured"]

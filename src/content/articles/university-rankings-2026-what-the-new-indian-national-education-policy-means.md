@@ -2,7 +2,7 @@
 title: "University Rankings 2026 What the New Indian National Education Policy Means"
 description: "The 2026 cycle of global university rankings arrives at a pivotal moment for Indian higher education, as the National Education Policy (NEP) 2020 completes i…"
 category: "University"
-pubDatetime: 2026-05-17T18:22:17Z
+pubDatetime: "2026-05-17T18:22:17Z"
 publishDate: '2026-05-17T18:22:17Z'
 readingTime: 8
 tags: ["featured"]

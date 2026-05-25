@@ -2,7 +2,7 @@
 title: "Best Universities in Japan Ranked by Their Industry Patent Filings in 2025"
 description: "University patent output has emerged as a distinct indicator of institutional research commercialisation capacity, separate from traditional citation-based m…"
 category: "Best"
-pubDatetime: 2026-05-17T18:22:26Z
+pubDatetime: "2026-05-17T18:22:26Z"
 publishDate: '2026-05-17T18:22:26Z'
 readingTime: 8
 tags: ["featured"]

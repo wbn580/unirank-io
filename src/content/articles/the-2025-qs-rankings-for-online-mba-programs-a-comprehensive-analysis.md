@@ -2,7 +2,7 @@
 title: "The 2025 QS Rankings for Online MBA Programs A Comprehensive Analysis"
 description: "The 2025 QS Online MBA Rankings, released on September 17, 2024, evaluated 170 programs globally, a 10% increase from the 154 programs assessed in 2024, refl…"
 category: "The"
-pubDatetime: 2026-04-21T18:15:41Z
+pubDatetime: "2026-04-21T18:15:41Z"
 publishDate: '2026-04-21T18:15:41Z'
 readingTime: 8
 tags: ["featured"]

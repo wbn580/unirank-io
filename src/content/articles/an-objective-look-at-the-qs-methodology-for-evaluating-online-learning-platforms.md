@@ -2,7 +2,7 @@
 title: "An Objective Look at the QS Methodology for Evaluating Online Learning Platforms"
 description: "In 2023, Quacquarelli Symonds (QS) introduced a dedicated methodology for ranking online learning providers, a response to a market that saw the global onlin…"
 category: "An"
-pubDatetime: 2026-05-11T18:20:49Z
+pubDatetime: "2026-05-11T18:20:49Z"
 publishDate: '2026-05-11T18:20:49Z'
 readingTime: 8
 tags: ["featured"]

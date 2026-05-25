@@ -2,7 +2,7 @@
 title: "2026 Trends: Will Hybrid Learning Models Impact University Ranking Performance"
 description: "By the 2025–2026 academic cycle, over 73% of universities in the QS World University Rankings top 200 have formally integrated some form of hybrid learning i…"
 category: "2026"
-pubDatetime: 2026-04-13T18:13:33Z
+pubDatetime: "2026-04-13T18:13:33Z"
 publishDate: '2026-04-13T18:13:33Z'
 readingTime: 8
 tags: ["featured"]

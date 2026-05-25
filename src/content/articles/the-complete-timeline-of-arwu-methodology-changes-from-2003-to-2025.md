@@ -2,7 +2,7 @@
 title: "The Complete Timeline of ARWU Methodology Changes from 2003 to 2025"
 description: "Since its inception in 2003, the Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking, has undergone six major methodologica…"
 category: "The"
-pubDatetime: 2026-04-09T18:12:28Z
+pubDatetime: "2026-04-09T18:12:28Z"
 publishDate: '2026-04-09T18:12:28Z'
 readingTime: 11
 tags: ["featured"]

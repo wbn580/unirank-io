@@ -2,7 +2,7 @@
 title: "Why University Rankings for Education Degrees Should Include Classroom Outcomes"
 description: "For decades, the global architecture of university rankings has been built on a foundation of research output, citation impact, and institutional reputation.…"
 category: "Why"
-pubDatetime: 2026-05-14T18:21:36Z
+pubDatetime: "2026-05-14T18:21:36Z"
 publishDate: '2026-05-14T18:21:36Z'
 readingTime: 10
 tags: ["featured"]

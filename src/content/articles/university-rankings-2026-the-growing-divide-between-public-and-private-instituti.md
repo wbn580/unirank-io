@@ -2,7 +2,7 @@
 title: "University Rankings 2026 The Growing Divide Between Public and Private Institutions"
 description: "The 2026 iteration of global university rankings reveals a structural divergence that has been accelerating for over a decade: the widening performance gap b…"
 category: "University"
-pubDatetime: 2026-05-16T18:21:58Z
+pubDatetime: "2026-05-16T18:21:58Z"
 publishDate: '2026-05-16T18:21:58Z'
 readingTime: 8
 tags: ["featured"]

@@ -6,7 +6,7 @@ publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: qs-vs-the-rankings-data-indicators-scoring-methodology
 ogImage: 'https://img.ulec.com.cn/留学-大学排名/qs-vs-the-rankings-data-indicators-scoring-methodology-2026-1880x1253.jpg'
-tags: []
+tags:
   - 'QS排名'
   - 'THE排名'
   - '大学排名对比'

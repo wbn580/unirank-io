@@ -2,7 +2,7 @@
 title: "From Student Perspective: How University Rankings Shaped My Study Abroad Path"
 description: "When I began researching universities for my master’s degree in mechanical engineering, the sheer volume of institutional data felt overwhelming. The first c…"
 category: "From"
-pubDatetime: 2026-05-12T18:21:19Z
+pubDatetime: "2026-05-12T18:21:19Z"
 publishDate: '2026-05-12T18:21:19Z'
 readingTime: 10
 tags: ["featured"]

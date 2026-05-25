@@ -2,7 +2,7 @@
 title: "University Rankings 2026 The Impact of the European University Alliances"
 description: "In November 2025, the European Commission confirmed that the 2026 university rankings cycle would incorporate a new weighting factor for institutions partici…"
 category: "University"
-pubDatetime: 2026-05-22T18:23:50Z
+pubDatetime: "2026-05-22T18:23:50Z"
 publishDate: '2026-05-22T18:23:50Z'
 readingTime: 10
 tags: ["featured"]

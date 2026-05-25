@@ -2,7 +2,7 @@
 title: "Best European Universities for Computer Science According to 2025 Data"
 description: "The 2025 aggregate rankings from QS World University Rankings by Subject, Times Higher Education (THE) World University Rankings, and the Academic Ranking of…"
 category: "Best"
-pubDatetime: 2026-04-22T18:15:52Z
+pubDatetime: "2026-04-22T18:15:52Z"
 publishDate: '2026-04-22T18:15:52Z'
 readingTime: 9
 tags: ["featured"]

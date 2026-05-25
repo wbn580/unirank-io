@@ -2,7 +2,7 @@
 title: "The Effect of University Mergers on Their Subsequent Performance in Rankings"
 description: "Between 2000 and 2020, over 1,200 higher education institutions globally underwent some form of structural merger, a consolidation wave driven by national po…"
 category: "The"
-pubDatetime: 2026-04-29T18:17:36Z
+pubDatetime: "2026-04-29T18:17:36Z"
 publishDate: '2026-04-29T18:17:36Z'
 readingTime: 8
 tags: ["featured"]

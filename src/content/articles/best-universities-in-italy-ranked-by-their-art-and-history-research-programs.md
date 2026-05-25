@@ -2,7 +2,7 @@
 title: "Best Universities in Italy Ranked by Their Art and History Research Programs"
 description: "Italy has long been a gravitational centre for art and historical scholarship, yet prospective graduate students often lack a transparent, data-driven framew…"
 category: "Best"
-pubDatetime: 2026-05-22T18:23:39Z
+pubDatetime: "2026-05-22T18:23:39Z"
 publishDate: '2026-05-22T18:23:39Z'
 readingTime: 9
 tags: ["featured"]

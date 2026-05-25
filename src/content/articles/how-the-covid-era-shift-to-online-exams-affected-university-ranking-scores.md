@@ -2,7 +2,7 @@
 title: "How the COVID Era Shift to Online Exams Affected University Ranking Scores"
 description: "Between March 2020 and June 2022, over 1.6 billion learners in 194 countries experienced campus closures triggered by the COVID-19 pandemic, according to UNE…"
 category: "How"
-pubDatetime: 2026-05-03T18:18:47Z
+pubDatetime: "2026-05-03T18:18:47Z"
 publishDate: '2026-05-03T18:18:47Z'
 readingTime: 10
 tags: ["featured"]

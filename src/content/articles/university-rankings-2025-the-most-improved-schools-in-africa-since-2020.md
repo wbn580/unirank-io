@@ -2,7 +2,7 @@
 title: "University Rankings 2025 The Most Improved Schools in Africa Since 2020"
 description: "Between 2020 and 2025, African higher education institutions have recorded a measurable upward trajectory in global league tables, with **17 universities fro…"
 category: "University"
-pubDatetime: 2026-05-19T18:22:52Z
+pubDatetime: "2026-05-19T18:22:52Z"
 publishDate: '2026-05-19T18:22:52Z'
 readingTime: 8
 tags: ["featured"]

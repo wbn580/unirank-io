@@ -2,7 +2,7 @@
 title: "A Comparative Guide to QS, THE, and ARWU for Master Degree Applications"
 description: "In 2025, over 2.8 million students pursued master’s degrees outside their home country, a figure projected by the OECD to reach 3.1 million by 2027, reflecti…"
 category: "A"
-pubDatetime: 2026-05-04T18:19:12Z
+pubDatetime: "2026-05-04T18:19:12Z"
 publishDate: '2026-05-04T18:19:12Z'
 readingTime: 7
 tags: ["featured"]

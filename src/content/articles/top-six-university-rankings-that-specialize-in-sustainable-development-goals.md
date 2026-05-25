@@ -2,7 +2,7 @@
 title: "Top Six University Rankings That Specialize in Sustainable Development Goals"
 description: "The global higher education sector has entered an era where institutional prestige is no longer measured solely by research output or graduate employability.…"
 category: "Top"
-pubDatetime: 2026-05-13T18:21:28Z
+pubDatetime: "2026-05-13T18:21:28Z"
 publishDate: '2026-05-13T18:21:28Z'
 readingTime: 9
 tags: ["featured"]

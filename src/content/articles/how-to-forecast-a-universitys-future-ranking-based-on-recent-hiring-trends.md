@@ -2,7 +2,7 @@
 title: "How to Forecast a Universitys Future Ranking Based on Recent Hiring Trends"
 description: "A university’s position in global ranking tables such as QS, THE, US News, and ARWU is often treated as a static snapshot, yet the underlying trajectory of a…"
 category: "How"
-pubDatetime: 2026-04-23T18:16:03Z
+pubDatetime: "2026-04-23T18:16:03Z"
 publishDate: '2026-04-23T18:16:03Z'
 readingTime: 8
 tags: ["featured"]

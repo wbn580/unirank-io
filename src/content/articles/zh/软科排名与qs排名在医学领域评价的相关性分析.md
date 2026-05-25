@@ -2,7 +2,7 @@
 title: "软科排名与QS排名在医学领域评价的相关性分析"
 description: "The global assessment of medical schools has become a critical factor for students and researchers navigating international education and collaboration. Two …"
 category: "软科排名与QS排名在医学"
-pubDatetime: 2026-03-08T18:04:37Z
+pubDatetime: "2026-03-08T18:04:37Z"
 publishDate: '2026-03-08T18:04:37Z'
 readingTime: 3
 tags: ["featured"]

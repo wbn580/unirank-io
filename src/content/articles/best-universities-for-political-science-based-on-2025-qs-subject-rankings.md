@@ -2,7 +2,7 @@
 title: "Best Universities for Political Science Based on 2025 QS Subject Rankings"
 description: "The 2025 QS World University Rankings by Subject place Political Science and International Studies among the most scrutinized fields for graduate employabili…"
 category: "Best"
-pubDatetime: 2026-05-08T18:20:04Z
+pubDatetime: "2026-05-08T18:20:04Z"
 publishDate: '2026-05-08T18:20:04Z'
 readingTime: 6
 tags: ["featured"]

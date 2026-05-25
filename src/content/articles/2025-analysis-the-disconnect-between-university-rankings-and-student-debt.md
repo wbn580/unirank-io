@@ -2,7 +2,7 @@
 title: "2025 Analysis The Disconnect Between University Rankings and Student Debt"
 description: "Between 2000 and 2024, the average cost of tuition and fees at U.S. four-year public institutions rose by 179% after adjusting for inflation, according to th…"
 category: "2025"
-pubDatetime: 2026-05-04T18:19:11Z
+pubDatetime: "2026-05-04T18:19:11Z"
 publishDate: '2026-05-04T18:19:11Z'
 readingTime: 9
 tags: ["featured"]

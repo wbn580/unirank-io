@@ -2,7 +2,7 @@
 title: "The 2026 Landscape for Australian Universities Post International Student Cap"
 description: "The Australian Government’s proposed *Education Services for Overseas Students (ESOS) Amendment (Quality and Integrity) Bill 2024* introduces a **national ca…"
 category: "The"
-pubDatetime: 2026-04-28T18:17:12Z
+pubDatetime: "2026-04-28T18:17:12Z"
 publishDate: '2026-04-28T18:17:12Z'
 readingTime: 8
 tags: ["featured"]

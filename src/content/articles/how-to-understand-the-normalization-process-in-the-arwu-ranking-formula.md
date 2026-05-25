@@ -2,7 +2,7 @@
 title: "How to Understand the Normalization Process in the ARWU Ranking Formula"
 description: "The Shanghai Ranking Consultancy’s Academic Ranking of World Universities (ARWU) is one of the four most widely cited global university league tables, alongs…"
 category: "How"
-pubDatetime: 2026-05-11T18:20:52Z
+pubDatetime: "2026-05-11T18:20:52Z"
 publishDate: '2026-05-11T18:20:52Z'
 readingTime: 10
 tags: ["featured"]

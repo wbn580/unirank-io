@@ -2,7 +2,7 @@
 title: "The 2026 Outlook for University Rankings in a Post ChatGPT Academic World"
 description: "The global university ranking ecosystem, comprising QS World University Rankings, Times Higher Education (THE), U.S. News & World Report, and the Academic Ra…"
 category: "The"
-pubDatetime: 2026-05-17T18:22:22Z
+pubDatetime: "2026-05-17T18:22:22Z"
 publishDate: '2026-05-17T18:22:22Z'
 readingTime: 11
 tags: ["featured"]

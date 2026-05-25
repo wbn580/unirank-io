@@ -2,7 +2,7 @@
 title: "Understanding the Reputation Survey: How Peer Review Scores Are Calculated"
 description: "Among the many inputs that shape global university rankings, the **reputation survey** accounts for between 30% and 50% of the final score in major league ta…"
 category: "Understanding"
-pubDatetime: 2026-04-10T18:12:48Z
+pubDatetime: "2026-04-10T18:12:48Z"
 publishDate: '2026-04-10T18:12:48Z'
 readingTime: 6
 tags: ["featured"]

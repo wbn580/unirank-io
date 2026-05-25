@@ -2,7 +2,7 @@
 title: "QS与THE排名在人文社科领域的评价差异与争议"
 description: "In the 2025 QS World University Rankings by Subject, the University of Oxford secured the top spot in English Language and Literature, while Harvard Universi…"
 category: "QS与THE排名在人文社"
-pubDatetime: 2026-03-12T18:05:44Z
+pubDatetime: "2026-03-12T18:05:44Z"
 publishDate: '2026-03-12T18:05:44Z'
 readingTime: 3
 tags: ["featured"]

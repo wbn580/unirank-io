@@ -2,7 +2,7 @@
 title: "Does a Higher University Ranking Guarantee a Higher Return on Tuition Investment"
 description: "The global cost of a four-year undergraduate degree at a top-tier private US university now exceeds USD 320,000 when factoring in tuition, fees, and living e…"
 category: "Does"
-pubDatetime: 2026-04-27T18:17:08Z
+pubDatetime: "2026-04-27T18:17:08Z"
 publishDate: '2026-04-27T18:17:08Z'
 readingTime: 9
 tags: ["featured"]

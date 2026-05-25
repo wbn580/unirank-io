@@ -2,7 +2,7 @@
 title: "Best Asian Universities for Engineering Based on 2025 Subject Rankings"
 description: "In the 2025 QS World University Rankings by Subject, engineering disciplines across Asia have recorded measurable gains, with 47 institutions now ranking ins…"
 category: "Best"
-pubDatetime: 2026-04-16T18:14:28Z
+pubDatetime: "2026-04-16T18:14:28Z"
 publishDate: '2026-04-16T18:14:28Z'
 readingTime: 10
 tags: ["featured"]

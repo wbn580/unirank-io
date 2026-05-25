@@ -2,7 +2,7 @@
 title: "QS与THE排名中学术声誉调查的样本偏差问题探讨"
 description: "The global university rankings produced by Quacquarelli Symonds (QS) and Times Higher Education (THE) serve as primary reference tools for prospective studen…"
 category: "QS与THE排名中学术声"
-pubDatetime: 2026-03-23T18:08:36Z
+pubDatetime: "2026-03-23T18:08:36Z"
 publishDate: '2026-03-23T18:08:36Z'
 readingTime: 3
 tags: ["featured"]

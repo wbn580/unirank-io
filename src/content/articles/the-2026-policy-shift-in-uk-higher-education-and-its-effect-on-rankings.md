@@ -2,7 +2,7 @@
 title: "The 2026 Policy Shift in UK Higher Education and Its Effect on Rankings"
 description: "The UK government’s 2026 policy recalibration for higher education introduces a new regulatory framework that directly ties institutional funding to graduate…"
 category: "The"
-pubDatetime: 2026-04-17T18:14:31Z
+pubDatetime: "2026-04-17T18:14:31Z"
 publishDate: '2026-04-17T18:14:31Z'
 readingTime: 11
 tags: ["featured"]

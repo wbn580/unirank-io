@@ -2,7 +2,7 @@
 title: "University Rankings 2025 Controversies Surrounding the Times Higher Education Data"
 description: "The 2025 edition of the Times Higher Education (THE) World University Rankings, released in October 2024, has ignited a firestorm of debate within the global…"
 category: "University"
-pubDatetime: 2026-05-12T18:21:12Z
+pubDatetime: "2026-05-12T18:21:12Z"
 publishDate: '2026-05-12T18:21:12Z'
 readingTime: 9
 tags: ["featured"]

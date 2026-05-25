@@ -2,7 +2,7 @@
 title: "Why Some Universities Drop in Rankings Despite Improving Their Facilities"
 description: "A university invests $150 million in a new science complex, upgrades its campus Wi-Fi to handle 50,000 simultaneous connections, and renovates student housin…"
 category: "Why"
-pubDatetime: 2026-04-17T18:14:40Z
+pubDatetime: "2026-04-17T18:14:40Z"
 publishDate: '2026-04-17T18:14:40Z'
 readingTime: 9
 tags: ["featured"]

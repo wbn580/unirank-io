@@ -6,7 +6,7 @@ publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: global-university-rankings-data-pitfalls-review
 ogImage: 'https://img.ulec.com.cn/留学-大学排名/global-university-rankings-data-pitfalls-review-2026-1880x1253.jpg'
-tags: []
+tags:
   - '全球大学排名'
   - '数据采集误区'
   - '引用指标'

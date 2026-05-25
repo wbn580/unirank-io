@@ -2,7 +2,7 @@
 title: "How University Rankings Influence the Distribution of International Aid Grants"
 description: "International aid grants for higher education — funds disbursed by bilateral donors, multilateral development banks, and private foundations to support stude…"
 category: "How"
-pubDatetime: 2026-05-06T18:19:38Z
+pubDatetime: "2026-05-06T18:19:38Z"
 publishDate: '2026-05-06T18:19:38Z'
 readingTime: 7
 tags: ["featured"]

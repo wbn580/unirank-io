@@ -2,7 +2,7 @@
 title: "University Rankings 2025 Why Small Subject Specific Schools Often Get Overlooked"
 description: "In the 2025 cycle of global university rankings, the four dominant systems—QS World University Rankings, Times Higher Education (THE) World University Rankin…"
 category: "University"
-pubDatetime: 2026-04-27T18:17:06Z
+pubDatetime: "2026-04-27T18:17:06Z"
 publishDate: '2026-04-27T18:17:06Z'
 readingTime: 10
 tags: ["featured"]

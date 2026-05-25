@@ -2,7 +2,7 @@
 title: "Top Five Resources for Tracking Real Time Changes in University Rankings"
 description: "University rankings are no longer static annual lists; they are dynamic datasets that shift as institutions publish new research output, faculty appointments…"
 category: "Top"
-pubDatetime: 2026-04-20T18:15:18Z
+pubDatetime: "2026-04-20T18:15:18Z"
 publishDate: '2026-04-20T18:15:18Z'
 readingTime: 7
 tags: ["featured"]

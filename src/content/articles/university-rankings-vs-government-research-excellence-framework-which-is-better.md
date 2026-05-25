@@ -2,7 +2,7 @@
 title: "University Rankings vs Government Research Excellence Framework Which Is Better"
 description: "For a prospective international student or a research-minded applicant, the choice between consulting a **global university ranking** (QS, THE, US News, ARWU…"
 category: "University"
-pubDatetime: 2026-05-18T18:22:30Z
+pubDatetime: "2026-05-18T18:22:30Z"
 publishDate: '2026-05-18T18:22:30Z'
 readingTime: 9
 tags: ["featured"]

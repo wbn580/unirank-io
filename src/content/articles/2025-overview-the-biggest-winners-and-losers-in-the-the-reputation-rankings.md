@@ -2,7 +2,7 @@
 title: "2025 Overview: The Biggest Winners and Losers in the THE Reputation Rankings"
 description: "The 2025 Times Higher Education (THE) World Reputation Rankings, released in February 2025, reveal a pronounced shift in the global landscape of academic pre…"
 category: "2025"
-pubDatetime: 2026-04-14T18:13:58Z
+pubDatetime: "2026-04-14T18:13:58Z"
 publishDate: '2026-04-14T18:13:58Z'
 readingTime: 10
 tags: ["featured"]

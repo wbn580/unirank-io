@@ -2,7 +2,7 @@
 title: "How to Use University Rankings to Build a Balanced College Application List"
 description: "A single global university ranking rarely tells the full story of institutional fit or academic opportunity. The QS World University Rankings 2025 evaluated …"
 category: "How"
-pubDatetime: 2026-04-07T18:12:15Z
+pubDatetime: "2026-04-07T18:12:15Z"
 publishDate: '2026-04-07T18:12:15Z'
 readingTime: 8
 tags: ["featured"]

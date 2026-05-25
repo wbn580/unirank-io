@@ -2,7 +2,7 @@
 title: "The 2025 Shift in THE Methodology Toward Digital Education Indicators"
 description: "On 20 November 2024, Times Higher Education (THE) published the 2025 World University Rankings methodology, introducing a new **Digital Education Indicators*…"
 category: "The"
-pubDatetime: 2026-05-06T18:19:43Z
+pubDatetime: "2026-05-06T18:19:43Z"
 publishDate: '2026-05-06T18:19:43Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Best South American Universities for Engineering Based on 2025 ARWU Data"
 description: "The 2025 Academic Ranking of World Universities (ARWU), published by ShanghaiRanking Consultancy, placed 37 South American institutions among the global top …"
 category: "Best"
-pubDatetime: 2026-05-02T18:18:34Z
+pubDatetime: "2026-05-02T18:18:34Z"
 publishDate: '2026-05-02T18:18:34Z'
 readingTime: 7
 tags: ["featured"]
