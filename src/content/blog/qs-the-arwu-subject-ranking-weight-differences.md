@@ -5,7 +5,7 @@ pubDatetime: '2026-05-26T00:00:00Z'
 publishDate: '2026-05-26T00:00:00Z'
 modDatetime: '2026-05-26T00:00:00Z'
 slug: qs-the-arwu-subject-ranking-weight-differences
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/qs-the-arwu-subject-ranking-weight-differences-2026-1880x1059.jpg'
+ogImage: 'https://img.unirank.io/留学-大学排名/qs-the-arwu-subject-ranking-weight-differences-2026-1880x1059.jpg'
 tags:
   - 'QS排名'
   - 'THE排名'
@@ -53,7 +53,7 @@ ARWU在理工科赛道则展现出强大的统治力。以“软科世界一流�
 
 ## 医学与生命科学：诺奖驱动与临床声誉的对决
 
-![unirank-io 配图](https://img.ulec.com.cn/留学-大学排名/qs-the-arwu-subject-ranking-weight-differences-2026-1880x1059.jpg)
+![unirank-io 配图](https://img.unirank.io/留学-大学排名/qs-the-arwu-subject-ranking-weight-differences-2026-1880x1059.jpg)
 
 医学、临床医学、药学等生命科学学科，对排名指标尤其敏感。QS在医学学科中，学术声誉通常接近40%，雇主声誉约10%，引用和H指数占25%-30%。此外，QS医学排名会微妙地受限于院校是否拥有大规模附属医院和临床声誉，而这往往通过全球学者的认知反映出来。THE则将教学环境提升至约27%以上，强调医学教育质量和研究影响力并重，那些医学本科教育体系完善的院校，如牛津、剑桥、卡罗林斯卡医学院，表现非常稳定。
 
@@ -87,7 +87,7 @@ ARWU学科排名极度依赖高被引论文、国际奖项与顶尖期刊发表�
 
 ## 总结：在分歧中寻找属于自己的坐标系
 
-![unirank-io 配图](https://img.ulec.com.cn/留学-大学排名/qs-the-arwu-subject-ranking-weight-differences-2026-1880x1253.jpg)
+![unirank-io 配图](https://img.unirank.io/留学-大学排名/qs-the-arwu-subject-ranking-weight-differences-2026-1880x1253.jpg)
 
 QS、THE与ARWU的学科排名，本身就像三种不同投影方式绘制的地图，每一幅都准确，但没有任何一幅能完整呈现地形全貌。**对比QS、THE、ARWU三大排名在学科领域的指标权重差异**，我们能够清晰地看到，人文、理工、医学等学科在各自知识生产和声誉积累的道路上截然不同，而每一个排名体系，只不过是用自己的镜头捕捉到了其中某几道光。
 

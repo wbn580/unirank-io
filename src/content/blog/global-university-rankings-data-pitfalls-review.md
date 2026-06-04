@@ -5,7 +5,7 @@ pubDatetime: '2026-05-23T00:00:00Z'
 publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: global-university-rankings-data-pitfalls-review
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/global-university-rankings-data-pitfalls-review-2026-1880x1253.jpg'
+ogImage: 'https://img.unirank.io/留学-大学排名/global-university-rankings-data-pitfalls-review-2026-1880x1253.jpg'
 tags:
   - '全球大学排名'
   - '数据采集误区'
@@ -89,7 +89,7 @@ QS、THE、U.S. News 和软科等全球大学排名早已成为留学申请、�
 
 ## 结语：让排名回归工具而非信仰
 
-![unirank-io 配图](https://img.ulec.com.cn/留学-大学排名/global-university-rankings-data-pitfalls-review-2026-1880x1253.jpg)
+![unirank-io 配图](https://img.unirank.io/留学-大学排名/global-university-rankings-data-pitfalls-review-2026-1880x1253.jpg)
 
 
 **复盘全球大学排名中数据采集、标准化与权重计算的常见误区**，让我们清晰地看到，每一个漂亮的排名数字背后，是定义变通、权重妥协、报送策略和算法假设共同作用的结果。引用指标口径不一致、历史数据断层、自引操纵等数据陷阱，并非偶发性的小漏洞，而是深嵌在排名工业流程里的结构性产物。研究者需要这些陷阱保持方法论清醒，避免在学术评价中误判；申请者则更需要穿透排名的光环，坚持基于自身真实需求进行择校决策。只有将排名请下神坛，还原其作为有限信息集的本来面目，才能真正**理解排名背后的数据陷阱，提升决策质量**。

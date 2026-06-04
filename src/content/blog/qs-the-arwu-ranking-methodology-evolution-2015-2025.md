@@ -5,7 +5,7 @@ pubDatetime: '2026-05-25T00:00:00Z'
 publishDate: '2026-05-25T00:00:00Z'
 modDatetime: '2026-05-25T00:00:00Z'
 slug: qs-the-arwu-ranking-methodology-evolution-2015-2025
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/qs-the-arwu-ranking-methodology-evolution-2015-2025-2026-1880x1253.jpg'
+ogImage: 'https://img.unirank.io/留学-大学排名/qs-the-arwu-ranking-methodology-evolution-2015-2025-2026-1880x1253.jpg'
 tags:
   - 'QS排名'
   - 'THE排名'
@@ -50,7 +50,7 @@ ARWU的纯科研导向意味着它几乎完全奖励研究型大学，尤其是�
 
 ## 核心指标横向对比：声誉、师均引用、国际化权重升降图谱
 
-![unirank-io 配图](https://img.ulec.com.cn/留学-大学排名/qs-the-arwu-ranking-methodology-evolution-2015-2025-2026-1880x1253.jpg)
+![unirank-io 配图](https://img.unirank.io/留学-大学排名/qs-the-arwu-ranking-methodology-evolution-2015-2025-2026-1880x1253.jpg)
 
 
 从2015到2025年，学术声誉的权重在三大排名中呈现出分化走势。QS将学术声誉从40%直降至30%，而THE仍然通过教学声誉15%和研究声誉18%合计维持33%的声誉相关比重。ARWU则不使用任何主观声誉调查，完全依赖硬性科研成果。这一变化反映出对主观评价的依赖在QS中明显退潮，而THE仍旧视声誉调查为稳定参照系。
@@ -84,7 +84,7 @@ ARWU重纯科研，发文量大、拥有诺奖级师资的理工科学霸校得�
 
 ## 总结：动态排名中的不变逻辑
 
-![unirank-io 配图](https://img.ulec.com.cn/留学-大学排名/qs-the-arwu-ranking-methodology-evolution-2015-2025-2026-1880x1253.jpg)
+![unirank-io 配图](https://img.unirank.io/留学-大学排名/qs-the-arwu-ranking-methodology-evolution-2015-2025-2026-1880x1253.jpg)
 
 
 回望2015-2025十年脉络，QS、THE、ARWU三大排名指标体系与权重的演变揭示了一条清晰线索：排名正从象牙塔内部的学术闭环，走向兼顾社会问责、就业转化与可持续影响的开放系统。学术声誉的削弱、就业与可持续发展指标的上升、师均引用和国际化维度的细化，无不是这种价值重心的投射。对于申请者，没有唯一正确的排名，只有最贴合个人学业与职业目标的评判标尺；对于大学决策层，今天对指标的清醒解构，就是明天战略规划中最有价值的航向校正。理解指标背后的逻辑，远比记住一个名次重要。

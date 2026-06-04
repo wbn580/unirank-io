@@ -5,7 +5,7 @@ pubDatetime: '2026-05-22T00:00:00Z'
 publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: qs-vs-the-rankings-data-indicators-scoring-methodology
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/qs-vs-the-rankings-data-indicators-scoring-methodology-2026-1880x1253.jpg'
+ogImage: 'https://img.unirank.io/留学-大学排名/qs-vs-the-rankings-data-indicators-scoring-methodology-2026-1880x1253.jpg'
 tags:
   - 'QS排名'
   - 'THE排名'
@@ -51,7 +51,7 @@ THE在数据处理上更为繁复。其对大部分定量指标采用Z分数标�
 
 ## 5. 核心差异如何重塑排名版图：现象与案例
 
-![unirank-io 配图](https://img.ulec.com.cn/留学-大学排名/qs-vs-the-rankings-data-indicators-scoring-methodology-2026-1880x1253.jpg)
+![unirank-io 配图](https://img.unirank.io/留学-大学排名/qs-vs-the-rankings-data-indicators-scoring-methodology-2026-1880x1253.jpg)
 
 
 以几类典型院校为例，可以更清晰地看到指标与评分机制差异引发的排名位移。首先，规模小但研究极尖的加州理工学院，往往在THE排名中雄踞前列，因为其人均研究表现和引用影响力无出其右；但在QS中，由于师生比一项已足够亮眼，却可能因体量小在声誉调查的绝对数量上落后于综合型巨无霸，导致位次被稀释。其次，拥有强大企业合作网络的德国、瑞士工科院校，在QS的雇主声誉中表现突出，有力拔高了整体名次；而在THE中，它们只有在行业收入这2.5%上获得少许加分，整体排名依赖研究收入与论文产出。亚洲新兴高校则因为大量国际合作论文和强劲的引用增长，在THE的30%引用权重下进步迅猛，但若在QS的学术声誉调查中缺乏历史积累，排名就会出现时间差。
@@ -83,7 +83,7 @@ A：上海软科世界大学学术排名（ARWU）以客观学术奖项和论文
 
 ## 总结
 
-![unirank-io 配图](https://img.ulec.com.cn/留学-大学排名/qs-vs-the-rankings-data-indicators-scoring-methodology-2026-1880x1253.jpg)
+![unirank-io 配图](https://img.unirank.io/留学-大学排名/qs-vs-the-rankings-data-indicators-scoring-methodology-2026-1880x1253.jpg)
 
 
 QS与THE两大排名体系，本质上是不同价值观的量表。QS以雇主和学术共同体的口碑为轴心，辅以师生比等教学资源指标，为学生提供了面向职场和的学习体验的参考系；THE则深入教学环境、研究收入和论文影响力，描绘出一幅以科研为核心的大学实力图谱。通过对数据来源、指标权重与评分机制的系统拆解，我们得以看透分数的底色，理解排名背后的逻辑。申请者唯有摒弃“唯排名论”，将这些差异转化为与个人目标的匹配工具，才能拨开数据的迷雾，做出真正理性的选校决策。
