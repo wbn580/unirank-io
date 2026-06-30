@@ -32,7 +32,7 @@ The **industry income** indicator in THE (4% for computer science) measures the 
 
 QS’s **employer reputation** indicator (15% in computer science) is derived from a separate survey of graduate employers who identify the universities producing the best graduates in each field. The 2024 QS employer survey collected over 75,000 responses globally [QS 2025, Methodology]. This metric directly reflects how companies perceive a program’s graduate quality, which is particularly relevant for computer science students entering the tech job market.
 
-For international families managing the financial logistics of studying abroad, cross-border tuition payments can be a practical concern. Some institutions offer payment portals or partner with services like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to help international students settle fees in their home currency while avoiding high bank transfer fees.
+For international families managing the financial logistics of studying abroad, cross-border tuition payments can be a practical concern. Some institutions offer payment portals or partner with services like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/qs-vs-the%E6%8E%92%E5%90%8D%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E9%A2%86%E5%9F%9F%E7%9A%84%E6%8C%87%E6%A0%87%E6%9D%83%E9%87%8D%E5%AF%B9%E6%AF%94) to help international students settle fees in their home currency while avoiding high bank transfer fees.
 
 ## International Outlook and Research Network
 

@@ -16,7 +16,7 @@ The most immediate pressure point for **citation-based metrics**—which account
 
 THE has already signaled a potential adjustment: its 2025 methodology consultation paper proposed excluding papers flagged by automated AI-detection software from the “research influence” calculation [Times Higher Education, 2024, Methodology Consultation Document]. A similar move by QS would affect the “citations per faculty” indicator, which currently rewards institutions with high raw citation counts regardless of provenance. The University of Cambridge reported a 14% year-over-year increase in faculty publications in 2024, partly attributed to AI-assisted writing tools [University of Cambridge, 2024, Annual Research Report]. Without a citation-quality filter, such increases could artificially boost an institution’s rank.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the larger concern remains whether a degree from a high-ranking university retains its signal value if the research underpinning that rank is partly machine-generated.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/the-2026-outlook-for-university-rankings-in-a-post-chatgpt-academic-world) to settle fees, but the larger concern remains whether a degree from a high-ranking university retains its signal value if the research underpinning that rank is partly machine-generated.
 
 ## Teaching Quality and the Student-to-Staff Ratio Dilemma
 

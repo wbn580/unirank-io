@@ -64,7 +64,7 @@ For international students and their families, the variation in how ranking syst
 
 ### The Role of National Rankings and Institutional Data
 
-National ranking systems often provide more granular student-to-faculty data. The U.S. News Best Colleges ranking, for instance, includes the ratio at 1% for national universities, while the Times Higher Education Japan University Rankings uses a 15% weight for the student-to-staff ratio. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. Prospective students should also consult institutional Common Data Sets, which report the ratio by level (undergraduate vs. graduate) and by department, offering a more nuanced picture than any single ranking.
+National ranking systems often provide more granular student-to-faculty data. The U.S. News Best Colleges ranking, for instance, includes the ratio at 1% for national universities, while the Times Higher Education Japan University Rankings uses a 15% weight for the student-to-staff ratio. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-student-to-faculty-ratios-vary-significantly-across-ranking-systems) to settle fees. Prospective students should also consult institutional Common Data Sets, which report the ratio by level (undergraduate vs. graduate) and by department, offering a more nuanced picture than any single ranking.
 
 ### A Framework for Cross-System Comparison
 

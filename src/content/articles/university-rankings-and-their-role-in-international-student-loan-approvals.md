@@ -28,7 +28,7 @@ Academic reputation scores (from surveys of professors) ranked second, while res
 
 The financial impact of crossing a ranking threshold can be substantial. For a typical $50,000 international student loan with a 10-year repayment term, a 0.75% interest rate difference—the tier mentioned in the Canadian example—translates to approximately $2,100 in additional interest over the life of the loan. For a $100,000 loan, that figure rises to $4,200.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while ensuring transparent exchange rates and timely delivery to the institution. This operational efficiency complements the financial planning involved in loan structuring.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/university-rankings-and-their-role-in-international-student-loan-approvals) to settle fees while ensuring transparent exchange rates and timely delivery to the institution. This operational efficiency complements the financial planning involved in loan structuring.
 
 ## The Four Major Ranking Systems and Their Loan Relevance
 

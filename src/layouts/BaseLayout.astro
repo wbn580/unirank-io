@@ -1,5 +1,5 @@
 ---
-import Header from '../components/Header.astro';
+import SidebarRail from '../components/SidebarRail.astro';
 import Footer from '../components/Footer.astro';
 import BaseHead from '../components/BaseHead.astro';
 
@@ -35,10 +35,12 @@ const {
     </style>
   </head>
   <body>
-    <Header />
-    <main>{Astro.slot}</main>
-    <Footer />
-    <!-- Per-site widget -->
-    <script src="https://chat.unirank.io/assistant.js" defer></script>
-  </body>
+    <SidebarRail />
+    <div class="main">
+      <slot />
+      <Footer />
+    </div>
+    <!-- 留资入口中心化组件（吸底两按钮 + 桌面药丸 + 文中图片卡） -->
+    <script src="https://chat.unirank.io/lead.js" data-site="unirank-io" data-lang="en" data-apply-base="https://apply.unirank.io" async></script>
+</body>
 </html>

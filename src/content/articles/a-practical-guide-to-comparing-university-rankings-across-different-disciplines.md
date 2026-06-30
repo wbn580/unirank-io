@@ -34,7 +34,7 @@ In the 2024 cycle, QS collected approximately 49,000 employer survey responses, 
 
 Because QS does not publish absolute employment rates per subject, applicants should supplement the QS employer score with national graduate outcome surveys. For example, the UK’s Graduate Outcomes survey (published by HESA) reports that 91.2% of computer science graduates from Russell Group institutions were in employment or further study 15 months after graduation in 2022/23, compared with 85.7% from non-Russell Group universities [HESA, 2024, Graduate Outcomes Data]. Combining QS employer reputation rankings with such national data yields a more complete picture than either source alone.
 
-For cross-border tuition payments to institutions identified through this process, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with transparent exchange rates.
+For cross-border tuition payments to institutions identified through this process, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/a-practical-guide-to-comparing-university-rankings-across-different-disciplines) to settle fees with transparent exchange rates.
 
 ## Decoding THE Subject Rankings for Research-Intensive Fields
 

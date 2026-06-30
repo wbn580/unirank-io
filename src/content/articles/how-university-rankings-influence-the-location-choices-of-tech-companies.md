@@ -44,7 +44,7 @@ Canada's Global Talent Stream visa program, launched in 2017, prioritizes worker
 
 ### Cross-Border R&D Networks
 
-Multinational tech corporations increasingly establish "bridge" campuses—small R&D offices in cities with top-ranked universities outside their home country. For cross-border tuition payments for international students who later join these firms, some families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. A 2024 survey by the World Bank indicated that 62% of such bridge campuses were located within a 10-minute walk of a top-100 ranked university (QS)[10].
+Multinational tech corporations increasingly establish "bridge" campuses—small R&D offices in cities with top-ranked universities outside their home country. For cross-border tuition payments for international students who later join these firms, some families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-university-rankings-influence-the-location-choices-of-tech-companies) to settle fees. A 2024 survey by the World Bank indicated that 62% of such bridge campuses were located within a 10-minute walk of a top-100 ranked university (QS)[10].
 
 ## The Feedback Loop: Corporate Presence Boosts University Rankings
 

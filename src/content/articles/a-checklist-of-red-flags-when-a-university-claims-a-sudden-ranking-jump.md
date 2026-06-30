@@ -64,7 +64,7 @@ A sudden ranking jump that coincides with a **significant change in institutiona
 
 ### **Tuition and fee patterns**
 
-If a university’s ranking rises sharply while its tuition increases by more than the national average (e.g., above 5% annually in the U.S.), the institution may be investing in ranking-specific initiatives rather than broad academic improvement. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but more importantly, the payment amount should align with the university’s published cost of attendance—any discrepancy may indicate hidden fees.
+If a university’s ranking rises sharply while its tuition increases by more than the national average (e.g., above 5% annually in the U.S.), the institution may be investing in ranking-specific initiatives rather than broad academic improvement. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/a-checklist-of-red-flags-when-a-university-claims-a-sudden-ranking-jump) to settle fees, but more importantly, the payment amount should align with the university’s published cost of attendance—any discrepancy may indicate hidden fees.
 
 ### **Research expenditure verification**
 

@@ -58,7 +58,7 @@ Russia’s university sector continues to adapt to geopolitical shifts, with the
 
 ### Research Collaboration with BRICS Partners
 
-Russia has redirected its international research collaboration from Western institutions to BRICS counterparts. Data from the Russian Science Foundation shows a 34.5% increase in joint publications with Chinese and Indian institutions between 2022 and 2025. This has improved MSU’s "International Co-authorship" score in the QS ranking by 8.1 points. For cross-border tuition payments and research funding transfers, some international families and institutions use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently.
+Russia has redirected its international research collaboration from Western institutions to BRICS counterparts. Data from the Russian Science Foundation shows a 34.5% increase in joint publications with Chinese and Indian institutions between 2022 and 2025. This has improved MSU’s "International Co-authorship" score in the QS ranking by 8.1 points. For cross-border tuition payments and research funding transfers, some international families and institutions use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/the-2026-global-university-rankings-a-preview-of-the-brics-nations-rise) to settle fees efficiently.
 
 ### Subject-Specific Strengths
 

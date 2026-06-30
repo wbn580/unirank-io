@@ -1,0 +1,26 @@
+<aside class="rail">
+  <a href="/" class="mk">UR</a>
+  <a href="/category/qs-rankings/" class="ri" title="QS">🏆</a>
+  <a href="/category/the-rankings/" class="ri" title="THE">📊</a>
+  <a href="/category/arwu-rankings/" class="ri" title="ARWU">🔬</a>
+  <a href="/category/methodology/" class="ri" title="Methodology">⚙️</a>
+  <a href="/category/data-analysis/" class="ri" title="Data">📈</a>
+  <a href="/about/" class="ri" title="About">📋</a>
+</aside>
+
+<div class="topbar" id="topbar">
+  <b>UniRank</b>
+  <div class="lks">
+    <a href="/category/qs-rankings/">QS</a>
+    <a href="/category/the-rankings/">THE</a>
+    <a href="/category/arwu-rankings/">ARWU</a>
+    <a href="/category/methodology/">Methodology</a>
+  </div>
+</div>
+
+<script>
+  const tb = document.getElementById('topbar');
+  addEventListener('scroll', () => {
+    tb.classList.toggle('scrolled', scrollY > innerHeight * 0.7);
+  }, { passive: true });
+</script>

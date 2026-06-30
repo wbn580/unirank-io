@@ -58,7 +58,7 @@ For instance, THE’s “Faculty-to-Student Ratio” (30% of teaching score) ref
 
 ### Tuition Revenue and International Dependency
 
-Institutions heavily reliant on international tuition fees—common in Australia, the UK, and Canada—saw the sharpest revenue declines. The **Australian National University** reported a 13.5% drop in total revenue in 2021, leading to a freeze in research hiring that still affects its research output metrics in 2025 [ANU, 2022, Annual Report]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently, but the underlying financial health of the institution remains a critical factor in interpreting its ranking trajectory.
+Institutions heavily reliant on international tuition fees—common in Australia, the UK, and Canada—saw the sharpest revenue declines. The **Australian National University** reported a 13.5% drop in total revenue in 2021, leading to a freeze in research hiring that still affects its research output metrics in 2025 [ANU, 2022, Annual Report]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-the-covid-legacy-continues-to-affect-university-ranking-metrics-in-2025) to settle fees efficiently, but the underlying financial health of the institution remains a critical factor in interpreting its ranking trajectory.
 
 ## What This Means for 2025 Applicants and Strategists
 

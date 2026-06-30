@@ -5,25 +5,26 @@ import { getCollection } from 'astro:content';
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime());
 
-const featured = articles.slice(0, 8);
+const featured = articles.slice(0, 5);
+
 const categories = [
-    { slug: 'qs-rankings', name: 'QS Rankings', desc: 'QS Rankings' },
-    { slug: 'the-rankings', name: 'THE Rankings', desc: 'THE Rankings' },
-    { slug: 'arwu-rankings', name: 'ARWU Rankings', desc: 'ARWU Rankings' },
-    { slug: 'methodology', name: 'Methodology', desc: 'Methodology' },
-    { slug: 'data-analysis', name: 'Data Analysis', desc: 'Data Analysis' },
+    { slug: 'qs-rankings', name: 'QS Rankings', desc: 'QS World University Rankings analysis and insights', ic: '🏆' },
+    { slug: 'the-rankings', name: 'THE Rankings', desc: 'Times Higher Education deep dives', ic: '📊' },
+    { slug: 'arwu-rankings', name: 'ARWU Rankings', desc: 'Academic ranking insights', ic: '🔬' },
+    { slug: 'methodology', name: 'Methodology', desc: 'How rankings are calculated and what they measure', ic: '⚙️' },
+    { slug: 'data-analysis', name: 'Data Analysis', desc: 'Statistical breakdowns of ranking data', ic: '📈' },
 ];
 
 const homeSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: 'University Rankings',
+  name: 'UniRank — University Rankings Decoded',
   url: 'https://unirank.io',
-  description: 'Data-driven analysis of global university rankings — compare QS, THE, ARWU, and US News methodologies. Understand what rankings really measure and make informed decisions.',
+  description: 'Data-driven analysis of global university rankings — compare QS, THE, ARWU, and US News methodologies.',
   inLanguage: 'en',
   potentialAction: {
     '@type': 'SearchAction',
-    target: 'https://unirank.io/?q={{search_term_string}}',
+    target: 'https://unirank.io/?q={search_term_string}',
     'query-input': 'required name=search_term_string',
   },
 });
@@ -35,48 +36,113 @@ const homeSchema = JSON.stringify({
   schema={homeSchema}
 >
   <!-- Hero -->
-  <section class="max-w-5xl mx-auto px-6 pt-16 pb-12 text-center">
-    <p class="chapter-num text-aus-green text-lg mb-3">I</p>
-    <h1 class="font-heading text-4xl md:text-5xl text-aus-ink font-bold leading-tight mb-4">
-      University Rankings, Decoded
-    </h1>
-    <p class="text-xl text-aus-muted mb-6 font-heading">
-      Independent analysis of global ranking systems
-    </p>
-    <p class="max-w-2xl mx-auto text-aus-muted leading-relaxed">
-      We analyze university ranking methodologies across QS, THE, ARWU, and US News to help students, researchers, and administrators understand what the numbers actually mean. Every article is evidence-based, citing original ranking data and peer-reviewed research.
-    </p>
-  </section>
+  <header class="hero">
+    <div class="hero-in">
+      <span class="eyebrow">Global University Rankings Authority</span>
+      <h1>University rankings<br><em>decoded by the data</em></h1>
+      <p class="lead">Independent analysis across QS THE ARWU and U.S. News to show what the numbers actually measure — for students researchers and administrators.</p>
+      <div class="btns">
+        <a href="/category/methodology/" class="btn-solid pri">Explore methodology</a>
+        <a href="/category/qs-rankings/" class="btn-solid ghost">latest_analysis()</a>
+      </div>
+    </div>
+    <div class="cue">// scroll</div>
+  </header>
 
-  <!-- Categories -->
-  <section class="max-w-5xl mx-auto px-6 pb-16">
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {categories.map(cat => (
-        <a
-          href={`/category/${cat.slug}/`}
-          class="block p-5 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
-        >
-          <h2 class="font-heading text-lg text-aus-ink font-bold group-hover:text-aus-red transition-colors">{cat.name}</h2>
-          <p class="text-sm text-aus-muted mt-1">{cat.desc}</p>
+  <!-- Stats bar -->
+  <div class="stats">
+    <div><div class="n">4</div><div class="l">Ranking Systems</div></div>
+    <div><div class="n">{articles.length}</div><div class="l">Analyses</div></div>
+    <div><div class="n">100%</div><div class="l">Independent</div></div>
+  </div>
+
+  <!-- Categories Bento -->
+  <section>
+    <div class="wrap">
+      <div class="sh">
+        <div class="kick">// ranking systems</div>
+        <h2>Compare rankings across dimensions</h2>
+        <p>We break down QS THE ARWU and U.S. News — methodologies results and what each system quietly prioritises.</p>
+      </div>
+      <div class="bento">
+        <a class="bx big" href="/category/methodology/">
+          <div>
+            <div class="ic">⚙️</div>
+            <h3>How rankings really work</h3>
+            <p>A deep dive into methodology — which indicators matter and how they are weighted.</p>
+          </div>
+          <div class="num">04</div>
         </a>
-      ))}
+        {categories.slice(0, 3).map(cat => (
+          <a class="bx" href={`/category/${cat.slug}/`}>
+            <div class="ic">{cat.ic}</div>
+            <h3>{cat.name}</h3>
+            <p>{cat.desc}</p>
+          </a>
+        ))}
+        <div class="bx stat">
+          <div class="n">{articles.length}</div>
+          <p>Articles published</p>
+        </div>
+        {categories.slice(3).map(cat => (
+          <a class="bx" href={`/category/${cat.slug}/`}>
+            <div class="ic">{cat.ic}</div>
+            <h3>{cat.name}</h3>
+            <p>{cat.desc}</p>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 
-  <!-- Featured Articles -->
-  <section class="max-w-5xl mx-auto px-6 pb-20">
-    <h2 class="font-heading text-2xl text-aus-ink font-bold mb-8">Latest Analysis</h2>
-    <div class="grid md:grid-cols-2 gap-6">
-      {featured.map(article => (
-        <a
-          href={`/${article.id}/`}
-          class="block p-6 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
-        >
-          <span class="text-xs text-aus-green uppercase tracking-wide">{article.data.category}</span>
-          <h3 class="font-heading text-xl text-aus-ink font-bold mt-1 mb-2 group-hover:text-aus-red transition-colors">{article.data.title}</h3>
-          <p class="text-sm text-aus-muted leading-relaxed">{article.data.description}</p>
-        </a>
-      ))}
-    </div>
-  </section>
+  <!-- Latest Articles -->
+  {featured.length > 0 && (
+    <section style="background:var(--color-ur-panel);border-block:1px solid var(--color-ur-line)">
+      <div class="wrap">
+        <div class="sh">
+          <div class="kick">// latest</div>
+          <h2>Latest analysis</h2>
+          <p>Data first editorial second.</p>
+        </div>
+        <div class="agrid">
+          {featured.map((entry, i) => {
+            const catSlug = entry.data.category;
+            const catName = catSlug ? (catSlug.length > 30 ? catSlug.slice(0, 30) + '…' : catSlug) : 'Article';
+            const catIc = '📄';
+            const dateStr = entry.data.publishDate
+              ? new Date(entry.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short' })
+              : '';
+            const readTime = entry.data.readingTime ? `${entry.data.readingTime}_min_read` : '';
+
+            if (i === 0) {
+              return (
+                <a class="ac feat" href={`/${entry.id}/`}>
+                  <div class="th">{catIc}</div>
+                  <div class="bd">
+                    <span class="tag" style="position:static;display:inline-block;margin-bottom:10px">{catName}</span>
+                    <h3>{entry.data.title}</h3>
+                    <p>{entry.data.description || ''}</p>
+                    <div class="m2">UniRank &middot; {dateStr}</div>
+                  </div>
+                </a>
+              );
+            }
+            return (
+              <a class="ac" href={`/${entry.id}/`}>
+                <div class="th">
+                  <span class="tag">{catName}</span>
+                  {catIc}
+                </div>
+                <div class="bd">
+                  <h3>{entry.data.title}</h3>
+                  <p>{entry.data.description || ''}</p>
+                  <div class="m2">{readTime || dateStr}</div>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  )}
 </BaseLayout>

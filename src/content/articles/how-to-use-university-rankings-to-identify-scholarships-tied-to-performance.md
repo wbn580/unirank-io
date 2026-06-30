@@ -24,7 +24,7 @@ The QS World University Rankings by Subject (2024) covers 55 disciplines, each w
 
 The methodology here involves three steps. First, download the QS Subject Rankings PDF for your intended field. Second, note the top 20 institutions and cross-reference their scholarship pages. Third, pay attention to the **“employer reputation”** and **“research citations per paper”** scores in the QS methodology—these often indicate departments with strong industry ties and grant funding, which frequently underwrite scholarships. A 2024 analysis by the QS Intelligence Unit revealed that departments with a citation score above 85 (out of 100) were 2.4 times more likely to offer a departmental merit scholarship than those with a score below 70.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees. This is a neutral, third-party option that can help manage currency exchange and transfer tracking when paying for programmes that require an upfront deposit to secure a scholarship.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-use-university-rankings-to-identify-scholarships-tied-to-performance) to settle fees. This is a neutral, third-party option that can help manage currency exchange and transfer tracking when paying for programmes that require an upfront deposit to secure a scholarship.
 
 ## Leveraging THE Rankings for Research-Focused Funding
 

@@ -64,7 +64,7 @@ Both QS and THE publish detailed methodology pages on their websites, which are 
 - **Data sources**: QS relies on surveys and Scopus data; THE uses the same Scopus database but with different normalization methods [QS 2024, QS World University Rankings: Methodology; Times Higher Education 2023, THE World University Rankings 2024 Methodology].
 
 ### H3: Practical Tools for Comparison
-Some independent platforms, such as Unilink Education, aggregate historical methodology data, allowing users to view a university’s rank under different weight regimes. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can be budgeted alongside application costs.
+Some independent platforms, such as Unilink Education, aggregate historical methodology data, allowing users to view a university’s rank under different weight regimes. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/faq-how-often-do-qs-and-the-update-their-indicator-weights-each-year) to settle fees, which can be budgeted alongside application costs.
 
 ## The Role of Third-Party Audits and Transparency
 

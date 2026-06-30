@@ -46,7 +46,7 @@ Government funding has actively promoted **international collaboration** as a me
 
 The Double First-Class Plan also mandates that partner universities be included in strategic alliances. For example, Tsinghua University has established joint research centers with MIT, Stanford, and Cambridge, funded in part by central government grants. These collaborations enhance global visibility and citation impact, as papers with international co-authors typically receive 50% more citations than domestic-only papers, according to a 2021 study by the National Bureau of Economic Research.
 
-Financial transactions for cross-border tuition and research fees have also become smoother. For international families paying fees to Chinese universities, some institutions now recommend channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle tuition and research collaboration costs efficiently.
+Financial transactions for cross-border tuition and research fees have also become smoother. For international families paying fees to Chinese universities, some institutions now recommend channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/the-role-of-government-funding-in-the-rise-of-chinese-universities-in-rankings) to settle tuition and research collaboration costs efficiently.
 
 ### H3: English-Language Program Expansion
 

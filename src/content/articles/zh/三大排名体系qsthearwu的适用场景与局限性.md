@@ -36,7 +36,7 @@ THE’s normalisation process adjusts for field differences—a paper in mathema
 
 ### Industry Income and Institutional Resources
 
-THE’s 4% industry income indicator measures how much a university earns from private-sector research partnerships. This metric advantages institutions in wealthy countries with strong corporate R&D sectors. For international students paying full tuition, industry income does not directly reflect teaching quality or graduate outcomes. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while tracking exchange rates.
+THE’s 4% industry income indicator measures how much a university earns from private-sector research partnerships. This metric advantages institutions in wealthy countries with strong corporate R&D sectors. For international students paying full tuition, industry income does not directly reflect teaching quality or graduate outcomes. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/%E4%B8%89%E5%A4%A7%E6%8E%92%E5%90%8D%E4%BD%93%E7%B3%BBqsthearwu%E7%9A%84%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B8%8E%E5%B1%80%E9%99%90%E6%80%A7) to settle fees while tracking exchange rates.
 
 ## The ARWU Framework: Objective Metrics and STEM Dominance
 

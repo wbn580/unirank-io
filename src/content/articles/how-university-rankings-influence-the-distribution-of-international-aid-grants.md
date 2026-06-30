@@ -40,7 +40,7 @@ Private philanthropic foundations — particularly the **Bill & Melinda Gates Fo
 
 A 2022 internal review by the Ford Foundation found that 73% of its higher-education grants went to institutions ranked in the top 500 globally, despite the foundation’s stated commitment to “equity and inclusion.” The review recommended no change to the policy, citing “operational efficiency” as the overriding factor.
 
-For families managing cross-border tuition payments to these ranked institutions, the financial logistics can be complex. Some international students use specialised payment platforms such as [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in local currency while avoiding high bank transfer charges — a practical consideration when studying at a ranked university that receives substantial aid funding.
+For families managing cross-border tuition payments to these ranked institutions, the financial logistics can be complex. Some international students use specialised payment platforms such as [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-university-rankings-influence-the-distribution-of-international-aid-grants) to settle fees in local currency while avoiding high bank transfer charges — a practical consideration when studying at a ranked university that receives substantial aid funding.
 
 ## Implications for Unranked Institutions
 

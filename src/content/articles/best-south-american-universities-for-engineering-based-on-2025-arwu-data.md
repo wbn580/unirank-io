@@ -16,7 +16,7 @@ The 2025 Academic Ranking of World Universities (ARWU), published by ShanghaiRan
 
 Brazil’s strength stems from sustained public investment. The federal Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) allocated R$ 4.2 billion (approximately USD 840 million) to graduate engineering programs in 2024, a 7.3% increase over 2023 [CAPES 2024, Annual Report]. This funding supports laboratory infrastructure and international publication incentives. The Universidade Federal do Rio de Janeiro (UFRJ) and the Universidade Federal de Minas Gerais (UFMG) also appear in the global 301–400 band for Civil Engineering and Metallurgical Engineering respectively, reinforcing Brazil’s depth across multiple subfields.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in Brazilian reais without incurring multiple conversion markups.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/best-south-american-universities-for-engineering-based-on-2025-arwu-data) to settle fees in Brazilian reais without incurring multiple conversion markups.
 
 ## Chile’s Engineering Programs Show Strong International Collaboration Metrics
 

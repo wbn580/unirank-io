@@ -32,7 +32,7 @@ For students in the 18–35 age bracket, the ARWU’s pivot toward collaborative
 
 ### Evaluating Collaborative Infrastructure
 
-Applicants are advised to examine not just the overall ARWU score but the sub-score for "International Collaborative Publications," which is published in the full data table. A university ranked 150th globally with a collaborative score in the top 50% of its tier may offer stronger networking potential than a higher-ranked institution with low collaborative output. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, a practical consideration when enrolling in institutions with high international student mobility.
+Applicants are advised to examine not just the overall ARWU score but the sub-score for "International Collaborative Publications," which is published in the full data table. A university ranked 150th globally with a collaborative score in the top 50% of its tier may offer stronger networking potential than a higher-ranked institution with low collaborative output. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/the-2025-arwu-rankings-reveal-a-shift-toward-collaborative-research-models) to settle fees, a practical consideration when enrolling in institutions with high international student mobility.
 
 ## The Citation Paradox: Collaborative Papers Outperform Solo Work
 

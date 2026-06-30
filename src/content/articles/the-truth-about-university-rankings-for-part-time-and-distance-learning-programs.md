@@ -68,7 +68,7 @@ Instead of ranking score, students should examine **employment outcomes by progr
 
 ### Cost-Per-Credit Transparency
 
-Part-time and distance learners often face **higher per-credit costs** due to technology fees and lack of state subsidies. A 2024 analysis by the Education Data Initiative found that online programs at public universities charge an average of $488 per credit for out-of-state students, compared to $412 for in-state full-time students. Students should request a “total cost of completion” from each program, including fees for proctored exams, software licenses, and graduation. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in their local currency.
+Part-time and distance learners often face **higher per-credit costs** due to technology fees and lack of state subsidies. A 2024 analysis by the Education Data Initiative found that online programs at public universities charge an average of $488 per credit for out-of-state students, compared to $412 for in-state full-time students. Students should request a “total cost of completion” from each program, including fees for proctored exams, software licenses, and graduation. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/the-truth-about-university-rankings-for-part-time-and-distance-learning-programs) to settle fees in their local currency.
 
 ## The Future of Rankings and Distance Learning
 

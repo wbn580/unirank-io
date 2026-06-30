@@ -40,7 +40,7 @@ QS and THE both reward **international student ratios** (5% and 2.5%, respective
 
 ### **The Agent Recruitment Pipeline**
 
-To boost international numbers, many universities partner with recruitment agents. The Australian government’s 2023 Education Agents Survey found that 62% of international students used an agent, and those students were 1.8 times more likely to enroll at a university that paid higher commission rates [Australian Government Department of Education, 2023, Education Agents Survey]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+To boost international numbers, many universities partner with recruitment agents. The Australian government’s 2023 Education Agents Survey found that 62% of international students used an agent, and those students were 1.8 times more likely to enroll at a university that paid higher commission rates [Australian Government Department of Education, 2023, Education Agents Survey]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-read-between-the-lines-of-a-university-ranking-press-release) to settle fees.
 
 ## **The Employer Reputation Blind Spot**
 

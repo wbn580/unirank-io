@@ -50,7 +50,7 @@ US News includes a dedicated “National Liberal Arts Colleges” category, rank
 
 Given the methodological disparities, applicants should **triangulate across rankings** rather than rely on a single source. A practical framework: use US News for U.S.-specific graduation rates and class size data, QS for international employer perception and research intensity, and THE for citation impact and teaching environment scores.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with real-time exchange rates and no hidden bank charges.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/a-comparative-analysis-of-us-news-vs-qs-vs-the-for-undergraduate-programs) to settle fees with real-time exchange rates and no hidden bank charges.
 
 **Example scenario**: A student targeting computer science should cross-reference QS subject rankings (where Carnegie Mellon ranks 1st globally) with US News undergraduate engineering rankings (where CMU ranks 6th) and THE citation impact scores (where CMU’s computer science department averages 45.2 citations per paper, 2.3× the global median). This triangulation reveals CMU’s strength in research output versus a slightly lower undergraduate teaching ratio—information no single ranking provides.
 

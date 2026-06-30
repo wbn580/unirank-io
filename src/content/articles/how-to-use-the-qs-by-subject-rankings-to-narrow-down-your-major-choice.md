@@ -58,7 +58,7 @@ The **ARWU (Academic Ranking of World Universities) by Subject**, published by S
 
 The U.S. News & World Report Best Global Universities by Subject uses a similar methodology to QS but includes a 10 percent weight for international collaboration, which QS does not separately measure. For students interested in cross-border research opportunities, a high U.S. News score in a subject may indicate a department with strong global partnerships. A 2022 study by the Institute for Higher Education Policy found that institutions with high international collaboration scores had 23 percent higher rates of PhD placement in international organisations, a relevant factor for students seeking global careers.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in local currency while locking exchange rates, a practical consideration when committing to a program abroad.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-use-the-qs-by-subject-rankings-to-narrow-down-your-major-choice) to settle fees in local currency while locking exchange rates, a practical consideration when committing to a program abroad.
 
 ## FAQ
 

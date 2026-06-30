@@ -46,7 +46,7 @@ Ranking methodologies rely heavily on **survey-based reputation scores** (QS: 50
 
 Analysis of QS survey data from 2019-2023 indicates that the “novelty bump” from a major facility opening lasts approximately 18 months. After that, the institution’s reputation returns to its baseline, which is determined by long-term research output. Meanwhile, competitor universities that continuously produce high-impact papers maintain or grow their reputation scores. The result: a university that spent heavily on facilities may see a one-cycle ranking improvement followed by a decline as the novelty fades and its research metrics remain static.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently, but the core decision should always weigh research trajectory over physical amenities.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/why-some-universities-drop-in-rankings-despite-improving-their-facilities) to settle fees efficiently, but the core decision should always weigh research trajectory over physical amenities.
 
 ### Employer Perception Lag
 

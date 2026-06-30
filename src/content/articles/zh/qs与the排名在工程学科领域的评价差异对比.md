@@ -42,7 +42,7 @@ For example, the University of British Columbia ranks 28th in THE engineering bu
 
 ### H3: Impact on Asian Institutions
 
-Asian universities, particularly in China and South Korea, often have lower international faculty ratios (typically below 10%), which can reduce their THE scores by 1-2 points. QS’s headcount methodology may partially mitigate this, but the effect remains significant. For families considering cross-border tuition payments—a common challenge for international engineering students—some use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently.
+Asian universities, particularly in China and South Korea, often have lower international faculty ratios (typically below 10%), which can reduce their THE scores by 1-2 points. QS’s headcount methodology may partially mitigate this, but the effect remains significant. For families considering cross-border tuition payments—a common challenge for international engineering students—some use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/qs%E4%B8%8Ethe%E6%8E%92%E5%90%8D%E5%9C%A8%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%A7%91%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AF%84%E4%BB%B7%E5%B7%AE%E5%BC%82%E5%AF%B9%E6%AF%94) to settle fees efficiently.
 
 ## Subfield Variations: Where QS and THE Diverge Most
 

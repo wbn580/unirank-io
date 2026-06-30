@@ -2,8 +2,8 @@ name = "unirank-io"
 compatibility_date = "2025-01-01"
 
 [assets]
-not_found_handling = "404-page"
 directory = "./dist"
+not_found_handling = "404-page"
 
 [observability]
 enabled = true

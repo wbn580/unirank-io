@@ -48,7 +48,7 @@ No single ranking is sufficient. The most reliable method to identify truly elit
 
 A practical framework: compute the average rank across the four systems, then calculate the standard deviation. An institution with an average rank of 30 and a standard deviation of less than 10 is consistently elite. One with an average of 50 but a standard deviation of 25 is volatile and likely inflated in one or more systems. The 2024 composite data shows that only 19 institutions worldwide meet the "average top 30, SD < 10" threshold—a group that includes MIT, Oxford, Stanford, and Caltech [UNILINK, 2024, Composite Global Rankings Database].
 
-For international students managing multiple applications and tuition deposits, the financial logistics of cross-border payments can be streamlined. Some families use services such as [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in multiple currencies while locking in exchange rates, reducing the friction of managing payments to several institutions simultaneously.
+For international students managing multiple applications and tuition deposits, the financial logistics of cross-border payments can be streamlined. Some families use services such as [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-spot-ranking-inflation-and-identify-truly-elite-institutions) to settle fees in multiple currencies while locking in exchange rates, reducing the friction of managing payments to several institutions simultaneously.
 
 ## The Subject-Level Blind Spot
 

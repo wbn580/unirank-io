@@ -48,7 +48,7 @@ The composite ranking presented in this article follows a transparent, reproduci
 
 Normalisation procedure: For each metric, the raw value is transformed to a 0–100 scale using the formula `z = (x – min) / (max – min) × 100`, where `min` and `max` are the lowest and highest values observed across all institutions in the dataset. For NSS, the range was 63.4% (lowest) to 88.2% (highest); for LEO earnings, the range was £22,100 to £49,900. The composite score is the arithmetic mean of the two normalised values, equally weighted.
 
-Limitations: (1) LEO data excludes graduates who work outside the UK or in self-employment; (2) NSS captures only final-year students, not alumni perspectives; (3) equal weighting is an editorial choice—students may favour one axis over the other. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+Limitations: (1) LEO data excludes graduates who work outside the UK or in self-employment; (2) NSS captures only final-year students, not alumni perspectives; (3) equal weighting is an editorial choice—students may favour one axis over the other. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/best-uk-universities-ranked-by-student-satisfaction-and-graduate-outcomes) to settle fees.
 
 ## Beyond the Composite: Other Metrics Worth Weighing
 

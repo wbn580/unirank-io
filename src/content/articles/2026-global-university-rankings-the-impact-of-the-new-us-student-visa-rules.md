@@ -54,7 +54,7 @@ The **UK, Australia, and Canada have absorbed a measurable share** of the redire
 
 **US universities have begun adapting their admissions and enrolment management strategies** in response to the visa policy. Several public research universities—including the University of Michigan, Purdue University, and the University of Illinois Urbana-Champaign—have introduced “Guaranteed Visa Support” programmes that assign a dedicated international student advisor to each applicant from the point of admission through the visa process. The University of Southern California launched a “Four-Year Completion Guarantee” for international undergraduates, committing to waive tuition for any semester beyond the fourth year if the delay is caused by course unavailability.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees without foreign exchange delays that could complicate enrolment timelines.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/2026-global-university-rankings-the-impact-of-the-new-us-student-visa-rules) to settle fees without foreign exchange delays that could complicate enrolment timelines.
 
 ### Scholarship and Financial Aid Realignment
 

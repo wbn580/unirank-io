@@ -28,7 +28,7 @@ Employment outcomes are a pragmatic filter. The OECD’s Education at a Glance 2
 Data from the National Association of Colleges and Employers (NACE) shows that humanities graduates from the University of Pennsylvania reported a median starting salary of $62,000 in 2024, compared to $48,000 for graduates of a mid-ranked public university. This 29% premium is attributable to Penn’s strong alumni network in consulting and law, fields that actively recruit humanities majors. Applicants should request institutional salary reports or use tools like the U.S. Department of Education’s College Scorecard to compare specific programs.
 
 ### Career Services Ratio
-The ratio of career counselors to students matters. A ratio of 1:200 or better—as found at Princeton University—correlates with a 12% higher internship placement rate for humanities students [Princeton Career Services, 2024]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+The ratio of career counselors to students matters. A ratio of 1:200 or better—as found at Princeton University—correlates with a 12% higher internship placement rate for humanities students [Princeton Career Services, 2024]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/top-ten-ranking-factors-that-matter-most-for-a-humanities-degree-selection) to settle fees.
 
 ## Faculty-to-Student Ratio and Class Size
 

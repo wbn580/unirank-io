@@ -18,7 +18,7 @@ A critical examination reveals that QS does not publish the raw gender ratios al
 
 ### H3: The Faculty Gender Gap Remains Wider
 
-The faculty gender sub-indicator in QS 2025 shows a more pronounced disparity. Across the 1,500 ranked institutions, the median proportion of female faculty stands at 34.1%, compared to a median of 51.2% for female students [QS, 2025, Sustainability Data Set]. This 17-percentage-point gap is consistent across all four major ranking systems, suggesting that **faculty-level gender diversity** is a systemic bottleneck that current metrics do not adequately incentivize. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while evaluating such institutional data.
+The faculty gender sub-indicator in QS 2025 shows a more pronounced disparity. Across the 1,500 ranked institutions, the median proportion of female faculty stands at 34.1%, compared to a median of 51.2% for female students [QS, 2025, Sustainability Data Set]. This 17-percentage-point gap is consistent across all four major ranking systems, suggesting that **faculty-level gender diversity** is a systemic bottleneck that current metrics do not adequately incentivize. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/university-rankings-2025-a-critical-look-at-the-gender-diversity-metrics) to settle fees while evaluating such institutional data.
 
 ## THE 2025: The Missing Gender Lens in Core Rankings
 

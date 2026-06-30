@@ -15,7 +15,7 @@ const {
   schema,
 } = Astro.props;
 
-const SITE_NAME = 'University Rankings';
+const SITE_NAME = 'UniRank';
 const BASE_URL = 'https://unirank.io';
 ---
 
@@ -26,6 +26,11 @@ const BASE_URL = 'https://unirank.io';
 <link rel="canonical" href={canonicalURL || BASE_URL} />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
+<!-- IBM Plex fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={ogImage} />
@@ -34,7 +39,7 @@ const BASE_URL = 'https://unirank.io';
 
 <meta name="twitter:card" content="summary_large_image" />
 
-<!-- robots: allow all crawlers including AI -->
+<meta name="theme-color" content="#0b0f14" />
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
 <meta name="ai" content="allow" />
 

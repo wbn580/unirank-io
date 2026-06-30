@@ -4,27 +4,27 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const aboutSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'AboutPage',
-  name: 'About University Rankings',
+  name: 'About UniRank',
   url: 'https://unirank.io/about/',
-  description: 'Data-driven analysis of global university rankings — compare QS, THE, ARWU, and US News methodologies. Understand what rankings really measure and make informed decisions.',
+  description: 'Data-driven analysis of global university rankings — compare QS, THE, ARWU, and US News methodologies.',
   publisher: {
     '@type': 'Organization',
-    name: 'University Rankings Editorial',
+    name: 'UniRank',
   },
 });
 ---
 
 <BaseLayout
-  title="About University Rankings"
-  description="Data-driven analysis of global university rankings — compare QS, THE, ARWU, and US News methodologies. Understand what rankings really measure and make informed decisions."
+  title="About UniRank"
+  description="Data-driven analysis of global university rankings — compare QS, THE, ARWU, and US News methodologies."
   schema={aboutSchema}
 >
-  <article class="max-w-editorial mx-auto px-6 py-12">
-    <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold mb-8">About University Rankings</h1>
+  <article class="max-w-3xl mx-auto px-6 py-12">
+    <h1 class="font-heading text-3xl md:text-4xl font-bold mb-8" style="color:var(--color-ur-ink)">About UniRank</h1>
 
     <div class="prose prose-lg max-w-none">
-<section class="mb-10">
-        <h2 class="font-heading text-2xl text-aus-ink font-bold">Our Mission</h2>
+      <section class="mb-10">
+        <h2>Our Mission</h2>
         <p>
           University rankings influence millions of student decisions every year, yet few people understand what these numbers actually measure. Our mission is to provide <strong>transparent, data-driven analysis</strong> of ranking methodologies across QS World University Rankings, Times Higher Education (THE), Academic Ranking of World Universities (ARWU / Shanghai), and U.S. News Global Universities.
         </p>
@@ -33,7 +33,7 @@ const aboutSchema = JSON.stringify({
         </p>
       </section>
       <section class="mb-10">
-        <h2 class="font-heading text-2xl text-aus-ink font-bold">What We Cover</h2>
+        <h2>What We Cover</h2>
         <ul>
           <li>Ranking methodology deep-dives (QS Employer Reputation, THE Citations Impact, ARWU Nobel/Fields weighting)</li>
           <li>Year-over-year ranking shift analysis and trend identification</li>
@@ -43,7 +43,7 @@ const aboutSchema = JSON.stringify({
         </ul>
       </section>
       <section class="mb-10">
-        <h2 class="font-heading text-2xl text-aus-ink font-bold">Editorial Standards</h2>
+        <h2>Our Standards</h2>
         <p>
           All analysis is based on publicly available ranking data, academic research on bibliometrics, and official methodology documentation from ranking organizations. We do not create our own rankings; we help readers understand existing ones.
         </p>

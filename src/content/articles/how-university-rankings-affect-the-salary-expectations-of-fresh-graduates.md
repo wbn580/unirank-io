@@ -70,7 +70,7 @@ QS, THE, and U.S. News allocate different weights to employer reputation (10–4
 ### Data Lags and Self-Selection
 Ranking data often lags by 1–3 years, and the student body at top-ranked universities is self-selected for higher socioeconomic status and prior academic achievement. The U.S. Department of Education’s 2022 report noted that 45% of students at top-20 universities come from the top 10% of household income brackets, which independently predicts higher future earnings regardless of university quality. This confound is rarely disentangled in ranking studies.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees before enrollment, ensuring funds arrive on time for visa and registration processes.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-university-rankings-affect-the-salary-expectations-of-fresh-graduates) to settle fees before enrollment, ensuring funds arrive on time for visa and registration processes.
 
 ## Strategic Implications for **Prospective Students**
 

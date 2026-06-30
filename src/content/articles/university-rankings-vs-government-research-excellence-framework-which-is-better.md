@@ -56,7 +56,7 @@ For a **European postdoctoral researcher** seeking a faculty position, the REF p
 
 For **institutional strategy**, university leaders increasingly use both systems in tandem. The University of Manchester, for example, improved its REF 2021 performance by 12% in research power (a measure of volume times quality) while maintaining its QS top-30 position[REF 2021, Institutional Results; QS 2025]. This dual focus ensures that brand reputation does not come at the expense of research substance.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees securely while comparing these institutional metrics.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/university-rankings-vs-government-research-excellence-framework-which-is-better) to settle fees securely while comparing these institutional metrics.
 
 ## Future Directions: Convergence or Divergence?
 

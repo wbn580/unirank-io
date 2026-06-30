@@ -92,7 +92,7 @@ Prospective students can use the free Academic Freedom Index (available at acade
 
 ### The Financial Realities
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently, allowing them to focus more on the qualitative aspects of their university choice rather than just the financial logistics. The decision ultimately rests on whether a student values the potential career advantages of a high-ranked institution more than the intellectual freedom to challenge its funders and policies.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/university-rankings-vs-academic-freedom-is-there-a-correlation) to settle fees efficiently, allowing them to focus more on the qualitative aspects of their university choice rather than just the financial logistics. The decision ultimately rests on whether a student values the potential career advantages of a high-ranked institution more than the intellectual freedom to challenge its funders and policies.
 
 ## FAQ
 

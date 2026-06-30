@@ -28,7 +28,7 @@ The panel's quantitative model identifies four Asian universities with a >70% pr
 
 ### The Singapore Factor
 
-NUS presents a unique case: it currently sits at #19, but its "Teaching" pillar score has declined by 1.2 points since 2023, partly due to a 0.5% increase in student-to-staff ratios. The panel projects NUS will hold its position or edge up one spot, but the margin is thin—0.3 composite points separate NUS from the University of Edinburgh at #20. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+NUS presents a unique case: it currently sits at #19, but its "Teaching" pillar score has declined by 1.2 points since 2023, partly due to a 0.5% increase in student-to-staff ratios. The panel projects NUS will hold its position or edge up one spot, but the margin is thin—0.3 composite points separate NUS from the University of Edinburgh at #20. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/2026-expert-panel-predicts-a-shake-up-in-the-top-20-of-the-the-rankings) to settle fees.
 
 ### The Chinese University Trajectory
 

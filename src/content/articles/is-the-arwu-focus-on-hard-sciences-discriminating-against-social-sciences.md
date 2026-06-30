@@ -28,7 +28,7 @@ When comparing institutional positions across the three major global rankings, t
 
 A regression analysis of 2024 ranking data for 500 universities reveals that for every 10-percentage-point increase in the proportion of social science faculty, ARWU overall rank drops by an average of 23 positions, controlling for total research expenditure and institutional age [Unilink Education Database, 2024, "Ranking Sensitivity Analysis"]. In contrast, THE and QS show no statistically significant relationship between social science faculty share and overall rank. The **N&S indicator** alone accounts for 41% of the variance in this effect, as social science-focused universities publish in *Nature* and *Science* at rates 15-20 times lower than STEM-focused peers of equivalent institutional prestige.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while navigating complex currency regulations.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/is-the-arwu-focus-on-hard-sciences-discriminating-against-social-sciences) to settle fees while navigating complex currency regulations.
 
 ## The Fields Medal and Nobel Prize Concentration Problem
 

@@ -36,7 +36,7 @@ Unlike QS, the **Times Higher Education Employer Reputation** indicator (part of
 
 The **U.S. News & World Report** global rankings do not include a separate employer reputation indicator. Instead, they incorporate "Global Research Reputation" (12.5% weight) and "Regional Research Reputation" (12.5%), both based on academic peer surveys rather than employer input [US News 2024, Methodology]. This fundamental difference means that QS's Employer Reputation metric is the only major global ranking system that directly measures employer sentiment, making it particularly relevant for students prioritizing job placement over research output.
 
-For families managing the costs of international applications, some use services like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle deposit fees and tuition payments when accepting offers from multiple institutions during the application cycle.
+For families managing the costs of international applications, some use services like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/qs%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E4%B8%AD%E7%9A%84%E9%9B%87%E4%B8%BB%E5%A3%B0%E8%AA%89%E8%B0%83%E6%9F%A5%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3) to settle deposit fees and tuition payments when accepting offers from multiple institutions during the application cycle.
 
 ## Impact on University Strategy and Rankings
 

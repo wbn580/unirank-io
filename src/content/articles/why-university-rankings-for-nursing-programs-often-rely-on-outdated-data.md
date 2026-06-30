@@ -40,7 +40,7 @@ In Australia, the Nursing and Midwifery Board requires 800 hours of supervised c
 
 ### Why This Matters for International Applicants
 
-Students applying from outside the United States may not realize that a program’s published pass rate of 92% actually reflects the performance of a cohort that graduated under pandemic conditions, with limited in-person simulation. The **2020–2021 cohort** showed a 4.7% lower first-time pass rate nationally compared to 2019, yet rankings rarely footnote this context [NCSBN 2022, Annual NCLEX Report]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the underlying program quality data they rely on may be outdated.
+Students applying from outside the United States may not realize that a program’s published pass rate of 92% actually reflects the performance of a cohort that graduated under pandemic conditions, with limited in-person simulation. The **2020–2021 cohort** showed a 4.7% lower first-time pass rate nationally compared to 2019, yet rankings rarely footnote this context [NCSBN 2022, Annual NCLEX Report]. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/why-university-rankings-for-nursing-programs-often-rely-on-outdated-data) to settle fees, but the underlying program quality data they rely on may be outdated.
 
 ### State-by-State Variation Compounds the Problem
 

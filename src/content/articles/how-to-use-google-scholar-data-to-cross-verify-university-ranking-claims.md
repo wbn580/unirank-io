@@ -33,7 +33,7 @@ The **Academic Reputation** component of QS and THE is derived from surveys sent
 
 To perform this cross-verification, collect the **total citations** for the same 10 faculty members and compute the average citations per paper. Divide this by the departmental average from Step 2 to obtain a **citation efficiency ratio** (citations per paper per author). A department with a high reputation score but a low citation efficiency ratio (below 10 citations per paper in engineering, for example) may be benefiting from historical prestige rather than current research output. The OECD's 2022 data showed that institutions with citation efficiency ratios above 15 had 23% higher graduate employment rates in research-intensive industries [OECD 2022, Education at a Glance].
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while avoiding unfavorable exchange rates, though this is a logistical rather than research consideration.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-use-google-scholar-data-to-cross-verify-university-ranking-claims) to settle fees while avoiding unfavorable exchange rates, though this is a logistical rather than research consideration.
 
 ## Normalizing for Department Size and Seniority
 

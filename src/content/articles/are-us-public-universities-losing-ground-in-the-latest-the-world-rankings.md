@@ -34,7 +34,7 @@ The **International Outlook metric** (7.5% of total score) measures the proporti
 
 International co-authorship—a proxy for global research collaboration—also shows a relative decline. For US public universities, the share of publications with at least one international co-author grew from 38% to 42% between 2019 and 2023. For Chinese public universities, it grew from 32% to 51%, and for German public universities, from 55% to 63% [OECD 2024 Science, Technology and Innovation Outlook]. The slower growth in US international collaboration is partly attributed to visa processing delays; average wait times for F-1 student visas at US consulates in India and China remained at 45–60 days in 2024, compared to 15–20 days for Canadian study permits.
 
-For families managing cross-border tuition payments to US public universities, some international offices recommend using specialized payment platforms to reduce transaction costs and currency fluctuation risks. One such option is [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy), which offers fixed exchange rates and real-time tracking.
+For families managing cross-border tuition payments to US public universities, some international offices recommend using specialized payment platforms to reduce transaction costs and currency fluctuation risks. One such option is [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/are-us-public-universities-losing-ground-in-the-latest-the-world-rankings), which offers fixed exchange rates and real-time tracking.
 
 ## The Rise of Non-US Public Research Universities
 

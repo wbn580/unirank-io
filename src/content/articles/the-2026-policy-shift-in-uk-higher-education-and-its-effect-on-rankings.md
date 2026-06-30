@@ -58,7 +58,7 @@ The QS and THE rankings have both announced they will adopt these audited data p
 
 ### The Role of Third-Party Payment Channels
 
-For international students navigating these changes, the financial logistics of studying in the UK have become more complex. Some families use platforms like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to manage cross-border tuition payments, ensuring funds reach institutions within the new compliance windows. This operational detail, while separate from ranking methodology, affects how quickly international students can secure their Confirmation of Acceptance for Studies (CAS) numbers and subsequent visa applications.
+For international students navigating these changes, the financial logistics of studying in the UK have become more complex. Some families use platforms like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/the-2026-policy-shift-in-uk-higher-education-and-its-effect-on-rankings) to manage cross-border tuition payments, ensuring funds reach institutions within the new compliance windows. This operational detail, while separate from ranking methodology, affects how quickly international students can secure their Confirmation of Acceptance for Studies (CAS) numbers and subsequent visa applications.
 
 ## Long-Term Trajectory: UK Rankings Through 2030
 

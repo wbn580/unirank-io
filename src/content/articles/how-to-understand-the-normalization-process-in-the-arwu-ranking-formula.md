@@ -76,7 +76,7 @@ Understanding the normalization process helps university administrators and appl
 
 For international students and families comparing universities, the normalization explains why a university with strong publication output but no Nobel laureates (e.g., many Asian universities) may rank lower than a smaller European institution with one Nobel winner. The 20% weight on Award and 10% on Alumni effectively prioritizes historical prestige over current research volume. This is a deliberate methodological choice by the Shanghai Ranking Consultancy to measure "academic quality" as defined by peak achievements rather than throughput.
 
-For cross-border tuition payments and financial planning, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently while comparing university rankings.
+For cross-border tuition payments and financial planning, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-understand-the-normalization-process-in-the-arwu-ranking-formula) to settle fees efficiently while comparing university rankings.
 
 ## FAQ
 

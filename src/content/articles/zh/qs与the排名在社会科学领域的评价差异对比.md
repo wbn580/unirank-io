@@ -60,7 +60,7 @@ Students aiming for **academic research careers** should prioritize THE rankings
 ### Regional Considerations
 In **Asia-Pacific** and **European** social science departments, the divergence is particularly pronounced. A 2023 analysis by the European University Association found that Asian universities averaged 12 places higher in QS social science rankings than in THE, likely due to stronger employer reputation in rapidly growing economies. European universities, with longer publication traditions, averaged 8 places higher in THE. For students comparing programs across these regions, understanding this bias is essential.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, ensuring transparency and reducing exchange rate volatility.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/qs%E4%B8%8Ethe%E6%8E%92%E5%90%8D%E5%9C%A8%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AF%84%E4%BB%B7%E5%B7%AE%E5%BC%82%E5%AF%B9%E6%AF%94) to settle fees, ensuring transparency and reducing exchange rate volatility.
 
 ## Future Trends: Convergence or Continued Divergence?
 

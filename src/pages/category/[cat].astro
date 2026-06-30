@@ -4,19 +4,21 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   return [
-    { params: { cat: 'geography' } },
-    { params: { cat: 'history' } },
-    { params: { cat: 'politics' } },
-    { params: { cat: 'economy' } },
-    { params: { cat: 'education' } },
-    { params: { cat: 'culture' } },
+    { params: { cat: 'qs-rankings' } },
+    { params: { cat: 'the-rankings' } },
+    { params: { cat: 'arwu-rankings' } },
+    { params: { cat: 'methodology' } },
+    { params: { cat: 'data-analysis' } },
   ];
 }
 
 const { cat } = Astro.params;
 const catNames = {
-  geography: '地理', history: '历史', politics: '政治',
-  economy: '经济', education: '教育', culture: '文化',
+  'qs-rankings': 'QS Rankings',
+  'the-rankings': 'THE Rankings',
+  'arwu-rankings': 'ARWU Rankings',
+  'methodology': 'Methodology',
+  'data-analysis': 'Data Analysis',
 };
 const catName = catNames[cat] || cat;
 
@@ -25,20 +27,21 @@ articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data
 ---
 
 <BaseLayout
-  title={`${catName} · 澳洲百科`}
-  description={`澳洲百科 ${catName} 模块——全部条目按时间倒序排列。`}
+  title={`${catName} · UniRank`}
+  description={`UniRank ${catName} — all articles sorted by date.`}
 >
-  <div class="max-w-5xl mx-auto px-6 py-12">
-    <h1 class="font-heading text-3xl text-aus-ink font-bold mb-4">{catName}</h1>
-    <p class="text-aus-muted mb-8">共 {articles.length} 篇</p>
+  <div class="max-w-4xl mx-auto px-6 py-12">
+    <h1 class="font-heading text-3xl font-bold mb-2" style="color:var(--color-ur-ink)">{catName}</h1>
+    <p class="mb-8" style="color:var(--color-ur-muted)">{articles.length} articles</p>
     <div class="space-y-4">
       {articles.map(article => (
         <a
           href={`/${article.slug}/`}
-          class="block p-5 border border-aus-green/10 rounded-sm hover:border-aus-red/30 transition-colors no-underline group"
+          class="block p-5 rounded-xl no-underline group transition-colors"
+          style="background:var(--color-ur-card);border:1px solid var(--color-ur-line)"
         >
-          <h2 class="font-heading text-xl text-aus-ink font-bold group-hover:text-aus-red transition-colors">{article.data.title}</h2>
-          <p class="text-sm text-aus-muted mt-1">{article.data.description}</p>
+          <h2 class="font-heading text-xl font-bold group-hover:underline transition-colors" style="color:var(--color-ur-ink)">{article.data.title}</h2>
+          <p class="text-sm mt-1" style="color:var(--color-ur-body)">{article.data.description}</p>
         </a>
       ))}
     </div>

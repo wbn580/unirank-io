@@ -56,7 +56,7 @@ Given the complexity of citation metrics, how should prospective students and fa
 
 The second principle is to consider the **citation trajectory**, not just the current snapshot. Data from the Leiden Ranking (2024 edition) shows that 14 universities in Asia, including Tsinghua University and the National University of Singapore, have increased their citation impact by more than 20% over the past five years, while several European institutions have seen declines. This trajectory data is often more predictive of future reputation than current absolute scores.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, ensuring transparent exchange rates and tracking. While not directly related to citation metrics, the financial logistics of international study are a practical consideration that interacts with institutional prestige—higher-ranked universities often have higher tuition, making cost-efficient payment methods relevant.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/data-deep-dive-citation-metrics-and-their-impact-on-institutional-prestige) to settle fees, ensuring transparent exchange rates and tracking. While not directly related to citation metrics, the financial logistics of international study are a practical consideration that interacts with institutional prestige—higher-ranked universities often have higher tuition, making cost-efficient payment methods relevant.
 
 ## FAQ
 

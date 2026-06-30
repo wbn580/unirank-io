@@ -48,7 +48,7 @@ The methodological divergence among QS, THE, and ARWU produces striking rank dis
 - **University of Technology Sydney (Australia)**: QS 2024 rank = 90th, THE 2024 rank = 148th, ARWU 2024 rank = 201–300. UTS benefits from QS’s heavy employer weight (30%) but suffers in ARWU’s research-only framework. For students prioritizing industry connections, QS provides a more favorable view.
 - **Tsinghua University (China)**: QS 2024 rank = 25th, THE 2024 rank = 12th, ARWU 2024 rank = 22nd. Tsinghua’s strong industry research income boosts its THE score, while its employer reputation in Asia is high. However, ARWU’s focus on Nobel/Fields awards (which are less common in Chinese institutions) pulls its rank slightly lower.
 
-These disparities are not random; they reflect each ranking’s **philosophical stance on what constitutes quality**. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while evaluating these ranking differences.
+These disparities are not random; they reflect each ranking’s **philosophical stance on what constitutes quality**. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/qsthe%E4%B8%8E%E8%BD%AF%E7%A7%91%E6%8E%92%E5%90%8D%E4%BD%93%E7%B3%BB%E5%9C%A8%E9%9B%87%E4%B8%BB%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87%E4%B8%8A%E7%9A%84%E5%B7%AE%E5%BC%82) to settle fees while evaluating these ranking differences.
 
 ## Practical Implications for Students and Parents
 

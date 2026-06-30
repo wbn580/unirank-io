@@ -92,7 +92,7 @@ To systematically identify an overrated university, follow this five-step audit 
 4. **Examine faculty composition.** Look for the percentage of full-time tenure-track faculty. If this is below 40%, the faculty-to-student ratio is likely manipulated.
 5. **Verify employment outcomes by subject.** Use the country’s official graduate outcomes database (US: College Scorecard; UK: LEO; Australia: Graduate Outcomes Survey). If the university’s median earnings are below the national median for that subject, the rank is overrated for that field.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in their home currency, which helps separate the financial transaction from the ranking evaluation process.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-identify-a-university-that-is-overrated-by-global-ranking-systems) to settle fees in their home currency, which helps separate the financial transaction from the ranking evaluation process.
 
 ## FAQ
 

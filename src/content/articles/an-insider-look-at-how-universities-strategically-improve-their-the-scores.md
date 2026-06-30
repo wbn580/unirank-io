@@ -34,7 +34,7 @@ Publishing in high-impact journals with rapid turnaround times directly increase
 
 Open-access publishing correlates with a 20–30% citation advantage across most disciplines, according to a 2023 report from the Organisation for Economic Co-operation and Development (OECD). Universities have responded by establishing institutional preprint servers and covering article-processing charges for faculty who publish in gold open-access journals. The University of Queensland reported that its institutional repository, UQ eSpace, contributed to a 12% increase in citation visibility for its engineering faculty between 2021 and 2023.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while avoiding currency volatility that can affect institutional income metrics.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/an-insider-look-at-how-universities-strategically-improve-their-the-scores) to settle fees while avoiding currency volatility that can affect institutional income metrics.
 
 ## Research Quality: Field-Weighted Citation Impact
 

@@ -48,7 +48,7 @@ Improving a university's ranking requires investment in research infrastructure,
 
 ## The Policy Paradox
 
-**Government responses** to rankings-driven brain drain often create unintended consequences. Some countries have implemented "brain gain" programmes offering financial incentives for returning scholars, but these rarely address the structural pull of rankings. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, but the underlying driver—the perceived superiority of ranked institutions—remains untouched.
+**Government responses** to rankings-driven brain drain often create unintended consequences. Some countries have implemented "brain gain" programmes offering financial incentives for returning scholars, but these rarely address the structural pull of rankings. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/are-rankings-driving-a-brain-drain-from-developing-countries-academic-hubs) to settle fees, but the underlying driver—the perceived superiority of ranked institutions—remains untouched.
 
 ### The Rankings Arms Race
 

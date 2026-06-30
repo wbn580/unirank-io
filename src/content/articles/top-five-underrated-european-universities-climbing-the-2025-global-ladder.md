@@ -20,7 +20,7 @@ A key driver of UNIBO’s rise is its **international co-authorship rate**. The 
 
 ### Challenges in Employer Reputation
 
-Despite its research gains, UNIBO’s employer reputation score in QS has lagged, rising only 4 points since 2020. This suggests that while academic metrics are climbing, **industry perception** remains a bottleneck. The university has responded by launching a dedicated Career Service office in 2023, which placed 1,200 graduates into internships within six months of operation. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently.
+Despite its research gains, UNIBO’s employer reputation score in QS has lagged, rising only 4 points since 2020. This suggests that while academic metrics are climbing, **industry perception** remains a bottleneck. The university has responded by launching a dedicated Career Service office in 2023, which placed 1,200 graduates into internships within six months of operation. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/top-five-underrated-european-universities-climbing-the-2025-global-ladder) to settle fees efficiently.
 
 ## Aalto University — Design-Driven Technology Ascent
 

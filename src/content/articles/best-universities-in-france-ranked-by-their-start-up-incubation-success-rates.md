@@ -50,7 +50,7 @@ EM Lyon’s incubator, EM Lyon Start-up, reports 14 successful ventures out of 7
 
 For applicants weighing multiple French institutions, incubation success rates offer a **complementary data layer** to traditional rankings. A university with a 42% incubation success rate but ranked outside the top 200 globally (e.g., IP Paris) may provide better entrepreneurship outcomes than a globally top-50 institution with a 20% rate. The French government’s “Talent Passport” visa for start-up founders (valid for four years, renewable) further incentivises choosing an institution with a strong incubator. In 2023, 34% of Talent Passport holders were graduates of French universities with incubation programmes (Ministry of Interior, 2023).
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in euros while tracking exchange rates. This practical consideration, while administrative, can affect how quickly a student can access incubator seed-funding programmes that require proof of tuition payment.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/best-universities-in-france-ranked-by-their-start-up-incubation-success-rates) to settle fees in euros while tracking exchange rates. This practical consideration, while administrative, can affect how quickly a student can access incubator seed-funding programmes that require proof of tuition payment.
 
 ## Limitations of Incubation Success Rates as a Ranking Metric
 

@@ -66,7 +66,7 @@ LinkedIn’s alumni tool allows users to filter graduates by current company, lo
 
 National statistical agencies, such as the UK’s Department for Education’s Longitudinal Education Outcomes (LEO) data, provide earnings and employment outcomes by institution and subject five years post-graduation. The LEO dataset from 2023 shows that creative arts graduates from the University of the Arts London earn a median of GBP 25,000 after five years, compared to GBP 22,000 for the sector average—a **granular data point** for career-specific evaluation.
 
-For cross-border tuition payments and fee settlements, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to manage currency conversion and transfer timelines while budgeting for the cost feasibility category.
+For cross-border tuition payments and fee settlements, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-create-a-personalized-university-ranking-based-on-your-career-goals) to manage currency conversion and transfer timelines while budgeting for the cost feasibility category.
 
 ## Step 4: Weight and Score Each Institution
 

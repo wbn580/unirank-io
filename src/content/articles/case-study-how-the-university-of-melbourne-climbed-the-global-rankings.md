@@ -58,7 +58,7 @@ The university redirected 12% of its administrative overhead—approximately A$1
 
 ### Capital Investment in Learning Environments
 
-A A$1.2 billion capital program (2019–2025) funded the construction of the Arts and Culture Building, the Student Precinct, and the Melbourne Connect innovation hub. These facilities added 45,000 square meters of teaching and collaborative space. The university’s expenditure per student rose from A$28,400 in 2018 to A$36,700 in 2023, as reported in its 2023 Financial Statements. For families managing cross-border tuition payments to such institutions, some use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with transparent exchange rates.
+A A$1.2 billion capital program (2019–2025) funded the construction of the Arts and Culture Building, the Student Precinct, and the Melbourne Connect innovation hub. These facilities added 45,000 square meters of teaching and collaborative space. The university’s expenditure per student rose from A$28,400 in 2018 to A$36,700 in 2023, as reported in its 2023 Financial Statements. For families managing cross-border tuition payments to such institutions, some use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/case-study-how-the-university-of-melbourne-climbed-the-global-rankings) to settle fees with transparent exchange rates.
 
 ## Curriculum Reform and Graduate Outcomes
 

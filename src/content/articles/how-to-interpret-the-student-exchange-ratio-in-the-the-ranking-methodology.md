@@ -34,7 +34,7 @@ The largest component of THE’s International Outlook indicator—**internation
 
 The **methodological overlap** occurs because some universities use research partnerships to facilitate student exchange. For example, the University of Toronto (THE World Rank #21 in 2025) has a co-authorship rate of 58.3% and also operates 180+ exchange agreements. However, the correlation is not causal. A university in a geographically isolated country, such as the University of Iceland, may have a co-authorship rate of 52% due to necessity (small domestic research base) but a student exchange rate of only 8% (Ministry of Education, Iceland, 2023). The **co-authorship metric** reflects institutional research strategy, not student services infrastructure.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which is a separate logistical consideration from the mobility metrics discussed here.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/how-to-interpret-the-student-exchange-ratio-in-the-the-ranking-methodology) to settle fees, which is a separate logistical consideration from the mobility metrics discussed here.
 
 ## Interpreting the Ratio for Different Applicant Profiles
 

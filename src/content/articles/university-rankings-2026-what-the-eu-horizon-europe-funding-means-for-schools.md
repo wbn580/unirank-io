@@ -50,7 +50,7 @@ The Health cluster (€8.2 billion) funds clinical trials, biomedical research, 
 
 The Digital/Industry cluster (€15.8 billion) benefits computer science and engineering departments. The Technical University of Munich, which coordinates seven Horizon Europe digital projects, saw its QS Computer Science ranking rise from 35th to 28th between 2021 and 2025. For applicants targeting specific disciplines, examining a university’s Horizon Europe grant portfolio by cluster provides more granular insight than overall ranking changes.
 
-For cross-border tuition payments to European universities participating in these funded programmes, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in euros while avoiding foreign exchange markups.
+For cross-border tuition payments to European universities participating in these funded programmes, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/university-rankings-2026-what-the-eu-horizon-europe-funding-means-for-schools) to settle fees in euros while avoiding foreign exchange markups.
 
 ## The Matthew Effect: Funding Concentration and Ranking Divergence
 
