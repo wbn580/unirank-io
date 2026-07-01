@@ -6,6 +6,8 @@ pubDatetime: "2026-04-11T18:13:15Z"
 publishDate: '2026-04-11T18:13:15Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In 2024, the four principal global university ranking systems—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—collectively evaluated over 4,500 distinct institutions, yet fewer than 2% of those institutions appeared in the top 100 across all four lists for any single discipline. This fragmentation is not an anomaly but a structural feature of modern higher-education data. Each ranking methodology weights indicators differently: QS allocates 40% of its score to academic reputation surveys, whereas ARWU assigns 20% to alumni and staff winning Nobel Prizes or Fields Medals [QS, 2024, Methodology; ARWU, 2024, Ranking Indicators]. A university ranked 5th globally for Engineering by THE may fall outside the top 50 in the same field under the U.S. News classification, because THE’s engineering table prioritises research income and industry income (each 10%), while U.S. News emphasises publications and normalised citation impact (65% combined) [THE, 2024, Subject Rankings Methodology; U.S. News, 2024, Global Universities Methodology]. For a prospective student choosing a specific discipline—whether neuroscience, petroleum engineering, or art history—relying on a single ranking table can produce systematically biased signals. The following guide provides a transparent, cross-methodological framework for comparing rankings across disciplines, grounded in the actual indicator sets published by each body.

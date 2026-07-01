@@ -6,6 +6,8 @@ pubDatetime: "2026-04-10T18:12:42Z"
 publishDate: '2026-04-10T18:12:42Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Every year, over 4.5 million students cross borders for higher education, according to UNESCO’s 2024 Global Education Monitoring Report, yet fewer than 15% of prospective applicants cross-check the ranking data they rely on against the original methodology documents of the issuing body. A university’s position in the QS World University Rankings, the Times Higher Education (THE) World University Rankings, the U.S. News & World Report Best Global Universities, or the Academic Ranking of World Universities (ARWU) can shift by dozens of places depending on which indicators are weighted most heavily—and those weights change. For example, QS introduced a “Sustainability” indicator in 2024, carrying a 5% weight, while THE adjusted its “Industry Income” metric from 2.5% to 2.0% in the same cycle. Without understanding these mechanics, a rank of #120 in one list may represent fundamentally different institutional strengths than a rank of #95 in another. This checklist provides a transparent, source-driven methodology for verifying ranking data before submitting an application, drawing on official documentation from QS, THE, U.S. News, ARWU, and national statistics offices.

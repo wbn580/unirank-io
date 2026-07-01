@@ -6,6 +6,8 @@ pubDatetime: "2026-04-25T18:16:33Z"
 publishDate: '2026-04-25T18:16:33Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In 2025, while the majority of the world’s top 200 universities experienced a median decline of 2.3 positions in the QS World University Rankings due to intensified competition from Asian institutions, four Latin American universities have not only held their ground but improved their standings. The Universidade de São Paulo (USP) rose to 92nd globally, its highest position in over a decade, while the Universidad Nacional Autónoma de México (UNAM) climbed to 103rd, according to QS 2025. Simultaneously, the Pontificia Universidad Católica de Chile (UC) and the Universidade Estadual de Campinas (UNICAMP) advanced into the top 200, with UNICAMP jumping 14 spots to 182nd. This counter-trend is particularly striking given that Latin America’s share of world research output has remained stagnant at 4.2% since 2020, per the UNESCO Science Report 2024, while its gross expenditure on R&D (GERD) averages only 0.67% of GDP—less than half the OECD average of 1.54%. These four institutions are defying systemic underfunding and demographic pressures, offering a data-driven case study in strategic resilience.

@@ -3,6 +3,8 @@ title: "US News Global University Rankings 2026/2027 · Analysis and Methodology
 description: "How the US News Best Global Universities 2026/2027 ranking works — its research-heavy methodology, comparison with QS/THE/ARWU, and what it measures that others don't."
 category: "rankings"
 publishDate: "2025-06-17T09:00:00Z"
+hideFromHome: true
+
 ---
 
 > **Updated 17 June 2026** to reflect the 2026/2027 edition released 16 June 2026.

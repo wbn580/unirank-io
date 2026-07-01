@@ -6,6 +6,8 @@ pubDatetime: "2026-05-21T18:23:20Z"
 publishDate: '2026-05-21T18:23:20Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Between 2019 and 2023, the average annual tuition at U.S. public four-year institutions rose by 4.7% to $11,260 for in-state students, according to the College Board’s 2023 *Trends in College Pricing* report. Over the same period, international student enrollment in U.S. graduate programs increased by 12%, intensifying competition for merit-based aid. University rankings—whether from QS, Times Higher Education (THE), U.S. News & World Report, or the Academic Ranking of World Universities (ARWU)—are not merely prestige markers; they serve as quantifiable leverage points in scholarship negotiations. A university ranked #45 globally in THE’s 2024 *World University Rankings* may offer a higher initial scholarship than a #120-ranked peer, but the latter might be more willing to increase its offer if presented with a competing offer from a higher-ranked institution. This article provides a methodological framework for using these rankings as data-driven tools, not emotional appeals, during financial aid discussions.

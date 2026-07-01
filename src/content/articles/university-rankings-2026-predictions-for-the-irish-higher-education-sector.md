@@ -6,6 +6,8 @@ pubDatetime: "2026-05-07T18:19:44Z"
 publishDate: '2026-05-07T18:19:44Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Ireland’s higher education sector, currently hosting over 35,000 non-EU students in the 2023/24 academic year according to the Irish Department of Further and Higher Education, faces a pivotal shift in global standing as the 2026 ranking cycles approach. With Trinity College Dublin (TCD) holding the nation’s highest position at 81st in the 2025 QS World University Rankings, and University College Dublin (UCD) at 126th, the sector’s trajectory hinges on strategic investments in research output and international recruitment. The Irish Universities Association (IUA) reported in 2024 that total research expenditure across its member institutions reached €1.2 billion, a 14% increase from 2020, yet citation impact per faculty—a metric weighted at 20% in QS methodology—remains below the OECD average of 1.6 for comparable small economies. This analysis synthesises data from QS, Times Higher Education (THE), U.S. News, and the Academic Ranking of World Universities (ARWU) to project how Ireland’s seven universities, alongside technological universities (TUs), might perform in 2026. The prediction model incorporates known weighting shifts, such as QS’s introduction of sustainability metrics (5% weight) and THE’s increased emphasis on industry income (8% weight), alongside Ireland’s specific policy levers like the €250 million Research Ireland fund announced in Budget 2025.

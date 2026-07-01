@@ -6,6 +6,8 @@ pubDatetime: "2026-05-06T18:19:38Z"
 publishDate: '2026-05-06T18:19:38Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 International aid grants for higher education — funds disbursed by bilateral donors, multilateral development banks, and private foundations to support students, faculty, and institutional capacity in low- and middle-income countries — are not distributed evenly. An analysis of OECD Development Assistance Committee (DAC) data from 2018–2022 shows that **universities ranked inside the top 200 of the QS World University Rankings received 62.4% of all bilateral higher-education aid commitments** directed to specific institutions, despite representing less than 0.2% of the world’s 30,000+ degree-granting institutions [OECD, 2023, *Creditor Reporting System*]. This concentration is not accidental. Aid agencies and philanthropic bodies increasingly cite global rankings as a shorthand for institutional quality, governance stability, and research output — factors that de-risk large, multi-year grants. The effect is a self-reinforcing cycle: ranked universities attract more aid, use those funds to improve their metrics, and thereby maintain or improve their ranking positions. Understanding the mechanisms behind this distribution is critical for applicants and policymakers who seek to navigate or reform the current system.

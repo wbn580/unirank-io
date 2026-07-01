@@ -6,6 +6,8 @@ pubDatetime: "2026-05-06T18:19:42Z"
 publishDate: '2026-05-06T18:19:42Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2023–24 academic year, part-time faculty accounted for approximately 54% of all instructional staff at U.S. degree-granting postsecondary institutions, according to the National Center for Education Statistics (NCES, 2024, *Condition of Education*). At community colleges, that figure exceeds 67%. Yet the three most widely consulted global league tables—QS World University Rankings, Times Higher Education (THE) World University Rankings, and U.S. News & World Report Best Colleges—collectively assign less than 5% of their composite scores to metrics that directly evaluate part-time instructor quality or working conditions. A 2022 survey by the American Association of University Professors (AAUP) found that 73% of non-tenure-track faculty reported no institutional support for professional development, compared with 12% of tenured faculty. This data asymmetry raises a fundamental question: can a ranking system that ignores the working reality of the majority of its teaching workforce meaningfully capture educational quality?

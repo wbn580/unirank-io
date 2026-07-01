@@ -6,6 +6,8 @@ pubDatetime: "2026-05-19T18:22:54Z"
 publishDate: '2026-05-19T18:22:54Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2025 Times Higher Education (THE) World University Rankings have introduced a recalibrated methodology that significantly elevates the weight of sustainability-related indicators, marking a structural shift in how global academic performance is assessed. For the first time, the “Industry, Innovation and Infrastructure” metric (SDG 9) and “Climate Action” (SDG 13) are weighted at 7.5% each within the overall scoring framework, up from 4.5% in the 2024 edition. This change is part of a broader trend: according to THE’s 2024 methodology report, the aggregate weight of all 17 Sustainable Development Goal (SDG) indicators now constitutes 22.5% of a university’s total score, compared to 16.8% in 2023. Concurrently, the U.S. National Science Foundation’s 2023 Higher Education Research and Development (HERD) Survey recorded a 6.8% year-over-year increase in sustainability-linked research expenditures among the top 100 U.S. universities, reaching a total of USD 12.4 billion. These data points underscore a systemic reorientation: sustainability is no longer a peripheral concern but a core determinant of institutional prestige. For prospective students and parents navigating the 2025 cycle, understanding these metrics is essential for interpreting rankings and aligning university choices with long-term environmental and social governance (ESG) priorities.

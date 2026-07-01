@@ -3,6 +3,8 @@ title: "UK University Rankings · Russell Group and Beyond"
 description: "How UK universities rank globally — Oxford and Cambridge at the top, the Russell Group's performance, and emerging challenger institutions."
 category: "rankings"
 publishDate: "2026-05-15T09:10:00Z"
+hideFromHome: true
+
 ---
 UK universities consistently dominate the top 10: Oxford (#1 THE, #3 QS), Cambridge (#5 QS), Imperial College London (#2 QS). The Russell Group (24 research-intensive universities) accounts for nearly all UK universities in the global top 200. Post-1992 universities — former polytechnics — are improving but rarely enter the top 500 globally.
 

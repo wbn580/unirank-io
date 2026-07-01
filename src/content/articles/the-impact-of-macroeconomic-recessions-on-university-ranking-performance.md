@@ -6,6 +6,8 @@ pubDatetime: "2026-04-24T18:16:23Z"
 publishDate: '2026-04-24T18:16:23Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2008 Global Financial Crisis (GFC) produced a measurable, lagged impact on university research output and reputation metrics, a pattern that offers a predictive lens for the post-COVID-19 recessionary cycle. A 2023 analysis by the **OECD** found that countries experiencing a GDP contraction of more than 4% in 2009 saw an average 11% reduction in real-terms higher education R&D spending (HERD) over the subsequent three fiscal years [OECD, 2023, *Education at a Glance*]. This funding contraction correlated with a statistically significant decline in citation impact for affected institutions, as tracked by **Times Higher Education (THE)** world university rankings, where the average citation score for universities in Southern Europe fell by 7.2 points between 2010 and 2014 [THE, 2023, *World University Rankings Methodology*]. The mechanism is not instantaneous; the present article examines how macroeconomic recessions influence the key performance indicators (KPIs) that underpin composite ranking scores in the QS, THE, U.S. News, and ARWU systems, drawing on data from four distinct recessionary periods since 2000.

@@ -6,6 +6,8 @@ pubDatetime: "2026-05-09T18:20:25Z"
 publishDate: '2026-05-09T18:20:25Z'
 readingTime: 6
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 India’s higher education sector has seen a measurable shift in research output metrics, with international co-authorship rising from 18.7% of total publications in 2015 to 23.4% in 2023, according to the *Nature Index* 2024 annual tables. This trend reflects a broader strategic push by Indian universities to embed global collaboration into their institutional DNA, a factor increasingly weighted in composite rankings such as the QS World University Rankings and Times Higher Education (THE) World University Rankings. The 2025 assessment cycle marks the first year that both QS and THE have explicitly elevated "International Research Network" and "International Co-authorship" indicators to a combined weight exceeding 8% in their overall scoring methodologies. For prospective graduate students and researchers, institutional capacity for cross-border partnership—measured through joint publications, co-supervised doctoral cohorts, and multi-institutional grant capture—now functions as a leading indicator of academic mobility, funding access, and post-degree employability. The following analysis draws on the 2025 QS, THE, U.S. News & World Report, and ShanghaiRanking Consultancy (ARWU) datasets to identify the Indian universities with the highest international collaboration scores, supplemented by bibliometric data from Scopus and SciVal.

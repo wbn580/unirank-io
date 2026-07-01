@@ -6,6 +6,8 @@ pubDatetime: "2026-05-12T18:21:19Z"
 publishDate: '2026-05-12T18:21:19Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 When I began researching universities for my master’s degree in mechanical engineering, the sheer volume of institutional data felt overwhelming. The first concrete number I encountered was from the 2023 QS World University Rankings, which evaluated 1,500 institutions globally—a 4.9% increase from the 1,430 listed in 2022. Simultaneously, Times Higher Education reported in their 2023 World University Rankings that over 1,799 universities were assessed, with a median overall score of 49.8 out of 100. These figures immediately signaled that any single ranking system offered only a partial view. My decision-making process evolved into a systematic triangulation of four major frameworks: QS, THE, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU). This article documents how I used these data sets not as definitive verdicts but as analytical tools to match my academic priorities—research output, faculty-to-student ratios, and graduate employment outcomes—against the raw metrics each ranking emphasizes. The journey revealed that a composite perspective, rather than a single number, provided the clearest path forward.

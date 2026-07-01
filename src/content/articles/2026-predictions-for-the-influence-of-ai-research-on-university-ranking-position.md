@@ -6,6 +6,8 @@ pubDatetime: "2026-04-21T18:15:34Z"
 publishDate: '2026-04-21T18:15:34Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2026 cycle of global university rankings—QS, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universities (ARWU)—is poised for a methodological recalibration driven by the explosive growth of artificial intelligence research. Preliminary data from the OECD’s 2025 *Science, Technology and Innovation Outlook* indicates that global public and private investment in AI research exceeded USD 150 billion in 2024, a 42% increase from 2022 levels. Concurrently, a 2025 analysis by Times Higher Education found that institutions with a top-100 publication output in "Artificial Intelligence & Image Processing" (as classified by Scopus) saw an average **1.7-point boost** in their overall citation impact score between 2023 and 2025. This correlation suggests that the 2026 rankings will not merely reflect a university’s historical prestige but will increasingly be a function of its strategic positioning within the AI research ecosystem. The following analysis examines the specific levers through which AI research is expected to reshape institutional standings across the four major ranking frameworks, drawing on published methodologies and recent citation data.

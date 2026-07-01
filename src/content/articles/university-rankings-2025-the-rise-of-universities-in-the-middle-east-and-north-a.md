@@ -6,6 +6,8 @@ pubDatetime: "2026-05-02T18:18:39Z"
 publishDate: '2026-05-02T18:18:39Z'
 readingTime: 9
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2025 edition of the QS World University Rankings, 47 institutions from the Middle East and North Africa (MENA) region appear in the global top 1,000, up from 39 in 2024, representing a 20.5% increase in representation. This growth is particularly concentrated in Saudi Arabia and the United Arab Emirates, which together account for 23 of these ranked universities. Concurrently, Times Higher Education (THE) 2025 data indicates that the MENA region’s average citation impact score has risen to 1.32 (world average = 1.0), a 7% year-on-year improvement that reflects a strategic investment in research output and international collaboration. The region’s ascent is not merely a statistical anomaly; it is the result of coordinated national policies, substantial fiscal allocations, and deliberate partnerships with established global academic networks. According to the OECD’s 2024 *Education at a Glance* report, government expenditure on tertiary education as a percentage of GDP in the UAE and Saudi Arabia has increased from 1.8% (2019) to 2.4% (2023), outpacing the OECD average of 1.1%. This article examines the structural drivers, institutional strategies, and disciplinary strengths propelling MENA universities upward in the 2025 composite rankings, drawing on data from QS, THE, U.S. News, and the Academic Ranking of World Universities (ARWU).

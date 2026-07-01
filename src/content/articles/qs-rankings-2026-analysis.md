@@ -3,6 +3,8 @@ title: "QS World University Rankings 2026 · Full Analysis"
 description: "A detailed analysis of the QS World University Rankings 2026 — top 100 movements, Australian university performance, Asian university rise, and methodology changes."
 category: "rankings"
 publishDate: "2026-05-15T08:30:00Z"
+hideFromHome: true
+
 ---
 
 The 2026 QS World University Rankings saw continued dominance by MIT (#1), followed by Imperial College London (#2) and Oxford (#3). The biggest story: Asian universities continued their decade-long climb.

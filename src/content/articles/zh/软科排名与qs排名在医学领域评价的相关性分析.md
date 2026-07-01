@@ -6,6 +6,8 @@ pubDatetime: "2026-03-08T18:04:37Z"
 publishDate: '2026-03-08T18:04:37Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The global assessment of medical schools has become a critical factor for students and researchers navigating international education and collaboration. Two of the most widely consulted ranking systems are the Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking or “软科排名,” and the Quacquarelli Symonds (QS) World University Rankings. While both aim to evaluate institutional quality, their methodologies diverge significantly, particularly in medicine. ARWU, published by Shanghai Ranking Consultancy, places a 60% weight on research output metrics, including articles indexed in the Science Citation Index-Expanded and the number of Highly Cited Researchers. In contrast, QS allocates 40% of its score to academic reputation surveys and 10% to employer reputation, with only 20% tied to citations per faculty. A 2023 study by the Centre for Science and Technology Studies (CWTS) at Leiden University found that the correlation coefficient between ARWU and QS scores for medical faculties across 150 universities was only 0.62, indicating moderate but far from perfect alignment. This divergence creates a complex landscape for applicants, where a single ranking may not capture a program’s true strengths. Understanding the statistical relationship between these two systems—and the methodological reasons behind their differences—is essential for informed decision-making in medical education.

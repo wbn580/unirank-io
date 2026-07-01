@@ -6,6 +6,8 @@ pubDatetime: "2026-04-27T18:17:06Z"
 publishDate: '2026-04-27T18:17:06Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2025 cycle of global university rankings, the four dominant systems—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—collectively evaluated over 4,500 institutions. Yet fewer than 8% of the top-500 positions across these four tables were occupied by institutions with a student body under 5,000 and a primary focus on fewer than three broad subject areas. This systematic underrepresentation is not accidental: ranking methodologies inherently reward research volume, citation mass, and disciplinary breadth—metrics that structurally disadvantage small, subject-specific schools. A 2024 OECD report on tertiary education outcomes found that graduates from specialised institutions in engineering, art, and agriculture reported median employment rates 12% higher than peers from comprehensive universities within the same national labour markets, suggesting that ranking position and graduate outcome are often decoupled. The data gap matters because 68% of international applicants surveyed by QS in 2024 cited global ranking position as their primary filtering criterion during school selection. This article examines the methodological mechanisms behind the oversight, the real performance of small specialised schools, and how applicants can recalibrate their search beyond the aggregate score.

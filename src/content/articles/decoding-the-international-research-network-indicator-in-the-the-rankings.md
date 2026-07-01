@@ -6,6 +6,8 @@ pubDatetime: "2026-05-01T18:18:07Z"
 publishDate: '2026-05-01T18:18:07Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The Times Higher Education (THE) World University Rankings 2025 evaluated over 2,000 institutions from 115 countries and territories, with the International Research Network (IRN) indicator contributing 2.5% of an institution’s total score. This metric, introduced in 2019, measures the diversity and breadth of an institution’s international co-authorship by calculating the proportion of its research publications that involve authors from multiple countries, weighted by the number of distinct partner countries. A university with a score of 100 in this category, such as the Massachusetts Institute of Technology (MIT) in 2025, indicates that nearly all its research output involves international collaborators from a wide geographic spread. According to the OECD’s 2023 Science, Technology and Innovation Outlook, cross-border co-authorship has grown by 8% annually since 2010, underscoring the strategic importance of this indicator for institutions seeking to demonstrate global influence and attract top talent.

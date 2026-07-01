@@ -6,6 +6,8 @@ pubDatetime: "2026-03-12T18:05:48Z"
 publishDate: '2026-03-12T18:05:48Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Each year, hundreds of thousands of prospective graduate students and their families consult global university rankings to inform their application decisions. Yet the three most widely referenced systems — the Quacquarelli Symonds (QS) World University Rankings, the Times Higher Education (THE) World University Rankings, and the Academic Ranking of World Universities (ARWU, commonly known as the Shanghai Ranking) — diverge substantially in methodology, particularly on the dimension most relevant to employment outcomes: employer perception. QS allocates 30% of its total score to employer reputation (based on a survey of approximately 75,000 employers globally) and 10% to graduate employment outcomes, making it the only major ranking to weight employer opinion above 15% [QS, 2025, Methodology Report]. In contrast, THE devotes 11% to industry income and innovation metrics, while ARWU entirely omits employer-related indicators, relying solely on research output, faculty awards, and publication metrics [THE, 2025, World University Rankings Methodology; ShanghaiRanking Consultancy, 2025, ARWU Methodology]. This structural asymmetry means that a university’s position can shift by more than 100 places depending on which ranking an employer or applicant consults, a discrepancy documented in a 2023 OECD working paper on higher education signalling [OECD, 2023, Education at a Glance 2023].

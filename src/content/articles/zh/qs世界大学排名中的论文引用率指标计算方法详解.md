@@ -6,6 +6,8 @@ pubDatetime: "2026-03-04T18:03:52Z"
 publishDate: '2026-03-04T18:03:52Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The QS World University Rankings assign a weight of 20% to the "Citations per Faculty" metric, a figure derived from a five-year publication window (2019–2023 for the 2025 edition) sourced entirely from the Scopus database, maintained by Elsevier. This single indicator, which measures the total number of citations received by an institution's published papers divided by the number of full-time equivalent academic staff, accounts for one-fifth of a university's final score. According to QS’s 2024 methodology report, the metric normalises citation counts across disciplines to prevent fields with traditionally higher citation volumes—such as biomedicine—from overwhelming others like engineering or the humanities. The UK’s Department for Education, in its 2023 analysis of global ranking systems, noted that citation-based metrics now influence approximately 45% of international student mobility decisions when filtered by research-intensive institutions. Understanding the precise calculation methodology is critical for applicants and administrators alike, as a single percentage-point shift in this indicator can alter a university’s global standing by several positions.

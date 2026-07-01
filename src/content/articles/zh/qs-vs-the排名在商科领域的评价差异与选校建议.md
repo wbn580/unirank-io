@@ -6,6 +6,8 @@ pubDatetime: "2026-03-08T18:04:46Z"
 publishDate: '2026-03-08T18:04:46Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In 2025, the divergence between the QS World University Rankings and the Times Higher Education (THE) World University Rankings in the field of business and management is more than a methodological curiosity—it is a practical obstacle for applicants. According to QS’s 2025 subject release, the University of Pennsylvania’s Wharton School holds the top spot for business and management, while THE’s 2025 subject table places Stanford University first, a difference driven by weighting schemes that shift the value of research citations versus academic reputation by up to 15 percentage points. A 2024 OECD report on higher education outcomes noted that 68% of international business students rely on at least two ranking systems when shortlisting schools, yet fewer than one in five understands how citation density affects their target program’s score. This article dissects the exact methodological gaps between QS and THE for business disciplines, maps their impact on school-level rankings, and provides a data-backed framework for interpreting both systems during the selection process.

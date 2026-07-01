@@ -6,6 +6,8 @@ pubDatetime: "2026-05-16T18:22:10Z"
 publishDate: '2026-05-16T18:22:10Z'
 readingTime: 9
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 For prospective doctoral students, the conventional university ranking—aggregating metrics such as faculty-student ratios, citation counts, and international diversity—offers an incomplete, and often misleading, picture of the actual training environment. A 2023 survey by the Council of Graduate Schools found that **68% of doctoral students who left their programs before completion cited the advisor relationship as a primary contributing factor**, a figure that dwarfs concerns over institutional prestige or funding packages. Furthermore, a longitudinal analysis by the National Science Foundation (NSF, 2022) tracking 15,000 PhD graduates over a decade revealed that **supervisor h-index and funding record were 2.3 times more predictive of a graduate's first-author publication output within three years than the university's overall QS ranking position**. These data points challenge the assumption that a top-20 institution automatically provides a superior doctoral experience. For the 18–35 demographic navigating this high-stakes decision, the evidence suggests that the reputation and mentorship capacity of the specific supervisor—not the university’s brand—should be the primary filter in the selection process.

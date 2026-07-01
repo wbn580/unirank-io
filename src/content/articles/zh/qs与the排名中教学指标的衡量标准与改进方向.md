@@ -6,6 +6,8 @@ pubDatetime: "2026-03-06T18:04:10Z"
 publishDate: '2026-03-06T18:04:10Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The global university ranking landscape is dominated by two influential frameworks—QS World University Rankings and Times Higher Education (THE) World University Rankings—whose **teaching indicators** collectively shape institutional prestige and student choice. In the 2025 QS cycle, teaching quality is inferred through the Academic Reputation survey (weighted at 30% of the total score), drawing responses from over 130,000 academics worldwide, while THE allocates 29.5% of its overall score to the Teaching environment pillar, which includes a 15% reputation survey component and metrics on staff-to-student ratios (4.5%), doctorate-to-bachelor’s ratios (2.25%), and institutional income (2.25%) [QS 2024, QS World University Rankings Methodology; THE 2024, THE World University Rankings Methodology]. Despite their shared ambition to measure educational quality, the two systems diverge significantly in how they define, weight, and operationalize teaching effectiveness. A 2023 study by the OECD’s Education Directorate noted that fewer than 12% of ranking indicators across major systems directly capture classroom-level learning outcomes, raising fundamental questions about whether current metrics serve prospective students or primarily reflect institutional brand perception [OECD 2023, Education at a Glance 2023]. This article dissects the methodological architecture of QS and THE teaching indicators, identifies their structural limitations, and explores evidence-based improvement directions grounded in pedagogical research and institutional data transparency.

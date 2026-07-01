@@ -6,6 +6,8 @@ pubDatetime: "2026-04-11T18:12:55Z"
 publishDate: '2026-04-11T18:12:55Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2026 cycle of global university rankings is expected to see the most significant compositional shift in the top 100 since 2020, driven by a recalibration of citation-weighting metrics and a surge in institutional investment from the Asia-Pacific region. According to the 2025 QS World University Rankings, 27 institutions from mainland China and South Korea now sit within the top 200, a cohort that has grown by 35% since 2021. Concurrently, Times Higher Education (THE) data from their 2025 World University Rankings shows that the average research income for Australian Group of Eight universities rose by 12.4% year-on-year, a trajectory that historically precedes a rise in global standing. This analysis synthesises methodology shifts from QS, THE, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU) to project which institutions are structurally positioned to enter or re-enter the top 100 by mid-2026. The prediction model weighs three primary variables: changes in citation normalisation (specifically the move toward field-weighted citation impact), international faculty recruitment patterns, and the compound annual growth rate of institutional endowments as reported by the National Science Foundation (NSF, 2024 Academic R&D Expenditures report).

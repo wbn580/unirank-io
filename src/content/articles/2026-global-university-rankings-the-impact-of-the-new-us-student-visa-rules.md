@@ -6,6 +6,8 @@ pubDatetime: "2026-04-19T18:15:03Z"
 publishDate: '2026-04-19T18:15:03Z'
 readingTime: 9
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2026 global university rankings cycle arrives amid the most consequential shift in US student visa policy in over a decade. On 24 January 2025, the US Department of State issued a regulation revising the “duration of status” provision for F-1 visa holders, replacing the previous open-ended stay with a fixed four-year term for most academic programmes, renewable only upon application. The change affects approximately 1.1 million international students in the United States—a cohort that contributed $40.1 billion to the US economy in the 2023–24 academic year, according to the US Department of Commerce’s Bureau of Economic Analysis. Simultaneously, the QS World University Rankings 2026, released in June 2025, recorded the steepest single-year decline in US institutional representation among the top 100 since the ranking’s inception in 2004. While correlation does not imply causation, the timing aligns with a measurable shift in applicant behaviour: the Institute of International Education’s Spring 2025 Snapshot Survey reported a 14.7% drop in new international student enrolment at US universities for the Fall 2025 intake, the largest such decline since the post-9/11 visa restrictions of 2003. This article examines how the new visa rules interact with the 2026 ranking data, disaggregating the impact by discipline, institution tier, and source country to provide evidence-based guidance for prospective applicants and their families.

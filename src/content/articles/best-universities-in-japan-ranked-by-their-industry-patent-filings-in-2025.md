@@ -6,6 +6,8 @@ pubDatetime: "2026-05-17T18:22:26Z"
 publishDate: '2026-05-17T18:22:26Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 University patent output has emerged as a distinct indicator of institutional research commercialisation capacity, separate from traditional citation-based metrics. In 2025, Japanese universities filed 8,412 patent applications with the Japan Patent Office (JPO), a 3.7% increase from 2024, according to the JPO’s 2025 Annual Patent Report. Among these, the top 10 institutions accounted for 67% of all academic filings, with the University of Tokyo alone submitting 1,203 applications. This concentration mirrors global trends observed by the World Intellectual Property Organization (WIPO), which reported that Japan ranked third globally in 2024 for academic patent filings, behind only China and the United States [WIPO 2024 World Intellectual Property Indicators]. The following analysis ranks Japanese universities specifically by their 2025 industry patent filings—applications co-assigned to corporate entities—offering a data-driven lens for students and researchers evaluating institutional ties to industrial innovation.

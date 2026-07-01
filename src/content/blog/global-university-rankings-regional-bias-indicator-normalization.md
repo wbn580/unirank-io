@@ -18,6 +18,8 @@ tags:
   - 'ranking methodology'
   - 'indicator weighting'
   - 'data normalization'
+hideFromHome: true
+
 ---
 
 # How Global University Rankings (QS, THE, ARWU) Perpetuate Regional Bias: Indicator Selection, Weighting, and Normalization Explained – Impact on Asia, Europe, and the Global South

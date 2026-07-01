@@ -6,6 +6,8 @@ pubDatetime: "2026-04-16T18:14:11Z"
 publishDate: '2026-04-16T18:14:11Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The decision to accept a university offer and pay the non-refundable deposit — which, for international students, can range from £2,000 to £10,000 depending on the institution and country — is one of the most consequential financial commitments a family makes in the admissions cycle. According to the U.S. National Association for College Admission Counseling (NACAC, 2024 *State of College Admission Report*), approximately 78% of U.S. universities require a deposit by May 1st, with the average deposit for private institutions exceeding $500. Yet a single-digit rank difference between two universities on a global list can obscure drastically different outcomes in employment, salary, and visa sponsorship. A 2023 analysis by the OECD *Education at a Glance* report found that graduates from the top 200 globally-ranked universities earn, on average, 22% more in their first five years than peers from unranked institutions, but that variance within the top 200 itself is often non-linear. This article provides a four-step, evidence-based protocol for evaluating a university ranking before releasing the deposit — combining institutional data, discipline-specific metrics, and financial risk assessment.

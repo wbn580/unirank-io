@@ -6,6 +6,8 @@ pubDatetime: "2026-04-21T18:15:41Z"
 publishDate: '2026-04-21T18:15:41Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2025 QS Online MBA Rankings, released on September 17, 2024, evaluated 170 programs globally, a 10% increase from the 154 programs assessed in 2024, reflecting the sector's sustained expansion. The rankings are weighted across four key pillars: Employability (40%), Class Profile (20%), Faculty & Teaching (20%), and Student Experience (20%). According to QS Quacquarelli Symonds, the average salary uplift for graduates from the top 20 programs reached 38%, with the leading institution reporting a median post-MBA salary of $205,000. This analysis dissects the methodology, top performers, and critical trends for prospective students evaluating the return on investment of a fully online MBA, a market segment that the Graduate Management Admission Council (GMAC) reports now accounts for 34% of all MBA applications globally in 2024.

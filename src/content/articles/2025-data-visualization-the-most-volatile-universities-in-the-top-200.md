@@ -6,6 +6,8 @@ pubDatetime: "2026-05-07T18:19:44Z"
 publishDate: '2026-05-07T18:19:44Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Between 2018 and 2025, the global university rankings landscape underwent a period of significant reshuffling. An analysis of the QS World University Rankings across these eight editions reveals that 34 of the top 200 institutions experienced a rank shift of more than 50 positions in either direction. This volatility, measured by the absolute value of net rank change, was most pronounced among mid-tier institutions (positions 100–200), where the average fluctuation reached 41.3 positions, compared to 12.7 positions for the top 50, according to data from QS’s 2025 release. The U.S. National Science Foundation’s 2024 Higher Education Research and Development (HERD) Survey noted that funding instability and shifting faculty recruitment patterns correlated strongly with these movements. This article visualizes the most volatile universities in the top 200, using a composite metric of rank change, citation impact variability, and international student enrollment shifts, to identify which institutions have been the most dynamic—and why.

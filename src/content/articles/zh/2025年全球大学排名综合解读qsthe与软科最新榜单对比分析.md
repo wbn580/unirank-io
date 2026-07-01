@@ -6,6 +6,8 @@ pubDatetime: "2026-02-22T18:01:20Z"
 publishDate: '2026-02-22T18:01:20Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2025 edition of the global university rankings cycle has introduced significant methodological recalibrations across the three most consulted league tables—QS World University Rankings, Times Higher Education (THE) World University Rankings, and the Academic Ranking of World Universities (ARWU, commonly known as the Shanghai Ranking). QS expanded its indicator set to include a 5% weight for “Sustainability” and a weighting adjustment that reduced the Academic Reputation share from 40% to 30%, while THE increased its Industry Income weight to 4% and refined its Research Quality metrics. ARWU, maintained by Shanghai Ranking Consultancy, continues to rely exclusively on objective indicators such as Nobel laureates (20% weight) and highly cited researchers (20%), with no subjective survey component. The combined effect is a reshuffling of the top 100 that affects 38 institutions compared to the 2024 composite list, according to a cross-ranking analysis by the Center for World University Rankings (CWUR, 2024, Global University Rankings Methodology Report). For prospective international students and their families, understanding these methodological shifts is essential: a university’s position can vary by as many as 47 places between QS and ARWU for the same institution, as seen with the University of California, San Francisco (UCSF), which ranks 4th in ARWU but 62nd in QS.

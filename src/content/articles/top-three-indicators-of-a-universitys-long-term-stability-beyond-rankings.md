@@ -6,6 +6,8 @@ pubDatetime: "2026-05-05T18:19:17Z"
 publishDate: '2026-05-05T18:19:17Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Every year, hundreds of thousands of prospective students consult global league tables to gauge institutional quality, yet rankings alone offer a narrow and often volatile snapshot of a university’s financial and operational health. A 2023 analysis by Moody’s Investors Service found that 34% of U.S. public research universities now operate with operating margins below the 3% threshold considered healthy for long-term viability, a figure that has doubled since 2015 [Moody’s, 2023, Higher Education Outlook]. Meanwhile, the U.S. Department of Education’s College Scorecard database indicates that 4.2% of degree-granting institutions closed between 2016 and 2022, affecting over 600,000 enrolled students [National Center for Education Statistics, 2023, IPEDS Data]. These metrics underscore that a university’s ability to weather demographic shifts, funding cuts, and enrollment volatility cannot be read from a QS or THE score alone. Three indicators—endowment per student, graduation rate relative to selectivity, and the ratio of tenured or tenure-track faculty to total instructional staff—provide a more durable assessment of institutional stability. This article unpacks each indicator with verifiable data, cross-referencing government reports and independent financial analyses to equip applicants and families with a methodology that complements, rather than duplicates, the information found in annual rankings.

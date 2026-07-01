@@ -6,6 +6,8 @@ pubDatetime: "2026-05-19T18:22:54Z"
 publishDate: '2026-05-19T18:22:54Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The QS World University Rankings by Subject 2025 placed the Massachusetts Institute of Technology (MIT) at the top of the Architecture & Built Environment category for the fifth consecutive year, achieving a perfect score of 100.0 in academic reputation. The ranking evaluated 1,500 institutions globally, with the top 50 dominated by institutions from the United States, the United Kingdom, and China. According to the U.S. Bureau of Labor Statistics (2024), employment of architects is projected to grow 5% from 2023 to 2033, slightly above the average for all occupations, while the Royal Institute of British Architects (RIBA, 2024) reported a 12% increase in student enrollments across accredited programs since 2021. These figures underscore the sustained demand for architectural education. However, the QS Design and Art rankings, which incorporate architecture-related disciplines such as landscape architecture, urban design, and interior architecture, offer a broader lens. This article synthesizes the QS 2025 data with supplementary insights from THE and ARWU, providing a transparent methodology for prospective students evaluating programs across design-intensive fields.

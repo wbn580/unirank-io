@@ -6,6 +6,8 @@ pubDatetime: "2026-04-06T18:11:49Z"
 publishDate: '2026-04-06T18:11:49Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2025 QS World University Rankings by Subject, the University of California, Berkeley secured the top position in Environmental Sciences, while the 2025 Times Higher Education (THE) World University Rankings placed Harvard University at the summit of its equivalent subject area. This divergence is not an anomaly but a structural outcome of each ranking’s distinct methodological architecture. QS allocates 50% of its subject score to **academic reputation** and 20% to **employer reputation**, heavily weighting peer perception. THE, by contrast, dedicates 60% of its subject score to **teaching and research environment** metrics, including citations per publication (30%) and institutional income. A 2024 analysis by the OECD’s Education Directorate noted that bibliometric indicators in environmental science are particularly sensitive to interdisciplinary citation patterns, which these two ranking systems handle differently. For prospective graduate students, understanding these methodological choices is essential: a top-10 position in one ranking does not guarantee a similar standing in the other, and the variance can exceed 30 places for certain institutions.

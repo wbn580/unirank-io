@@ -6,6 +6,8 @@ pubDatetime: "2026-04-19T18:15:16Z"
 publishDate: '2026-04-19T18:15:16Z'
 readingTime: 9
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Global university rankings have evolved from a niche curiosity into a structural force reshaping the geography of talent. In 2023, the World Bank estimated that **over 2.5 million tertiary students from low- and middle-income countries were enrolled in OECD nations**, a figure that has more than doubled since 2010 [World Bank 2024, Education Statistics Database]. This outflow is not uniform; it is heavily skewed toward students from countries with the fewest top-ranked domestic institutions. A 2024 study by the Organisation for Economic Co-operation and Development (OECD) found that **students from nations with no university in the QS World University Rankings top 200 are 3.7 times more likely to study abroad** than those from countries with five or more such institutions [OECD 2024, Education at a Glance]. These numbers point to a self-reinforcing cycle: rankings signal prestige, prestige attracts talent, and the concentration of talent in a handful of high-ranked hubs leaves developing academic ecosystems starved of their brightest minds. This phenomenon—often termed academic brain drain—is not merely a side effect of internationalisation; it may be an accelerating driver of global inequality in research capacity, innovation, and economic development.

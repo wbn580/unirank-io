@@ -6,6 +6,8 @@ pubDatetime: "2026-04-26T18:16:47Z"
 publishDate: '2026-04-26T18:16:47Z'
 readingTime: 9
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The COVID-19 pandemic’s disruption to global higher education has permanently altered the data that feeds the world’s most influential university rankings. In 2025, **QS**, **Times Higher Education (THE)**, **U.S. News & World Report**, and the **Academic Ranking of World Universities (ARWU)** continue to process distorted datasets from the 2020–2023 period, creating persistent anomalies in institutional scores. For example, THE’s 2025 World University Rankings show that the average “International Outlook” score for top-100 universities fell by 3.8 points compared to the 2020 baseline, largely due to suppressed international student mobility during border closures [THE, 2024, World University Rankings Methodology]. Simultaneously, QS introduced a “Sustainability” indicator in its 2024 methodology, weighting it at 5% in the overall score—a direct response to the pandemic’s acceleration of remote learning and digital infrastructure demands [QS, 2024, Methodology Changes]. These adjustments mean that a university’s 2025 rank may reflect not just its intrinsic quality but also how well it navigated the fiscal and operational shocks of 2020–2022. For prospective applicants and institutional strategists, understanding these lingering effects is essential to interpreting the league tables correctly.

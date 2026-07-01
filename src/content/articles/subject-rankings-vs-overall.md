@@ -3,6 +3,8 @@ title: "University Rankings by Subject · What and How to Compare"
 description: "Why subject rankings matter more than overall rankings for university choice — QS Subjects, THE Subjects, and how to use subject-specific data for decision making."
 category: "method"
 publishDate: "2026-05-15T08:30:00Z"
+hideFromHome: true
+
 ---
 Subject rankings are more useful than overall rankings for student decisions. A university ranked #200 overall may be #5 in a specific discipline. QS ranks 55 subjects across 5 broad areas. THE ranks 11 subject areas. Subject rankings use discipline-specific methodologies (citations per paper norms that account for different publication cultures across fields).
 

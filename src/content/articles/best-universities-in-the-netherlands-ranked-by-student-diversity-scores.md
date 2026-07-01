@@ -6,6 +6,8 @@ pubDatetime: "2026-05-07T18:19:52Z"
 publishDate: '2026-05-07T18:19:52Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2024 student body at Dutch research universities comprises 62.4% domestic students, 20.1% from other European Economic Area (EEA) countries, and 17.5% from non-EEA nations, according to the Netherlands’ central statistical office (CBS, 2024, *Student Population by Nationality*). This diversity index—measured by the proportion of international enrolments—varies sharply across institutions, with some universities reporting as low as 8% non-Dutch students and others exceeding 40%. A 2023 analysis by Times Higher Education (THE) ranked the Netherlands as the fourth-most internationally diverse higher education system globally, behind only Luxembourg, the United Arab Emirates, and Australia. For prospective students evaluating study destinations, the “student diversity score” has become a proxy for cross-cultural exposure, language accessibility, and global alumni networks. This article synthesises data from QS World University Rankings, THE, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU) to rank Dutch universities by their student diversity scores, while also examining the structural factors—tuition fee differentials, English-taught programme density, and immigration policy—that drive these metrics. The analysis reveals that institutions in the Randstad conurbation (Amsterdam, Rotterdam, Utrecht, Leiden) consistently outperform those in peripheral provinces, a pattern that mirrors OECD findings on regional mobility (OECD, 2023, *Education at a Glance*).

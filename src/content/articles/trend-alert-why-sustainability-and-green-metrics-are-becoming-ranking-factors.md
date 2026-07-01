@@ -6,6 +6,8 @@ pubDatetime: "2026-04-10T18:12:44Z"
 publishDate: '2026-04-10T18:12:44Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In 2023, Times Higher Education (THE) launched its inaugural **Impact Rankings**, assessing 1,591 universities against the United Nations’ 17 Sustainable Development Goals (SDGs), up from 1,406 institutions the previous year. Simultaneously, the **QS World University Rankings** announced that for the 2024 edition, sustainability metrics—specifically "Sustainability" (5% weighting) and "Employment Outcomes" (5% weighting)—would be integrated for the first time, replacing older factors like "International Faculty Ratio." This shift reflects a broader recalibration: a 2022 survey by the **International Association of Universities (IAU)** found that 67% of higher education institutions worldwide now have a dedicated sustainability strategy or policy, up from 42% in 2018. These methodological changes signal that **environmental and social governance (ESG) performance** is no longer a peripheral concern but a central criterion in how global university rankings evaluate institutional quality. For students and families navigating the 18–35 age bracket’s selection process, understanding this trend is critical—**green metrics** now directly influence a university’s overall score and, consequently, its position in the competitive global landscape.

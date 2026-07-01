@@ -6,6 +6,8 @@ pubDatetime: "2026-05-02T18:18:44Z"
 publishDate: '2026-05-02T18:18:44Z'
 readingTime: 9
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Faculty hiring constitutes the single largest long-term investment any university makes. A single tenured professor represents a commitment of USD 3–5 million over a career, yet the mechanisms that attract such talent remain poorly understood by applicants and administrators alike. Two competing signals dominate the global academic labour market: **university rankings** (quantifiable, league-table positions) and **university branding** (perceptual, reputational, often legacy-driven). A 2023 survey by Times Higher Education found that 68% of senior academics considered institutional prestige as the primary factor when evaluating a job offer, while only 41% cited the specific subject ranking of their department. Meanwhile, data from the OECD’s Education at a Glance 2024 report indicates that institutions in the top 100 of the QS World University Rankings receive, on average, 3.2 times more unsolicited faculty applications than those ranked between 101–200, suggesting that rank itself acts as a powerful initial filter. This article dissects the empirical evidence behind rankings versus branding, examining which lever exerts greater pull on faculty recruitment, retention, and long-term institutional reputation.

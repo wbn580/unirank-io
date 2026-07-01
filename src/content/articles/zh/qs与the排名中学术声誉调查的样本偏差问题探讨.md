@@ -6,6 +6,8 @@ pubDatetime: "2026-03-23T18:08:36Z"
 publishDate: '2026-03-23T18:08:36Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The global university rankings produced by Quacquarelli Symonds (QS) and Times Higher Education (THE) serve as primary reference tools for prospective students and policymakers worldwide. Yet a persistent methodological critique surrounds their **academic reputation surveys**, which collectively contribute 40% to QS’s overall score and 33% to THE’s World University Rankings. According to a 2023 analysis by the Centre for Science and Technology Studies (CWTS) at Leiden University, these peer-review surveys exhibit measurable **sample bias** in geographic and disciplinary representation: approximately 65% of QS respondents originate from English-speaking countries, and over 70% of THE’s 2022 survey respondents were drawn from the physical sciences and engineering fields. The OECD’s 2022 *Education at a Glance* report noted that such imbalances systematically disadvantage institutions in non-Anglophone regions and those excelling in social sciences or humanities. This article dissects the structural sources of these biases, evaluates their impact on ranking outcomes, and discusses methodological alternatives that could improve survey validity.

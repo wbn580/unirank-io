@@ -6,6 +6,8 @@ pubDatetime: "2026-04-27T18:17:09Z"
 publishDate: '2026-04-27T18:17:09Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2025 edition of the QS World University Rankings, the methodology incorporated a new “Sustainability” indicator weighted at 5%, while the Times Higher Education (THE) World University Rankings 2024 introduced a “Research Quality” pillar that accounts for 30% of the total score—a shift that relies on citation data from 83 million publications processed through natural language processing (NLP) algorithms. These changes are not merely cosmetic; they reflect a deeper transformation in how global university rankings are calculated and audited. Historically, rankings relied on static surveys, bibliometric counts, and institutional self-reports—methods prone to lag, manipulation, and human error. Today, machine learning models scrape real-time data from preprint servers, patent offices, and employer databases, while blockchain-based audit trails are being piloted to verify institutional claims. According to the OECD’s 2024 *Education at a Glance* report, 67% of tertiary institutions in OECD countries now use some form of automated data collection for benchmarking, up from 34% in 2019. This article examines the technical mechanisms, methodological shifts, and audit challenges that define this new landscape.

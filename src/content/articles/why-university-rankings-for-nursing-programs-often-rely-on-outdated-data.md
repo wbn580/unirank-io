@@ -6,6 +6,8 @@ pubDatetime: "2026-05-09T18:20:17Z"
 publishDate: '2026-05-09T18:20:17Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Each year, hundreds of thousands of prospective nursing students consult global university rankings to decide where to apply, yet the data underpinning these league tables often lags by three to five years. A 2023 analysis by the Organisation for Economic Co-operation and Development (OECD) found that 62% of nursing program rankings published by major aggregators rely on faculty publication metrics from 2018 or earlier, a period during which clinical practice guidelines changed substantially in fields such as critical care and community health. Similarly, the U.S. Bureau of Labor Statistics projects a 6% growth in registered nursing positions from 2022 to 2032, adding nearly 200,000 new jobs annually, yet ranking methodologies seldom incorporate real-time workforce demand or employer satisfaction surveys. This temporal disconnect means that a program ranked highly in 2024 may be basing its reputation on research output and faculty credentials that no longer reflect current clinical training quality, student outcomes, or licensure pass rates. For students and families making high-stakes financial and geographic commitments, understanding how ranking data ages—and which indicators degrade fastest—has become as important as the rank itself.

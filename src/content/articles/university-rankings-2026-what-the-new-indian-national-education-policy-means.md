@@ -6,6 +6,8 @@ pubDatetime: "2026-05-17T18:22:17Z"
 publishDate: '2026-05-17T18:22:17Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2026 cycle of global university rankings arrives at a pivotal moment for Indian higher education, as the National Education Policy (NEP) 2020 completes its sixth year of phased implementation. The policy’s mandate to increase the Gross Enrolment Ratio (GER) in higher education to 50% by 2035—up from 27.3% in 2020-21, according to the All India Survey on Higher Education (AISHE) [Ministry of Education 2023, AISHE 2020-21 Report]—is already reshaping institutional priorities. This structural shift coincides with a 12% year-on-year increase in Indian students opting for overseas study, as reported by the Ministry of External Affairs in its 2024-25 annual report, totaling over 1.3 million students abroad. The convergence of domestic policy reform and international mobility trends demands a re-evaluation of how university rankings should be interpreted. Traditional league tables from QS, THE, US News, and ARWU have historically weighted research output and global reputation, but NEP’s emphasis on multidisciplinary education, vocational integration, and internationalization introduces new variables. This analysis examines the 2026 ranking data through the lens of NEP’s impact, identifying which institutions are adapting fastest and what this means for prospective applicants.

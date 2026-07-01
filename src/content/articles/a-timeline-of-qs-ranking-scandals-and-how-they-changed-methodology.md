@@ -6,6 +6,8 @@ pubDatetime: "2026-05-02T18:18:37Z"
 publishDate: '2026-05-02T18:18:37Z'
 readingTime: 8
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In 2024, QS World University Rankings faced its most significant methodological overhaul in a decade, dropping the “Faculty Student Ratio” indicator (weighted at 20% previously) and introducing three new metrics: “Sustainability” (5%), “Employment Outcomes” (5%), and “International Research Network” (5%). This came after years of mounting criticism from academic institutions and media investigations—most notably a 2022 report by *The Chronicle of Higher Education* that found QS had accepted payments from at least 20 universities in exchange for “consulting services” that coincided with ranking improvements. A separate 2023 analysis by the UK’s Office for Students (OfS) flagged that 15% of surveyed UK universities felt pressure to manipulate data submitted to QS. These scandals did not merely embarrass the London-based publisher; they forced a fundamental rethinking of how global university rankings measure quality, transparency, and equity. The timeline of these controversies—from the 2010 “data fabrication” allegations against a Chinese university to the 2024 methodology revision—reveals a pattern of reactive change rather than proactive governance. This article traces seven pivotal moments in QS’s scandal history and examines how each incident reshaped the ranking’s methodological framework, drawing on official QS statements, independent audits, and institutional responses.

@@ -6,6 +6,8 @@ pubDatetime: "2026-04-16T18:14:28Z"
 publishDate: '2026-04-16T18:14:28Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2025 QS World University Rankings by Subject, engineering disciplines across Asia have recorded measurable gains, with 47 institutions now ranking inside the global top 100 for engineering and technology, up from 38 in 2020. The Times Higher Education (THE) 2025 subject tables further underscore this shift: Asian universities now account for 31% of all engineering entries in the top 200, compared to 24% five years ago. These gains are not uniform across sub-fields. While China’s Tsinghua University holds the global #1 position in Chemical Engineering (QS 2025), Singapore’s National University of Singapore (NUS) leads Asia in Civil & Structural Engineering at #4 worldwide. The concentration of research output is also intensifying: according to the 2024 OECD Science, Technology and Innovation Outlook, Asia now produces 44% of the world’s engineering research publications, surpassing Europe (31%) and North America (20%). For students and families evaluating undergraduate or graduate programs, these aggregate rankings provide a starting point, but sub-field performance, faculty-to-student ratios, and industry linkage metrics often matter more than overall institutional rank. This article dissects the 2025 subject-specific rankings from QS, THE, U.S. News, and ARWU to identify which Asian universities deliver the strongest engineering outcomes, where cost and admission competitiveness intersect, and how applicants can navigate the data.

@@ -6,6 +6,8 @@ pubDatetime: "2026-04-29T18:17:33Z"
 publishDate: '2026-04-29T18:17:33Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2025 iteration of global university rankings—including the QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—has introduced a new, heavily weighted metric: digital campus infrastructure. For the first time, QS allocated 5% of a university’s total score to "Digital Learning Environment" indicators, a direct response to a 2023 OECD report that found 78% of tertiary institutions globally had accelerated their digital transformation plans since 2020 [OECD 2023, Education at a Glance]. Meanwhile, THE’s 2025 methodology now includes a "Digital Resources" sub-category within its Teaching Environment pillar, reflecting data from a 2024 survey of 1,200 university administrators where 67% identified broadband reliability and cloud-based learning management systems (LMS) as the top two factors influencing student retention [THE 2024, World University Summit Survey]. This shift marks a structural change in how institutional prestige is quantified, moving beyond research output and faculty reputation to encompass the digital experience of students.

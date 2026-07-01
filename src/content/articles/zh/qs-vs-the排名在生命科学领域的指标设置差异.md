@@ -6,6 +6,8 @@ pubDatetime: "2026-04-02T18:10:49Z"
 publishDate: '2026-04-02T18:10:49Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 Among the dozens of university ranking systems available to prospective graduate students in the life sciences, the QS World University Rankings and the Times Higher Education (THE) World University Rankings dominate institutional visibility. Yet these two frameworks diverge sharply in how they define "excellence" for fields such as molecular biology, biochemistry, and ecology. QS allocates 40% of its total score to academic reputation (based on a global survey of 130,000+ academics), while THE assigns only 15% to reputation surveys and instead weights research citations (30%) and industry income (2.5%) differently [QS, 2024, Methodology Overview; THE, 2024, World University Rankings Methodology]. For a life-sciences applicant choosing between a university ranked 15th by QS and 25th by THE, understanding these metric disparities can reveal whether an institution truly excels in laboratory output, teaching quality, or translational impact. This article unpacks the specific indicator differences between QS and THE in the life-science domain, using publicly available methodology documents and institutional data to guide evidence-based decision-making.

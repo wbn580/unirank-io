@@ -3,6 +3,8 @@ title: "Australian University Rankings · Go8, ATN, and Regional Performance"
 description: "How Australian universities perform in global rankings — Group of Eight dominance, technology universities rising, and trends in international student attraction."
 category: "rankings"
 publishDate: "2026-05-15T09:10:00Z"
+hideFromHome: true
+
 ---
 Australia has 7 universities in the QS top 100 — the highest per capita of any country. Melbourne (#13), Sydney (#18), UNSW (#19), ANU (#30), Monash (#37), Queensland (#40), UWA (#77). The Group of Eight dominates, but the Australian Technology Network universities (UTS, RMIT, Curtin, QUT, UniSA) have been rising rapidly — UTS entered the QS top 100 in 2024.
 

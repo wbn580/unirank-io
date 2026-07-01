@@ -6,6 +6,8 @@ pubDatetime: "2026-03-12T18:05:44Z"
 publishDate: '2026-03-12T18:05:44Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2025 QS World University Rankings by Subject, the University of Oxford secured the top spot in English Language and Literature, while Harvard University led in History and Modern Languages. Yet the same year, the Times Higher Education (THE) World University Rankings placed Stanford University first in Arts and Humanities overall, with Oxford and Cambridge trailing. These divergences are not anomalies but symptoms of a fundamental methodological rift. QS weights academic reputation (40%) and employer reputation (10%) heavily, whereas THE prioritises teaching environment (37.5%) and research citations (30%). For humanities and social sciences—fields where citation cultures are slower and publication formats differ from STEM—this gap produces systematically different outcomes. A 2023 analysis by the OECD’s Education Directorate found that humanities articles take an average of 3.2 years to reach peak citation, compared to 1.8 years for life sciences, making THE’s citation metric disproportionately penalise humanists. The stakes are high: a 2022 survey by the Institute of International Education (IIE) reported that 67% of international graduate applicants consult at least two ranking systems before selecting a programme, yet few understand how methodology skews results for their intended discipline.

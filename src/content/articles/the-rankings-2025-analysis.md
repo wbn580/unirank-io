@@ -3,6 +3,8 @@ title: "THE World University Rankings 2025 · Full Analysis"
 description: "Analysis of Times Higher Education World University Rankings — top performers, methodology changes, Asian institutional rise, and Australian results."
 category: "rankings"
 publishDate: "2026-05-15T08:30:00Z"
+hideFromHome: true
+
 ---
 
 The THE World University Rankings 2025 rank over 1,900 institutions across 108 countries. Oxford retained #1 for the ninth consecutive year.

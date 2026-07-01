@@ -6,6 +6,8 @@ pubDatetime: "2026-05-11T18:20:52Z"
 publishDate: '2026-05-11T18:20:52Z'
 readingTime: 7
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The 2026 edition of global university rankings is expected to show measurable shifts in the standing of UK institutions, driven by the prolonged structural effects of Brexit. Preliminary modelling by the Higher Education Policy Institute (HEPI) suggests that UK universities could see a 3–5% decline in their composite scores across the QS World University Rankings and the Times Higher Education (THE) World University Rankings, primarily due to reductions in international faculty mobility and research collaboration intensity with EU partners. Data from the UK’s Office for National Statistics (ONS, 2024) confirms that EU academic staff numbers fell by 23% between 2019 and 2023, a contraction that directly impacts the "International Faculty Ratio" metric, which accounts for 5% of the QS scoring framework. Meanwhile, the share of UK research publications co-authored with EU institutions dropped from 37% in 2019 to 31% in 2024, according to a report by the Royal Society (2025). These shifts are not uniform across all institutions; Russell Group universities with strong global brands may absorb the impact differently than regional post-92 universities. For international students and families evaluating UK options in the 2026 cycle, understanding which metrics are most vulnerable—and which institutions are best positioned to adapt—is critical for informed decision-making.

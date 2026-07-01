@@ -3,6 +3,8 @@ title: "Asian University Rankings Rise · China, Singapore, Korea, Japan"
 description: "The rise of Asian universities in global rankings — how Tsinghua, NUS, Peking, and others are challenging Western dominance in academic prestige."
 category: "rankings"
 publishDate: "2026-05-15T09:10:00Z"
+hideFromHome: true
+
 ---
 
 Asian universities are the fastest-rising cohort in global rankings. The trend is driven by massive investment in research (China's Double First Class initiative, Singapore's RIE 2025 plan), improving English-language publication output, and increasing numbers of international faculty and students.

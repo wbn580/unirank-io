@@ -6,6 +6,8 @@ pubDatetime: "2026-03-28T18:09:35Z"
 publishDate: '2026-03-28T18:09:35Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In the 2025 QS World University Rankings, the **Employer Reputation** indicator carries a weight of 15% for the overall score, yet its influence on institutional perception often exceeds this figure due to its direct link to graduate employment outcomes. Based on a survey of 98,420 unique employer respondents conducted between 2023 and 2024, QS collects over 5.1 million individual nomination votes to generate the metric [QS 2024, Methodology Guide]. This makes it the largest global survey of its kind among university ranking systems, surpassing the Times Higher Education (THE) Global Employability University Ranking, which surveyed approximately 10,000 recruiters in its 2024 edition [THE 2024, Global Employability Ranking]. The methodology relies on a peer-nomination process: employers nominate up to ten domestic and thirty international institutions they consider best for hiring graduates, then identify those with the highest competency in specific fields. This approach creates a two-stage filtering mechanism that prioritizes repeated nominations from diverse geographic and industry sectors over raw name recognition.

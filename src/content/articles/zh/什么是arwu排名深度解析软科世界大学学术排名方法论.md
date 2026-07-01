@@ -6,6 +6,8 @@ pubDatetime: "2026-02-22T18:01:21Z"
 publishDate: '2026-02-22T18:01:21Z'
 readingTime: 3
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 The Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking, stands as one of the most influential global university league tables, yet its methodology differs fundamentally from its peers. First published in 2003 by Shanghai Jiao Tong University, the ranking was designed to measure the quality of academic research and institutional output using exclusively objective, third-party data. Unlike surveys such as the QS World University Rankings or the Times Higher Education (THE) World University Rankings, ARWU entirely excludes subjective reputation scores, peer reviews, and employer surveys. According to the 2024 ARWU methodology, the ranking evaluates over 2,500 institutions annually, publishing a final list of the top 1,000. The scoring system hinges on six weighted indicators, with a heavy 30% weight assigned to the number of alumni and staff winning Nobel Prizes and Fields Medals. A further 20% is allocated to papers published in *Nature* and *Science*, while the total number of articles indexed in the Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) accounts for another 20% [Shanghai Ranking Consultancy, 2024, ARWU Methodology]. This data-driven, output-focused approach makes ARWU particularly useful for students and researchers seeking institutions with demonstrable high-impact research, though it has also attracted criticism for its perceived bias toward the sciences and large, English-language institutions.

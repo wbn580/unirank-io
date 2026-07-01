@@ -6,6 +6,8 @@ pubDatetime: "2026-05-22T18:23:50Z"
 publishDate: '2026-05-22T18:23:50Z'
 readingTime: 10
 tags: ["featured"]
+hideFromHome: true
+
 ---
 
 In November 2025, the European Commission confirmed that the 2026 university rankings cycle would incorporate a new weighting factor for institutions participating in the European Universities Alliances (EUA), a network now comprising 64 alliances and over 560 higher education institutions across 35 countries. This policy shift, detailed in the Commission’s *Erasmus+ Annual Report 2025*, marks the first time a supranational political initiative has directly influenced the methodological frameworks of the four major global ranking systems (QS, THE, US News, and ARWU). Preliminary data from Times Higher Education’s 2026 World University Rankings, released on October 15, 2025, show that allied institutions experienced an average 4.2-point boost in their "International Outlook" scores, a metric that accounts for 7.5% of the overall THE ranking weight. For prospective international students and their families, this structural change implies that an institution’s alliance membership now carries quantifiable reputational and resource advantages, potentially altering the traditional calculus of university selection. The European Commission’s investment of €1.12 billion into the alliances between 2019 and 2025 has produced measurable outcomes in cross-border research output, joint degree programs, and student mobility, all of which are now being formally recognized by ranking agencies.

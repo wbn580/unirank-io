@@ -5,6 +5,8 @@ category: "methodology"
 publishDate: "2026-05-15T04:10:00Z"
 readingTime: 12
 tags: ["rankings", "QS", "THE", "ARWU", "methodology"]
+hideFromHome: true
+
 ---
 
 University rankings influence where students apply, where academics seek employment, and how governments allocate research funding. The three dominant global rankings — QS World University Rankings, Times Higher Education (THE), and the Academic Ranking of World Universities (ARWU/Shanghai) — collectively shape perceptions of institutional prestige. However, they measure fundamentally different things, and understanding their methodologies is essential to interpreting their results.
