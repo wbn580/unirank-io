@@ -19,9 +19,7 @@ tags:
   - 'indicator weighting'
   - 'data normalization'
 hideFromHome: true
-
 ---
-
 # How Global University Rankings (QS, THE, ARWU) Perpetuate Regional Bias: Indicator Selection, Weighting, and Normalization Explained – Impact on Asia, Europe, and the Global South
 
 Each year, millions of students, academics, and policymakers turn to global university rankings to shape decisions about where to study, whom to hire, and which institutions to fund. QS World University Rankings, Times Higher Education (THE) World University Rankings, and the Academic Ranking of World Universities (ARWU) have become de facto benchmarks of institutional prestige. Yet behind the seemingly objective league tables lie methodological choices that can subtly—or not so subtly—reinforce regional hierarchies. This article explores how global university rankings (QS, THE, ARWU) address or perpetuate regional bias through indicator selection, weighting, and data normalization. It analyzes the impact on institutions in Asia, Europe, and the Global South, and offers guidance for stakeholders interpreting these rankings in a cross-regional context.
