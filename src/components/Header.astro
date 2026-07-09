@@ -13,7 +13,7 @@ const categories = [
     <a href="/" class="font-heading text-2xl text-aus-red font-bold tracking-wide no-underline">
       University Rankings
     </a>
-    <div class="hidden md:flex gap-1 text-sm">
+    <div class="hidden xl:flex gap-1 text-sm">
       {categories.map(cat => (
         <a
           href={`/category/${cat.slug}/`}
@@ -23,8 +23,36 @@ const categories = [
         </a>
       ))}
     </div>
-    <a href="/about/" class="text-sm text-aus-muted hover:text-aus-ink no-underline hidden md:block">
+    <a href="/about/" class="text-sm text-aus-muted hover:text-aus-ink no-underline hidden xl:block">
       About
     </a>
   </nav>
 </header>
+
+<style>
+
+
+  /* MENU-CROWD-FIX-20260708: keep dense desktop menus from wrapping or crushing CTA buttons. */
+  header nav a,
+  .nav-links a,
+  .nav-link,
+  .nav-cta,
+  .site-nav a {
+    white-space: nowrap;
+  }
+  .nav-links,
+  .site-nav {
+    min-width: 0;
+  }
+  .site-nav.flex-wrap,
+  nav.site-nav.flex-wrap {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav.flex-wrap::-webkit-scrollbar,
+  nav.site-nav.flex-wrap::-webkit-scrollbar {
+    display: none;
+  }
+</style>
