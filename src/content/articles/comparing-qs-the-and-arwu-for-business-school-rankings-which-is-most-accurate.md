@@ -43,15 +43,14 @@ ARWU uses a two-year citation window (2022–2024 data for the 2025 ranking), wh
 
 The table below summarises the core weighting differences for business school rankings:
 
-| Indicator | QS Weight | THE Weight | ARWU Weight |
-|-----------|-----------|------------|-------------|
-| Reputation Surveys | 50% | 15% (teaching) | 0% |
-| Citations / Research Impact | 0% | 30% | 40% (top journals + top 10% citations) |
-| Research Output (papers) | 0% | 0% | 20% |
-| Staff-to-Student Ratio | 0% | 4.5% | 0% |
-| International Diversity | 0% | 7.5% | 10% |
-| Employer Perception | 10% | 0% | 0% |
-| Awards (Nobel/Fields) | 0% | 0% | 30% |
+- **Reputation Surveys**: 50% · 15% (teaching) · 0%
+- **Citations / Research Impact**: 0% · 30% · 40% (top journals + top 10% citations)
+- **Research Output (papers)**: 0% · 0% · 20%
+- **Staff-to-Student Ratio**: 0% · 4.5% · 0%
+- **International Diversity**: 0% · 7.5% · 10%
+- **Employer Perception**: 10% · 0% · 0%
+- **Awards (Nobel/Fields)**: 0% · 0% · 30%
+
 
 For an applicant prioritising **employer recognition and career placement**, QS provides the most relevant signal. The 10% employer weight and 40% academic reputation weight directly reflect how recruiters view schools. For a candidate interested in **research-intensive programmes** (e.g., PhD preparation or academic careers), ARWU’s focus on publications and citations is more predictive of faculty quality. THE occupies a middle ground, balancing teaching environment with research metrics, making it useful for applicants who value both classroom experience and faculty scholarship.
 

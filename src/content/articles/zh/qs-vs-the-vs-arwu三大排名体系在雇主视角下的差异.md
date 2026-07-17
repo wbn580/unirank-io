@@ -56,11 +56,10 @@ Visa application timelines also intersect with ranking data. The UK’s Graduate
 
 To illustrate the divergence, consider the 2025 rankings of three representative universities across the three systems (all scores normalised to a 0–100 scale):
 
-| University | QS Overall Score | THE Overall Score | ARWU Overall Score | QS Employer Reputation Score |
-|------------|------------------|-------------------|--------------------|------------------------------|
-| MIT | 100.0 | 96.5 | 100.0 | 100.0 |
-| University of Tokyo | 91.2 | 78.4 | 82.1 | 85.3 |
-| Karolinska Institute | 74.8 | 88.9 | 93.5 | 62.1 |
+- **MIT**: 100.0 · 96.5 · 100.0 · 100.0
+- **University of Tokyo**: 91.2 · 78.4 · 82.1 · 85.3
+- **Karolinska Institute**: 74.8 · 88.9 · 93.5 · 62.1
+
 
 The Karolinska Institute — a world-leading medical research university — scores 93.5 in ARWU (reflecting its strong publication record and Nobel affiliations) but only 74.8 in QS (driven by a lower employer reputation score of 62.1). Conversely, MIT maintains near-perfect scores across all systems due to its dominance in both research and employer perception.
 

@@ -61,14 +61,13 @@ Admission to Asia’s top engineering programs is highly selective. **Tsinghua U
 
 Cost varies dramatically. The table below summarizes 2025 annual tuition for international undergraduate engineering students at selected institutions (all figures in USD, converted at March 2025 rates):
 
-| Institution | Annual Tuition (USD) | Living Costs (USD) | Total Estimated Annual Cost |
-|-------------|----------------------|--------------------|-----------------------------|
-| Tsinghua University | 8,500 | 6,000 | 14,500 |
-| NUS | 33,500 | 12,000 | 45,500 |
-| KAIST | 10,200 | 8,500 | 18,700 |
-| IIT Bombay | 4,800 | 3,500 | 8,300 |
-| Universiti Malaya | 5,200 | 4,000 | 9,200 |
-| Chulalongkorn University | 6,800 | 5,500 | 12,300 |
+- **Tsinghua University**: 8,500 · 6,000 · 14,500
+- **NUS**: 33,500 · 12,000 · 45,500
+- **KAIST**: 10,200 · 8,500 · 18,700
+- **IIT Bombay**: 4,800 · 3,500 · 8,300
+- **Universiti Malaya**: 5,200 · 4,000 · 9,200
+- **Chulalongkorn University**: 6,800 · 5,500 · 12,300
+
 
 Scholarships are available at all listed institutions. Tsinghua’s Chinese Government Scholarship covers full tuition plus a monthly stipend of CNY 3,000 (USD 415). KAIST’s Global Korea Scholarship covers full tuition for four years. IIT Bombay offers merit-based tuition waivers of 50–100% for students scoring in the top 5% of the JEE Advanced exam. For families managing multiple international payments, services like [Airwallex student account](https://invl.us/clng6oa) provide multi-currency accounts with competitive exchange rates.
 

@@ -52,13 +52,12 @@ A systematic approach to choosing a ranking system involves three steps: identif
 
 The table below summarises which ranking system aligns with common student goals:
 
-| Student Goal | Recommended Primary Ranking | Key Indicator |
-|--------------|----------------------------|---------------|
-| Employability / job placement | QS Graduate Employability | Employer reputation (10%), graduate employment rate (30%) |
-| PhD / research career | ARWU subject rank | Nobel laureates (30%), highly cited researchers (20%) |
-| Teaching quality | THE overall rank | Teaching environment (30%), student-to-staff ratio |
-| Broad academic reputation | QS overall rank | Academic reputation survey (40%) |
-| STEM / natural sciences | ARWU overall rank | Papers in *Nature* and *Science* (20%) |
+- **Employability / job placement**: QS Graduate Employability · Employer reputation (10%), graduate employment rate (30%)
+- **PhD / research career**: ARWU subject rank · Nobel laureates (30%), highly cited researchers (20%)
+- **Teaching quality**: THE overall rank · Teaching environment (30%), student-to-staff ratio
+- **Broad academic reputation**: QS overall rank · Academic reputation survey (40%)
+- **STEM / natural sciences**: ARWU overall rank · Papers in *Nature* and *Science* (20%)
+
 
 For international students managing cross-border payments during the application process, third-party services can streamline tuition transfers while they evaluate these weighted criteria.
 

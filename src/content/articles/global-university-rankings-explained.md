@@ -21,14 +21,13 @@ QS is the most widely cited ranking in student recruitment and marketing, largel
 
 ### Methodology (2026 edition)
 
-| Indicator | Weight | What It Measures |
-|---|---|---|
-| Academic Reputation | 40% | Global survey of 130,000+ academics: "Which institutions are strongest in your field?" |
-| Employer Reputation | 10% | Survey of 75,000+ employers: "Which universities produce the best graduates?" |
-| Faculty/Student Ratio | 20% | Student-to-faculty ratio as a proxy for teaching quality |
-| Citations per Faculty | 20% | Scopus data, normalised by faculty size |
-| International Faculty | 5% | Proportion of international academic staff |
-| International Students | 5% | Proportion of international students |
+- **Academic Reputation**: 40% · Global survey of 130,000+ academics: "Which institutions are strongest in your field?"
+- **Employer Reputation**: 10% · Survey of 75,000+ employers: "Which universities produce the best graduates?"
+- **Faculty/Student Ratio**: 20% · Student-to-faculty ratio as a proxy for teaching quality
+- **Citations per Faculty**: 20% · Scopus data, normalised by faculty size
+- **International Faculty**: 5% · Proportion of international academic staff
+- **International Students**: 5% · Proportion of international students
+
 
 ### Criticisms
 
@@ -46,13 +45,12 @@ THE positions itself as a more comprehensive and "balanced" ranking, with the la
 
 ### Methodology (2026 edition)
 
-| Pillar | Weight | Key Indicators |
-|---|---|---|
-| Teaching | 29.5% | Reputation survey (15%), student/staff ratio, doctorate/bachelor ratio, institutional income |
-| Research Environment | 29% | Reputation survey (18%), research income, research productivity |
-| Research Quality | 30% | Citation impact (15%), research strength, research excellence, research influence |
-| International Outlook | 7.5% | International students, international staff, international collaboration |
-| Industry | 4% | Industry income, patents |
+- **Teaching**: 29.5% · Reputation survey (15%), student/staff ratio, doctorate/bachelor ratio, institutional income
+- **Research Environment**: 29% · Reputation survey (18%), research income, research productivity
+- **Research Quality**: 30% · Citation impact (15%), research strength, research excellence, research influence
+- **International Outlook**: 7.5% · International students, international staff, international collaboration
+- **Industry**: 4% · Industry income, patents
+
 
 THE's strength is the breadth of indicators, but its reliance on a reputation survey (33% across Teaching + Research) shares QS's conservatism. THE also uses Elsevier's Scopus data for citations, which has better arts/humanities/social science coverage than Web of Science but still favours STEM disciplines with higher citation rates.
 
@@ -70,14 +68,13 @@ ARWU is the most research-centric of the three rankings, with an almost exclusiv
 
 ### Methodology
 
-| Indicator | Weight | What It Measures |
-|---|---|---|
-| Alumni (Nobel/Fields) | 10% | Number of alumni winning Nobel Prizes or Fields Medals |
-| Faculty Awards | 20% | Staff winning Nobel Prizes or Fields Medals |
-| Highly Cited Researchers | 20% | Number of researchers in Clarivate's HCR list |
-| Papers in Nature/Science | 20% | Papers published in Nature or Science in the last 5 years |
-| Papers Indexed (SCI/SSCI) | 20% | Total papers in Web of Science |
-| Per Capita Performance | 10% | Weighted scores above divided by FTE academic staff |
+- **Alumni (Nobel/Fields)**: 10% · Number of alumni winning Nobel Prizes or Fields Medals
+- **Faculty Awards**: 20% · Staff winning Nobel Prizes or Fields Medals
+- **Highly Cited Researchers**: 20% · Number of researchers in Clarivate's HCR list
+- **Papers in Nature/Science**: 20% · Papers published in Nature or Science in the last 5 years
+- **Papers Indexed (SCI/SSCI)**: 20% · Total papers in Web of Science
+- **Per Capita Performance**: 10% · Weighted scores above divided by FTE academic staff
+
 
 ### Criticisms
 
@@ -89,12 +86,11 @@ The Nature/Science indicator (20%) excludes all humanities and most social scien
 
 The three rankings produce strikingly different results for certain types of institutions:
 
-| Institution | QS 2026 | THE 2026 | ARWU 2026 | Why the Spread? |
-|---|---|---|---|---|
-| École Normale Supérieure (Paris) | ~#24 | ~#40 | ~#70 | Small humanities-focused institution scores well on QS's Faculty/Student ratio but poorly on ARWU's research volume metrics |
-| Tsinghua University | ~#20 | ~#12 | ~#25 | Strong on THE's industry and citation indicators, competitive but not dominant on QS reputation |
-| University of Melbourne | ~#13 | ~#37 | ~#35 | QS's reputation survey weighs heavily for well-known Australian brand; THE's diversified indicators pull it down |
-| Caltech | ~#15 | ~#7 | ~#9 | Tiny size inflates QS's Faculty/Student ratio but THE and ARWU's volume-based indicators moderate |
+- **École Normale Supérieure (Paris)**: ~#24 · ~#40 · ~#70 · Small humanities-focused institution scores well on QS's Faculty/Student ratio but poorly on ARWU's research volume metrics
+- **Tsinghua University**: ~#20 · ~#12 · ~#25 · Strong on THE's industry and citation indicators, competitive but not dominant on QS reputation
+- **University of Melbourne**: ~#13 · ~#37 · ~#35 · QS's reputation survey weighs heavily for well-known Australian brand; THE's diversified indicators pull it down
+- **Caltech**: ~#15 · ~#7 · ~#9 · Tiny size inflates QS's Faculty/Student ratio but THE and ARWU's volume-based indicators moderate
+
 
 ## Which Ranking to Use?
 

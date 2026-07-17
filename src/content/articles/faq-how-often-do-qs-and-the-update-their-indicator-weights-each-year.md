@@ -34,10 +34,9 @@ THE’s slower pace of change offers a comparative advantage for longitudinal st
 
 The table below summarizes the update cadence for both ranking bodies over the past five years.
 
-| Ranking Body | Last Major Weight Change | Typical Adjustment Cycle | Number of Indicators |
-|--------------|--------------------------|--------------------------|----------------------|
-| QS           | 2024 (June 2023)         | Annual review; major change every 5–9 years | 9 |
-| THE          | 2023 (September 2022)    | Annual review; major change every 5–7 years | 18 |
+- **QS**: 2024 (June 2023) · Annual review; major change every 5–9 years · 9
+- **THE**: 2023 (September 2022) · Annual review; major change every 5–7 years · 18
+
 
 **QS** has demonstrated a higher frequency of minor tweaks, adjusting indicator definitions annually even when weights remain unchanged. For instance, in 2022, QS refined its “Citations per Faculty” denominator to exclude self-citations more rigorously, affecting scores without altering the 20% weight [QS 2022, QS World University Rankings: Methodology]. **THE**, conversely, tends to batch changes into larger, less frequent updates, prioritizing methodological consistency.
 

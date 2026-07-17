@@ -13,21 +13,19 @@ The 2026 QS World University Rankings placed seven Australian universities and o
 
 ## Australian Universities in the QS Top 100 (2026)
 
-| Rank | University | Key Strength | Notable Shift |
-|---|---|---|---|
-| #13 | University of Melbourne | Academic Reputation (#9 globally), International Students | Best-ever performance; driven by research output growth |
-| #18 | University of Sydney | Employer Reputation, Sustainability | Steady climb, strong in citation impact |
-| #19 | UNSW Sydney | Citations per Faculty, International Research Network | Consistent top-20 performer |
-| #30 | Australian National University (ANU) | Faculty/Student Ratio, Research Quality | Slight dip from 2025; affected by international student caps |
-| #37 | University of Queensland (UQ) | Research citations in life sciences | Steady; strong in environmental science and vaccine research |
-| #40 | Monash University | International outlook, Pharmacy & Pharmacology | Strong gain; Monash Pharmacy ranked #2 globally in subject rankings |
-| #42 | University of Western Australia (UWA) | Academic Reputation in mining/geology | Stable; UWA's niche in resources engineering drives scores |
+- **#13**: University of Melbourne · Academic Reputation (#9 globally), International Students · Best-ever performance; driven by research output growth
+- **#18**: University of Sydney · Employer Reputation, Sustainability · Steady climb, strong in citation impact
+- **#19**: UNSW Sydney · Citations per Faculty, International Research Network · Consistent top-20 performer
+- **#30**: Australian National University (ANU) · Faculty/Student Ratio, Research Quality · Slight dip from 2025; affected by international student caps
+- **#37**: University of Queensland (UQ) · Research citations in life sciences · Steady; strong in environmental science and vaccine research
+- **#40**: Monash University · International outlook, Pharmacy & Pharmacology · Strong gain; Monash Pharmacy ranked #2 globally in subject rankings
+- **#42**: University of Western Australia (UWA) · Academic Reputation in mining/geology · Stable; UWA's niche in resources engineering drives scores
+
 
 ## New Zealand in the QS Top 100
 
-| Rank | University | Key Strength |
-|---|---|---|
-| #65 | University of Auckland | International Faculty, Research citations in health sciences |
+- **#65**: University of Auckland · International Faculty, Research citations in health sciences
+
 
 The University of Auckland remains New Zealand's sole top-100 representative, though the University of Otago (#206) and Victoria University of Wellington (#270+) show strong trajectories in specific subject areas.
 
@@ -49,14 +47,13 @@ Australian universities score disproportionately well on QS's Employer Reputatio
 
 Beyond the overall rankings, Australian universities lead globally in several subject areas:
 
-| Subject | #1 Globally | Institution |
-|---|---|---|
-| Mineral & Mining Engineering | #1 | UWA (Curtin #2, UQ #4) |
-| Sport-Related Subjects | #1 | UQ (Sydney #2, Deakin #7) |
-| Pharmacy & Pharmacology | #2 | Monash (Harvard #1, UQ #23) |
-| Law & Legal Studies | #8 | Melbourne |
-| Education | #10 | Melbourne |
-| Environmental Sciences | #10 | UQ |
+- **Mineral & Mining Engineering**: #1 · UWA (Curtin #2, UQ #4)
+- **Sport-Related Subjects**: #1 · UQ (Sydney #2, Deakin #7)
+- **Pharmacy & Pharmacology**: #2 · Monash (Harvard #1, UQ #23)
+- **Law & Legal Studies**: #8 · Melbourne
+- **Education**: #10 · Melbourne
+- **Environmental Sciences**: #10 · UQ
+
 
 The mining engineering dominance reflects Australia's position as the world's largest mining nation by export value — a rare case of national industrial strength translating directly into academic leadership.
 

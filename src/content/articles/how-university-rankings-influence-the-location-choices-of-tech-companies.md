@@ -66,12 +66,11 @@ Understanding the **construction of university rankings** is essential for inter
 
 ### QS vs. THE vs. ARWU vs. US News
 
-| Ranking System | Key Weighting (Academic Reputation) | Key Weighting (Research Output) | Key Weighting (Industry/Employer) |
-|---|---|---|---|
-| QS | 40% (Global Academic Survey) | 20% (Citations per Faculty) | 10% (Employer Reputation) |
-| THE | 13% (Teaching Reputation) | 30% (Citations) | 2.5% (Industry Income) |
-| ARWU | 0% (No survey) | 20% (Papers in Nature/Science) | 0% |
-| US News (Global) | 12.5% (Global Research Reputation) | 10% (Books) | 0% |
+- **QS**: 40% (Global Academic Survey) · 20% (Citations per Faculty) · 10% (Employer Reputation)
+- **THE**: 13% (Teaching Reputation) · 30% (Citations) · 2.5% (Industry Income)
+- **ARWU**: 0% (No survey) · 20% (Papers in Nature/Science) · 0%
+- **US News (Global)**: 12.5% (Global Research Reputation) · 10% (Books) · 0%
+
 
 ### The Weighting Effect on Tech Location
 
