@@ -1,0 +1,49 @@
+{
+  "site": "unirank-io",
+  "domain": "unirank.io",
+  "articles": [
+    {
+      "slug": "unirank-io-0846",
+      "title": "Study City Cost Comparison for International Students 2026–2027",
+      "release_date": "2026-02-06",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "88b97d03911682b3dbddf2e7ce038eb3f7740798a7cbc89e0c14ef2efc1ad665"
+    },
+    {
+      "slug": "unirank-io-0850",
+      "title": "How Bachelor’s, Master’s and PhD Applications Differ When Applying Abroad in 2026",
+      "release_date": "2026-04-11",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "d1b9a0dda8855b4b8b4f100e1bac9b3b754515f479a0eeedf8c5b65f9ebc5275"
+    },
+    {
+      "slug": "unirank-io-0848",
+      "title": "Post‑Study Work Visas and Long‑Term Residence in 2027: What Graduates Should Know",
+      "release_date": "2026-04-27",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "9b85e07748a8ad66944767f39f0229ae7cf3be611b34e76d05d08586994479f5"
+    },
+    {
+      "slug": "unirank-io-0849",
+      "title": "What to Confirm Before Studying Abroad in 2027",
+      "release_date": "2026-05-15",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "99e1dcdd190cf951a798f00cdf7aecad2562b4149ecede7265742333e5e448e6"
+    },
+    {
+      "slug": "unirank-io-0845",
+      "title": "Estimated Cost of Studying Abroad for One Year in 2026–2027: Tuition and Living Expenses",
+      "release_date": "2026-06-14",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "bb6561f39693b20a47844b135f51d70e343fc89367982e537b0fa7ef129a073f"
+    },
+    {
+      "slug": "unirank-io-0847",
+      "title": "Your 2026–2027 Overseas Study Application Timeline: Key Deadlines and Stages",
+      "release_date": "2026-06-23",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "e3dcc13c455774056c40aec58df04ab989ec8d4f1f50b4c74a1b8c6bf6f3179e"
+    }
+  ],
+  "generated_at": "2026-08-01T12:49:01Z"
+}
