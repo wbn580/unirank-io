@@ -8,6 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/best-universities-in-russia-ranked-by-international-research-output-in-2025-2026-1880x1253.jpg"
 ---
 
 Russia’s higher education sector produced 82,314 Scopus-indexed publications in 2024, a 7.2% increase from the 76,810 recorded in 2023, according to the Russian Ministry of Science and Higher Education’s annual science metrics report. This output places Russian universities among the top 15 nations globally by total research volume, though international collaboration rates have shifted. The share of Russian papers co-authored with foreign institutions dropped from 34.1% in 2020 to 27.8% in 2024, as documented by the OECD’s Science, Technology and Innovation Outlook 2025. Despite this contraction, several institutions have maintained or increased their international citation impact, measured by field-weighted citation impact (FWCI) in the 2025 QS World University Rankings by Subject. This analysis ranks Russian universities by international research output—specifically the proportion of publications with at least one foreign co-author—using 2025 data from Scopus, Web of Science, and institutional reports. The ranking prioritises institutions that sustain global research engagement despite geopolitical headwinds, offering a data-driven lens for prospective graduate students and faculty assessing collaboration potential in Russia’s evolving academic landscape.

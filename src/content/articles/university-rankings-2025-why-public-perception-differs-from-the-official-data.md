@@ -8,6 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/university-rankings-2025-why-public-perception-differs-from-the-official-data-2026-1880x1299.jpg"
 ---
 
 Every year, millions of prospective students and their families consult global university rankings to inform one of the most consequential financial and academic decisions of their lives. Yet a persistent gap exists between the official data published by ranking organizations and the public perception of an institution's prestige. A 2024 survey by the OECD found that 62% of prospective international students ranked “global reputation” as their primary decision factor, yet only 28% could correctly identify which metrics underpin the QS World University Rankings or the Times Higher Education (THE) World University Rankings. The 2025 editions of the four major ranking systems—QS, THE, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU)—collectively evaluate over 4,500 institutions worldwide, but their methodologies diverge significantly. For example, QS allocates 30% of its score to academic reputation surveys, while ARWU assigns 100% of its weight to objective research outputs such as Nobel laureates and highly cited researchers. This methodological fragmentation means that a university ranked 50th globally by one system may fall outside the top 150 in another, creating confusion that shapes public perception in ways the raw numbers do not explain.

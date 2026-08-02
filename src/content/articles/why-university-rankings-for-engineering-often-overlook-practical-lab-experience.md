@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/why-university-rankings-for-engineering-often-overlook-practical-lab-experience-2026-1880x1253.jpg"
 ---
 
 Each year, millions of prospective engineering students and their families consult global university league tables—QS World University Rankings, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universities (ARWU)—to identify the "best" institutions for their field. Yet a critical disconnect persists: these ranking systems, which collectively influence the decisions of over 3.4 million international students annually (OECD, 2023, *Education at a Glance*), overwhelmingly prioritize research output, citation impact, and academic reputation. A 2022 analysis by the U.S. National Academy of Engineering found that only 12% of the weighted criteria in the top four global engineering rankings directly assess hands-on laboratory infrastructure, equipment access, or industry-sponsored project hours. This means a university with a Nobel laureate in materials science but a single, outdated undergraduate lab can outrank an institution where students spend 40% of their degree time in modern fabrication facilities. For a discipline where 78% of employers cite practical competency as the primary hiring criterion (World Economic Forum, 2024, *Future of Jobs Report*), the metrics that define "excellence" in rankings may be systematically misaligned with what engineering graduates actually need.

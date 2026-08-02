@@ -7,6 +7,7 @@ readingTime: 8
 tags: ["QS", "rankings", "australia", "new-zealand", "top-100"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/qs-rankings-australia-nz-2026-2026-1880x1253.jpg"
 ---
 
 The 2026 QS World University Rankings placed seven Australian universities and one New Zealand university in the global top 100. This represents a consolidation of ANZ's position in the global rankings, driven by strong citation impact and improving employer reputation scores.

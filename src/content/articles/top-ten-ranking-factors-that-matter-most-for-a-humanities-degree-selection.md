@@ -8,6 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/top-ten-ranking-factors-that-matter-most-for-a-humanities-degree-selection-2026-1880x1111.jpg"
 ---
 
 Selecting a humanities degree today demands a more nuanced evaluation than simply scanning an overall university rank. While the QS World University Rankings 2025 place the University of Oxford at #1 for Arts and Humanities, a student’s specific experience is shaped by factors that aggregate league tables often obscure. For example, the U.S. Bureau of Labor Statistics projects a 4% growth in employment for historians from 2023 to 2033, a rate on par with the average for all occupations, yet starting salaries for humanities graduates can vary by over 40% depending on institutional career support and alumni networks. This article dissects the ten most critical ranking factors—from departmental citation impact to graduate employment data—that should guide a humanities applicant’s decision, drawing on data from QS, Times Higher Education (THE), U.S. News & World Report, and the OECD’s Education at a Glance 2024 report. Understanding these criteria transforms a university list from a popularity contest into a strategic selection tool.

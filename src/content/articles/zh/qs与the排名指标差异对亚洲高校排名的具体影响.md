@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/qs与the排名指标差异对亚洲高校排名的具体影响-2026-1880x1254.jpg"
 ---
 
 In 2025, the divergence between the QS World University Rankings and the Times Higher Education (THE) World University Rankings is most starkly illustrated in their treatment of Asian institutions. QS allocates 30% of its total score to academic reputation (based on a global survey) and 15% to employer reputation, while THE assigns only 18% to teaching reputation and 15% to research citations (normalized by subject). This structural difference produces measurable ranking disparities: in the 2024 QS rankings, the University of Tokyo placed 28th, whereas THE placed it 29th—a narrow gap. However, for South Korea’s Seoul National University, the swing is larger—QS ranked it 41st, while THE placed it 62nd, a 21-position difference. According to the OECD’s 2023 Education at a Glance report, Asian universities collectively enroll over 28 million international students, representing 53% of global cross-border higher education mobility. The QS methodology, favoring subjective reputation surveys, tends to amplify the global visibility of historically prestigious Asian brands, whereas THE’s heavier weighting on research citations (30% in its 2025 methodology) rewards institutions with high-volume English-language publications. These methodological choices have direct consequences for institutional strategy, funding allocation, and student application patterns across Asia.

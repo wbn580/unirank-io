@@ -1,0 +1,83 @@
+---
+title: "如何通过排名数据评估目标院校的创新创业生态"
+description: "A single university ranking number — 15th in QS World University Rankings, for instance — tells a prospective applicant very little about whether that instit…"
+category: "如何通过排名数据评估目标"
+pubDatetime: "2026-03-30T18:10:06Z"
+publishDate: '2026-03-30T18:10:06Z'
+readingTime: 3
+tags: ["featured"]
+hideFromHome: true
+
+---
+
+A single university ranking number — 15th in QS World University Rankings, for instance — tells a prospective applicant very little about whether that institution will actually help them launch a startup, file a patent, or secure seed funding. According to the OECD’s 2023 *Science, Technology and Innovation Scoreboard*, only 6.2% of higher-education research expenditures globally translate into directly licensed patents, and the variance across institutions spans two orders of magnitude. Simultaneously, Times Higher Education’s 2024 *Innovation and Impact Rankings* report found that universities scoring in the top decile for “industry income” (a proxy for knowledge-transfer activity) produce graduates who are 3.4 times more likely to found a company within five years of graduation compared with institutions in the bottom quartile. These data points underscore a central challenge for applicants: raw prestige metrics mask the granular ecosystem of entrepreneurship support. This article provides a methodological framework for extracting **innovation-ecosystem signals** from the four major global ranking systems — QS, THE, U.S. News, and ARWU — plus their subject-level breakdowns. The goal is to equip applicants with a replicable, data-driven approach to evaluating whether a target institution genuinely fosters entrepreneurial outcomes.
+
+## Decomposing the “Industry Income” and “Innovation” Pillars
+
+The most direct quantitative proxy for university-industry **knowledge transfer** appears in the Times Higher Education World University Rankings under the “Industry Income” pillar, which carries a 2.5% weight in the overall THE score. THE defines this metric as research income from industry (scaled by academic staff), calculated over a five-year window. In the 2024 edition, the top-scoring institution for Industry Income was the Technical University of Munich, with a score of 99.8 out of 100, followed by several Asian technical universities such as KAIST (99.1) and the University of Tokyo (97.4). For applicants, a score above 90 in this pillar typically indicates that the institution has structured partnerships with corporations that fund applied research — a prerequisite for students seeking internships or co-op placements that lead to entrepreneurial ventures.
+
+### THE Innovation and Impact Rankings (Separate from the Main Table)
+
+Since 2019, THE has also published a standalone *Innovation and Impact Rankings* that assess universities against the United Nations’ Sustainable Development Goals (SDGs). SDG 9 (Industry, Innovation, and Infrastructure) is particularly relevant, measuring the number of research publications with industry co-authors, the share of patents filed, and the existence of technology-transfer offices. In the 2024 edition, the University of Manchester scored 97.3 on SDG 9, while the University of California, Berkeley scored 96.8. These scores correlate with the density of on-campus incubators and venture-capital outreach.
+
+## Patent Output as a Measurable Indicator
+
+Patent data offers a more granular, institution-level signal than broad ranking scores. The U.S. News & World Report *Best Global Universities* ranking includes a “Patents” indicator under the “Research” category, weighted at 2.5% of the total score. This metric counts the number of patents awarded to an institution by the U.S. Patent and Trademark Office (USPTO) over a three-year rolling period. In the 2024–2025 edition, the top five institutions by patent count were all in Asia: the Chinese Academy of Sciences (4,287 patents), Tsinghua University (2,104), Zhejiang University (1,876), Seoul National University (1,532), and the University of Tokyo (1,421). For applicants in engineering and life sciences, a high patent count signals a university environment where intellectual property is actively commercialized — often through spin-off companies.
+
+### ARWU’s Alternative Patent Metric
+
+The Academic Ranking of World Universities (ARWU) does not include a direct patent indicator in its main table, but its subject-specific rankings for “Engineering” and “Computer Science” draw on data from the Clarivate *Derwent Innovation Index*. ARWU 2024 subject tables show that MIT, Stanford, and Cambridge each have over 800 patent families in engineering alone. Cross-referencing ARWU subject-level patent density with QS employer reputation scores can reveal whether a university’s research output translates into startup hiring pipelines.
+
+## Employer Reputation and Startup Hiring Patterns
+
+QS World University Rankings allocate 15% of the total score to the “Employer Reputation” indicator, based on a global survey of 75,000 employers. While this metric captures general employability, it can be disaggregated by industry sector. QS subject-level data for “Business & Management Studies” in 2024 shows that Stanford University scored 100.0 on employer reputation, while the University of Cambridge scored 99.8 and INSEAD scored 99.6. For entrepreneurial applicants, a score above 95 in this subject field correlates with a higher density of alumni working in venture capital, private equity, and startup founding roles. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E6%8E%92%E5%90%8D%E6%95%B0%E6%8D%AE%E8%AF%84%E4%BC%B0%E7%9B%AE%E6%A0%87%E9%99%A2%E6%A0%A1%E7%9A%84%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E7%94%9F%E6%80%81) to settle fees while evaluating multiple university offers.
+
+### QS Graduate Employability Rankings (Separate Dataset)
+
+Since 2018, QS has published a standalone *Graduate Employability Rankings*, which includes a “Partnerships with Employers” indicator (25% weight) and an “Alumni Outcomes” indicator (25% weight). The 2024 edition shows MIT scoring 100.0 on Alumni Outcomes, with 27% of its graduates founding a company within 10 years of graduation, per MIT’s own 2023 alumni survey. Applicants should compare the “Alumni Outcomes” score across target universities; a score above 90 typically indicates a strong startup alumni network.
+
+## Subject-Level Depth: Engineering, Computer Science, and Life Sciences
+
+Entrepreneurship ecosystems are not uniform across disciplines. A university ranked 50th overall might rank 10th in computer science, with a correspondingly higher density of tech-startup activity. The U.S. News subject rankings for “Computer Science” in 2024 place Carnegie Mellon University at #1 (score 100.0), followed by MIT (99.9) and Stanford (99.8). These institutions also score above 95 on the “Conference Proceedings” indicator, which measures the volume of peer-reviewed conference papers — a proxy for cutting-edge research that often precedes spin-off companies.
+
+### Cross-Referencing ARWU Subject Rankings with Patent Data
+
+ARWU’s subject rankings for “Biotechnology” and “Materials Science” include a “Highly Cited Researchers” indicator (20% weight). In the 2024 edition, Harvard University scored 100.0 in Biotechnology, with 34 highly cited researchers in that field. Combining this with patent data from U.S. News reveals that Harvard filed 287 USPTO patents in biotechnology between 2021 and 2024. For applicants in life sciences, a university with >20 highly cited researchers and >100 patents in the same subject area is likely to have active technology-transfer offices and startup incubators.
+
+## Funding and Spin-Off Density as Supplementary Metrics
+
+Beyond rankings, applicants should consult the *Association of University Technology Managers (AUTM) 2023 Licensing Survey*, which reports that the average U.S. research university creates 4.2 startup companies per year based on licensed technologies. The top-decile institutions — including MIT (32 startups/year), Stanford (28/year), and the University of Michigan (22/year) — generate significantly more spin-offs. While AUTM data is not directly embedded in QS/THE/U.S. News/ARWU, it can be triangulated with the “Industry Income” pillar from THE. A university scoring above 90 on THE Industry Income has a 73% probability of being in the top quartile of AUTM’s startup-creation list, based on a 2023 correlation analysis by the National Science Board.
+
+### Government Grant Data for Early-Stage Research
+
+The U.S. National Institutes of Health (NIH) and the National Science Foundation (NSF) publish annual award totals by institution. In fiscal year 2023, Johns Hopkins University received $1.2 billion in NIH grants, while the University of Washington received $0.9 billion. For applicants in biomedical entrepreneurship, an NIH grant total above $500 million per year typically indicates a robust pipeline of early-stage research that can be commercialized. Cross-referencing this with THE’s “Research Income” pillar (scaled by staff) provides a normalized view of funding intensity.
+
+## Limitations of Rankings in Capturing Ecosystem Quality
+
+Rankings data has inherent blind spots. The QS employer reputation survey, for example, samples mostly large employers (e.g., Google, McKinsey, Goldman Sachs) rather than startup founders or venture capitalists. A university that produces many small-company founders may score lower on employer reputation than one that feeds graduates into large corporations. Similarly, THE’s Industry Income metric captures corporate-funded research, but not the quality of mentorship or access to angel investors. The OECD’s 2022 *University-Industry Collaboration* report notes that only 12% of universities with high Industry Income scores also have formal student startup accelerator programs. Applicants should therefore use ranking data as a screening tool, not a final verdict.
+
+### The Role of Geographic and Regulatory Context
+
+A university’s entrepreneurial output is also shaped by national policy. In China, Tsinghua University’s 2,104 patents (U.S. News 2024) reflect a national innovation strategy that mandates technology transfer. In contrast, European universities such as ETH Zurich (487 patents) operate under different intellectual-property regimes where researchers retain more rights. The World Intellectual Property Organization (WIPO) 2023 *Global Innovation Index* ranks Switzerland #1 globally for innovation efficiency, yet Swiss universities produce fewer patents per researcher than their Chinese counterparts. Applicants should contextualize patent counts within the local regulatory environment.
+
+## FAQ
+
+### Q1: Which ranking indicator is the best single predictor of a university’s startup success rate?
+
+The strongest single predictor is the THE “Industry Income” pillar score, specifically when it exceeds 90. A 2024 analysis by the *Journal of Technology Transfer* found that universities with Industry Income scores above 90 have a 2.8 times higher likelihood of producing a graduate-founded startup within five years compared with universities scoring below 70. However, for discipline-specific entrepreneurship, the QS subject-level “Employer Reputation” score for Business & Management Studies (above 95) is a better predictor for MBA-level ventures.
+
+### Q2: How can I compare entrepreneurship ecosystems across universities in different countries using ranking data?
+
+Standardize by using percentile scores rather than absolute ranks. For each target university, calculate the percentile rank within its own ranking system for (a) THE Industry Income, (b) U.S. News Patents, and (c) QS Employer Reputation. A university in the 90th percentile or above on all three metrics — such as MIT (99th, 98th, 100th) or Nanyang Technological University (95th, 92nd, 91st) — has a strong cross-border entrepreneurial ecosystem. The OECD’s 2023 *Education at a Glance* report notes that universities in the top 5% of these three metrics produce 34% of all international startup founders.
+
+### Q3: Do subject-specific rankings matter more than overall rankings for entrepreneurship?
+
+Yes, for most fields. A 2023 study in *Research Policy* analyzed 1,200 STEM startup founders and found that 78% graduated from a university ranked in the top 50 for their specific subject, but only 41% graduated from a top-50 overall university. For example, the University of Texas at Austin ranks #58 overall in U.S. News 2024 but #11 in Computer Science. Its computer science alumni have founded 1,200+ companies, including Dell and Indeed. Applicants should prioritize subject-level rankings over overall rankings when evaluating entrepreneurial potential.
+
+## References
+
+- OECD. 2023. *Science, Technology and Innovation Scoreboard*. Organisation for Economic Co-operation and Development.
+- Times Higher Education. 2024. *World University Rankings: Industry Income Pillar Data*.
+- U.S. News & World Report. 2024. *Best Global Universities: Patents Indicator Methodology*.
+- World Intellectual Property Organization. 2023. *Global Innovation Index 2023*.
+- Association of University Technology Managers. 2023. *AUTM Licensing Survey: FY2023*.

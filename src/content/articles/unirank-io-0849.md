@@ -12,6 +12,7 @@ language: en
 tags:
 - 去海外留学前必须确认的几件事
 ogImage: https://img.ulec.com.cn/留学-大学排名/3-6-gre-2026-07-24-a2f314fba6-image-01-2026-1880x1253.jpg
+category: Universities
 ---
 
 Studying in another country is a major commitment, and the paperwork alone can feel overwhelming. You are not just booking a flight—you are entering a new legal, academic, and healthcare system. Before you pack anything, there are several things you must verify directly with official sources. Missing one of them can delay your start date, cost you money, or put your immigration status at risk.

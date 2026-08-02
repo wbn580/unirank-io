@@ -8,6 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/university-rankings-2025-the-importance-of-university-culture-over-raw-scores-2026-1880x1253.jpg"
 ---
 
 The 2025 edition of the QS World University Rankings places the Massachusetts Institute of Technology (MIT) at number one globally for the 13th consecutive year, a position reinforced by a perfect score of 100 in the Academic Reputation indicator. Yet, according to the 2024 National Survey of Student Engagement (NSSE) in the United States, only 58% of first-year students at top-20 ranked universities reported that their institution "substantially emphasized" providing supportive campus environments—a metric directly linked to student retention and well-being. This statistical divergence between raw ranking scores and lived student experience underscores a fundamental tension for the 1.1 million international students enrolled in U.S. higher education in the 2023/24 academic year, as reported by the Institute of International Education (IIE) Open Doors report. The pursuit of a high aggregate score on a ranking table often obscures the nuanced reality of institutional culture, which the Organisation for Economic Co-operation and Development (OECD) has identified as a critical factor in graduate employability and lifelong learning outcomes. This analysis examines why, for the 2025 cohort of applicants, the cultural fabric of a university may matter more than its position on a leaderboard.

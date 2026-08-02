@@ -12,6 +12,7 @@ language: en
 tags:
 - 海外留学申请时间线与关键截止
 ogImage: https://img.ulec.com.cn/留学-大学排名/3-6-gre-2026-07-24-a2f314fba6-image-01-2026-1880x1253.jpg
+category: Universities
 ---
 
 Applying to study abroad is not a single event. It is a sequence of linked steps that typically unfolds over 12 to 18 months. Understanding when each stage begins, how long it usually takes, and which deadlines are fixed versus flexible helps you avoid rushed decisions, missed opportunities, and unnecessary stress.

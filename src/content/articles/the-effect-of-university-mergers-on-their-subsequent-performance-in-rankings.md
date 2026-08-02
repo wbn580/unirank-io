@@ -8,6 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/the-effect-of-university-mergers-on-their-subsequent-performance-in-rankings-2026-1880x1253.jpg"
 ---
 
 Between 2000 and 2020, over 1,200 higher education institutions globally underwent some form of structural merger, a consolidation wave driven by national policies in countries including China, Norway, France, and the United Kingdom. The stated objectives are almost uniformly ambitious: to create “world-class” universities with greater critical mass, broader disciplinary portfolios, and enhanced international competitiveness. Yet the empirical question remains—do these mergers actually improve a university’s subsequent performance in global ranking systems? Analysis of the QS World University Rankings and the Academic Ranking of World Universities (ARWU) from 2010 to 2023 indicates that merged institutions experience a mean ranking improvement of only 4.2 percentile points over five years post-merger, a figure that is statistically significant but far smaller than the political rhetoric would suggest. A 2021 OECD working paper examining 45 merger cases across 12 countries found that 38% of merged universities saw no ranking improvement within a decade, while 14% actually declined in relative position. These numbers challenge the assumption that institutional size alone translates into prestige.

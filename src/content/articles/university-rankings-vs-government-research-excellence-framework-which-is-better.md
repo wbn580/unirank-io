@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/university-rankings-vs-government-research-excellence-framework-which-is-better-2026-1880x1253.jpg"
 ---
 
 For a prospective international student or a research-minded applicant, the choice between consulting a **global university ranking** (QS, THE, US News, ARWU) and a **government research assessment** (such as the UK’s Research Excellence Framework) is not merely academic—it carries tangible consequences for tuition value, career trajectory, and research funding access. The UK’s **Research Excellence Framework (REF) 2021**, the most recent iteration, evaluated 157 institutions across 34 units of assessment, distributing approximately **£2 billion per year** in quality-related research funding based on the results[UKRI 2022, REF 2021 Results]. In contrast, the **QS World University Rankings 2025** assessed over 1,500 institutions globally, with the top 100 accounting for roughly **60% of all international student applications** to English-speaking destinations[QS 2024, QS World University Rankings Methodology]. These two systems—one a market-driven league table, the other a state-mandated audit—measure fundamentally different constructs: rankings prioritise institutional reputation and global visibility, while frameworks like REF focus on research output quality and societal impact. Understanding which metric better serves a student’s or an institution’s needs requires dissecting their methodologies, biases, and real-world consequences.

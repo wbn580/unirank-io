@@ -8,6 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/how-regional-conflicts-are-reshaping-university-rankings-in-eastern-europe-2026-1880x1253.jpg"
 ---
 
 Since the full-scale invasion of Ukraine in February 2022, the Eastern European higher education landscape has undergone a measurable structural shift, directly impacting the performance of regional universities in global ranking systems. According to the **Times Higher Education (THE) World University Rankings 2025**, 11 Ukrainian universities have dropped out of the ranking entirely, while the remaining 13 institutions saw an average decline of 37 positions compared to their 2022 baselines. Simultaneously, **QS World University Rankings 2025** data shows that Polish and Czech institutions have absorbed a disproportionate share of displaced researchers, with the University of Warsaw reporting a 14% increase in international faculty citations since 2023. This redistribution of academic capital—faculty, research output, and international collaboration—is not a temporary fluctuation but a recalibration of the region’s scholarly geography. The war has forced a re-evaluation of how stability, funding, and mobility are weighted in ranking methodologies, with direct consequences for prospective students evaluating institutional resilience.

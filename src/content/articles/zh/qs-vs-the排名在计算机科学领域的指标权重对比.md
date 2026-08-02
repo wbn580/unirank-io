@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/qs-vs-the排名在计算机科学领域的指标权重对比-2026-1880x1254.jpg"
 ---
 
 Two of the most widely consulted ranking systems for computer science, QS World University Rankings by Subject and Times Higher Education World University Rankings by Subject, employ fundamentally different indicator weightings that can produce substantially divergent results for the same institution. In the 2025 QS Computer Science and Information Systems ranking, **academic reputation** carries a 30% weight, employer reputation 15%, citations per paper 15%, H-index citations 20%, and international research network (IRN) 20% [QS 2025, Methodology]. By contrast, the 2025 THE Computer Science ranking allocates **teaching** 28%, research environment 29%, research quality (citations, field-weighted citation impact, research strength, excellence, influence) 30%, industry income 4%, and international outlook 7.5% [THE 2025, Subject Methodology]. A university strong in industry partnerships and teaching may rank higher in THE but lower in QS, while an institution producing high-impact but fewer total papers may benefit from QS's H-index weighting. Understanding these metric divergences—which in some cases shift an institution’s rank by more than 50 positions between the two systems—is critical for prospective graduate students and their families evaluating program fit.

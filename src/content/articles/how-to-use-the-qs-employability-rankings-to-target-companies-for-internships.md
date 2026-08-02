@@ -8,6 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-use-the-qs-employability-rankings-to-target-companies-for-internships-2026-1880x1253.jpg"
 ---
 
 Each year, over 1,600 higher education institutions are assessed by the QS Graduate Employability Rankings, a metric that evaluates universities not merely on academic output but on graduate employment rates, employer partnerships, and alumni outcomes. Released in September 2024, the latest QS Employability Rankings (2025 edition) analyzed data from 44,992 employer responses and tracked the career paths of over 70,000 alumni per institution to calculate scores for Employer Reputation, Alumni Outcomes, Partnerships with Employers, Employer-Student Connections, and Graduate Employment Rate [QS, 2024, Graduate Employability Rankings Methodology]. For students targeting internships, these rankings offer a granular, data-backed shortcut to identifying which universities are most heavily recruited by specific industries. Rather than relying on anecdotal advice, a student can use the QS metric of "Partnerships with Employers" (weighted at 25% of the total score) to pinpoint institutions where companies like Google, McKinsey, or Goldman Sachs actively source interns. This article provides a systematic methodology for translating QS employability data into a targeted internship search strategy.

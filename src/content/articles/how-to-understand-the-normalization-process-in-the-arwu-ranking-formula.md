@@ -8,6 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-understand-the-normalization-process-in-the-arwu-ranking-formula-2026-1880x1253.jpg"
 ---
 
 The Shanghai Ranking Consultancy’s Academic Ranking of World Universities (ARWU) is one of the four most widely cited global university league tables, alongside QS, THE, and U.S. News. A distinctive feature of the ARWU methodology is its reliance on raw, objective indicators—such as the number of Nobel Prize winners and highly cited researchers—which are then subjected to a **normalization process** to produce a final score between 0 and 100. In the 2024 edition, Harvard University scored a perfect 100.0, while the 1,000th-ranked institution received a score below 1.0, illustrating the extreme right-skew of the underlying data (Shanghai Ranking Consultancy, 2024, ARWU Methodology). Understanding this normalization is critical because it determines how a university’s raw performance metrics are transformed into a comparable, publication-ready rank. Without normalization, a single institution with 50 Nobel laureates would dwarf all others, making the ranking unreadable. This article dissects the ARWU normalization formula step by step, revealing why a university with 40 highly cited researchers can score 60 points in one indicator yet only 30 points in another, and how the process ultimately shapes the global hierarchy of higher education.

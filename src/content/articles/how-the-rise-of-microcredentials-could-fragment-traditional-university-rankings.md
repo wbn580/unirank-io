@@ -8,6 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/how-the-rise-of-microcredentials-could-fragment-traditional-university-rankings-2026-1880x1253.jpg"
 ---
 
 In 2023, the global microcredentials market was valued at approximately $17.6 billion, with projections to exceed $31.5 billion by 2030, according to a report from HolonIQ. This rapid expansion challenges the foundational premise of traditional university rankings, which have historically weighted factors such as research output, faculty citations, and full-degree completion rates. The QS World University Rankings, for instance, allocate 40% of their score to academic reputation and 20% to citations per faculty, criteria that inherently exclude short-form, stackable credentials. Meanwhile, the U.S. Bureau of Labor Statistics reported that 39% of employers now consider alternative credentials as equivalent to or more valuable than a traditional bachelor’s degree for certain roles. This shift raises a critical question: as learners increasingly pursue modular, skill-specific certifications from platforms like Coursera, edX, and university-affiliated bootcamps, the metrics used by QS, THE, US News, and ARWU may no longer capture institutional value. The fragmentation of educational pathways could render composite rankings less relevant, forcing a methodological reckoning among ranking bodies that have dominated the sector for over two decades.

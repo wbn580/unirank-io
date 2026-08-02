@@ -8,6 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/why-university-rankings-for-education-degrees-should-include-classroom-outcomes-2026-1880x1253.jpg"
 ---
 
 For decades, the global architecture of university rankings has been built on a foundation of research output, citation impact, and institutional reputation. The QS World University Rankings, for instance, allocates 40% of its total score to academic reputation surveys, while the Times Higher Education (THE) World University Rankings dedicates 30% to citations and 30% to research environment. For a field like Education—a discipline whose primary mission is to train effective teachers and improve student learning—this methodological bias creates a fundamental mismatch. In the 2023 THE World University Rankings by Subject, the University of California, Berkeley and the University of Cambridge ranked in the global top 5 for Education, yet neither institution’s standing was directly informed by the classroom performance of its graduates’ students. A 2022 OECD Teaching and Learning International Survey (TALIS) report found that less than 15% of teacher training programs across 48 participating countries systematically track the academic outcomes of pupils taught by their graduates. This gap between ranking prestige and pedagogical effectiveness raises a critical question: should the metrics that determine a university’s standing in Education be rebalanced to include direct evidence of classroom impact?

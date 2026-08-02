@@ -8,6 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/2025-regional-ranking-spotlight-the-nordic-universities-outperform-global-peers-2026-1880x1253.jpg"
 ---
 
 The 2025 iteration of global university rankings confirms a structural shift: Nordic institutions, long admired for their egalitarian education models, now systematically outperform their global peers on a per-capita and per-institution basis. The combined QS World University Rankings 2025 and Times Higher Education (THE) World University Rankings 2025 place 11 Nordic universities within the top 200 globally, a concentration of excellence unmatched by any region of comparable population size — the five Nordic countries (Denmark, Finland, Iceland, Norway, Sweden) are home to approximately 27 million people, less than 0.4% of the world’s population, yet they produce roughly 5.5% of the world’s most-cited research papers (OECD, 2024, *Science, Technology and Innovation Outlook*). This performance is not a function of scale; the average Nordic university in the top 200 commands a research budget per faculty member 1.7 times higher than the global average for similarly ranked institutions (U.S. News & World Report, 2024, *Best Global Universities – Regional Data*). The data suggest a deliberate model: sustained public investment, flat governance hierarchies, and a research ecosystem that prioritizes societal impact over short-term commercial output.

@@ -8,6 +8,7 @@ readingTime: 6
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/best-universities-for-political-science-based-on-2025-qs-subject-rankings-2026-1880x1253.jpg"
 ---
 
 The 2025 QS World University Rankings by Subject place Political Science and International Studies among the most scrutinized fields for graduate employability, with 250 institutions evaluated across research output, academic reputation, and employer feedback. Harvard University retains the global top spot with a perfect 100.0 overall score, but the data reveals significant shifts in the top 20: the University of Oxford (99.8) narrowed the gap to just 0.2 points, while Sciences Po Paris climbed to 3rd place (98.5), displacing the London School of Economics and Political Science (LSE) to 4th (98.0). The rankings incorporate 2,400+ responses from global employers and 130,000+ academic survey submissions [QS, 2025, Subject Rankings Methodology]. For prospective graduate students and their families, these numbers provide a quantitative baseline, yet the choice of institution depends on subfield specialization, regional policy focus, and tuition cost structures that vary by as much as 400% between public European universities and private U.S. institutions.

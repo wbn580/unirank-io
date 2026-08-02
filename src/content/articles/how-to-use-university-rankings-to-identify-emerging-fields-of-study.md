@@ -8,6 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-use-university-rankings-to-identify-emerging-fields-of-study-2026-1880x1253.jpg"
 ---
 
 University rankings have long served as a proxy for institutional prestige, but prospective students increasingly leverage them to identify **emerging fields of study**—disciplines that are growing in research output, funding, and hiring demand. A 2023 analysis by Times Higher Education (THE) found that 62% of newly created academic positions at top-200 universities were in interdisciplinary fields such as data science, sustainability, and bioinformatics, compared to just 28% a decade earlier. Concurrently, the U.S. National Center for Education Statistics (NCES) reported that enrollments in environmental engineering programs grew by 34% between 2018 and 2022, outpacing the 7% average growth across all engineering disciplines. These shifts reflect a structural transformation in higher education: universities are reallocating resources toward fields that align with technological change and societal needs. For applicants, the challenge is not merely finding a highly ranked institution, but decoding how rankings reveal where investment—and future opportunity—is concentrated. This article provides a methodological framework for using QS, THE, U.S. News, and ARWU data to detect rising academic fields before they appear in mainstream career guides.

@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-build-a-university-ranking-dashboard-using-free-online-tools-2026-1880x1272.jpg"
 ---
 
 A prospective student comparing the QS World University Rankings, the Times Higher Education (THE) World University Rankings, the U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU) faces a well-documented problem: the same institution can occupy four different positions across these systems. For example, the University of Melbourne ranked 14th in the 2025 QS rankings but 37th in the 2025 THE rankings, a spread of 23 places. This discrepancy, driven by each system weighting research output, reputation, and international diversity differently, can paralyze decision-making. Building a personal university ranking dashboard—a single, customizable view that aggregates these disparate data sources—offers a solution. With freely available tools such as Google Sheets, Python’s Plotly library, and public API endpoints from organizations like the OECD (whose Education at a Glance 2024 report tracked enrollment data across 38 countries), any applicant can construct a dashboard in under an afternoon. This article provides a step-by-step, methodology-transparent guide to doing exactly that, enabling users to weight criteria according to their own priorities rather than relying on a single publisher’s editorial judgment.

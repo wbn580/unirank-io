@@ -5,6 +5,8 @@ category: "rankings"
 publishDate: "2025-06-17T09:00:00Z"
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/us-news-global-rankings-2026-1733x1300.jpg"
+tags: ['大学排名', '留学', '院校对比']
 ---
 
 > **Updated 17 June 2026** to reflect the 2026/2027 edition released 16 June 2026.

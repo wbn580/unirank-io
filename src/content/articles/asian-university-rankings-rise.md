@@ -5,6 +5,8 @@ category: "rankings"
 publishDate: "2026-05-15T09:10:00Z"
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/asian-university-rankings-rise-2026-1880x1253.jpg"
+tags: ['大学排名', '留学', '院校对比']
 ---
 
 Asian universities are the fastest-rising cohort in global rankings. The trend is driven by massive investment in research (China's Double First Class initiative, Singapore's RIE 2025 plan), improving English-language publication output, and increasing numbers of international faculty and students.

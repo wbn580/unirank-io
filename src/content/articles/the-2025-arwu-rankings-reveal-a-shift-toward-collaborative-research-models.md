@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/the-2025-arwu-rankings-reveal-a-shift-toward-collaborative-research-models-2026-1880x1253.jpg"
 ---
 
 In the 2025 edition of the Academic Ranking of World Universities (ARWU), published by ShanghaiRanking Consultancy, a structural transformation in how top-tier research is produced and measured has become statistically undeniable: the proportion of publications with international co-authors among the top 100 universities rose to 62.4%, up from 54.7% in 2020 [ShanghaiRanking Consultancy, 2025]. This shift is not merely a trend but a recalibration of the ranking methodology itself, which for the first time explicitly weights "International Collaborative Publications" as a 5% sub-indicator within the overall score. Concurrently, data from the OECD’s 2024 Science, Technology and Innovation Outlook indicates that cross-border research funding among member nations has increased by 18.3% since 2021, reaching USD 74.2 billion annually [OECD, 2024]. These converging metrics suggest that institutional prestige is increasingly decoupled from solitary institutional output, favoring instead a networked model of scientific discovery. For prospective graduate students and their families, this methodological shift carries concrete implications: the ARWU ranking of a target university now partially reflects its capacity to plug applicants into global research ecosystems, not just its historic faculty awards or citation counts.

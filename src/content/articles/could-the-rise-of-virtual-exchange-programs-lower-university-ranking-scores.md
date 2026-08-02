@@ -8,6 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/could-the-rise-of-virtual-exchange-programs-lower-university-ranking-scores-2026-1880x1111.jpg"
 ---
 
 Since 2019, the number of students participating in **virtual exchange programs** has grown by over 400%, with the Stevens Initiative reporting that more than 80,000 students across 70 countries engaged in such programs in 2022 alone [Stevens Initiative 2023 Annual Report]. This rapid expansion, accelerated by the COVID-19 pandemic, fundamentally alters how institutions measure and report internationalization—a key metric in global university rankings. According to Times Higher Education (THE), the “International Outlook” indicator, which accounts for 7.5% of the overall score in their World University Rankings, relies heavily on the proportion of international students and staff physically present on campus [THE 2024 World University Rankings Methodology]. As universities replace traditional semester-long physical exchanges with scalable, low-cost virtual alternatives, the data inputs for these ranking components are shifting. The central question for university administrators and prospective applicants is whether this substitution—prioritizing digital access over physical mobility—will systematically depress an institution’s ranking score, particularly in the QS and THE frameworks that reward on-campus international density.

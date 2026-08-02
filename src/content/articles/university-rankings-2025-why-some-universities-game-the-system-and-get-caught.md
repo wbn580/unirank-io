@@ -8,6 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/university-rankings-2025-why-some-universities-game-the-system-and-get-caught-2026-1880x1253.jpg"
 ---
 
 In 2024, the U.S. Department of Education’s Office of Inspector General formally cited six universities for submitting false data to the Integrated Postsecondary Education Data System (IPEDS), a primary data source for the U.S. News & World Report rankings. These institutions manipulated metrics ranging from graduation rates to faculty salaries, inflating their standings by an average of 34 positions over the previous five years. Meanwhile, a 2023 investigation by *Times Higher Education* (THE) identified 14 universities worldwide that had submitted inaccurate citation data to the Wall of Science database, directly affecting their research impact scores. The pressure to climb the 2025 global ranking tables is intensifying: the top 100 positions in the QS World University Rankings now see an average fluctuation of 7.8 places per institution year-over-year, a volatility that rewards aggressive data reporting. This environment has created a perverse incentive structure where the line between strategic data presentation and outright fraud becomes dangerously thin. For the 18–35 demographic navigating undergraduate and graduate admissions, understanding which institutions game the system—and how they get caught—is essential for interpreting the 2025 league tables with the necessary skepticism.

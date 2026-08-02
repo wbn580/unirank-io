@@ -1,0 +1,92 @@
+---
+title: "2025年台湾高校在ARWU排名中的学术产出分析"
+description: "In the 2024 Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking, Taiwan’s higher education institutions recorded a measurab…"
+category: "2025年台湾高校在AR"
+pubDatetime: "2026-03-19T18:07:31Z"
+publishDate: '2026-03-19T18:07:31Z'
+readingTime: 3
+tags: ["featured"]
+hideFromHome: true
+
+---
+
+In the 2024 Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking, Taiwan’s higher education institutions recorded a measurable shift in their global standing, with National Taiwan University (NTU) ranking within the 201–300 band—a position it has held consistently since 2020. This stability, however, masks a broader regional trend: the number of Taiwan-based universities appearing in the ARWU top 1,000 has contracted from 36 in 2020 to 28 in 2024, according to the Shanghai Ranking Consultancy’s official database [Shanghai Ranking Consultancy, 2024, ARWU]. Concurrently, the Ministry of Education (MOE) in Taipei reported that total journal article output from Taiwan’s 152 accredited universities reached 34,872 publications in 2023, a 4.2% decline from the 36,408 recorded in 2019 [Ministry of Education (Taiwan), 2024, Higher Education Statistical Report]. These two data points—a shrinking ARWU presence and a falling publication count—frame a critical inquiry: what is driving the academic output performance of Taiwan’s universities in the 2025 ARWU cycle, and what structural factors underpin the observed trajectory?
+
+## The ARWU Methodology and Its Weight on Research Output
+
+The **ARWU methodology** assigns the heaviest single weight—**20%** —to the number of articles published in *Nature* and *Science* (N&S), followed by another 20% to the total number of papers indexed in the Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) [Shanghai Ranking Consultancy, 2024, ARWU Methodology]. A further 20% is allocated to per-capita academic performance. For Taiwan’s institutions, which have historically emphasized engineering and clinical medicine over basic natural sciences, the N&S indicator presents a structural disadvantage. In 2023, Taiwan-affiliated authors contributed only 42 articles to *Nature* and 38 to *Science*, compared to 1,247 from mainland Chinese institutions in the same period [Clarivate, 2024, Web of Science Database]. This 80-fold gap in high-impact journal output directly limits the ceiling of ARWU scores for Taiwanese universities.
+
+### H3: Publication Volume Trends (2019–2024)
+The MOE data show that total SCIE+SSCI publications from Taiwan fell from 36,408 in 2019 to 34,872 in 2023, a decline of 4.2%. During the same period, the global publication output grew by approximately 12% [OECD, 2024, Science, Technology and Innovation Outlook]. This relative decline means Taiwan’s share of world scientific papers dropped from 1.8% in 2019 to an estimated 1.4% in 2023, a loss of 0.4 percentage points. The **declining publication volume** directly impacts the 20% ARWU weight for total indexed papers, making it harder for institutions outside the top tier (NTU, National Cheng Kung University, National Tsing Hua University) to maintain their rankings.
+
+### H3: The Nature and Science Gap
+Only NTU and, occasionally, National Cheng Kung University appear in the N&S publication counts for Taiwan. In 2023, NTU contributed 12 of the 42 *Nature* articles and 9 of the 38 *Science* articles. No other Taiwan university published more than 3 combined N&S papers. Since ARWU awards points only for articles in these two journals, the **concentration of high-impact output** in a single institution creates a ceiling that the next tier of universities cannot breach, regardless of their total publication volume.
+
+## National Taiwan University: The Anchor Institution
+
+**National Taiwan University (NTU)** remains the undisputed anchor of Taiwan’s ARWU performance, consistently occupying the **201–300 band** since 2020. Its total publication output in 2023 was 7,842 SCIE/SSCI papers, representing 22.5% of Taiwan’s national total [NTU Office of Research and Development, 2024, Annual Report]. This concentration is not unusual for a top-tier national university, but it underscores a vulnerability: the entire Taiwanese system’s ARWU visibility rests disproportionately on one institution.
+
+### H3: NTU’s Subject-Level Performance
+In the ARWU subject rankings, NTU performs strongest in Clinical Medicine (101–150), Engineering (101–150), and Computer Science (151–200). These subject-level rankings are derived from the same publication and citation data, but with discipline-specific normalization. NTU’s **Clinical Medicine output** accounts for 28% of its total publications, yet the citation impact in this field lags behind top 100 institutions by a factor of 1.7, according to the National Science and Technology Council’s 2024 bibliometric analysis [NSTC, 2024, Taiwan Bibliometric Report]. This gap in citation impact—not publication volume—is the primary barrier preventing NTU from entering the top 200 overall.
+
+### H3: Faculty Size and Per-Capita Output
+ARWU’s per-capita performance indicator (20% weight) penalizes institutions with large faculty sizes relative to output. NTU employs 3,892 full-time faculty, yielding a per-capita publication rate of 2.01 papers per faculty member in 2023. By comparison, National Cheng Kung University (NCKU) has 1,847 faculty and a per-capita rate of 2.34. However, NCKU’s total output is lower, so its overall ARWU score remains in the 401–500 band. The **per-capita metric** favors smaller, research-intensive departments, but Taiwan’s top universities have not restructured to optimize this metric.
+
+## The Second Tier: NCKU, NTHU, and NYCU
+
+Below NTU, a cluster of three universities—**National Cheng Kung University (NCKU)**, **National Tsing Hua University (NTHU)**, and **National Yang Ming Chiao Tung University (NYCU)** —occupy the **401–600 band** in the 2024 ARWU. These institutions collectively produce 31.4% of Taiwan’s SCIE/SSCI papers but face distinct structural challenges.
+
+### H3: NCKU’s Engineering Dominance
+NCKU publishes 68% of its papers in engineering and materials science, fields where ARWU subject rankings are highly competitive. In 2023, NCKU’s engineering publication count (2,104 papers) ranked 78th globally, but its citation impact per paper (6.8 citations) was below the global average for top 50 engineering schools (9.4 citations) [Clarivate, 2024, InCites Dataset]. This **citation deficit** prevents NCKU from translating high volume into ranking gains.
+
+### H3: NTHU’s Physics and Chemistry Focus
+NTHU concentrates 54% of its output in physics and chemistry, disciplines where ARWU weights international collaboration heavily. Taiwan’s international co-authorship rate in physics was 41% in 2023, compared to 58% for South Korea and 63% for Singapore [OECD, 2024, Science, Technology and Innovation Outlook]. NTHU’s lower collaboration rate reduces its visibility in the citation networks that drive ARWU scores.
+
+## Institutional Consolidation and Its Effects on Rankings
+
+Taiwan has pursued a policy of **university consolidation** since 2016, merging smaller institutions to create larger research entities. The most notable example is the 2021 merger of National Yang Ming University (medical focus) with National Chiao Tung University (engineering focus) to form **National Yang Ming Chiao Tung University (NYCU)**. In the 2024 ARWU, NYCU ranked in the 501–600 band, a slight improvement over the individual pre-merger positions of both institutions (601–700 each in 2020).
+
+### H3: Publication Synergy vs. Bureaucratic Drag
+The merger increased NYCU’s total publication output by 14% in two years (from 3,210 papers in 2021 to 3,659 in 2023). However, the per-capita publication rate declined from 2.45 to 2.29 over the same period, as faculty integration and administrative restructuring consumed research time. The **short-term efficiency loss** from consolidation may delay ARWU gains by 3–5 years, according to a simulation by the NSTC [NSTC, 2024, Taiwan Bibliometric Report].
+
+### H3: Impact on Subject Rankings
+Post-merger, NYCU’s Clinical Medicine subject ranking improved from 301–400 to 201–300, while its Engineering ranking remained static at 201–300. The **asymmetric subject improvement** suggests that medical publications—which have higher citation rates—benefited more from the merger than engineering outputs.
+
+## International Collaboration as a Lever for Citation Impact
+
+**International co-authorship** is a known predictor of higher citation impact. For Taiwan’s universities, the international co-authorship rate across all fields was 32.7% in 2023, up from 29.1% in 2019 [NSTC, 2024, Taiwan Bibliometric Report]. This 3.6 percentage point increase is positive but remains below the OECD average of 38.4% for upper-middle-income economies.
+
+### H3: The US and Japan as Primary Partners
+Taiwan’s top international collaboration partners are the United States (27% of co-authored papers) and Japan (14%). Papers with US co-authors received an average of 12.3 citations, compared to 7.1 for domestic-only papers. This **citation premium** of 73% directly improves the ARWU citation-related indicators (20% of total score). For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=unirank-io/articles/zh/2025%E5%B9%B4%E5%8F%B0%E6%B9%BE%E9%AB%98%E6%A0%A1%E5%9C%A8arwu%E6%8E%92%E5%90%8D%E4%B8%AD%E7%9A%84%E5%AD%A6%E6%9C%AF%E4%BA%A7%E5%87%BA%E5%88%86%E6%9E%90) to settle fees, which facilitates the financial logistics of study abroad programs that often involve research collaboration.
+
+### H3: EU and Southeast Asian Gaps
+Collaboration with European Union institutions accounts for only 18% of Taiwan’s co-authored papers, compared to 34% for South Korea. Expanding partnerships with German and French research organizations—which have high citation impact in physics and life sciences—represents a strategic opportunity for Taiwan’s universities to raise their ARWU scores.
+
+## Policy Interventions and Funding Allocations
+
+The **Ministry of Education (MOE)** and the **National Science and Technology Council (NSTC)** have implemented targeted funding programs to boost research output. The “Higher Education SPROUT Project,” launched in 2018, allocated NT$17 billion (approximately US$540 million) over five years to 12 research-intensive universities, with explicit performance metrics tied to publication output and citation impact [MOE, 2023, SPROUT Project Evaluation Report].
+
+### H3: SPROUT Project Outcomes
+Institutions receiving SPROUT funding increased their total SCIE/SSCI publications by 8.7% between 2019 and 2023, compared to a 1.2% increase for non-SPROUT universities. However, the citation impact per paper for SPROUT institutions grew by only 2.3%, indicating that **quantity outpaced quality**. The ARWU ranking of SPROUT-funded universities improved by an average of 50 positions in the 601–1,000 range, but no institution broke into the top 200.
+
+### H3: The Doctoral Pipeline Problem
+Taiwan’s doctoral enrollment has declined from 10,847 in 2019 to 9,312 in 2023, a 14.2% drop [MOE, 2024, Higher Education Statistical Report]. Since doctoral students are primary producers of original research, this decline directly constrains future publication output. The NSTC projects that without intervention, Taiwan’s total annual publication output could fall below 32,000 by 2027, further eroding ARWU presence.
+
+## FAQ
+
+### Q1: Why did Taiwan lose 8 universities from the ARWU top 1,000 between 2020 and 2024?
+The contraction from 36 to 28 institutions is primarily driven by declining total publication volume and citation impact relative to global growth. Taiwan’s share of world scientific papers fell from 1.8% in 2019 to 1.4% in 2023, while global output grew 12% in the same period. Additionally, Taiwan’s doctoral enrollment dropped 14.2% from 2019 to 2023, reducing the research workforce. Institutions in the 801–1,000 band are most vulnerable because small changes in publication counts can shift rankings by 50–100 positions.
+
+### Q2: Can any Taiwan university break into the ARWU top 200 in the next five years?
+National Taiwan University is the only candidate, but significant barriers exist. NTU would need to increase its Nature and Science publications from 21 per year to approximately 45 per year to match the top 200 average, and raise its citation impact per paper by 40%. The NSTC’s 2024 simulation suggests that even with a 15% annual growth in high-impact publications, NTU would not reach the top 200 before 2029. No other Taiwan university has the publication volume or citation profile to make a top 200 push.
+
+### Q3: How does Taiwan’s ARWU performance compare to South Korea and Singapore?
+South Korea had 38 universities in the ARWU top 1,000 in 2024, with Seoul National University in the 101–150 band. Singapore had only 2 universities (National University of Singapore and Nanyang Technological University), but both ranked in the top 100. Taiwan’s 28 institutions place it ahead of Singapore in institutional count but behind in top-tier representation. Taiwan’s publication output per capita (0.0015 papers per person) is lower than South Korea’s (0.0021) and Singapore’s (0.0038) [OECD, 2024, Science, Technology and Innovation Outlook].
+
+## References
+
+- Shanghai Ranking Consultancy. 2024. *Academic Ranking of World Universities (ARWU) – Overall and Subject Rankings*.
+- Ministry of Education (Taiwan). 2024. *Higher Education Statistical Report – Publication and Enrollment Data 2019–2023*.
+- National Science and Technology Council (Taiwan). 2024. *Taiwan Bibliometric Report – Citation Analysis and International Collaboration*.
+- OECD. 2024. *Science, Technology and Innovation Outlook – Global Publication and Co-authorship Trends*.
+- Clarivate. 2024. *Web of Science and InCites Database – Institutional Publication and Citation Metrics*.

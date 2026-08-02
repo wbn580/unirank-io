@@ -5,6 +5,8 @@ category: "method"
 publishDate: "2026-05-15T08:30:00Z"
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/university-rankings-methodology-2026-1880x1253.jpg"
+tags: ['大学排名', '留学', '院校对比']
 ---
 
 University rankings are the most influential — and most misunderstood — metric in higher education. This article explains how the four major ranking systems work at a methodological level.

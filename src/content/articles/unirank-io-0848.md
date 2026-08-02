@@ -12,6 +12,7 @@ language: en
 tags:
 - 海外留学后工签与长期居留路径
 ogImage: https://img.ulec.com.cn/留学-大学排名/unirank-io-guide-2026-07-29-597f27f386-image-01-2026-1880x1253.jpg
+category: Universities
 ---
 
 International students often weigh a degree’s value against one practical question: can I stay and work afterwards? The answer depends on where you study, what you study, and how immigration rules translate classroom time into career pathways. This article explains how post‑study work rights and long‑term residence options are structured across major English‑speaking destinations, without assuming that one country fits everyone.

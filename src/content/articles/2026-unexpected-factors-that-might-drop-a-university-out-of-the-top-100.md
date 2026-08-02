@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/2026-unexpected-factors-that-might-drop-a-university-out-of-the-top-100-2026-1280x854.jpg"
 ---
 
 In the 2025 QS World University Rankings, the 100th position was held by the University of California, Santa Barbara, with a composite score of 55.2, while the 50th institution, the University of Bristol, scored 72.8—a gap of just 17.6 points that leaves the bottom half of the top 100 vulnerable to sudden shifts. Historical data from Times Higher Education (THE) indicates that between 2020 and 2025, an average of 8 to 12 universities per year exited the top 100, often due to factors beyond simple academic performance. A 2024 analysis by the Organisation for Economic Co-operation and Development (OECD) found that international student mobility patterns changed by 14.3% in major host countries post-pandemic, directly impacting revenue streams and reputation metrics that ranking bodies weigh heavily. These figures underscore a reality: a university’s position in the global top 100 is not solely determined by research output or faculty awards, but by a set of **unexpected factors**—from geopolitical shifts to financial disclosure policies—that can trigger a precipitous drop in a single ranking cycle.

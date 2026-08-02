@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/三大排名体系qsthearwu的适用场景与局限性-2026-1880x1254.jpg"
 ---
 
 Every year, millions of prospective students and their families consult global university rankings to narrow down the daunting list of over 20,000 higher-education institutions worldwide. Three systems dominate this landscape: the **QS World University Rankings**, the **Times Higher Education (THE) World University Rankings**, and the **Academic Ranking of World Universities (ARWU)**, commonly known as the Shanghai Ranking. Despite their shared goal of measuring institutional quality, these three frameworks produce markedly different results due to divergent methodologies. For instance, in the 2024 edition, QS placed the Massachusetts Institute of Technology (MIT) at number one with a perfect score of 100, while ARWU ranked Harvard University first, citing 22 Nobel laureates affiliated with the institution [QS 2024; ARWU 2024]. This discrepancy stems from fundamental differences in what each system prioritises: QS allocates 30% of its weight to academic reputation surveys, THE focuses on research citations (30%), and ARWU leans heavily on research output and awards (40% combined for Nobel/Fields medals and Highly Cited Researchers) [QS 2024 Methodology; THE 2024 Methodology; ARWU 2024 Methodology]. Understanding these methodological biases is critical for applicants, as a university’s rank can shift by dozens of positions depending on the ranking consulted.

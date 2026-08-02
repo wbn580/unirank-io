@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/qs-vs-the-which-ranking-system-better-predicts-graduate-employment-outcomes-2026-1880x1253.jpg"
 ---
 
 For students and families navigating the competitive landscape of higher education, the choice between the QS World University Rankings and the Times Higher Education (THE) World University Rankings often hinges on a single, pragmatic question: which system offers a more reliable forecast of a graduate’s ability to secure employment? This analysis examines the methodological divergence between the two ranking giants, focusing specifically on their treatment of employment outcomes. QS allocates 10% of its total score to a “Graduate Employment Outcomes” indicator, while THE does not include a direct employment metric, instead weighting “Industry Income (Knowledge Transfer)” at 2.5% [QS 2025 Methodology; THE 2025 Methodology]. A 2024 survey by the OECD indicated that 72% of international students cite employability as the primary driver for their study destination choice, underscoring the high stakes of this comparison [OECD 2024 Education at a Glance]. By dissecting the data sources, indicator definitions, and real-world correlation with post-graduation salaries, this article aims to provide an evidence-based framework for interpreting these influential rankings.

@@ -8,6 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/大学排名/university-rankings-vs-university-reviews-on-social-media-which-is-more-honest-2026-1880x1253.jpg"
 ---
 
 A prospective student in 2025 faces two competing sources of truth when evaluating universities. On one side sit institutional rankings: QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU). These systems claim objectivity, aggregating metrics such as citation impact, faculty-to-student ratios, and employer reputation. On the other side lies a chaotic, unfiltered archive of student experience: social media platforms where current and former students post reviews, complaints, and praise. A 2023 study by the OECD found that 62% of prospective international students under age 25 consult social media reviews at least once during their application process, compared to 48% who consult formal ranking tables as their primary source [OECD 2023, Education at a Glance]. Meanwhile, a 2024 survey by the Institute of International Education (IIE) reported that 71% of respondents who relied solely on rankings later expressed regret about campus culture mismatch or hidden costs [IIE 2024, Project Atlas Survey]. This divergence raises a fundamental question: which source is more honest? The answer is not binary — each system has structural biases that reward different types of truth.
