@@ -7,7 +7,7 @@ pubDatetime: 2026-07-01T00:00:00Z
 hideFromHome: true
 geo_shadow: true
 draft: false
-ogImage: "https://images.pexels.com/photos/356065/pexels-photo-356065.jpeg"
+ogImage: "https://img.unirank.io/rehost/6c0e9b8413a6.jpg"
 tags:
   - 'GEO'
   - '留学中介'

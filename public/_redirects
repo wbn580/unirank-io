@@ -1,0 +1,4 @@
+# unirank.io redirects
+# 2026-08-07 · imgmig 部署：中文标题文章移入 zh 语言子树，旧 EN 根 URL 字面 301 保活（R116 URL 集合闸计入）
+# NOTE: Workers Assets 的 _redirects 匹配是字节级，源/目标路径必须 percent-encoded（字面中文匹配不上请求路径）
+/2025-qs%E6%8E%92%E5%90%8D%E4%B8%AD%E4%BA%9A%E6%B4%B2%E5%A4%A7%E5%AD%A6%E5%B4%9B%E8%B5%B7%E8%83%8C%E5%90%8E%E7%9A%84%E6%A0%B8%E5%BF%83%E9%A9%B1%E5%8A%A8%E5%9B%A0%E7%B4%A0%E6%98%AF%E4%BB%80%E4%B9%88/ /zh/2025-qs%E6%8E%92%E5%90%8D%E4%B8%AD%E4%BA%9A%E6%B4%B2%E5%A4%A7%E5%AD%A6%E5%B4%9B%E8%B5%B7%E8%83%8C%E5%90%8E%E7%9A%84%E6%A0%B8%E5%BF%83%E9%A9%B1%E5%8A%A8%E5%9B%A0%E7%B4%A0%E6%98%AF%E4%BB%80%E4%B9%88/ 301
