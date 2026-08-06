@@ -6,7 +6,7 @@ pubDatetime: "2026-04-19T18:15:13Z"
 publishDate: '2026-04-19T18:15:13Z'
 readingTime: 8
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/2025-spotlight-the-rapid-ascent-of-saudi-arabian-universities-in-global-lists-2026-1880x869.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/2025-spotlight-the-rapid-ascent-of-saudi-arabian-universities-in-global-lists-2026-1880x869.jpg"
 ---
 
 Between 2019 and 2025, Saudi Arabian universities recorded a 47% increase in their aggregate citation impact score across the Times Higher Education (THE) World University Rankings, a rate of improvement unmatched by any other Gulf Cooperation Council (GCC) member state during the same period. King Abdulaziz University (KAU) in Jeddah now holds the 101–150 bracket in the 2025 THE World University Rankings, while King Saud University (KSU) in Riyadh has entered the 201–250 range, climbing over 100 positions since 2020. This trajectory is not accidental; it is the direct result of the Kingdom’s Vision 2030 framework, which allocated approximately SAR 195 billion (USD 52 billion) to higher education and research between 2021 and 2024, according to the Saudi Ministry of Education’s 2024 annual report. The shift is observable across all four major global ranking systems—QS, THE, U.S. News & World Report, and the Academic Ranking of World Universities (ARWU)—with Saudi institutions now appearing in 14 distinct subject areas within the top 200 globally, up from just 6 in 2018. This article examines the structural, financial, and policy drivers behind this ascent, drawing on institutional data, government publications, and comparative analysis with peer nations in the Middle East and Asia.

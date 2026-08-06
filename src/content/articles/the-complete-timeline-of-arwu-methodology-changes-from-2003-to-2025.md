@@ -6,7 +6,7 @@ pubDatetime: "2026-04-09T18:12:28Z"
 publishDate: '2026-04-09T18:12:28Z'
 readingTime: 11
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/the-complete-timeline-of-arwu-methodology-changes-from-2003-to-2025-2026-1880x869.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/the-complete-timeline-of-arwu-methodology-changes-from-2003-to-2025-2026-1880x869.jpg"
 ---
 
 Since its inception in 2003, the Academic Ranking of World Universities (ARWU), commonly known as the Shanghai Ranking, has undergone six major methodological revisions, shifting from a pure bibliometric count to a multi-dimensional weighting system that now incorporates 6 distinct indicators. The first 2003 edition used only three metrics: major awards (Nobel Prizes and Fields Medals), highly cited researchers, and articles indexed in the Science Citation Index-Expanded (SCI-E) and Social Science Citation Index (SSCI). By 2025, the methodology had evolved to include a 10% weight for interdisciplinary research output, a category that did not exist in any ranking system two decades prior. According to the Shanghai Ranking Consultancy’s 2023 methodology report, the weighting of the "Alumni" indicator (measuring alumni winning Nobel Prizes and Fields Medals) was reduced from 10% in 2003 to 5% in 2025, reflecting a deliberate shift away from legacy prestige toward current institutional performance. This article traces the complete timeline of ARWU methodology changes from 2003 to 2025, documenting each revision with precise weight adjustments, indicator definitions, and the institutional rationale behind them.

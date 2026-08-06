@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/top-six-university-rankings-that-specialize-in-sustainable-development-goals-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/top-six-university-rankings-that-specialize-in-sustainable-development-goals-2026-1880x1253.jpg"
 ---
 
 The global higher education sector has entered an era where institutional prestige is no longer measured solely by research output or graduate employability. Since the United Nations adopted the 17 Sustainable Development Goals (SDGs) in 2015, a growing number of ranking bodies have integrated sustainability metrics into their assessment frameworks. In 2024, over 1,500 universities worldwide submitted data to at least one major sustainability-focused ranking, a 40% increase from 2020 levels, according to the International Association of Universities [IAU 2024, Higher Education and Sustainability Survey]. This shift reflects a broader demand from students and employers: a 2023 study by the OECD found that 67% of 18–34-year-olds consider an institution’s environmental and social impact “very important” when choosing a university [OECD 2023, Education at a Glance]. For applicants navigating this complex landscape, understanding which rankings specialize in the SDGs is critical. The following six ranking systems offer distinct methodologies, data sources, and disciplinary lenses, each providing a unique window into how universities contribute to sustainable development.

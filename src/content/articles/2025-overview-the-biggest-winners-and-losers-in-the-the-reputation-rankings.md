@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/2025-overview-the-biggest-winners-and-losers-in-the-the-reputation-rankings-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/2025-overview-the-biggest-winners-and-losers-in-the-the-reputation-rankings-2026-1880x1253.jpg"
 ---
 
 The 2025 Times Higher Education (THE) World Reputation Rankings, released in February 2025, reveal a pronounced shift in the global landscape of academic prestige, with institutions from Asia and the Middle East making historic gains while several established Western universities experienced notable declines. Based on a survey of over 55,000 senior academics from 166 countries, the rankings measure the perceived research and teaching excellence of universities worldwide, providing a lagging indicator of institutional brand power. The United States, while still dominant with 38 institutions in the top 200, saw its collective share of top-100 votes drop by 4.2 percentage points since 2023, according to THE’s data repository [THE 2025 Reputation Rankings Database]. Conversely, China’s Tsinghua University rose to 8th place globally, its highest-ever position, and the University of Tokyo climbed 12 spots to 15th, marking the first time an Asian institution has broken into the top 15 since the rankings began in 2011. This analysis identifies the key winners and losers of the 2025 cycle, examining the underlying factors—from national research investment to geopolitical shifts—that are reshaping academic prestige.

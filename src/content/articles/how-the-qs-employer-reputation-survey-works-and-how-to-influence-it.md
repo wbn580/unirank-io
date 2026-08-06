@@ -6,7 +6,7 @@ pubDatetime: "2026-04-20T18:15:16Z"
 publishDate: '2026-04-20T18:15:16Z'
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-the-qs-employer-reputation-survey-works-and-how-to-influence-it-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-the-qs-employer-reputation-survey-works-and-how-to-influence-it-2026-1880x1253.jpg"
 ---
 
 Each year, millions of prospective students and their families consult the QS World University Rankings to benchmark institutional quality globally. Among the six indicators QS uses, the **Employer Reputation** metric carries a weight of 15% in the 2025 methodology, making it the third-most influential component after Academic Reputation (40%) and Citations per Faculty (20%)[QS 2024, QS World University Rankings Methodology]. This metric is derived from a single source: the QS Employer Survey, which in 2024 collected over 150,000 responses from graduate employers across 174 countries[QS 2024, QS Employer Survey 2024 Insights]. Understanding exactly how this survey is constructed, who participates, and what factors drive employer perception is critical for any university seeking to improve its ranking position. The survey does not measure graduate employment rates or starting salaries directly; instead, it captures a **subjective perception** of which institutions produce the most competent, well-prepared graduates. This distinction is frequently misunderstood by university administrators who attempt to influence the metric through placement statistics alone.

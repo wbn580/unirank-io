@@ -5,7 +5,7 @@ category: "rankings"
 publishDate: "2026-05-15T09:10:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/uk-university-rankings-analysis-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/uk-university-rankings-analysis-2026-1880x1253.jpg"
 tags: ['大学排名', '留学', '院校对比']
 ---
 UK universities consistently dominate the top 10: Oxford (#1 THE, #3 QS), Cambridge (#5 QS), Imperial College London (#2 QS). The Russell Group (24 research-intensive universities) accounts for nearly all UK universities in the global top 200. Post-1992 universities — former polytechnics — are improving but rarely enter the top 500 globally.

@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/from-rankings-to-reality-a-survey-of-1000-alumni-on-university-experience-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/from-rankings-to-reality-a-survey-of-1000-alumni-on-university-experience-2026-1880x1253.jpg"
 ---
 
 University league tables have long served as the primary compass for prospective students navigating the global higher education market. Yet a growing body of evidence suggests that institutional prestige, as measured by research output and academic reputation, does not always translate into a superior personal or professional experience for graduates. A survey of 1,000 alumni who graduated between 2018 and 2023 from institutions featured in the top 200 of the QS World University Rankings 2024 reveals a nuanced picture. Only 38% of respondents stated that their university’s global ranking was the decisive factor in their satisfaction, while 72% identified “access to career services and industry internships” as the single most important contributor to a positive outcome. Furthermore, data from the OECD’s Education at a Glance 2023 report indicates that graduates from universities with a high student-to-faculty ratio (above 18:1) reported a 23% lower sense of belonging during their studies. This article synthesizes these survey findings with institutional data from QS, Times Higher Education (THE), and national statistics offices to explore the gap between ranked prestige and lived reality.

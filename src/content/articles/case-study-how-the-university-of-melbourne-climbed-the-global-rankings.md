@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/case-study-how-the-university-of-melbourne-climbed-the-global-rankings-2026-1880x1076.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/case-study-how-the-university-of-melbourne-climbed-the-global-rankings-2026-1880x1076.jpg"
 ---
 
 Between 2015 and 2025, the University of Melbourne executed one of the most sustained upward trajectories in global higher education rankings, rising from 33rd in the QS World University Rankings to 14th in 2024 and then to 13th in 2025. This 20-position climb over a decade places it among the top 1.5% of the world’s 28,000 universities, a cohort that, according to the OECD’s 2023 Education at a Glance report, represents fewer than 420 institutions globally. The ascent is not accidental; it stems from a deliberate, institution-wide strategy that prioritized research output, international faculty recruitment, and a restructuring of academic governance. For prospective students and their families evaluating university options, understanding the mechanics behind this rise offers a data-driven lens through which to assess institutional quality beyond headline numbers. This case study dissects the specific policy levers, financial allocations, and structural reforms that propelled Melbourne’s climb, drawing on QS, Times Higher Education (THE), and U.S. News methodology reports to quantify each factor’s contribution.

@@ -8,7 +8,7 @@ readingTime: 12
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-identify-a-university-that-is-overrated-by-global-ranking-systems-2026-1880x869.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-to-identify-a-university-that-is-overrated-by-global-ranking-systems-2026-1880x869.jpg"
 ---
 
 Every year, millions of prospective students and their families consult global university ranking systems—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—to narrow down their study destinations. Yet a growing body of evidence suggests that these league tables can systematically overvalue certain institutions while undervaluing others. A 2023 analysis by the OECD found that **only 38% of the variance in graduate employment outcomes** can be explained by the university’s global rank, with factors such as field of study, geographic mobility, and local labor market conditions playing far larger roles (OECD, *Education at a Glance 2023*). Similarly, a 2022 study published in *Scientometrics* demonstrated that **up to 22% of a university’s rank position** can be attributed to “reputation survey noise”—subjective scores from academics and employers that have no direct link to teaching quality or student experience. This article provides a transparent, evidence-based framework for identifying universities that may be overrated by global ranking systems, drawing on official data from QS, THE, U.S. News, ARWU, national statistical agencies, and independent research bodies.

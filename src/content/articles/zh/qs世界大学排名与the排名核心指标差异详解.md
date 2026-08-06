@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/qs世界大学排名与the排名核心指标差异详解-2026-1880x1254.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/qs世界大学排名与the排名核心指标差异详解-2026-1880x1254.jpg"
 ---
 
 Two of the most widely referenced global university rankings—QS World University Rankings and Times Higher Education (THE) World University Rankings—employ fundamentally distinct methodologies that can produce divergent outcomes for the same institution. In the 2025 edition, QS assigned a 30% weight to academic reputation (based on a global survey of 130,000+ respondents) and a 15% weight to employer reputation, whereas THE allocated only 18% to teaching environment and 29.5% to research environment, with no direct employer reputation metric [QS 2025 Methodology; THE 2025 World University Rankings Methodology]. A single university may rank 15th in QS yet 45th in THE, or vice versa, depending on how these weightings interact with institutional strengths. For prospective students and families navigating the 18–35 age bracket, understanding these methodological differences is not an academic exercise—it directly affects scholarship eligibility, visa application strategies, and employer perceptions across different labour markets. According to OECD data from 2023, 67% of international students consult at least two ranking systems before shortlisting institutions, yet fewer than 12% can articulate how the methodologies differ [OECD 2023 Education at a Glance]. This article provides a transparent, source-backed dissection of the core indicator differences between QS and THE, enabling readers to interpret rankings with statistical literacy rather than brand loyalty.

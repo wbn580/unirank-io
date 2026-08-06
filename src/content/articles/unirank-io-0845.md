@@ -11,13 +11,13 @@ lang: en
 language: en
 tags:
 - 海外留学一年总费用估算（学费+生活费）
-ogImage: https://img.ulec.com.cn/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg
+ogImage: https://img.unirank.io/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg
 category: Universities
 ---
 
 Planning a budget for an international degree is one of the first concrete steps in turning a study-abroad ambition into a reality. While the total cost of one academic year overseas can span a remarkably wide range—anywhere from a few thousand dollars to well over eighty thousand—the underlying structure is consistent across destinations. Every budget must account for two main blocks: tuition fees and living costs. Understanding how these blocks behave in different education systems makes it easier to compare options without being misled by headline figures alone.
 
-![Estimated Cost of Studying Abroad for One Year in 2026–2027: Tuition and Living Expenses](https://img.ulec.com.cn/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg)
+![Estimated Cost of Studying Abroad for One Year in 2026–2027: Tuition and Living Expenses](https://img.unirank.io/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg)
 
 **How Tuition Fees Are Structured**
 

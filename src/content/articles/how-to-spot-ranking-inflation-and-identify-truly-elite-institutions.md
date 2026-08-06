@@ -8,7 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-spot-ranking-inflation-and-identify-truly-elite-institutions-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-to-spot-ranking-inflation-and-identify-truly-elite-institutions-2026-1880x1253.jpg"
 ---
 
 University rankings have become the single most consulted metric for prospective international students, yet their methodological fragility is rarely scrutinised. A 2023 study by the OECD found that 78% of students from the Asia-Pacific region consult at least one global ranking before applying, while Times Higher Education (THE) itself acknowledged in its 2024 World University Rankings methodology report that changes in weighting—specifically shifting research income from 6% to 2.5% of the total score—can cause a single institution to move 50 places or more from one year to the next. This volatility, combined with opaque indicator definitions and the commercial incentive for ranking bodies to maximise institutional participation, creates a phenomenon known as "ranking inflation": the gradual, often unearned, upward drift of an institution’s position driven by methodological tweaks rather than genuine improvements in teaching or research output. Identifying truly elite institutions therefore requires a forensic approach that looks beyond the headline number.

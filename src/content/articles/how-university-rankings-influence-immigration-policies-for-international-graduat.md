@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-university-rankings-influence-immigration-policies-for-international-graduat-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-university-rankings-influence-immigration-policies-for-international-graduat-2026-1880x1253.jpg"
 ---
 
 In 2023, the United Kingdom updated its Graduate Route visa, tying post-study work eligibility to institutions that meet specific quality thresholds, directly referencing data from the Office for Students’ quality assessments. This policy shift mirrors a broader global trend: over 60% of OECD countries now incorporate university rankings or institutional accreditation into their immigration frameworks for international graduates, according to a 2024 OECD report on skilled migration pathways. The rationale is twofold—governments seek to attract high-caliber talent while ensuring that educational credentials translate into labor market productivity. For example, Canada’s Post-Graduation Work Permit Program (PGWP) grants longer durations to graduates from designated learning institutions, with a 2023 Immigration, Refugees and Citizenship Canada (IRCC) analysis showing a 22% higher stay rate for those from universities ranked in the top 200 globally. This intersection of academic prestige and immigration policy creates a stratified system where a university’s position in global rankings—such as those published by QS, Times Higher Education, or ARWU—can directly determine a graduate’s visa duration, eligibility for permanent residency, and even points under skilled migration schemes. Understanding these linkages is now essential for prospective students and their families when selecting a study destination.

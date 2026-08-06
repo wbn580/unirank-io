@@ -5,7 +5,7 @@ category: "rankings"
 publishDate: "2026-05-15T08:30:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/qs-rankings-2026-analysis-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/qs-rankings-2026-analysis-2026-1880x1253.jpg"
 tags: ['大学排名', '留学', '院校对比']
 ---
 

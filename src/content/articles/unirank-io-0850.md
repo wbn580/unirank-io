@@ -11,13 +11,13 @@ lang: en
 language: en
 tags:
 - 海外不同学历阶段（本科/硕士/博士）申请差异
-ogImage: https://img.ulec.com.cn/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg
+ogImage: https://img.unirank.io/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg
 category: Universities
 ---
 
 Choosing to study abroad means navigating three distinct application worlds. A bachelor’s, a master’s and a PhD are not simply longer versions of the same thing. They differ in what universities look for, how you prove your readiness, how long you study, what you pay and how immigration systems treat you. Understanding these differences before you start saves time, reduces stress and helps you target the right level with the right preparation.
 
-![How Bachelor’s, Master’s and PhD Applications Differ When Applying Abroad in 2026](https://img.ulec.com.cn/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg)
+![How Bachelor’s, Master’s and PhD Applications Differ When Applying Abroad in 2026](https://img.unirank.io/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg)
 
 ## What Each Degree Level Primarily Evaluates
 

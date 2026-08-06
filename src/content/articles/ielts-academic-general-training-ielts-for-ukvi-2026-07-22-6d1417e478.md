@@ -8,7 +8,7 @@ slug: 'ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg'
+ogImage: 'https://img.unirank.io/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg'
 verified: '2026-07-22T00:00:00Z'
 tags:
   - 'IELTS Academic'
@@ -27,7 +27,7 @@ IELTS tests are accepted by the UK Visas and Immigration (UKVI) as proof of Engl
 
 - [Related guide A](/2025-analysis-the-disconnect-between-university-rankings-and-student-debt/)
 
-![Illustrative image related to this guide A](https://img.ulec.com.cn/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg)
+![Illustrative image related to this guide A](https://img.unirank.io/留学-大学排名/ielts-academic-general-training-ielts-for-ukvi-2026-07-22-6d1417e478-image-01-2026-1280x800.jpg)
 
 
 - [Related guide B](/2025-arwu-rankings-reveal-a-shift-in-global-research-power-dynamics/)

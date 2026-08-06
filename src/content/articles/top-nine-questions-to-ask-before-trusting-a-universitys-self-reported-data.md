@@ -6,7 +6,7 @@ pubDatetime: "2026-05-06T18:19:40Z"
 publishDate: '2026-05-06T18:19:40Z'
 readingTime: 13
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/top-nine-questions-to-ask-before-trusting-a-universitys-self-reported-data-2026-1880x1299.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/top-nine-questions-to-ask-before-trusting-a-universitys-self-reported-data-2026-1880x1299.jpg"
 ---
 
 In 2023, a working paper from the U.S. National Bureau of Economic Research (NBER) analyzed 190 U.S. universities and found that roughly 12% had submitted potentially inflated student outcome statistics to the U.S. Department of Education’s College Scorecard database over a five-year period. This is not a fringe phenomenon. A separate 2022 investigation by *The Chronicle of Higher Education* cross-referenced institutional self-reports with federal tax records and discovered that 51 of the 100 largest private universities reported endowment values that diverged from their IRS Form 990 filings by more than 15%. For prospective international students and their families, these discrepancies raise a fundamental question: how much of a university’s glossy recruitment brochure is verifiable? The global higher education market, valued at over $2 trillion by the World Bank in 2023, operates on a trust model where institutions supply the data that feeds ranking systems like QS, THE, and U.S. News. Yet the incentives to embellish are structural—admissions yield, tuition revenue, and prestige rankings all depend on favorable metrics. This article outlines nine specific, evidence-backed questions that can help applicants and parents pressure-test a university’s self-reported claims before committing to a multi-year, often six-figure investment.

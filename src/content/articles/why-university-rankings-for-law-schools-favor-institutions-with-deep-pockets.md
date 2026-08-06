@@ -8,7 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/why-university-rankings-for-law-schools-favor-institutions-with-deep-pockets-2026-1880x1045.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/why-university-rankings-for-law-schools-favor-institutions-with-deep-pockets-2026-1880x1045.jpg"
 ---
 
 The global landscape of legal education is increasingly shaped by a quantifiable reality: the top-tier law school rankings published by QS World University Rankings, Times Higher Education (THE), and U.S. News & World Report exhibit a measurable correlation with institutional expenditure. A 2023 analysis by the U.S. Department of Education’s National Center for Education Statistics (NCES) indicated that the top 20 ranked law schools in the United States—those consistently occupying the first two deciles of the U.S. News law school ranking—spend an average of $82,400 per student annually on instructional and library resources alone, compared to a national average of $38,700 for all accredited law programs. This 113% spending premium is not incidental; it directly funds the infrastructure that ranking methodologies reward: lower student-to-faculty ratios, higher faculty research output, and superior career placement data. While such metrics ostensibly measure academic quality, they simultaneously create a structural advantage for institutions with endowments exceeding $1 billion, effectively transforming university rankings into a proxy for financial capacity rather than pedagogical efficacy.

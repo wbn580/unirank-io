@@ -5,7 +5,7 @@ category: "method"
 publishDate: "2026-05-15T09:00:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/university-reputation-vs-reality-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/university-reputation-vs-reality-2026-1880x1253.jpg"
 tags: ['大学排名', '留学', '院校对比']
 ---
 University reputation — the core of QS and a major THE component — measures what academics think of each other's institutions. It does not measure teaching quality, student satisfaction, or graduate outcomes.

@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/the-role-of-government-funding-in-the-rise-of-chinese-universities-in-rankings-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/the-role-of-government-funding-in-the-rise-of-chinese-universities-in-rankings-2026-1880x1253.jpg"
 ---
 
 Between 2012 and 2022, China’s government expenditure on higher education rose from RMB 1.1 trillion to RMB 2.4 trillion, a compound annual growth rate of approximately 8.1%, according to the Ministry of Education’s 2022 National Education Development Statistical Bulletin. This sustained fiscal commitment has propelled Chinese universities into the top echelons of global rankings. In the 2025 QS World University Rankings, Peking University and Tsinghua University rank 14th and 20th, respectively, while in the 2024 Academic Ranking of World Universities (ARWU), Tsinghua claimed 22nd globally. The OECD’s 2023 Education at a Glance report notes that China now accounts for over 20% of the world’s research and development (R&D) expenditure, surpassing the European Union. This article examines the specific mechanisms through which government funding—from targeted initiatives like Project 211 and Project 985 to the modern Double First-Class University Plan—has reshaped institutional capacity, research output, and international reputation, offering a data-driven analysis for students and parents evaluating these institutions.

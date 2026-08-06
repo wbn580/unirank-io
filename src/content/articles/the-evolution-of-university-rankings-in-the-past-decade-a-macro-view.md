@@ -8,7 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/the-evolution-of-university-rankings-in-the-past-decade-a-macro-view-2026-1880x869.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/the-evolution-of-university-rankings-in-the-past-decade-a-macro-view-2026-1880x869.jpg"
 ---
 
 Between 2013 and 2023, the global university ranking ecosystem underwent a structural transformation, shifting from a handful of Anglo-American league tables to a multi-polar, methodology-transparent industry influencing over 2.5 million international students annually, according to OECD Education at a Glance 2023. The four dominant frameworks—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—each revised their indicator weights at least twice during this period, with QS introducing a Sustainability indicator in 2024 and THE adding an Industry income metric in 2016. By 2022, the combined web traffic to these four ranking platforms exceeded 180 million unique visits per year, per Similarweb data cited in THE’s 2023 transparency report. This macro shift reflects not only the commercialization of higher education but also the growing demand from governments in East Asia, the Middle East, and continental Europe for quantitative benchmarks to allocate research funding and attract foreign talent. The evolution raises a fundamental question: do rankings measure institutional quality, or do they shape it?

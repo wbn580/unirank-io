@@ -6,7 +6,7 @@ pubDatetime: "2026-04-28T18:17:16Z"
 publishDate: '2026-04-28T18:17:16Z'
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/a-critical-review-of-the-arwu-methodology-for-measuring-research-collaboration-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/a-critical-review-of-the-arwu-methodology-for-measuring-research-collaboration-2026-1880x1253.jpg"
 ---
 
 Since its inception in 2003, the Academic Ranking of World Universities (ARWU) has become one of the most cited global university league tables, with over 2,000 institutions evaluated annually and its top 1,000 list widely used by policymakers and prospective students. However, a critical examination of ARWU’s **methodology for measuring research collaboration** reveals significant structural biases that can distort institutional rankings. The Shanghai Ranking Consultancy assigns a weight of 20% to the "Collaboration" indicator, which combines two sub-metrics: "International Collaboration" (IC, 10%) and "International Joint Publications" (IJP, 10%). According to a 2023 analysis by the OECD’s Directorate for Science, Technology and Innovation, the share of internationally co-authored scientific articles has risen from 15% in 2000 to 27% in 2021 across OECD countries, yet ARWU’s formula penalizes institutions in large, well-funded domestic research ecosystems (e.g., the United States and China) while favoring smaller nations with high cross-border mobility. This review dissects the four core methodological flaws—the **size-dependent bias**, the **citation normalization gap**, the **geographic aggregation effect**, and the **field-weighting absence**—that collectively undermine ARWU’s claim to measure meaningful research collaboration.

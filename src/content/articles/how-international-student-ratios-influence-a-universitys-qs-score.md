@@ -6,7 +6,7 @@ pubDatetime: "2026-04-12T18:13:18Z"
 publishDate: '2026-04-12T18:13:18Z'
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-international-student-ratios-influence-a-universitys-qs-score-2026-1880x1111.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-international-student-ratios-influence-a-universitys-qs-score-2026-1880x1111.jpg"
 ---
 
 For applicants comparing global universities, the QS World University Rankings remain one of the most consulted benchmarks, with over 1,500 institutions evaluated in the 2025 edition. Among the six indicators that compose the overall score, the “International Faculty Ratio” and “International Student Ratio” together account for 10% of the final tally — a non-trivial weighting that can shift a university’s position by dozens of places. According to QS’s 2024 methodology report, the median international student ratio among the top 200 universities stands at 24.3%, while institutions in the top 50 average 31.7%. This metric is not merely a diversity checkbox; it reflects a university’s global reputation and ability to attract talent across borders, a factor increasingly tied to national immigration policies and institutional strategy. A 2023 OECD study on higher education mobility noted that international student numbers in OECD countries grew by 68% between 2010 and 2021, reaching 4.3 million enrolments. Understanding how this ratio is calculated, why it matters, and how it can be influenced is essential for any applicant evaluating a university’s standing.

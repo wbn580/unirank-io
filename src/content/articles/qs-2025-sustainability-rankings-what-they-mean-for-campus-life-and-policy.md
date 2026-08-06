@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/qs-2025-sustainability-rankings-what-they-mean-for-campus-life-and-policy-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/qs-2025-sustainability-rankings-what-they-mean-for-campus-life-and-policy-2026-1880x1253.jpg"
 ---
 
 In December 2024, QS Quacquarelli Symonds released its third annual Sustainability Rankings, evaluating 1,744 institutions globally—a 24% increase from the 1,403 universities assessed in 2023. The framework measures three pillars: Environmental Impact (weighted at 45%), Social Impact (45%), and Governance (10%), using 25 distinct indicators including carbon footprint data from the Second Nature reporting network and gender equity metrics sourced from the UNESCO Institute for Statistics. Among the top 100 ranked institutions, 42 are located in Europe, 27 in North America, and 18 in Asia-Pacific, according to the QS 2025 Sustainability Rankings methodology report. For prospective students and their families, these rankings represent more than institutional prestige; they signal tangible differences in campus infrastructure, energy procurement strategies, waste management systems, and the lived experience of environmental policy. A 2023 survey by the International Student Barometer found that 67% of international students consider a university’s sustainability credentials “important” or “very important” when selecting a destination institution. This analysis examines how the QS 2025 Sustainability Rankings translate into concrete campus operations, policy frameworks, and student life—drawing on verified data from institutional reports, government energy databases, and comparative studies across ranked universities.

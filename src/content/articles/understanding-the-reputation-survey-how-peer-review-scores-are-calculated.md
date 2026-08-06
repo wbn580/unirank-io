@@ -6,7 +6,7 @@ pubDatetime: "2026-04-10T18:12:48Z"
 publishDate: '2026-04-10T18:12:48Z'
 readingTime: 6
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/understanding-the-reputation-survey-how-peer-review-scores-are-calculated-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/understanding-the-reputation-survey-how-peer-review-scores-are-calculated-2026-1880x1253.jpg"
 ---
 
 Among the many inputs that shape global university rankings, the **reputation survey** accounts for between 30% and 50% of the final score in major league tables such as the QS World University Rankings and the Times Higher Education (THE) World University Rankings. In QS 2025, for instance, the Academic Reputation indicator alone carries a weight of **40%**, drawing from over 130,000 responses collected from scholars worldwide [QS 2024, QS World University Rankings Methodology]. THE’s 2025 edition assigns a combined **33%** weight to its Teaching (reputation component) and Research reputation surveys, which together sample more than 68,000 respondents annually [Times Higher Education 2024, THE World University Rankings Methodology]. These peer-review scores are not arbitrary: they follow a structured, multi-stage process of sampling, normalization, and statistical adjustment. This article unpacks the mechanics behind reputation surveys—how respondents are selected, how scores are weighted by discipline and region, and what biases the methodology attempts to correct. Understanding these calculations is essential for any applicant or parent evaluating the credibility of a university’s rank.

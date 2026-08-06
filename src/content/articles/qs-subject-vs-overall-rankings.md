@@ -5,7 +5,7 @@ category: "method"
 publishDate: "2026-05-15T09:00:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/qs-subject-vs-overall-rankings-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/qs-subject-vs-overall-rankings-2026-1880x1253.jpg"
 tags: ['大学排名', '留学', '院校对比']
 ---
 QS subject rankings are more actionable than overall rankings for students who know their intended field. Overall rankings measure institutional prestige; subject rankings measure discipline-specific reputation, citations, and employer perception within a field.

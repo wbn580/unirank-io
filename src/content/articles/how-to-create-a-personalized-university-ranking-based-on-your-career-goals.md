@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-create-a-personalized-university-ranking-based-on-your-career-goals-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-to-create-a-personalized-university-ranking-based-on-your-career-goals-2026-1880x1253.jpg"
 ---
 
 Every year, more than 4.5 million students cross borders for tertiary education, according to the OECD’s *Education at a Glance 2024* report, yet fewer than 18% of applicants systematically align their university choice with specific career trajectories. A 2023 survey by Times Higher Education (THE) found that 62% of graduate recruiters prioritize candidates with degrees from institutions that demonstrate strong industry partnerships, not necessarily the highest overall rank. This disconnect between generic league tables and individual professional outcomes costs students both time and tuition—U.S. News data indicates that the average international student spends USD 38,000 annually on tuition alone, often without a clear return-on-investment framework. Building a personalized university ranking, therefore, shifts the focus from prestige to precision: it weights variables such as alumni employment rates in a target sector, co-op program availability, and geographic proximity to industry hubs. This article provides a structured, evidence-based methodology for constructing such a ranking, drawing on data from QS, THE, ARWU, and national employment statistics, so that applicants can evaluate institutions not by reputation alone, but by how well each school serves their defined career goals.

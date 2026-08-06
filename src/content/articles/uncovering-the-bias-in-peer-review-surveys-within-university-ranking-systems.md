@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/uncovering-the-bias-in-peer-review-surveys-within-university-ranking-systems-2026-1880x869.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/uncovering-the-bias-in-peer-review-surveys-within-university-ranking-systems-2026-1880x869.jpg"
 ---
 
 Each year, millions of prospective students and their families consult university league tables to inform one of the most consequential financial and intellectual decisions of their lives. Yet a substantial portion of the data underpinning these rankings—specifically, the **peer review surveys**—remains a black box of subjective judgment. The QS World University Rankings, for instance, allocates 40% of its total score to "Academic Reputation," derived from a global survey of academics. In its 2024 edition, QS collected over 240,000 survey responses from scholars worldwide [QS 2024, Methodology]. Similarly, the Times Higher Education (THE) World University Rankings devotes 15% of its score to "Teaching Reputation" and 18% to "Research Reputation," sourced from their annual Academic Reputation Survey, which gathered roughly 75,000 responses in 2023 [THE 2023, Reputation Survey]. These numbers are enormous, but they raise a critical methodological question: do these surveys measure objective institutional quality, or do they systematically amplify the visibility of historically prestigious, English-speaking, and well-funded institutions? This article dissects the structural biases embedded within peer review surveys, drawing on data from ranking bodies, national statistical offices, and academic literature to expose the mechanisms that skew the global perception of higher education.

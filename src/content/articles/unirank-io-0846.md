@@ -11,13 +11,13 @@ lang: en
 language: en
 tags:
 - 海外主要留学城市性价比对比
-ogImage: https://img.ulec.com.cn/留学-大学排名/3-6-gre-2026-07-27-431064492b-image-01-2026-1880x1253.jpg
+ogImage: https://img.unirank.io/留学-大学排名/3-6-gre-2026-07-27-431064492b-image-01-2026-1880x1253.jpg
 category: Universities
 ---
 
 Choosing where to study abroad is rarely about finding a single “best” city. It is about matching a destination to your budget, lifestyle expectations, and academic priorities. While tuition is set by each institution, the cost of rent, transport, food, and everyday essentials can shift dramatically between major study hubs. This article compares the cost structures and living experiences across several globally popular cities so you can weigh what matters most for your own plan.
 
-![Study City Cost Comparison for International Students 2026–2027](https://img.ulec.com.cn/留学-大学排名/3-6-gre-2026-07-27-431064492b-image-01-2026-1880x1253.jpg)
+![Study City Cost Comparison for International Students 2026–2027](https://img.unirank.io/留学-大学排名/3-6-gre-2026-07-27-431064492b-image-01-2026-1880x1253.jpg)
 
 ## What makes a city affordable or expensive
 

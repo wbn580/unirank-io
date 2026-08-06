@@ -8,7 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/the-psychology-of-rankings-why-students-obsess-over-the-number-one-spot-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/the-psychology-of-rankings-why-students-obsess-over-the-number-one-spot-2026-1880x1253.jpg"
 ---
 
 When the QS World University Rankings 2025 placed the Massachusetts Institute of Technology (MIT) at number one globally for the thirteenth consecutive year, over 1.2 million unique users visited the QS website within the first 48 hours of publication, according to QS’s own traffic analytics. This spike is not an anomaly; the Times Higher Education (THE) World University Rankings 2024 report noted that their annual release generates approximately 3.5 million page views in the first week, with the majority of traffic coming from users aged 18–34. These figures quantify a psychological phenomenon familiar to anyone navigating higher education: the compulsive fixation on ordinal position. For prospective students and their families, a single digit—a rank of 1, 5, or 50—often acts as a cognitive shortcut, compressing thousands of institutional variables into a single, emotionally charged number. The OECD’s Education at a Glance 2023 report indicates that over 60% of international students from Asia cite “university ranking position” as a primary factor in their application decisions. This article dissects the psychological mechanisms driving this obsession, examining why a numerical spot holds such sway over rational decision-making, and explores the methodological trade-offs that make rankings both a powerful tool and a potentially misleading one.

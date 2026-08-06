@@ -8,7 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/from-data-to-decision-building-a-university-shortlist-using-ranking-spreadsheets-2026-1880x1299.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/from-data-to-decision-building-a-university-shortlist-using-ranking-spreadsheets-2026-1880x1299.jpg"
 ---
 
 A prospective applicant in 2025 faces a landscape of over 20,000 degree-granting institutions worldwide, yet the decision often narrows to fewer than ten applications. The challenge is not a lack of information but its fragmentation. A single university can occupy rank 15 in the QS World University Rankings, rank 28 in the Times Higher Education (THE) World University Rankings, and rank 42 in the Academic Ranking of World Universities (ARWU) within the same year. According to the OECD's 2024 *Education at a Glance* report, students who systematically compare multiple institutional metrics—rather than relying on a single league table—reduce their post-enrollment dissatisfaction rate by approximately 18 percentage points. Building a shortlist from raw ranking data requires a structured methodology: merging spreadsheets, normalizing scores across four major systems (QS, THE, U.S. News & World Report, and ARWU), and weighting indicators by personal academic priorities. This article provides a transparent, step-by-step framework for constructing that shortlist, treating ranking data as a quantitative foundation rather than a final verdict.

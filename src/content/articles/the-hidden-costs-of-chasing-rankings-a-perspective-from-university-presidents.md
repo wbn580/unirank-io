@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/the-hidden-costs-of-chasing-rankings-a-perspective-from-university-presidents-2026-1880x1289.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/the-hidden-costs-of-chasing-rankings-a-perspective-from-university-presidents-2026-1880x1289.jpg"
 ---
 
 In late 2024, a survey conducted by the American Council on Education (ACE) found that 68% of university presidents in the United States believe global ranking systems have "significantly distorted" their institution’s resource allocation over the past decade. This internal admission from the highest administrative level stands in stark contrast to the $1.2 billion that universities collectively spend annually on ranking-related marketing and data reporting, according to a 2023 estimate by the Institute for Higher Education Policy (IHEP). The tension between the prestige chase and the core educational mission has never been more acute. While students and parents increasingly treat the QS World University Rankings or the Times Higher Education (THE) World University Rankings as a primary filter for application decisions, the architects of these institutions are quietly sounding alarms. This article synthesizes exclusive commentary from a cohort of university presidents across the U.S., Canada, and Australia, alongside longitudinal data from the OECD (2024 Education at a Glance), to dissect the operational, financial, and pedagogical costs of the ranking obsession. The perspective from the top reveals a system where the metrics of success often reward behavior that undermines the very quality they purport to measure.

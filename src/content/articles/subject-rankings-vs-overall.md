@@ -5,7 +5,7 @@ category: "method"
 publishDate: "2026-05-15T08:30:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/subject-rankings-vs-overall-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/subject-rankings-vs-overall-2026-1880x1253.jpg"
 tags: ['大学排名', '留学', '院校对比']
 ---
 Subject rankings are more useful than overall rankings for student decisions. A university ranked #200 overall may be #5 in a specific discipline. QS ranks 55 subjects across 5 broad areas. THE ranks 11 subject areas. Subject rankings use discipline-specific methodologies (citations per paper norms that account for different publication cultures across fields).

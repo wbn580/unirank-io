@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/best-universities-in-spain-ranked-by-their-performance-in-eu-research-grants-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/best-universities-in-spain-ranked-by-their-performance-in-eu-research-grants-2026-1880x1253.jpg"
 ---
 
 Spain’s higher education system secured €1.28 billion from the European Research Council (ERC) between 2014 and 2024, representing 6.7% of total ERC funding allocated across the EU-27, according to the *ERC Annual Report 2024*. This positions Spain as the fifth-largest recipient of EU research grants, trailing only Germany, the United Kingdom, France, and the Netherlands. Within Spain, a concentrated group of universities—primarily public institutions with strong STEM and biomedical departments—account for over 80% of these awards. The latest QS World University Rankings (2025) place the University of Barcelona at 164th globally, while the THE World University Rankings (2025) rank Pompeu Fabra University as Spain’s top institution at 176th. However, when measured specifically by ERC grant performance—both Starting Grants for early-career researchers and Advanced Grants for established PIs—the institutional hierarchy shifts. This analysis integrates data from the ERC’s public database, the Spanish Ministry of Science and Innovation’s 2023 report on R&D expenditure (€19.3 billion, 1.4% of GDP), and the 2024 OECD Science, Technology and Innovation Outlook to rank Spanish universities by their success rate in securing competitive EU research grants.

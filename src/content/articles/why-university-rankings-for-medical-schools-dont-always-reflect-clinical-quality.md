@@ -8,7 +8,7 @@ readingTime: 11
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/why-university-rankings-for-medical-schools-dont-always-reflect-clinical-quality-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/why-university-rankings-for-medical-schools-dont-always-reflect-clinical-quality-2026-1880x1253.jpg"
 ---
 
 Every year, thousands of prospective medical students consult the QS World University Rankings by Subject, the Times Higher Education (THE) World University Rankings, and the U.S. News & World Report Best Medical Schools list to choose where to apply. Yet these league tables, which heavily weight research output (often 40–60% of total score), correlate only weakly with patient outcomes at affiliated teaching hospitals. A 2022 study in the *Journal of the American Medical Association (JAMA)* found that hospitals affiliated with top-20 research-intensive medical schools had a 30-day mortality rate for heart failure of 10.2%, compared to 9.8% at non-top-20 institutions—a statistically insignificant difference. Meanwhile, the Association of American Medical Colleges (AAMC) reported in 2023 that 42% of graduating medical students from highly ranked research universities felt "underprepared" for direct patient care in community settings. These numbers expose a fundamental mismatch: the metrics used to construct global university rankings—publication counts, citation impact, faculty Nobel laureates—measure academic prestige, not the clinical competence graduates demonstrate at the bedside. This article unpacks the methodological gaps between ranking algorithms and real-world clinical quality, drawing on data from OECD health statistics, national licensing board pass rates, and hospital accreditation reports.

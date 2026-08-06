@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-use-the-qs-by-subject-rankings-to-narrow-down-your-major-choice-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-to-use-the-qs-by-subject-rankings-to-narrow-down-your-major-choice-2026-1880x1253.jpg"
 ---
 
 In 2024, QS Quacquarelli Symonds evaluated 5,643 institutions across 55 subject areas, publishing rankings that draw on 17.5 million academic papers and 144,000 faculty responses to the global academic reputation survey. These subject-specific rankings offer a more granular lens than the overall university score: a university ranked 150th globally may house a department ranked 10th in its field. For example, the University of Arizona, ranked 293rd overall in the 2025 QS World University Rankings, holds the 6th position globally for Astronomy/Physics. This divergence—sometimes exceeding 200 rank positions between an institution’s overall standing and its subject-specific performance—is the core reason subject rankings matter for major selection. The U.S. Bureau of Labor Statistics projects that employment in computer and information technology occupations will grow 15 percent from 2021 to 2031, much faster than the average for all occupations, making the choice of a program with a strong subject ranking a measurable career variable. A student targeting a specific industry should therefore evaluate not the institution’s brand but the department’s research output, employer reputation, and citation impact in that exact field.

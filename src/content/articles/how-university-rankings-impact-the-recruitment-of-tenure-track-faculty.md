@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-university-rankings-impact-the-recruitment-of-tenure-track-faculty-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-university-rankings-impact-the-recruitment-of-tenure-track-faculty-2026-1880x1253.jpg"
 ---
 
 Between 2012 and 2022, the number of tenure-track faculty positions in the United States declined by approximately 26%, according to the American Association of University Professors (AAUP, 2023 Annual Report on the Economic Status of the Profession), even as the total number of doctoral graduates rose by 18% over the same period (National Science Foundation, 2023 Survey of Earned Doctorates). This structural imbalance has intensified competition for the finite pool of permanent academic positions, making institutional prestige a critical filtering mechanism. University rankings—produced by QS, Times Higher Education (THE), U.S. News & World Report, and the Academic Ranking of World Universities (ARWU)—now serve as a common proxy for institutional quality in hiring decisions. A 2021 study in *Research Policy* found that a 10-position improvement in a university’s global ranking correlated with a 5.7% increase in the probability that its doctoral graduates would secure a tenure-track appointment within five years. These metrics influence not only which candidates are shortlisted but also how departments allocate resources, negotiate start-up packages, and structure promotion timelines. This article examines the mechanisms through which rankings shape faculty recruitment, drawing on institutional data, hiring surveys, and case studies from research-intensive universities.

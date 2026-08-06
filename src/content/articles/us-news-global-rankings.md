@@ -5,7 +5,7 @@ category: "rankings"
 publishDate: "2025-06-17T09:00:00Z"
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/us-news-global-rankings-2026-1733x1300.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/us-news-global-rankings-2026-1733x1300.jpg"
 tags: ['大学排名', '留学', '院校对比']
 ---
 

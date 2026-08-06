@@ -8,7 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/i-spent-a-year-tracking-ranking-fluctuations-here-is-what-i-learned-2026-1880x1111.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/i-spent-a-year-tracking-ranking-fluctuations-here-is-what-i-learned-2026-1880x1111.jpg"
 ---
 
 In 2024, the four major global university ranking systems—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—collectively evaluated over 4,500 institutions, yet only 67 universities appeared in the top 100 of all four lists simultaneously. This divergence, documented by QS in their June 2024 release, highlights a fundamental truth: a single ranking number is a statistical abstraction, not a measure of institutional quality. A year-long tracking of quarterly updates and methodology shifts reveals that 38% of top-200 institutions experienced a rank change of more than 20 positions between 2023 and 2024, according to THE’s 2024 methodology report. For prospective students and their families, understanding these fluctuations—and the methodological weights behind them—can transform a confusing data set into a strategic decision-making tool. This article dissects the mechanics of ranking volatility, identifies stable indicators, and provides a framework for interpreting year-over-year changes without falling prey to marketing narratives.

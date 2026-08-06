@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-the-qs-stars-rating-system-differs-from-the-classic-qs-world-rankings-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-the-qs-stars-rating-system-differs-from-the-classic-qs-world-rankings-2026-1880x1253.jpg"
 ---
 
 The QS World University Rankings, published annually since 2004, have become one of the most widely cited metrics for institutional prestige, evaluating over 1,500 universities globally in the 2024 edition based on six weighted indicators that include Academic Reputation (40%), Employer Reputation (10%), Faculty/Student Ratio (20%), Citations per Faculty (20%), International Faculty Ratio (5%), and International Student Ratio (5%). In contrast, the **QS Stars Rating System**, launched in 2011, takes a fundamentally different approach: rather than ranking institutions on a single ordinal scale, it awards between one and five stars across up to eight distinct categories—Teaching, Employability, Academic Development, Internationalisation, Facilities, Online Learning, Social Responsibility, and Inclusiveness. According to a 2023 QS Intelligence Unit analysis, approximately 1,200 institutions had participated in the QS Stars audit by mid-2023, a figure that represents a 40% increase from 2020. The two systems serve complementary but distinct purposes: the classic rankings provide a comparative hierarchy for research-intensive universities, while the Stars system offers a multi-dimensional quality assessment that can benefit smaller or teaching-focused institutions that may not score highly on traditional metrics.

@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/qs与the排名在自然科学领域的评价一致性分析-2026-1880x1254.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/qs与the排名在自然科学领域的评价一致性分析-2026-1880x1254.jpg"
 ---
 
 Institutional rankings from QS World University Rankings and Times Higher Education (THE) World University Rankings frequently serve as primary references for prospective graduate students and research collaborators evaluating natural sciences programs. Despite both systems claiming to measure academic excellence, their methodological divergence produces materially different outcomes for identical institutions in fields such as physics, chemistry, and biology. A 2023 cross-comparison of 200 institutions present in both rankings revealed a mean Spearman rank correlation of only 0.68 for natural sciences, substantially lower than the 0.82 observed for engineering disciplines [QS 2023; THE 2023]. This discrepancy stems from fundamental differences in indicator weighting: QS allocates 40% of its score to academic reputation surveys, while THE assigns only 15% to reputation but dedicates 30% to research citations normalized by field. For applicants navigating the 2024–2025 admission cycle, understanding where these rankings converge and diverge is critical for interpreting institutional strengths accurately. The following analysis dissects the structural, disciplinary, and regional factors driving this inconsistency, drawing on five years of published methodology documents and institutional score data.

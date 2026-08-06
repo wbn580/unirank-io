@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/2026-expert-panel-predicts-a-shake-up-in-the-top-20-of-the-the-rankings-2026-1880x1111.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/2026-expert-panel-predicts-a-shake-up-in-the-top-20-of-the-the-rankings-2026-1880x1111.jpg"
 ---
 
 The 2026 edition of the Times Higher Education (THE) World University Rankings is projected to witness the most significant positional churn among the top 20 institutions in over a decade, according to a synthesis of data models from four independent education analytics groups. The panel, convened by the London-based Higher Education Policy Institute (HEPI), forecasts that at least four universities currently outside the top 15 will break into the elite group, displacing long-standing incumbents. This prediction is anchored in two observable trends: a 7.2% year-on-year increase in institutional research output from Asian universities measured by Scopus-indexed publications in 2024, and a 3.1-point decline in the "Industry Income" scores of several mid-tier US public research universities between 2022 and 2025, as reported in the THE's own 2025 data release. The projected reshuffling carries direct consequences for international student mobility, given that 68.4% of prospective graduate students surveyed by the Institute of International Education (IIE) in 2025 cited top-20 ranking status as a "strongly influential" factor in their application portfolio.

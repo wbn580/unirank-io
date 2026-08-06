@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/qs与the排名在社会科学领域的评价差异对比-2026-1880x1254.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/qs与the排名在社会科学领域的评价差异对比-2026-1880x1254.jpg"
 ---
 
 For students and families navigating the complex landscape of global higher education, the divergence between major ranking systems in specific academic fields presents a significant analytical challenge. In the social sciences—a domain encompassing economics, sociology, political science, and law—the methodological chasm between the QS World University Rankings and the Times Higher Education (THE) World University Rankings is particularly pronounced. A 2024 analysis of 50 top-tier institutions revealed that a university’s position can fluctuate by as many as 40 places between the two systems within the same social science discipline, a discrepancy rooted in fundamentally different weighting models. QS allocates 40% of its overall score to academic reputation surveys and 10% to employer reputation, while THE dedicates 30% to citations (research influence) and 7.5% to industry income. This structural divergence means that a policy school with high industry engagement may rank 15th in QS but 55th in THE, whereas a research-intensive sociology department with fewer industry ties but high citation counts could see the inverse. According to the OECD’s 2023 *Education at a Glance* report, social science enrollments now account for 28% of all tertiary students across OECD countries, underscoring the practical stakes of these ranking disparities for the 18–35 demographic actively selecting programs.

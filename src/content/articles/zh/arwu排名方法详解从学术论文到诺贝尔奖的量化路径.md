@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/arwu排名方法详解从学术论文到诺贝尔奖的量化路径-2026-1880x1254.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/arwu排名方法详解从学术论文到诺贝尔奖的量化路径-2026-1880x1254.jpg"
 ---
 
 The Academic Ranking of World Universities (ARWU), first published by Shanghai Jiao Tong University in 2003 and now maintained by ShanghaiRanking Consultancy, remains one of the most influential yet methodologically distinct global university league tables. Unlike the QS World University Rankings, which allocate 50% of its weight to reputational surveys and employer feedback, ARWU relies exclusively on **quantitative, verifiable indicators** — a design choice that produces markedly different outcomes. In the 2024 edition, Harvard University retained the top spot for the 22nd consecutive year, scoring a perfect 100.0 overall, while the University of Cambridge and Stanford University followed with scores of 97.5 and 96.8 respectively [ShanghaiRanking Consultancy, 2024, ARWU 2024 Methodology]. The ranking evaluates over 2,500 institutions annually but publishes only the top 1,000, a filtering mechanism that has drawn both praise for its transparency and criticism for its perceived bias toward institutions with large, well-funded research enterprises. According to the OECD’s 2023 Science, Technology and Innovation Outlook, the global share of scientific publications from the top 100 ARWU-ranked universities accounts for roughly 18% of all peer-reviewed output, underscoring the ranking’s outsized influence on international perceptions of research excellence [OECD, 2023, STI Outlook].

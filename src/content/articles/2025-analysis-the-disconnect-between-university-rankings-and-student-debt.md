@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/2025-analysis-the-disconnect-between-university-rankings-and-student-debt-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/2025-analysis-the-disconnect-between-university-rankings-and-student-debt-2026-1880x1253.jpg"
 ---
 
 Between 2000 and 2024, the average cost of tuition and fees at U.S. four-year public institutions rose by 179% after adjusting for inflation, according to the College Board's *Trends in College Pricing 2024* report. Over the same period, the total outstanding student loan debt in the United States grew to approximately $1.74 trillion by Q2 2024, per the Federal Reserve Bank of New York. Yet, the metrics most heavily weighted by the world's dominant university ranking systems—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Colleges, and the Academic Ranking of World Universities (ARWU)—remain almost entirely silent on graduate financial outcomes. Academic reputation surveys account for 40% of the QS score, while research citations and faculty publication metrics dominate THE (60% combined) and ARWU (100% research-focused). This structural omission creates a significant paradox: students and families increasingly use these rankings to select institutions, but the data within them provides no direct signal about the debt burden graduates will carry. This analysis dissects the methodological gap, quantifies the correlation (or lack thereof) between rank and student debt using publicly available data, and examines whether any ranking system has begun to incorporate affordability or return-on-investment (ROI) metrics.

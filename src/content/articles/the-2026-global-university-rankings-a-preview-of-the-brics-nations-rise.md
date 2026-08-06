@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/the-2026-global-university-rankings-a-preview-of-the-brics-nations-rise-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/the-2026-global-university-rankings-a-preview-of-the-brics-nations-rise-2026-1880x1253.jpg"
 ---
 
 The 2026 edition of the four major global university rankings—QS World University Rankings, Times Higher Education (THE) World University Rankings, U.S. News & World Report Best Global Universities, and the Academic Ranking of World Universities (ARWU)—is expected to show a pronounced recalibration of institutional power. Preliminary data from the QS 2026 methodology update indicates a 7.2% increase in the weight assigned to "Sustainability" indicators, while THE’s 2025-2026 cycle has introduced a new "Research Quality" sub-metric that accounts for 8.0% of the final score. These methodological shifts, combined with a 14.3% year-over-year increase in research output from BRICS nations (Brazil, Russia, India, China, and South Africa) as tracked by the OECD’s 2025 Science, Technology and Innovation Outlook, suggest that universities in these five countries will collectively gain more ground than their counterparts in the G7. The BRICS bloc now accounts for 38.2% of global STEM PhD graduates, a figure that has nearly doubled since 2018 according to UNESCO’s Institute for Statistics. This preview examines the specific ranking mechanics, national strategies, and institutional trajectories that will define the 2026 results.

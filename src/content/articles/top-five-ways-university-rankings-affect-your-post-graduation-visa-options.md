@@ -8,7 +8,7 @@ readingTime: 6
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/top-five-ways-university-rankings-affect-your-post-graduation-visa-options-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/top-five-ways-university-rankings-affect-your-post-graduation-visa-options-2026-1880x1253.jpg"
 ---
 
 University rankings are increasingly being used by immigration authorities as a proxy for human capital, directly linking an applicant’s alma mater to their post-graduation visa eligibility. A 2023 analysis by the OECD found that 14 out of 38 member countries now operate or are piloting differential visa pathways—where graduates from universities listed in the top 100 of the QS World University Rankings or the Times Higher Education (THE) World University Rankings receive expedited processing or reduced residency requirements. For example, the United Kingdom’s High Potential Individual (HPI) visa, launched in May 2022, restricts eligibility to graduates from universities that appeared in the top 50 of at least two of the three major ranking systems (QS, THE, ARWU) in the year of graduation. This policy shift means that a student’s choice of institution can determine not only their education quality but also their legal right to work and settle in a target country. The following five mechanisms illustrate how ranking positions tangibly shape post-graduation visa outcomes, drawing on data from government gazettes, national immigration departments, and institutional reports.

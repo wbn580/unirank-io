@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-read-between-the-lines-of-a-university-ranking-press-release-2026-1880x1111.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-to-read-between-the-lines-of-a-university-ranking-press-release-2026-1880x1111.jpg"
 ---
 
 Every spring and autumn, university communications teams issue press releases celebrating their institution’s ascent in global rankings. A typical headline might read “X University Jumps 12 Places in QS World Rankings,” but the data behind that jump often tells a more complex story. In 2024, Times Higher Education (THE) reported that 43% of ranked universities changed their position by at least 10 places compared to the previous year, yet only a fraction of those shifts reflected genuine improvements in teaching or research quality [THE, 2024, World University Rankings Methodology Review]. Meanwhile, the QS World University Rankings 2025 introduced a new “Sustainability” indicator weighted at 5%, a methodological change that alone caused an average 4.7-place shift across the top 200 institutions [QS, 2025, Rankings Methodology]. These numbers illustrate a critical reality: ranking movements are often artifacts of metric recalibration rather than institutional transformation. For prospective students and their families, the ability to parse a press release—distinguishing substantive gains from statistical noise—can mean the difference between an informed choice and a costly misstep. This article provides a methodological framework for reading between the lines, drawing on official ranking documentation and independent audits.

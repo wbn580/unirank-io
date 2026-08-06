@@ -6,7 +6,7 @@ pubDatetime: "2026-05-04T18:19:12Z"
 publishDate: '2026-05-04T18:19:12Z'
 readingTime: 7
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/a-comparative-guide-to-qs-the-and-arwu-for-master-degree-applications-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/a-comparative-guide-to-qs-the-and-arwu-for-master-degree-applications-2026-1880x1253.jpg"
 ---
 
 In 2025, over 2.8 million students pursued master’s degrees outside their home country, a figure projected by the OECD to reach 3.1 million by 2027, reflecting a sustained 4.2% annual growth in global mobility. For these applicants, three ranking systems dominate decision-making: QS World University Rankings, Times Higher Education (THE) World University Rankings, and the Academic Ranking of World Universities (ARWU, also known as the Shanghai Ranking). Each methodology captures a distinct dimension of institutional performance. QS allocates 30% weight to academic reputation and 15% to employer reputation, while THE prioritises teaching environment (29.5%) and research volume (29%). ARWU, by contrast, relies almost exclusively on objective indicators such as Nobel laureates (30%), highly cited researchers (20%), and articles published in *Nature* and *Science* (20%). A single university can appear in the top 10 of one ranking and outside the top 50 in another—a discrepancy that carries real consequences for admission competitiveness, scholarship eligibility, and employer screening. This guide dissects the three systems by methodology, discipline-level variation, and practical application for master’s degree applicants, drawing on official data from QS, THE, and the Shanghai Ranking Consultancy.

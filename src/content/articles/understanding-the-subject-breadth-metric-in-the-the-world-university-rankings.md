@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/understanding-the-subject-breadth-metric-in-the-the-world-university-rankings-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/understanding-the-subject-breadth-metric-in-the-the-world-university-rankings-2026-1880x1253.jpg"
 ---
 
 The Times Higher Education (THE) World University Rankings 2025 evaluated more than 2,000 institutions across 115 countries, yet one of its most consequential methodological components—the **Subject Breadth metric**—remains poorly understood by prospective applicants. This metric accounts for up to 10% of an institution’s total score in the overall ranking, varying by institutional profile, and directly influences whether a university appears as a comprehensive research powerhouse or a specialised niche player. According to THE’s 2025 methodology documentation, the Subject Breadth indicator measures the proportion of an institution’s research output that spans across multiple academic disciplines, with a threshold requiring activity in at least three of THE’s 11 subject areas to qualify for the overall ranking. A 2023 analysis by the Organisation for Economic Co-operation and Development (OECD) found that 68% of cross-border student mobility flows into institutions classified as “broad” (six or more subject areas active), underscoring the metric’s real-world impact on applicant decision-making. For students and families navigating the selection process, understanding how THE calculates and weights Subject Breadth can reveal whether a university’s ranking strength aligns with their academic goals—or whether a narrow disciplinary focus is being penalised in the overall score.

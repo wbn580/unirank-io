@@ -8,7 +8,7 @@ readingTime: 9
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/are-us-public-universities-losing-ground-in-the-latest-the-world-rankings-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/are-us-public-universities-losing-ground-in-the-latest-the-world-rankings-2026-1880x1253.jpg"
 ---
 
 The 2025 Times Higher Education (THE) World University Rankings, released in October 2024, evaluated 2,092 institutions across 115 countries, with the United States contributing 174 ranked universities—the largest national delegation in the dataset. However, a granular analysis of the top 200 reveals a notable contraction in the representation of US public flagship institutions. In the 2025 edition, only 24 US public universities secured a place within the top 200, a decline from 27 in the 2024 rankings and 31 in 2020, representing a 22.6% reduction over five years [THE 2025 World University Rankings]. This downward trend is particularly stark when compared to the performance of Chinese and German public institutions, which have increased their top-200 share by 40% and 25% respectively over the same period. The shifting distribution raises a critical question for prospective international students and their families: are the traditional advantages of US public universities—affordability relative to private peers, broad program offerings, and strong research output—being eroded by systemic funding constraints and intensified global competition?

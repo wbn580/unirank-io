@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-the-covid-era-shift-to-online-exams-affected-university-ranking-scores-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-the-covid-era-shift-to-online-exams-affected-university-ranking-scores-2026-1880x1253.jpg"
 ---
 
 Between March 2020 and June 2022, over 1.6 billion learners in 194 countries experienced campus closures triggered by the COVID-19 pandemic, according to UNESCO’s 2022 Global Education Monitoring Report. This forced a near-universal pivot to remote assessment, with 74% of universities surveyed by Times Higher Education (THE) in 2021 reporting that they had shifted final examinations online within the first six months of the crisis. The sudden transition from invigilated, in-person testing to unproctored online exams introduced a methodological rupture in how student performance is measured—a rupture that directly feeds into the data streams used by the four major global university rankings (QS, THE, U.S. News & World Report, and the Academic Ranking of World Universities). This article examines the empirical evidence linking the shift to online examinations with subsequent fluctuations in university ranking scores, drawing on institutional data, ranking methodology documentation, and government statistics from the OECD and national education departments. The analysis reveals that while some institutions saw measurable score increases in teaching and international outlook indicators, others experienced penalties in research citations and employer reputation metrics, creating a “ranking distortion” period that prospective students and parents must now account for when interpreting post-2020 league tables.

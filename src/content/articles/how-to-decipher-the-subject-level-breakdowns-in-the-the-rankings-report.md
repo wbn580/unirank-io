@@ -8,7 +8,7 @@ readingTime: 7
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-decipher-the-subject-level-breakdowns-in-the-the-rankings-report-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-to-decipher-the-subject-level-breakdowns-in-the-the-rankings-report-2026-1880x1253.jpg"
 ---
 
 The Times Higher Education (THE) World University Rankings by Subject, released annually each October, now evaluate performance across 11 broad subject areas, from Arts and Humanities to Clinical and Health. In the 2025 edition, THE assessed 1,907 institutions globally for its overall ranking, but the subject-level breakdowns often draw a more granular picture: for example, the University of Oxford retained the top spot in Clinical and Health for the 13th consecutive year, while the Massachusetts Institute of Technology (MIT) claimed first place in both Business and Economics and Social Sciences. These subject-specific tables are not simply the overall ranking sliced by discipline; they employ recalibrated weightings—research environment, teaching environment, research quality, industry income, and international outlook—that differ across subjects. For instance, in Engineering, the research quality indicator carries a 37.5% weight, whereas in Arts and Humanities, teaching environment is weighted at 37.5% and research quality at 25.0% [THE 2025 Subject Rankings Methodology]. Understanding these methodological distinctions is critical for applicants and parents aiming to match program strengths with career goals, rather than relying on a university’s aggregate global rank.

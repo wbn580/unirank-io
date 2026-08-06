@@ -8,7 +8,7 @@ readingTime: 8
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/大学排名/how-to-forecast-a-universitys-future-ranking-based-on-recent-hiring-trends-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/how-to-forecast-a-universitys-future-ranking-based-on-recent-hiring-trends-2026-1880x1253.jpg"
 ---
 
 A university’s position in global ranking tables such as QS, THE, US News, and ARWU is often treated as a static snapshot, yet the underlying trajectory of an institution can shift years before the metrics catch up. A 2023 analysis by Times Higher Education found that **faculty citation impact accounts for 30% of the overall THE World University Rankings score**, making the research productivity of newly hired academics a leading indicator of future standing. Similarly, a 2024 report from the OECD’s Education at a Glance database noted that institutions in the top 200 globally replace approximately 7–12% of their tenured faculty annually, meaning that a single hiring cycle can reshape a department’s research capacity by over a tenth in one year. By tracking the hiring patterns of star researchers, early-career fellows, and industry-affiliated professors, prospective students and investors can forecast ranking movements with a lead time of 3 to 5 years. This article presents a data-driven methodology that combines public faculty rosters, publication databases, and citation analytics to identify universities that are either ascending or declining in the global hierarchy.
