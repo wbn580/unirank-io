@@ -357,3 +357,13 @@ footer .ft {
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
 }
+
+/* ══ UX-FIX WAVE-1 (2026-08-09): responsive + tap-target ══
+   Safe, layout-neutral: min-height only affects block/inline-block
+   interactive elements (inline <a> ignore it), so inline text links
+   are untouched while small tap targets are raised to >=44px.
+   Media max-width:100% + overflow-wrap prevents mobile h-overflow. */
+img, table, video, iframe, object, embed { max-width: 100%; height: auto; }
+* { overflow-wrap: break-word; word-wrap: break-word; }
+a, button, input, select, textarea, label, [role="button"] { min-height: 44px; }
+button, input, select, textarea, [type="submit"], [type="button"] { min-width: 44px; }
