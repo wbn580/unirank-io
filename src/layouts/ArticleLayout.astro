@@ -20,6 +20,9 @@ const {
   ogImage,
 } = Astro.props;
 
+const VALID_CATEGORIES = new Set(['qs-rankings', 'the-rankings', 'arwu-rankings', 'methodology', 'data-analysis']);
+const categoryHref = VALID_CATEGORIES.has(category) ? `/category/${category}/` : null;
+
 const siteUrl = 'https://unirank.io';
 const slug = Astro.url.pathname;
 const articleSchema = JSON.stringify({
@@ -53,7 +56,7 @@ const articleSchema = JSON.stringify({
     <header class="mb-10">
       <nav class="breadcrumb">
         <a href="/">Home</a> /
-        <a href={`/category/${category}/`}> {category}</a> /
+        {categoryHref ? <a href={categoryHref}> {category}</a> : <span> {category}</span>} /
         <span style="color:var(--color-ur-ink)">{title}</span>
       </nav>
       <h1 class="font-heading text-3xl md:text-4xl font-bold leading-tight mb-4" style="color:var(--color-ur-ink)">
@@ -72,9 +75,11 @@ const articleSchema = JSON.stringify({
     <footer class="mt-16 pt-8" style="border-top:1px solid var(--color-ur-line)">
       <nav class="flex justify-between text-sm">
         <a href="/" style="color:var(--color-ur-accent-2)" class="hover:underline">&larr; Back to Home</a>
-        <a href={`/category/${category}/`} style="color:var(--color-ur-accent-2)" class="hover:underline">
-          More in {category} &rarr;
-        </a>
+        {categoryHref && (
+          <a href={categoryHref} style="color:var(--color-ur-accent-2)" class="hover:underline">
+            More in {category} &rarr;
+          </a>
+        )}
       </nav>
     </footer>
   </article>
