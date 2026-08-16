@@ -8,7 +8,7 @@ slug: 'unirank-io-20-guide-2026-08-14-ebc08d7b7c'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: "https://img.ulec.com.cn/留学/大学排名/unirank-io-20-guide-2026-08-14-ebc08d7b7c-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/unirank-io-20-guide-2026-08-14-ebc08d7b7c-2026-1880x1253.jpg"
 verified: '2026-08-14T00:00:00Z'
 tags:
   - 'F-1 visa'
