@@ -17,13 +17,18 @@ const {
 
 const SITE_NAME = 'UniRank';
 const BASE_URL = 'https://unirank.io';
+
+// 没传 canonicalURL 时必须回落到当前页 URL，不能回落到站点首页：
+// 回落到首页会让每个子页都自称首页的副本，GSC 直接报「重复，Google 选择的
+// 规范网址与用户指定的不同」并不收录（2026-08-17 实测 7 页全指首页）。
+const canonicalResolved = canonicalURL || new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
 ---
 
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>{(title.includes(SITE_NAME) || title === SITE_NAME) ? title : title + " — " + SITE_NAME}</title>
 <meta name="description" content={description} />
-<link rel="canonical" href={canonicalURL || BASE_URL} />
+<link rel="canonical" href={canonicalResolved} />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
 <!-- IBM Plex fonts -->
