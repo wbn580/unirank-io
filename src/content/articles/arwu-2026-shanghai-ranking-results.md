@@ -3,6 +3,7 @@ title: "ARWU 2026 (ShanghaiRanking): Harvard Retains First — How to Read the A
 description: "This article reports the verified ARWU 2026 (ShanghaiRanking) results as of August 19, 2026. It explains who publishes the ranking, the six objective indicators, the scale of ranked and published universities, and the official top 20 with scores. It clarifies country distribution only for the verified top 20 and does not cover positions beyond that list. Official sources are the ShanghaiRanking ARWU 2026 page and its data payload."
 pubDatetime: "2026-08-19T01:30:00Z"
 modDatetime: "2026-08-19T01:30:00Z"
+publishDate: '2026-08-19T01:30:00Z'
 slug: "arwu-2026-shanghai-ranking-results"
 category: "Rankings"
 author: "Rank Atlas Editorial"

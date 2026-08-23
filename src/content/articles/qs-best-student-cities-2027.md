@@ -3,6 +3,7 @@ title: "QS Best Student Cities 2027: Seoul Holds First, Tokyo Second, London Thi
 description: "An evidence-locked explainer of the QS Best Student Cities 2027 ranking, released July 21, 2026. It lists the full top 10 with year-on-year movement, details indicator leaders Seoul and Tokyo, notes country representation and climbers, and clarifies what the ranking measures per the official QS press release only."
 pubDatetime: "2026-08-19T01:30:00Z"
 modDatetime: "2026-08-19T01:30:00Z"
+publishDate: '2026-08-19T01:30:00Z'
 slug: "qs-best-student-cities-2027"
 category: "Rankings"
 author: "Rank Atlas Editorial"
