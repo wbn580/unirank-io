@@ -12,6 +12,8 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     ogImage: z.string().optional(),
     chapter: z.number().optional(),
+    draft: z.boolean().optional(),
+    hideFromHome: z.boolean().optional(),
     sources: z.array(z.object({
       title: z.string(),
       url: z.string(),
