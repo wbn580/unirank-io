@@ -6,8 +6,6 @@ pubDatetime: "2026-05-12T18:20:57Z"
 publishDate: '2026-05-12T18:20:57Z'
 readingTime: 9
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.unirank.io/留学/大学排名/best-universities-for-psychology-based-on-student-satisfaction-and-research-outp-2026-1880x1253.jpg"
 ---
 

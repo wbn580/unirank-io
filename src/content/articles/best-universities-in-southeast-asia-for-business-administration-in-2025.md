@@ -6,8 +6,6 @@ pubDatetime: "2026-05-04T18:19:11Z"
 publishDate: '2026-05-04T18:19:11Z'
 readingTime: 9
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.unirank.io/留学/大学排名/best-universities-in-southeast-asia-for-business-administration-in-2025-2026-1635x1300.jpg"
 ---
 
