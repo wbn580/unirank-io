@@ -1,7 +1,7 @@
 ---
 title: "QILT vs QS: What Australia's Official Survey Measures That Rankings Don't"
 description: "QILT and QS answer different questions about Australian universities. This guide explains the methodology gap, what QILT 2025 data actually measures, and how to use both without mixing them up."
-category: "大学排名方法中同行评议调"
+category: "rankings"
 pubDatetime: "2026-09-08T09:30:04Z"
 publishDate: '2026-03-09T18:04:54Z'
 readingTime: 3
