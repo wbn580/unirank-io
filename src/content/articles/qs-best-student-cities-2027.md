@@ -10,7 +10,7 @@ author: "Rank Atlas Editorial"
 draft: false
 hideFromHome: true
 tags: ["qs-best-student-cities-2027"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/qs-best-student-cities-2027-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/qs-best-student-cities-2027-2026-1880x1253.jpg"
 ---
 
 ## Direct answer

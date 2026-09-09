@@ -10,7 +10,7 @@ author: "Rank Atlas Editorial"
 draft: false
 hideFromHome: true
 tags: ["arwu-2026"]
-ogImage: "https://img.ulec.com.cn/留学/大学排名/arwu-2026-shanghai-ranking-results-2026-1880x1253.jpg"
+ogImage: "https://img.unirank.io/留学/大学排名/arwu-2026-shanghai-ranking-results-2026-1880x1253.jpg"
 ---
 
 ## Direct answer

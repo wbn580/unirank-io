@@ -8,7 +8,7 @@ slug: 'pte-read-aloud-describe-image-2026-08-19-1ee24f8d55'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/pte-read-aloud-describe-image-2026-08-19-1ee24f8d55-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.unirank.io/留学-大学排名/pte-read-aloud-describe-image-2026-08-19-1ee24f8d55-image-01-2026-1880x1253.jpg"
 verified: '2026-08-19T00:00:00Z'
 tags:
   - 'PTE Speaking'

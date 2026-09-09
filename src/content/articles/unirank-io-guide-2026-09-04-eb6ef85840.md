@@ -8,7 +8,7 @@ slug: 'unirank-io-guide-2026-09-04-eb6ef85840'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/unirank-io-guide-2026-09-04-eb6ef85840-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.unirank.io/留学-大学排名/unirank-io-guide-2026-09-04-eb6ef85840-image-01-2026-1880x1253.jpg"
 verified: '2026-09-04T00:00:00Z'
 tags:
   - 'university housing'

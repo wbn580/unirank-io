@@ -8,7 +8,7 @@ slug: 'unirank-io-guide-2026-08-20-3eb56b224e'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学排名/unirank-io-guide-2026-08-20-3eb56b224e-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.unirank.io/留学-大学排名/unirank-io-guide-2026-08-20-3eb56b224e-image-01-2026-1880x1253.jpg"
 verified: '2026-08-20T00:00:00Z'
 tags:
   - 'New Zealand universities'
