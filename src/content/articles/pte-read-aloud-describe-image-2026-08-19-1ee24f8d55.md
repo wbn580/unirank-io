@@ -26,7 +26,7 @@ For the Read Aloud and Describe Image tasks, effective delivery relies on clearl
 - Practice short sentences by reading them aloud with a slightly exaggerated pitch on the key word. For example, in a sentence like "The number of students increased significantly," raise your pitch on "increased" and "significantly" to draw attention.
 - Record yourself and listen for a monotone pattern. Aim for a natural melody that rises and falls with the content, not a flat or singsong tone.
 
-![Student practicing PTE Read Aloud focusing on pitch and rhythm](https://img.ulec.com.cn/留学-大学排名/pte-read-aloud-describe-image-2026-08-19-1ee24f8d55-image-01-2026-1880x1253.jpg)
+![Student practicing PTE Read Aloud focusing on pitch and rhythm](https://img.unirank.io/留学-大学排名/pte-read-aloud-describe-image-2026-08-19-1ee24f8d55-image-01-2026-1880x1253.jpg)
 
 
 ## Word stress: where to put emphasis
@@ -44,7 +44,7 @@ For the Read Aloud and Describe Image tasks, effective delivery relies on clearl
 ## Putting it together for each task
 
 
-![PTE Describe Image practice highlighting word stress](https://img.ulec.com.cn/留学-大学排名/pte-read-aloud-describe-image-2026-08-19-1ee24f8d55-image-02-2026-1679x1300.jpg)
+![PTE Describe Image practice highlighting word stress](https://img.unirank.io/留学-大学排名/pte-read-aloud-describe-image-2026-08-19-1ee24f8d55-image-02-2026-1679x1300.jpg)
 
 ### Read Aloud
 - Read the sentence silently first to find natural phrase breaks and stressed words.

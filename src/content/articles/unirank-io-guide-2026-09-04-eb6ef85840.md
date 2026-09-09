@@ -27,7 +27,7 @@ The price range for on-campus housing varies widely depending on the university,
 
 Each university sets its own application deadlines for on-campus housing. These deadlines can occur months before the semester begins. Because housing is often limited and demand is high, students are advised to apply as early as possible to avoid missing out on a spot. Late applicants may face the risk of full availability.
 
-![Modern on-campus student accommodation in Australia](https://img.ulec.com.cn/留学-大学排名/unirank-io-guide-2026-09-04-eb6ef85840-image-02-2026-1880x1253.jpg)
+![Modern on-campus student accommodation in Australia](https://img.unirank.io/留学-大学排名/unirank-io-guide-2026-09-04-eb6ef85840-image-02-2026-1880x1253.jpg)
 
 
 ## How to Secure Your Room

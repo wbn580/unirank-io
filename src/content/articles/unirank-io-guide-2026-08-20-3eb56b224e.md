@@ -20,7 +20,7 @@ tags:
 
 New Zealand's eight public universities each have their own areas of strength, including agriculture, tourism management, and film production. The entry requirements differ between undergraduate and postgraduate levels.
 
-![A university campus in New Zealand](https://img.ulec.com.cn/留学-大学排名/unirank-io-guide-2026-08-20-3eb56b224e-image-01-2026-1880x1253.jpg)
+![A university campus in New Zealand](https://img.unirank.io/留学-大学排名/unirank-io-guide-2026-08-20-3eb56b224e-image-01-2026-1880x1253.jpg)
 
 
 ### Agriculture
