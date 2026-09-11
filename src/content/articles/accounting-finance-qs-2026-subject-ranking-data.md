@@ -19,6 +19,7 @@ verified: "2026-09-07T17:29:51Z"
 stats_family: "subject_ranking"
 stats_scope: "Accounting & Finance|global"
 stats_data_as_of: "2026-04-03"
+hideFromHome: true
 ---
 
 Harvard University holds the No. 1 spot in the QS World University Rankings by Subject 2026 for Accounting & Finance, with 376 institutions from 53 countries and regions appearing on the global list. That is the headline number for anyone choosing a master's or PhD program in this field: the discipline is offered at scale across the world, yet the upper reaches of the table are extremely concentrated. The institution at the median position has only a published rank range (151-200), so a median rank cannot be computed.

@@ -19,6 +19,7 @@ verified: "2026-09-07T17:31:29Z"
 stats_family: "subject_ranking"
 stats_scope: "Engineering - Civil & Structural|global"
 stats_data_as_of: "2026-04-03"
+hideFromHome: true
 ---
 
 The 2026 QS World University Rankings by Subject place Engineering - Civil & Structural as one of the most globally distributed engineering disciplines, with 277 institutions from 49 countries and regions appearing on the list. The top position belongs to the Massachusetts Institute of Technology (MIT), which holds rank 1 in this subject as of the 2026 edition. For prospective students choosing a programme by specialisation, this ranking offers a clear picture of where the discipline's strongest departments are concentrated, and how the upper tier of the field is structured.

@@ -19,6 +19,7 @@ verified: "2026-09-07T17:31:31Z"
 stats_family: "subject_ranking"
 stats_scope: "Engineering - Electrical & Electronic|global"
 stats_data_as_of: "2026-04-03"
+hideFromHome: true
 ---
 
 The 2026 QS World University Rankings by Subject for Engineering – Electrical & Electronic covers 549 institutions across 69 countries and territories. The top spot belongs to the Massachusetts Institute of Technology (MIT), which holds rank 1. While the field is globally contested, the distribution of ranked institutions reveals a clear concentration in a handful of countries, and the score bands show that among the 151 institutions with a published overall score, most fall into a narrow middle range rather than at the extremes, while the remaining 398 institutions are listed with a rank or rank band but no overall score.

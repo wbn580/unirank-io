@@ -19,6 +19,7 @@ verified: "2026-09-07T17:25:14Z"
 stats_family: "country_ranking"
 stats_scope: "United Kingdom"
 stats_data_as_of: "2026-06-18"
+hideFromHome: true
 ---
 
 The United Kingdom places 93 institutions in the QS World University Rankings 2027, the third-largest national contingent among the 106 countries and territories represented in the 1,504-institution table. Seven UK universities sit inside the global top 50, with Imperial College London holding the country's best position at rank 2. But the distribution behind that headline is uneven: 16 institutions reach the top 100, 28 reach the top 200, and the median UK entry sits at rank 485.0 — meaning more than half of the UK's ranked universities fall outside the top 400.

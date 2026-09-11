@@ -19,6 +19,7 @@ verified: "2026-09-07T17:25:13Z"
 stats_family: "country_ranking"
 stats_scope: "Australia"
 stats_data_as_of: "2026-06-18"
+hideFromHome: true
 ---
 
 Australia places 37 institutions in the QS World University Rankings 2027, out of a global list of 1,504 universities across 106 countries and territories. That is 2.5% of the global total. The country's top-ranked entry is The University of New South Wales (UNSW Sydney), at rank 19.

@@ -19,6 +19,7 @@ verified: "2026-09-08T04:25:45Z"
 stats_family: "subject_ranking"
 stats_scope: "Law|global"
 stats_data_as_of: "2026-04-03"
+hideFromHome: true
 ---
 
 Harvard University holds the top position in the QS World University Rankings by Subject 2026 for Law, the only institution to claim rank 1 in a field that spans 403 ranked institutions across 61 countries and regions. For prospective law students choosing a school by subject rather than by overall institutional prestige, the distribution behind that single headline number matters more than the rank itself: the field is broad, the top tier is concentrated, and the middle of the table is where most programs actually sit.

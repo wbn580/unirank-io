@@ -19,6 +19,7 @@ verified: "2026-09-07T17:29:45Z"
 stats_family: "subject_ranking"
 stats_scope: "Business & Management Studies|global"
 stats_data_as_of: "2026-04-03"
+hideFromHome: true
 ---
 
 The 2026 QS World University Rankings by Subject for Business & Management Studies covers 650 institutions across 67 countries and territories. Harvard University holds the top position. For prospective students choosing a program by subject rather than by institution, the key question is not just who ranks first, but how the discipline is distributed globally and what separates the very top tier from the rest. This article breaks down the global landscape using the 2026 edition of the ranking, with data as of April 3, 2026.

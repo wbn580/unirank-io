@@ -19,6 +19,7 @@ verified: "2026-09-07T17:29:58Z"
 stats_family: "subject_ranking"
 stats_scope: "Economics & Econometrics|global"
 stats_data_as_of: "2026-04-03"
+hideFromHome: true
 ---
 
 The QS World University Rankings by Subject 2026 lists 699 institutions worldwide in Economics & Econometrics, spanning 75 countries and territories. Harvard University holds the top position. For students selecting a program by subject, the key question is not just who ranks first, but how the discipline's global landscape is structured—and where the concentration of quality actually lies.

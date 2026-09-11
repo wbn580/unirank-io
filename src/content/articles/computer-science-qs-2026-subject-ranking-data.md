@@ -19,6 +19,7 @@ verified: "2026-09-07T17:29:08Z"
 stats_family: "subject_ranking"
 stats_scope: "Computer Science & Information Systems|global"
 stats_data_as_of: "2026-04-03"
+hideFromHome: true
 ---
 
 The QS World University Rankings by Subject 2026 places Computer Science & Information Systems as one of the broadest and most competitive disciplines in the entire ranking system, with 850 institutions from 79 countries and regions appearing on the global list. The number one position belongs to the Massachusetts Institute of Technology (MIT), which tops a field that spans every major research-intensive university system worldwide. For prospective students choosing a program by subject rather than by institution, the distribution of ranked programs across countries — and the score patterns among the very top institutions — offers a clearer picture of where the field's centers of gravity lie.
