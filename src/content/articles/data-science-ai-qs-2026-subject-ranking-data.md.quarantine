@@ -4,7 +4,7 @@ description: "The 2026 QS World University Rankings by Subject for Data Science 
 slug: "data-science-ai-qs-2026-subject-ranking-data"
 pubDatetime: "2026-09-08T04:25:45Z"
 publishDate: "2026-09-08T04:25:45Z"
-modDatetime: "2026-09-08T04:25:45Z"
+modDatetime: "2026-09-11T10:39:52Z"
 lang: "en"
 language: "en"
 category: "rankings"
@@ -21,7 +21,7 @@ stats_scope: "Data Science and Artificial Intelligence|global"
 stats_data_as_of: "2026-04-03"
 ---
 
-The 2026 QS World University Rankings by Subject for Data Science and Artificial Intelligence places Massachusetts Institute of Technology (MIT) at rank 1, with 201 institutions from 37 countries and regions appearing in the global table as of the April 3, 2026 data cut. The median rank across the full list sits at 101.0, meaning half of the ranked programs fall outside the top 100.
+The 2026 QS World University Rankings by Subject for Data Science and Artificial Intelligence places Massachusetts Institute of Technology (MIT) at rank 1, with 201 institutions from 37 countries and regions appearing in the global table as of the April 3, 2026 data cut. A median rank cannot be computed for the full list: the institution at the median position has only a published rank range (101-200), and rank ranges are not used for medians.
 
 ## How the 201 ranked programs are distributed across countries
 
@@ -31,9 +31,9 @@ This distribution tells a clear story about where the field's academic capacity 
 
 ## What separates the top tier from the rest
 
-The score bands reveal a striking discontinuity. Eleven institutions score 90 or above, and 24 more fall in the 80–89 range. That gives 35 programs with scores of 80 or higher. But the next band — 70–79 — contains only 15 institutions. In other words, the gap between the 35th and 50th ranked programs is substantial: the top 50 programs are not evenly spread but rather cluster into a high-scoring elite and a middle group that drops off noticeably.
+The score bands reveal a striking discontinuity. Eleven institutions score 90 or above, and 24 more fall in the 80–89 range. That gives 35 programs with scores of 80 or higher. But the next band — 70–79 — contains only 15 institutions. In other words, the score distribution is not evenly spread: 35 institutions score 80 or higher, while the 70-79 band contains 15 institutions. These bands cover only the institutions whose overall score was published.
 
-The rank bands confirm this pattern. The top 10 ranks are filled by 10 institutions, ranks 11–20 by another 10, and ranks 21–30 by 10 more. The 31–50 band holds 20 institutions, and ranks 51–100 contain 50. From rank 101 to 150, the list expands to 101 institutions — meaning more than half of all ranked programs sit between 101 and 150. No institutions appear beyond rank 150; the list stops at 201 total entries.
+The rank bands confirm this pattern. The top 10 ranks are filled by 10 institutions, ranks 11–20 by another 10, and ranks 21–30 by 10 more. The 31–50 band holds 20 institutions, and ranks 51–100 contain 50. QS publishes a rank band of 101-200 for 101 institutions, out of 201 ranked programs in total; these institutions have no exact rank, so their positions are not subdivided into a 101-150 band. No institutions appear beyond rank 150; the list stops at 201 total entries.
 
 The practical takeaway for prospective students: the top 30 programs are tightly clustered in score terms, but the drop from the top 50 into the 51–100 range is where the ranking becomes more about institutional breadth than about a narrow set of elite performers.
 
@@ -64,7 +64,7 @@ The full subject table for 2026 shows the top programs with their component scor
 | 19 | University of Washington | United States of America | 82.2 | 80.8 | 92.6 | 83.6 |
 | 20 | Yale University | United States of America | 85.2 | 86.7 | 82.7 | 83.3 |
 
-The top of the table is dominated by institutions whose Academic Reputation scores sit in the high 90s. Several programs in the top 10 have Academic Reputation scores above 98, with Employer Reputation scores also exceeding 95. The Citations scores among the top group show more variation, with some institutions scoring in the 80s while others reach the low 90s. This suggests that research output and citation impact are not the sole determinants of the highest ranks — reputation among academics and employers carries substantial weight in this subject.
+The top of the table is dominated by institutions whose Academic Reputation scores sit in the high 90s. Among the top 10, two programs have Academic Reputation scores above 98, and their Employer Reputation scores range from 95.8 to 100. The Citations scores among the top group show more variation, with some institutions scoring in the 80s while others reach the low 90s. This suggests that research output and citation impact are not the sole determinants of the highest ranks — reputation among academics and employers carries substantial weight in this subject.
 
 ## Country-level concentration in the top 100
 
@@ -83,11 +83,11 @@ The country leaderboard below shows how many institutions each country or region
 | Malaysia | 7 |
 | Hong Kong SAR, China | 6 |
 
-The US leads with 41, but the distribution within the top 100 is even more telling. Of the 100 programs ranked 1–100, the US accounts for a substantial majority. The UK's 22 programs are concentrated in the upper half of the table, while China (Mainland)'s 13 include several in the top 50. Australia's 13 programs are spread more evenly, with representation in both the top 50 and the 51–100 range. India's 8 programs and Spain's 8 programs are largely positioned in the 51–150 range, reflecting a growing but still developing research infrastructure in these countries.
+The US leads with 41, but the distribution within the top 100 is even more telling. The United States contributes 41 institutions to the full 201-program list, the largest count of any country or region. The United Kingdom contributes 22 institutions and China (Mainland) contributes 13 to the full 201-program list. Australia contributes 13 institutions to the full 201-program list. India and Spain each contribute 8 institutions to the full 201-program list.
 
-## What the median rank of 101.0 signals
+## Why no median rank is published
 
-A median rank of 101.0 means that the 101st-ranked program sits exactly at the midpoint of the entire list. This is a useful reference point: if you are looking at a program ranked around 100, you are looking at a program that is better than roughly half of all ranked programs globally. But the median also highlights how quickly the field is expanding — the fact that 101 institutions fall between ranks 101 and 150 means that the bottom half of the table is crowded with programs that are close in overall quality, separated by narrow score margins.
+A median rank cannot be computed for this list, because the institution at the median position has only a published rank range (101-200) rather than an exact rank. This is a useful reference point: the institution at the median position has only a published rank range (101-200), so no median rank can be computed for the 201 ranked programs. But the median also highlights how quickly the field is expanding — QS publishes a rank band of 101-200 for 101 institutions, and QS publishes an overall score for only 50 of the 201 ranked programs, so no score comparison is possible for the remaining 151, which are still ranked.
 
 ## Data notes
 
@@ -95,6 +95,6 @@ This analysis is based on the QS World University Rankings by Subject 2026 for D
 
 The ranking methodology incorporates Academic Reputation, Employer Reputation, Citations per paper, H-index, and International Research Network scores. The scores shown in the table are the overall scores that determine rank order. Ranks are assigned as the lower-bound integer of the computed position; ties are resolved by the ranking algorithm and are not broken by score alone.
 
-The country leaderboard counts each institution once, based on the country or region listed in the ranking data. Institutions with multiple campuses or joint programs are counted under their primary country of affiliation. The median rank of 101.0 is the midpoint of the ordered list of 201 institutions; it does not represent an average score or a threshold for inclusion in any particular tier.
+The country leaderboard counts each institution once, based on the country or region listed in the ranking data. Institutions with multiple campuses or joint programs are counted under their primary country of affiliation. A median rank cannot be computed for the ordered list of 201 institutions, because the institution at the median position has only a published rank range (101-200); it does not represent an average score or a threshold for inclusion in any particular tier.
 
 The rank bands and score bands presented here are derived from the published ranking data and reflect the distribution as of the April 3, 2026 data cut. No projections or estimates are made beyond the published figures.
