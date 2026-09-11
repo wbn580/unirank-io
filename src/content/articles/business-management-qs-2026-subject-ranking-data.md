@@ -4,7 +4,7 @@ description: "The 2026 QS World University Rankings by Subject for Business & Ma
 slug: "business-management-qs-2026-subject-ranking-data"
 pubDatetime: "2026-09-07T17:29:45Z"
 publishDate: "2026-09-07T17:29:45Z"
-modDatetime: "2026-09-07T17:29:45Z"
+modDatetime: "2026-09-11T10:36:35Z"
 lang: "en"
 language: "en"
 category: "rankings"
@@ -35,17 +35,17 @@ For a prospective student, this distribution matters. It suggests that while bus
 
 At the very top, Harvard University is ranked first. The top 10 positions are held by 10 different institutions, and the top 20 by 20. This means there is no tie-break compression at the very top—each rank from 1 to 20 is occupied by a single institution. The same holds through the top 30 and the top 50, where 50 distinct institutions occupy the first 50 positions.
 
-What is more revealing is the score distribution. Only 3 institutions score 90 or above overall. The next band, 80 to 89, contains 22 institutions. The 70 to 79 band is the largest among the upper tiers, with 73 institutions. Then the distribution drops sharply: 54 institutions fall in the 60 to 69 band, and no institutions at all are recorded in the 50 to 59, 40 to 49, or 30 to 39 bands. This is a notable feature of the 2026 data—the score bands below 60 are empty, meaning that every ranked institution in this subject scores at least 60 overall.
+What is more revealing is the score distribution. Only 3 institutions score 90 or above overall. The next band, 80 to 89, contains 22 institutions. The 70 to 79 band is the largest among the upper tiers, with 73 institutions. Then the distribution drops: 54 institutions fall in the 60 to 69 band. These bands cover only the 152 institutions whose overall score was published; the remaining 498 ranked institutions are listed with a rank or rank band but no overall score. This is a notable feature of the 2026 data: among the 152 institutions with a published overall score, the bands below 60 are empty, and the lowest band recorded is 60 to 69. The other 498 ranked institutions have no published overall score, so they are not counted in any band and cannot be described as scoring below any threshold.
 
 For students, this means the competitive gap is most pronounced in the upper range. Moving from the 70s to the 80s represents a meaningful jump in overall score, and only 25 institutions worldwide achieve a score of 80 or above. The 90-plus group is extremely exclusive, with just 3 institutions.
 
 ## Rank Distribution: Where Do Most Institutions Sit?
 
-The rank bands show a clear pattern. There are 10 institutions in ranks 1–10, 10 in ranks 11–20, 10 in ranks 21–30, 20 in ranks 31–50, and 50 in ranks 51–100. Beyond the top 100, the bands widen considerably: 52 institutions occupy ranks 101–150, 49 fill ranks 151–200, 99 sit in ranks 201–300, and 350 institutions are ranked 301 or beyond.
+The rank bands show a clear pattern. There are 10 institutions in ranks 1–10, 10 in ranks 11–20, 10 in ranks 21–30, 20 in ranks 31–50, and 50 in ranks 51–100. Beyond the top 100, the bands widen considerably: 52 institutions occupy ranks 101–150. For the rest, QS publishes only rank ranges rather than exact ranks: 49 institutions are listed in the 151–200 range, 49 in the 201–250 range, 50 in the 251–300 range, and 350 institutions are listed in ranges at 301 or beyond.
 
-The median rank across the entire subject table is 301.0. This is a useful reference point: half of the ranked institutions sit at rank 301 or better, and half sit below. In other words, the middle of the distribution is much lower than many prospective students might assume. Being ranked in the top 100 places an institution in the top 15 percent of the table, while being ranked in the top 50 places it in roughly the top 8 percent.
+A median rank cannot be computed for the entire subject table: the institution at the median position has only a published rank range (301–350), and rank ranges cannot be used for medians. Because that middle institution has only a published rank range, the table cannot be split into a half above and a half below any exact rank. In other words, the middle of the distribution is much lower than many prospective students might assume. Being ranked in the top 100 places an institution in the top 15 percent of the table, while being ranked in the top 50 places it in roughly the top 8 percent.
 
-A striking observation is that 350 institutions—more than half of the entire table—are ranked 301 or beyond. This means that for students who are not targeting the very top, there is a very large pool of ranked institutions to consider. The depth of the ranking is substantial, and the difference between rank 150 and rank 300 is not as wide as the difference between rank 10 and rank 50.
+A striking observation is that 350 institutions—more than half of the entire table—are ranked 301 or beyond. This means that for students who are not targeting the very top, there is a very large pool of ranked institutions to consider. The depth of the ranking is substantial: 650 institutions are listed in total, and 498 of them are listed with a rank or rank band but no published overall score.
 
 ## Country-Level Indicators: What the Leaderboard Shows
 
@@ -55,13 +55,13 @@ For students comparing countries, the number of ranked institutions is one indic
 
 ## What the Score Bands Tell Us About Competition
 
-The score band data offers another perspective on how competitive the field is. With only 3 institutions in the 90–99 band and 22 in the 80–89 band, the very top is exceptionally selective. The 70–79 band, with 73 institutions, is where the majority of the upper-middle tier sits. Below that, the 60–69 band holds 54 institutions.
+The score band data offers another perspective on how competitive the field is. With 3 institutions in the 90 to 100 band and 22 in the 80 to 89 band, the very top is exceptionally selective. These bands cover only institutions whose overall score was published. The 70–79 band, with 73 institutions, is where the majority of the upper-middle tier sits. Below that, the 60–69 band holds 54 institutions.
 
-The absence of institutions scoring below 60 is noteworthy. It suggests that the ranking methodology, at least for this subject, effectively sets a floor. Institutions that do not meet a certain threshold are not included in the table at all. For students, this means that every institution in the ranking has cleared a baseline level of performance, which provides some assurance when considering options outside the top 100.
+The absence of published scores below 60 is noteworthy: among the 152 institutions with a published overall score, none falls below the 60 to 69 band, while the other 498 ranked institutions have no published overall score and are not counted in any band. It suggests that the ranking methodology, at least for this subject, effectively sets a floor. Institutions that do not meet a certain threshold are not included in the table at all. For students, this means that the 152 institutions with a published overall score all sit at 60 or above, while the other 498 ranked institutions have no published overall score and cannot be described as having met or missed any score threshold.
 
 ## How to Use This Data for Program Selection
 
-For students selecting a program by subject, the key takeaways are straightforward. First, the field is large—650 institutions across 67 countries—but the top tier is very small. Only 25 institutions score 80 or above, and only 3 score 90 or above. Second, the distribution of ranked institutions is heavily skewed toward the United States and the United Kingdom, though other countries have significant presence. Third, the middle of the ranking is much lower than many expect, with a median rank of 301.0 and 350 institutions ranked 301 or beyond.
+For students selecting a program by subject, the key takeaways are straightforward. First, the field is large—650 institutions across 67 countries—but the top tier is very small. Only 25 institutions score 80 or above, and only 3 score 90 or above. Second, the distribution of ranked institutions is heavily skewed toward the United States and the United Kingdom, though other countries have significant presence. Third, the middle of the ranking cannot be pinned to an exact rank, because the institution at the median position has only a published rank range (301–350), and 350 institutions are listed in ranges at 301 or beyond.
 
 When comparing programs, it is useful to look not just at the overall rank but at the component scores. The ranking includes Academic Reputation, Employer Reputation, Citations, and other indicators. A program with a strong employer reputation but a lower overall score might be a better fit for a student prioritizing employability, while a program with high citations might be better for a student interested in research.
 
@@ -69,7 +69,7 @@ When comparing programs, it is useful to look not just at the overall rank but a
 
 The data in this article comes from the QS World University Rankings by Subject 2026, published by Quacquarelli Symonds (QS), with a data reference date of April 3, 2026. The rankings cover 60 subject-specific tables, including Business & Management Studies. The subject table includes component scores for Academic Reputation, Employer Reputation, Citations, H-Index, and International Research Network. The official source is the QS subject rankings page at [QS World University Rankings by Subject 2026](https://www.topuniversities.com/university-subject-rankings.)
 
-The analysis here is based on the subject-specific table for Business & Management Studies, parsed by subject name and filtered by country. Ranks are reported as lower-bound integers. The median rank of 301.0 is calculated across all 650 ranked institutions in this subject. The score bands and rank bands are derived from the published overall scores and ranks. It is important to note that the ranking covers only institutions that meet QS's inclusion criteria; institutions that do not meet the threshold are not listed. The country leaderboard reflects the number of ranked institutions per country, not the quality of the top program in each country. For students using this data, the ranking should be one input among several when making program decisions.
+The analysis here is based on the subject-specific table for Business & Management Studies, parsed by subject name and filtered by country. Ranks are reported as lower-bound integers. No median rank is calculated for this subject: the institution at the median position has only a published rank range (301–350), and rank ranges cannot be used for medians. The score bands and rank bands are derived from the published overall scores and ranks. It is important to note that the ranking covers only institutions that meet QS's inclusion criteria; institutions that do not meet the threshold are not listed. The country leaderboard reflects the number of ranked institutions per country, not the quality of the top program in each country. For students using this data, the ranking should be one input among several when making program decisions.
 
 | Subject Rank | Institution | Country/Region | Academic Reputation | Employer Reputation | Citations | Overall Score |
 |---|---|---|---|---|---|---|

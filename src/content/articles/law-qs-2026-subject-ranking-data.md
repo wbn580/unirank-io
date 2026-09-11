@@ -4,7 +4,7 @@ description: "Harvard University holds the top position in the QS World Universi
 slug: "law-qs-2026-subject-ranking-data"
 pubDatetime: "2026-09-08T04:25:45Z"
 publishDate: "2026-09-08T04:25:45Z"
-modDatetime: "2026-09-08T04:25:45Z"
+modDatetime: "2026-09-11T10:40:11Z"
 lang: "en"
 language: "en"
 category: "rankings"
@@ -25,7 +25,7 @@ Harvard University holds the top position in the QS World University Rankings by
 
 ## How many law programs are ranked worldwide, and where are they?
 
-The 2026 Law subject ranking includes 403 institutions globally. That makes Law one of the larger subject tables in the QS by-subject series, which covers 60 separate discipline rankings. The median rank among all 403 listed institutions is 151.0, meaning half of all ranked law programs sit at rank 151 or below. In other words, the table is not a thin list of elite faculties — it is a long tail, with 102 institutions ranked at 301 or beyond.
+The 2026 Law subject ranking includes 403 institutions globally. That makes Law one of the larger subject tables in the QS by-subject series, which covers 60 separate discipline rankings. A median rank cannot be computed for the 403 listed institutions: the institution at the median position has only a published rank range (151-200), so no single median rank is available. In other words, the table is not a thin list of elite faculties — it is a long tail, with 102 institutions outside the top 300.
 
 The country-level distribution shows where law programs are concentrated. The United States contributes the largest number of ranked institutions at 62, followed by the United Kingdom with 43. China (Mainland) and Italy each have 20 ranked programs, and Australia follows with 19. Spain contributes 15, Germany 14, Canada 13, France 12, and Brazil rounds out the top ten countries with 11 ranked institutions.
 
@@ -48,17 +48,17 @@ The pattern here is not simply "more institutions equals better programs." The U
 
 The top 10 ranks in Law 2026 are held by 10 institutions, and all of them are within the top 10 — there are no ties at the very top of the table. The top 20 contains 20 institutions, and the top 30 contains 30. The first point of overlap in the rank bands appears at the top 50, where 51 institutions are listed. That single extra slot suggests a tie at the boundary of the top 50, a detail worth noting if you are comparing programs near that cut-off.
 
-Beyond the top 50, the distribution widens steadily. The top 100 includes 101 institutions, and the top 150 includes 150. The top 200 band contains 204 institutions, and the top 300 contains 301. The gaps between these bucket sizes are small but not uniform — the jump from 150 to 200 adds 54 institutions, while the jump from 200 to 300 adds 97, reflecting a denser middle section of the table.
+Beyond the top 50, the distribution widens steadily. The top 100 includes 101 institutions, and the top 150 includes 150. The top 200 band contains 204 institutions, and the top 300 contains 301. The cumulative counts grow steadily: 150 institutions are within the top 150, 204 within the top 200, and 301 within the top 300. QS publishes only a rank range for some institutions, so the middle of the table is also where range-only entries cluster: 49 institutions are published in the 101-150 band, 54 in the 151-200 band, 50 in the 201-250 band, 47 in the 251-300 band, 52 in the 301-350 band, and 50 in the 351-400 band.
 
-For a student filtering by rank, the practical takeaway is that the top 100 is a meaningful cut-off: 101 of 403 institutions, or roughly a quarter of the field, sit at rank 100 or above. Beyond that, the competition thins out in terms of prestige but thickens in terms of raw numbers. The top 200 includes 204 institutions, and the top 300 includes 301 — meaning 102 programs are ranked 301 or beyond.
+For a student filtering by rank, the practical takeaway is that the top 100 is a meaningful cut-off: 101 of 403 institutions, or roughly a quarter of the field, sit at rank 100 or above. Beyond that, the competition thins out in terms of prestige but thickens in terms of raw numbers. The top 200 includes 204 institutions, and the top 300 includes 301, leaving 102 institutions outside the top 300.
 
 ## What do the scores look like at the top?
 
 The overall scores in the Law 2026 ranking cluster heavily in the 70s and 80s, with only a small group reaching the 90s. Seven institutions score 90 or above, and the same seven fall in the 90-to-99 band. The 80-to-89 band contains 21 institutions, bringing the total with a score of 80 or higher to 28. That is a narrow group: fewer than 30 law programs worldwide score 80 or above on the overall index.
 
-The largest single concentration sits in the 70s. The 70-to-79 band contains 64 institutions, and the 70-and-above band contains 92. Below 70, the distribution thins sharply. The 60-to-69 band holds 9 institutions, and there are no programs at all in the 50-to-59, 40-to-49, or 30-to-39 bands. The lowest scored programs in the ranking sit in the 60s, not the 30s or 40s.
+The largest single concentration sits in the 70s. The 70-to-79 band contains 64 institutions, and the 70-and-above band contains 92. Below 70, the distribution thins sharply. The 60-to-69 band holds 9 institutions. These bands cover only institutions whose overall score was published; the 302 institutions without a published overall score are still ranked and are not counted in any score band. Among the institutions with a published overall score, the lowest scores sit in the 60-to-69 band.
 
-This score profile matters for interpretation. The overall score in the QS by-subject methodology combines academic reputation, employer reputation, citations, and other indicators — so a score in the 90s is rare and meaningful, while a score in the 70s places a program in the broad middle of the field. The absence of scores below 60 suggests that the ranking's methodology, or the institutions that make the cut, produce a compressed distribution at the lower end.
+This score profile matters for interpretation. The overall score in the QS by-subject methodology combines academic reputation, employer reputation, citations, and other indicators — so a score in the 90s is rare and meaningful, while a score in the 70s places a program in the broad middle of the field. No published overall score falls below 60, but this says nothing about the 302 institutions without a published overall score: a missing score does not mean an institution scored below any threshold or was dropped from the ranking.
 
 | Subject Rank | Institution | Country/Region | Academic Reputation | Employer Reputation | Citations | Overall Score |
 |---|---|---|---|---|---|---|
@@ -85,7 +85,7 @@ This score profile matters for interpretation. The overall score in the QS by-su
 
 ## What does the rank-score relationship tell you?
 
-The relationship between rank and score is not linear. The top 10 institutions all score 90 or above, but the 80-to-89 band contains 21 institutions, and the 70-to-79 band contains 64. That means the difference between rank 10 and rank 30 is not a small step in score — it is a move from the 90s into the 70s for many programs. The score bands show that the top 10 is a distinct group, separated from the next tier by a wider score gap than the gap between ranks 20 and 50.
+The relationship between rank and score is not linear. The top 10 institutions all score 90 or above, but the 80-to-89 band contains 21 institutions, and the 70-to-79 band contains 64. That means the difference between rank 10 and rank 30 is not a small step in score — among institutions with a published overall score, the top 10 range from 99.0 down to 87.9, while the top 30 range from 99.0 down to 79.3. The score bands show that the top 10 is a distinct group. The top 10 institutions with a published score range from 99.0 down to 87.9, the top 20 from 99.0 down to 82.1, and the top 50 from 99.0 down to 74.4.
 
 For students, this has a practical implication. If you are comparing a program ranked around 30 with one ranked around 80, the overall scores may differ by only a few points, even though the rank gap is large. Conversely, moving from rank 10 to rank 20 may involve a larger score drop than moving from rank 50 to rank 100. The rank table and the score distribution should be read together, not in isolation.
 
@@ -93,4 +93,4 @@ For students, this has a practical implication. If you are comparing a program r
 
 This article is based on the QS World University Rankings by Subject 2026, published by Quacquarelli Symonds (QS), with a data reference date of 2026-04-03. The Law subject ranking covers 403 institutions globally across 61 countries and regions. Rankings are parsed by subject block and filtered by country, with ranks taken as the lower-bound integer. Overall scores are composite scores incorporating academic reputation, employer reputation, citations, H-index, and international research network indicators.
 
-The country leaderboard reflects the number of ranked institutions per country, not the number of law schools in that country. Some countries with many law schools may have fewer ranked programs. The rank bands and score bands are derived from the published ranking table and may include ties at boundary positions. The median rank of 151.0 is a statistical summary of the full 403-institution list and does not correspond to any single institution's rank. No predictions, projections, or estimates beyond the published ranking are included in this article.
+The country leaderboard reflects the number of ranked institutions per country, not the number of law schools in that country. Some countries with many law schools may have fewer ranked programs. The rank bands and score bands are derived from the published ranking table and may include ties at boundary positions. No median rank is given for the full 403-institution list: the institution at the median position has only a published rank range (151-200), so a median rank cannot be computed. No predictions, projections, or estimates beyond the published ranking are included in this article.

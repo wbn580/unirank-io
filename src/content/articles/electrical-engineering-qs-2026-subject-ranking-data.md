@@ -4,7 +4,7 @@ description: "The 2026 QS World University Rankings by Subject for Engineering �
 slug: "electrical-engineering-qs-2026-subject-ranking-data"
 pubDatetime: "2026-09-07T17:31:31Z"
 publishDate: "2026-09-07T17:31:31Z"
-modDatetime: "2026-09-07T17:31:31Z"
+modDatetime: "2026-09-11T10:39:46Z"
 lang: "en"
 language: "en"
 category: "rankings"
@@ -21,7 +21,7 @@ stats_scope: "Engineering - Electrical & Electronic|global"
 stats_data_as_of: "2026-04-03"
 ---
 
-The 2026 QS World University Rankings by Subject for Engineering – Electrical & Electronic covers 549 institutions across 69 countries and territories. The top spot belongs to the Massachusetts Institute of Technology (MIT), which holds rank 1. While the field is globally contested, the distribution of ranked institutions reveals a clear concentration in a handful of countries, and the score bands show that the vast majority of ranked programmes fall into a narrow middle range rather than at the extremes.
+The 2026 QS World University Rankings by Subject for Engineering – Electrical & Electronic covers 549 institutions across 69 countries and territories. The top spot belongs to the Massachusetts Institute of Technology (MIT), which holds rank 1. While the field is globally contested, the distribution of ranked institutions reveals a clear concentration in a handful of countries, and the score bands show that among the 151 institutions with a published overall score, most fall into a narrow middle range rather than at the extremes, while the remaining 398 institutions are listed with a rank or rank band but no overall score.
 
 ## Global Distribution: Which Countries Dominate the Field
 
@@ -42,17 +42,17 @@ Beyond the top three, the list becomes more diverse. India has 23 ranked institu
 | Italy | 17 |
 | Australia | 17 |
 
-The median rank among all 549 listed institutions is 251.0, which means half of the ranked programmes sit at or below that position. This is a useful reference point for prospective students: being ranked in the top 100 places an institution well above the middle of the field, while a top 50 position places it in the upper decile.
+A median rank cannot be computed for the 549 listed institutions, because the institution at the median position has only a published rank range (251-300). This is a useful reference point for prospective students: being ranked in the top 100 places an institution well above the middle of the field, while a top 50 position places it in the upper decile.
 
 ## Score Bands: Where Most Programmes Cluster
 
-The overall scores for Engineering – Electrical & Electronic show a striking pattern. Only 5 institutions score 90 or above, and 27 score between 80 and 89. The largest single band is 70–79, with 87 institutions. When combining the 60–69 band (37 institutions), the picture is clear: the overwhelming majority of ranked programmes fall between 60 and 79.
+The overall scores for Engineering – Electrical & Electronic show a striking pattern. Only 5 institutions score 90 or above, and 27 score 80 or above; within the 80–89 band there are 22 institutions. The largest single band is 70–79, with 87 institutions. The 60–69 band contains 37 institutions and the 70–79 band contains 87. These bands cover only the 151 institutions whose overall score was published; the other 398 institutions are listed with a rank or rank band but no overall score.
 
-What is notable is that no institution in the 2026 edition scores below 60 in the overall ranking. The bands for 50–59, 40–49, and 30–39 each contain 0 institutions. This is not because weaker programmes are excluded—the ranking includes 549 institutions—but because the scoring methodology, which draws on academic reputation, employer reputation, citations, and other indicators, produces a compressed distribution at the lower end. For students comparing options, this means that a difference of a few points in the 60s can correspond to a large number of rank positions.
+What is notable is that among the 151 institutions with a published overall score, none falls below 60; the other 398 institutions are listed with a rank or rank band but no overall score, and a missing score does not mean the institution scored below any threshold. The published score bands cover only institutions whose score was published, and no band below 60 is given in the data. This is not because weaker programmes are excluded—the ranking includes 549 institutions—but because QS publishes an overall score only for a leading subset of 151 institutions, while the remaining 398 are listed with a rank or rank band but no overall score. For students comparing options, this means that a difference of a few points in the 60s can correspond to a large number of rank positions.
 
 ## Rank Bands: The Shape of the Field
 
-The rank distribution reinforces the same story. There are 10 institutions in the top 10, 12 in ranks 11–20, and 9 in ranks 21–30. The 31–50 band contains 19 institutions, and 51–100 contains 50. The largest concentration comes in the 201–300 band, with 101 institutions, and 247 institutions sit at rank 301 and beyond.
+The rank distribution reinforces the same story. There are 10 institutions in the top 10, 12 in ranks 11–20, and 9 in ranks 21–30. The 31–50 band contains 19 institutions, and 51–100 contains 50. The published rank band 201–250 contains 51 institutions and the published rank band 251–300 contains 50, while 247 institutions sit outside the top 300.
 
 This means that while the top 100 is well-populated—100 institutions in total—the field thins out considerably after rank 200. For students targeting a top-tier programme, the competition is intense at the very top, but the options expand significantly once you move beyond the top 50.
 
@@ -87,14 +87,14 @@ For students comparing institutions near the top, the differences in academic re
 
 ## What This Means for Students Choosing a Programme
 
-For a student selecting a programme in Engineering – Electrical & Electronic, the 2026 rankings offer several practical takeaways. First, the field is genuinely global: 69 countries are represented, and the top ten countries by presence span North America, Europe, and Asia. Second, the concentration of high-scoring institutions is real but not exclusive—while the US has the most ranked programmes, the top 10 includes institutions from multiple countries. Third, the score distribution means that a programme ranked in the 70s in overall score is still in the upper half of the field, and the difference between a rank of 100 and a rank of 200 is often a matter of a few points.
+For a student selecting a programme in Engineering – Electrical & Electronic, the 2026 rankings offer several practical takeaways. First, the field is genuinely global: 69 countries are represented, and the top ten countries by presence span North America, Europe, and Asia. Second, the concentration of high-scoring institutions is real but not exclusive—while the US has the most ranked programmes, the top 10 includes institutions from multiple countries. Third, the score distribution covers only the 151 institutions with a published overall score, while the other 398 are listed with a rank or rank band but no overall score; among the top 100, the published overall scores range from 96.9 down to 71.2.
 
-The median rank of 251.0 serves as a useful benchmark. Institutions ranked above this are in the top half of the global field; those ranked below it are in the bottom half. For students who want a competitive programme but are not necessarily targeting the top 10, the 50–150 range offers a substantial number of options across many countries.
+A median rank cannot be computed for this subject, because the institution at the median position has only a published rank range (251-300). Institutions ranked above this are in the top half of the global field; those ranked below it are in the bottom half. For students who want a competitive programme but are not necessarily targeting the top 10, the 50–150 range offers a substantial number of options across many countries.
 
 ## Data Notes
 
 This article is based on the QS World University Rankings by Subject 2026, published by Quacquarelli Symonds (QS), with a data reference date of 2026-04-03. The rankings cover 60 subject areas and draw on academic reputation, employer reputation, citations, H-index, and international research network indicators. The Engineering – Electrical & Electronic ranking includes 549 institutions globally across 69 countries and territories.
 
-The country leaderboard reflects the number of ranked institutions per country, not the quality or rank positions of those institutions. The rank bands and score bands are calculated from the full set of 549 ranked institutions. The median rank of 251.0 is the midpoint of the ranked list; half of the institutions are ranked at or above this position, and half below.
+The country leaderboard reflects the number of ranked institutions per country, not the quality or rank positions of those institutions. The rank bands are calculated from the full set of 549 ranked institutions, while the score bands cover only the 151 institutions whose overall score was published; the other 398 are listed with a rank or rank band but no overall score. A median rank cannot be computed for the ranked list, because the institution at the median position has only a published rank range (251-300); half of the institutions are ranked at or above this position, and half below.
 
 One limitation to note: the ranking covers only institutions that meet QS's inclusion criteria, and the country counts reflect only those institutions that appear in the 2026 edition. The scores are composite and should be interpreted alongside the individual indicator scores, which are not broken out in this article. For a full list of institutions and their component scores, the official QS website should be consulted.

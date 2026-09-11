@@ -4,7 +4,7 @@ description: "The 2026 QS World University Rankings by Subject place Engineering
 slug: "civil-engineering-qs-2026-subject-ranking-data"
 pubDatetime: "2026-09-07T17:31:29Z"
 publishDate: "2026-09-07T17:31:29Z"
-modDatetime: "2026-09-07T17:31:29Z"
+modDatetime: "2026-09-11T10:37:00Z"
 lang: "en"
 language: "en"
 category: "rankings"
@@ -35,13 +35,13 @@ It is worth noting that the distribution reflects not only the size of each coun
 
 The ranking's upper echelons show a highly selective structure. Exactly 10 institutions occupy the top 10 positions, and the top 20 includes 21 institutions, meaning the boundary between ranks 20 and 21 falls within this band. The top 30 contains 30 institutions, and the top 50 extends to 51, indicating that a single institution sits at rank 51, just outside the top 50 threshold.
 
-The distribution becomes more revealing when examining the gaps between rank bands. Between ranks 1 and 10, there are 10 institutions. Between ranks 11 and 20, there are 11. The band from 21 to 30 holds 9 institutions, and from 31 to 50 there are 21. The 51 to 100 band contains 49 institutions, which is the largest single group in the upper half of the ranking. From 101 to 150, there are 50 institutions, and from 151 to 200, there are 51. The final band, from 201 to 300, holds 76 institutions.
+The distribution becomes more revealing when examining the gaps between rank bands. Between ranks 1 and 10, there are 10 institutions. Between ranks 11 and 20, there are 11. The band from 21 to 30 holds 9 institutions, and from 31 to 50 there are 21. The 51 to 100 band contains 49 institutions, which is the largest single group in the upper half of the ranking. From 101 to 150, there are 50 institutions, and from 151 to 200, there are 51. The final published rank band, from 201 to 275, holds 76 institutions.
 
 This structure means that the concentration of elite programmes is tightest at the very top. The gap between rank 10 and rank 20 is relatively small in terms of institutional count, but the academic reputation and research output associated with those positions can differ substantially. For students aiming at the most prestigious departments, the top 10 represents a very exclusive group, while the top 50 offers a broader but still highly competitive set of options.
 
 ## Score Distribution: What Separates the Leaders
 
-The overall scores assigned to ranked institutions provide additional insight into the competitive dynamics of the field. Seven institutions achieve scores of 90 or above, putting them in a distinct upper tier. The 80 to 89 band contains 26 institutions, and the 70 to 79 band includes 18. Below 70, the ranking does not distinguish further score bands, meaning that all remaining institutions fall into a single broader category.
+The overall scores assigned to ranked institutions provide additional insight into the competitive dynamics of the field. Seven institutions achieve scores of 90 or above, putting them in a distinct upper tier. The 80 to 89 band contains 26 institutions, and the 70 to 79 band includes 18. Below 70, the ranking does not distinguish further score bands. These bands cover only the 51 institutions whose overall score was published; the remaining 226 institutions are listed with a rank or rank band but no overall score, and a missing overall score does not mean the institution scored below any threshold or was dropped from the ranking.
 
 The distribution of scores is heavily skewed toward the higher end. The fact that 33 institutions score 80 or above, and 51 score 70 or above, indicates that the ranking's overall scores are compressed at the top. This compression suggests that the difference between a rank 30 institution and a rank 60 institution may be quite small in terms of overall score, even though their positions differ significantly.
 
@@ -57,9 +57,9 @@ For students considering where to study, the country-level data offers a practic
 
 ## The Middle and Lower Ranks: A Wide Field
 
-Beyond the top 100, the ranking continues to include a substantial number of institutions. The 101 to 150 band contains 50 institutions, and the 151 to 200 band contains 51. The 201 to 300 band holds 76 institutions, which is the largest single band in the entire ranking. This means that the majority of ranked institutions fall outside the top 100, with 177 institutions ranked between 101 and 300.
+Beyond the top 100, the ranking continues to include a substantial number of institutions. The 101 to 150 band contains 50 institutions, and the 151 to 200 band contains 51. The published rank band from 201 to 275 holds 76 institutions, which is the largest single published band in the ranking. This means that 177 of the 277 ranked institutions fall outside the top 100.
 
-The median rank for this subject is 101.0, which means that half of all ranked institutions are placed at rank 101 or better, and half are placed below. This median provides a useful reference point for students who are not necessarily aiming at the very top but want to understand where the middle of the field lies.
+A median rank cannot be computed for this subject, because the institution at the median position has only a published rank range (101-150) rather than an exact rank. This median provides a useful reference point for students who are not necessarily aiming at the very top but want to understand where the middle of the field lies.
 
 For students targeting institutions in the middle or lower sections of the ranking, it is important to recognise that these programmes still meet the ranking's inclusion criteria. The ranking's methodology evaluates a broad set of indicators, and institutions that appear in the 200 to 300 range may still offer strong programmes in specific subfields, even if their overall scores are lower.
 

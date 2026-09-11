@@ -1,10 +1,10 @@
 ---
 title: "Australia in QS 2027: Rank Distribution and Indicator Gaps"
-description: "Australia's presence in the QS World University Rankings 2027 is defined by a striking concentration at the very top. Of the 37 Australian institution"
+description: "Australia places 37 institutions in the QS World University Rankings 2027, out of a global list of 1,504 universities across 106 countries and territo"
 slug: "australia-qs-2027-university-rankings-data"
 pubDatetime: "2026-09-07T17:25:13Z"
 publishDate: "2026-09-07T17:25:13Z"
-modDatetime: "2026-09-07T17:25:13Z"
+modDatetime: "2026-09-11T10:37:23Z"
 lang: "en"
 language: "en"
 category: "rankings"
@@ -21,56 +21,23 @@ stats_scope: "Australia"
 stats_data_as_of: "2026-06-18"
 ---
 
-Australia's presence in the QS World University Rankings 2027 is defined by a striking concentration at the very top. Of the 37 Australian institutions listed in the full 1,504-university global table, 6 sit inside the top 50, 9 inside the top 100, and 13 inside the top 200. The best-ranked Australian university is The University of New South Wales (UNSW Sydney) at rank 19. The median rank for all 37 listed Australian institutions is 291.0, which means half of the country's ranked universities sit above this mark and half below it.
+Australia places 37 institutions in the QS World University Rankings 2027, out of a global list of 1,504 universities across 106 countries and territories. That is 2.5% of the global total. The country's top-ranked entry is The University of New South Wales (UNSW Sydney), at rank 19.
 
-The distribution is heavily front-loaded. Australia's 37 institutions represent 2.5% of the 1,504 universities in the global rankings, drawn from 106 countries. But the country's share of the top tier is far larger than its overall share: 6 of the world's top 50 universities are Australian, and 9 of the top 100. This is a small system with outsized representation at the highest level.
+The headline numbers are easy to state. The harder question — the one that matters if you are using this ranking to compare institutions — is how those 37 are spread across the table, and whether the reputation indicators behind them tell the same story as the ranks do.
 
-## The Shape of the Distribution
+## Where Australia's 37 institutions actually sit
 
-The rank distribution reveals a system that thins out quickly after the top 200. Using the rank bands from the QS 2027 dataset:
+The distribution is heavily weighted toward the top and then thins out.
 
-- 6 institutions fall in the rank 1–50 band
-- 3 in the 51–100 band
-- 2 in the 101–150 band
-- 2 in the 151–200 band
-- 6 in the 201–300 band
-- 3 in the 301–400 band
-- 5 in the 401–500 band
-- 5 in the 501–700 band
-- 3 in the 701–1000 band
-- 2 beyond rank 1000
+Six Australian institutions are in the top 50. Nine are in the top 100, 11 in the top 150, 13 in the top 200, 19 in the top 300, 22 in the top 400, and 27 in the top 500. At the other end, 10 institutions sit beyond the top 500, and 2 sit beyond the top 1000.
 
-What this means in cumulative terms: 19 institutions rank within the top 300, 22 within the top 400, and 27 within the top 500. Beyond the top 500, the tail extends considerably. Ten institutions sit outside the top 500, and 5 sit outside the top 700. Two Australian institutions rank beyond 1000.
+Read as bands rather than cumulative counts, the shape is clearer. Six institutions fall in the 1–50 band, 3 in 51–100, 2 in 101–150, 2 in 151–200, 6 in 201–300, 3 in 301–400, and 5 in 401–500. A further 5 sit in 501–700. The 701–1000 band and the 1001-and-beyond band each record zero Australian institutions in the banded counts, though QS publishes narrower ranges — 851–900, 951–1000, and 1201–1400 — that account for institutions whose exact position is not given.
 
-| Rank Band | Institutions |
-|---|---|
-| Global top 50 | 6 |
-| Global top 100 | 9 |
-| Global top 200 | 13 |
-| Global top 500 | 27 |
-| All ranked | 37 |
+The median rank across the 37 is 291.0. That single figure captures the tension in the list: a strong cluster at the top pulls the eye, but the midpoint of the country's presence sits well outside the top 200.
 
-The gap between the top group and the rest is worth noting. The jump from 6 institutions in the top 50 to 3 in the 51–100 band shows that the elite tier is not a smooth continuum. The 101–150 and 151–200 bands each hold only 2 institutions, making the 13 institutions in the top 200 a relatively tight cluster. From there, the 201–300 band expands to 6, and the 401–500 band holds 5—suggesting a secondary cluster of mid-tier institutions that are competitive but not at the level of the country's leading universities.
+## The top of the table
 
-## Year-on-Year Movement: More Gains Than Losses
-
-Comparing the 2027 edition with the 2026 edition, 36 of the 37 currently listed institutions were also listed in the previous edition. Of those 36 comparable institutions:
-
-- 21 improved their rank
-- 11 declined
-- 4 remained unchanged
-
-This tilt toward improvement is the dominant story of the year. The number of Australian institutions in the top 500, however, slipped by one: 27 in 2027 versus 28 in 2026. The top 50, top 100, top 150, top 200, top 300, and top 400 counts are all identical to the 2026 edition—6, 9, 11, 13, 19, and 22 respectively. The top 700 count rose from 31 to 32, and the top 1000 count rose from 34 to 35. The one net loss at the top 500 threshold, combined with gains in the 500–700 and 700–1000 ranges, suggests that the movement is not uniform. Some institutions have moved up into the top 500, while others have dropped out of it.
-
-The 11 decliners are spread across the distribution. The 21 improvers include institutions moving within bands as well as across band boundaries. The net effect on the upper tiers is zero change, which means the gains and losses at the top largely cancelled each other out.
-
-## Indicator Gaps: Academic Reputation vs. Employer Reputation
-
-The QS 2027 dataset provides separate scores for Academic Reputation and Employer Reputation for all 37 Australian institutions. The pattern across these two indicators is revealing.
-
-For Academic Reputation, 6 institutions score at or above 90, and the same 6 score at or above 80. Only 1 institution falls in the 70–79 band, 2 in the 60–69 band, 3 in the 50–59 band, 4 in the 40–49 band, 2 in the 30–39 band, and 5 in the 20–29 band. The academic reputation scores are heavily concentrated at the top: 6 institutions are in the 90–99 range, and no institution sits in the 80–89 band. This creates a visible gap between the top tier and the next group down.
-
-For Employer Reputation, the distribution is somewhat different. Four institutions score at or above 90, 6 at or above 80, and 6 at or above 70. The 90–99 band holds 4 institutions, the 80–89 band holds 2, the 70–79 band holds 0, the 60–69 band holds 3, the 50–59 band holds 2, the 40–49 band holds 0, the 30–39 band holds 6, and the 20–29 band holds 2.
+The concentration at the top is the most striking feature. Six institutions in the top 50, and nine in the top 100, means roughly a quarter of Australia's listed institutions sit inside the world's top 100.
 
 | QS 2027 Rank | Institution | QS 2026 Rank | Change | Academic Reputation | Employer Reputation | Overall Score |
 |---|---|---|---|---|---|---|
@@ -95,26 +62,58 @@ For Employer Reputation, the distribution is somewhat different. Four institutio
 | 291 | Swinburne University of Technology | 294 | ↑3 | 20.1 | 17.8 | 46.7 |
 | 311 | University of Tasmania | 314 | ↑3 | 23.3 | 12.8 | 44.5 |
 
-Comparing the two indicators, the top of the employer reputation distribution is slightly less concentrated than the academic side. Six institutions have academic scores at or above 80, while the same number have employer scores at or above 80. But the composition differs: the academic side has 6 institutions in the 90–99 band and none in the 80–89 band, while the employer side has 4 in the 90–99 band and 2 in the 80–89 band. This means the employer reputation scores are spread slightly more evenly across the upper range.
+That table also carries the reputation indicators, and this is where the distribution stops being a simple story of rank. Academic reputation and employer reputation are survey-based scores, and they do not move in lockstep with rank position.
 
-A more striking difference appears in the middle of the distribution. On the employer side, 6 institutions fall in the 30–39 band and 2 in the 20–29 band, while the academic side has 2 in the 30–39 band and 5 in the 20–29 band. The employer reputation scores are more heavily weighted toward the 30–39 range, suggesting that a group of Australian universities is viewed more favorably by employers than by the academic community. Conversely, the academic side has more institutions in the 20–29 band, indicating weaker academic standing among the lower-ranked institutions.
+## What the reputation scores show
 
-The 70–79 band is empty on the employer side, creating a second gap in that distribution. On the academic side, the 80–89 band is empty. These gaps are not random; they reflect the structure of the Australian system, where a small number of universities dominate both indicators, and the next tier down is either close behind or significantly further back.
+All 37 listed Australian institutions have a published academic reputation score, and all 37 have a published employer reputation score. That is a fuller picture than the overall score gives — more on that below.
 
-## What the Distribution Means
+Academic reputation is top-heavy. Six institutions score 90 or higher, and no institution scores in the 80–89 band. One sits in the 70–79 band, 2 in 60–69, 3 in 50–59, 4 in 40–49, 2 in 30–39, and 5 in 20–29.
 
-The Australian system in QS 2027 can be characterized as a two-tier structure with a long tail. The top tier—roughly the 13 institutions in the top 200—is internationally competitive and holds its own against the best in the world. The second tier, spanning the 201–500 range, is solid but not elite. The tail, extending beyond 500 and in two cases beyond 1000, is where the system thins out most dramatically.
+Employer reputation is similarly concentrated at the very top but shaped differently underneath. Four institutions score 90 or higher, 2 sit in the 80–89 band, and none sit in the 70–79 band. Three are in 60–69, 2 in 50–59, none in 40–49, 6 in 30–39, and 2 in 20–29.
 
-The year-on-year movement suggests a system that is broadly stable at the top and slowly improving in the middle. The 21 improvers versus 11 decliners is a positive signal, but the unchanged upper-tier counts indicate that the top of the distribution is not shifting. The one loss at the top 500 threshold is a reminder that stability at the top does not guarantee stability further down.
+The gap worth noting: academic reputation has 6 institutions at 90 or above, employer reputation has 4. Below that, employer reputation has a cluster of 6 institutions in the 30–39 band where academic reputation has only 2. The two indicators are measuring different things, and for a chunk of the Australian list they diverge.
 
-For readers using these rankings for comparison, the key takeaway is that Australia's strength is concentrated in a small number of institutions. The 2.5% global share understates the country's presence in the top 50 and top 100, where it holds a disproportionate number of places. The indicator gaps between academic and employer reputation add another layer: institutions that perform well on one measure may not perform equally well on the other, and the gaps are not uniform across the distribution.
+If you are comparing institutions on reputation rather than rank, the cumulative counts make the divergence concrete. Nine institutions score 60 or higher on academic reputation; 9 also score 60 or higher on employer reputation. But at the 30-or-higher threshold, 18 institutions clear it on academic reputation against 17 on employer reputation, and at 20 or higher the counts are 23 and 19 respectively.
 
-## Data Notes
+## Movement against QS 2026
 
-The figures in this article are drawn from the QS World University Rankings 2027, published by Quacquarelli Symonds (QS), with a data reference date of 2026-06-18. The full ranking contains 1,504 universities across 106 countries. Australian institutions were identified by filtering the country field in the dataset. The count of 37 Australian institutions was cross-verified against the official QS 2027 dataset on Kaggle, with matching counts as of 2026-07-28.
+Of the 37 institutions listed in QS 2027, 31 have an exact rank in both editions and can therefore be compared. Within that comparable group, 20 improved, 10 declined, and 1 was unchanged.
 
-Rank bands are calculated using the lower bound of each interval. The median rank of 291.0 is calculated across all 37 listed Australian institutions. Year-on-year comparisons are based on the 36 institutions that appeared in both the 2026 and 2027 editions; one institution in the 2027 edition was not present in the 2026 edition. The top 500 count in the 2026 edition was 28, compared with 27 in 2027, reflecting a net change at that threshold.
+Five institutions cannot be compared because their rank is a range in at least one of the two editions. Those five are excluded from the movement counts entirely — they are neither improvements nor declines in this data.
 
-The Academic Reputation and Employer Reputation scores are the two indicator scores provided in the QS dataset for each institution. All 37 Australian institutions have scores for both indicators. The score bands are cumulative: the count at or above 90 includes all institutions with scores of 90 or higher, and the count at or above 80 includes all institutions with scores of 80 or higher, including those at or above 90. The specific band counts (e.g., 90–99, 80–89) are mutually exclusive.
+One caution on reading these numbers. The comparable group of 31 is not Australia's total in QS 2026. The data covers only institutions listed in QS 2027 and their prior-edition rank; institutions ranked in 2026 but absent from the 2027 list are not counted here. So this cannot be written as a rise or fall in Australia's overall presence between the two editions. What it does show is that, among the institutions that appear in both, improvements outnumber declines.
 
-The distribution figures reflect the ranking as published on the data reference date. Rankings can shift between editions, and the figures here are specific to the 2027 edition. No projections or estimates beyond the published data are included.
+The prior-edition counts for the current list are also worth setting out, because they show how stable the top of the table has been. Of the institutions listed in QS 2027, 6 were also in the top 50 in QS 2026, 9 were in the top 100, 11 in the top 150, 13 in the top 200, 19 in the top 300, 22 in the top 400, 28 in the top 500, 31 in the top 700, and 34 in the top 1000. One institution in the current list had no QS 2026 rank at all.
+
+Compare those with the QS 2027 counts and the top of the table is essentially unchanged: 6 in the top 50 in both editions, 9 in the top 100 in both, 13 in the top 200 in both. The movement is further down. The top 500 count goes from 28 in QS 2026 to 27 in QS 2027 among currently listed institutions — a difference of one, and not a like-for-like comparison of the country's total in either year.
+
+| Rank Band | Institutions |
+|---|---|
+| Global top 50 | 6 |
+| Global top 100 | 9 |
+| Global top 200 | 13 |
+| Global top 500 | 27 |
+| All ranked | 37 |
+
+## The overall score is not published for everyone
+
+QS publishes an overall score for only a leading subset of ranked institutions. For Australia, 32 of the 37 listed institutions have a published overall score; 5 do not.
+
+This matters more than it might appear. A missing overall score does not mean the institution scored below some threshold, and it does not mean it was dropped from the ranking. It is still ranked. The lowest rank with a published overall score in the Australian list is 696 — and globally, the lowest rank with a published overall score is also 696, out of 700 institutions worldwide that received one.
+
+So any statement about Australia's score distribution covers only the 32 institutions with a published score. It says nothing about the remaining 5, and nothing about where they would sit if a score were published.
+
+## Data notes
+
+The figures here come from the QS World University Rankings 2027, published by Quacquarelli Symonds (QS), with a data reference date of 2026-06-18. The full ranking covers 1,504 institutions.
+
+The counts were produced by filtering the QS 2027 ranking by country/territory, tallying institutions by rank band, taking the median rank, and comparing the ranks of the same institutions against QS 2026. Where an institution's rank is given as a range (for example, 601–610), the comparison uses the lower bound of the range.
+
+Three boundaries are worth keeping in mind when using these numbers.
+
+First, rank ranges. QS publishes only a range for some institutions, with no exact rank. An institution counts as within the top N only when the upper bound of its range is at most N — a 51–100 range counts as within the top 100. Where a range straddles the threshold, the institution can neither be counted inside the top N nor described as outside it. Ranges are not used for medians, averages, or rank movement.
+
+Second, the median. The median rank of 291.0 is calculated across the 37 listed institutions.
+
+Third, score coverage. The reputation bands cover only institutions whose score in that indicator was published. The overall-score figures cover only the 32 Australian institutions with a published overall score, and say nothing about the 5 without one.

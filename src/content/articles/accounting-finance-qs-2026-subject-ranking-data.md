@@ -4,7 +4,7 @@ description: "Harvard University holds the No. 1 spot in the QS World University
 slug: "accounting-finance-qs-2026-subject-ranking-data"
 pubDatetime: "2026-09-07T17:29:51Z"
 publishDate: "2026-09-07T17:29:51Z"
-modDatetime: "2026-09-07T17:29:51Z"
+modDatetime: "2026-09-11T10:36:10Z"
 lang: "en"
 language: "en"
 category: "rankings"
@@ -21,13 +21,13 @@ stats_scope: "Accounting & Finance|global"
 stats_data_as_of: "2026-04-03"
 ---
 
-Harvard University holds the No. 1 spot in the QS World University Rankings by Subject 2026 for Accounting & Finance, with 376 institutions from 53 countries and regions appearing on the global list. That is the headline number for anyone choosing a master's or PhD program in this field: the discipline is offered at scale across the world, yet the upper reaches of the table are extremely concentrated. The median ranked institution sits at position 151, which tells you that the bulk of ranked programs cluster in the middle of the distribution rather than at the top.
+Harvard University holds the No. 1 spot in the QS World University Rankings by Subject 2026 for Accounting & Finance, with 376 institutions from 53 countries and regions appearing on the global list. That is the headline number for anyone choosing a master's or PhD program in this field: the discipline is offered at scale across the world, yet the upper reaches of the table are extremely concentrated. The institution at the median position has only a published rank range (151-200), so a median rank cannot be computed.
 
 This article walks through three questions a prospective student would actually ask: how many programs are out there, which countries dominate the list, and what separates the top tier from the rest.
 
 ## How Many Programs Are Ranked, and Where Do Most of Them Fall?
 
-The 2026 edition of the subject rankings includes 376 institutions globally for Accounting & Finance. The distribution is heavily skewed toward the upper end of the scoring scale. Only 4 institutions score 90 or above out of 100. The 80–89 band contains 20 institutions, and the 70–79 band is the largest single group, with 59 institutions. Below 70, the count drops sharply: 18 institutions fall in the 60–69 band, and no institution at all scores below 60.
+The 2026 edition of the subject rankings includes 376 institutions globally for Accounting & Finance. The distribution is heavily skewed toward the upper end of the scoring scale. Only 4 institutions score 90 or above out of 100. The 80–89 band contains 20 institutions, and the 70–79 band is the largest single group, with 59 institutions. Below 70, the count drops sharply: 18 institutions fall in the 60–69 band. These bands cover only the 101 institutions whose overall score was published; the other 275 institutions are listed with a rank or rank band but no overall score, and a missing score does not mean they scored below any threshold.
 
 In rank terms, the pattern is similar. Exactly 10 institutions occupy the top 10. The 11–20 band holds another 10, and the 21–30 band another 10. From there, the bands widen: 20 institutions sit in the 31–50 range, 51 in the 51–100 range, and 49 in the 101–150 range. Beyond 150, the list continues with 50 institutions in the 151–200 band, 100 in the 201–300 band, and 76 institutions ranked 301 or beyond.
 
@@ -79,11 +79,11 @@ For a student comparing national systems, these numbers suggest that the U.S. of
 
 ## What Separates the Top Tier from the Rest?
 
-The score bands give a clear picture of the quality gap. Four institutions score 90 or above. The 80–89 band contains 20 institutions, and the 70–79 band contains 59. That means 83 institutions score 70 or higher, which is about 22 percent of the 376 total. Below 70, the count drops to 18 institutions in the 60–69 band, and zero below 60.
+The score bands give a clear picture of the quality gap. Four institutions score 90 or above. The 80–89 band contains 20 institutions, and the 70–79 band contains 59. That means 83 institutions score 70 or higher — a cumulative count of every institution scoring 70 or more, out of the 101 institutions whose overall score was published. Below 70, the count drops to 18 institutions in the 60–69 band. No band is given below 60, and the score bands cover only the 101 institutions with a published overall score; the remaining 275 institutions are still ranked but carry no overall score, so nothing can be said about their scores.
 
 In rank terms, the top 10 is a tight group. The 11–20 and 21–30 bands each hold exactly 10 institutions, so the top 30 is evenly distributed. The 31–50 band holds 20, and the 51–100 band holds 51 — the largest single band in the top 100. This means that if you are targeting a program ranked between 51 and 100, you have more than half of the top 100 to choose from.
 
-The median rank of 151 is a useful anchor. It means that half of the ranked institutions sit at 151 or better, and half sit below. For a student aiming at a program in the top 50, the competition is concentrated in a small group of institutions. For a student aiming at the top 100, the options expand considerably, but the score gap between the top 10 and the 51–100 band is still meaningful — the highest-scoring institutions are in the 90s, while the 70–79 band is where most of the top 100 actually sits.
+The median position is not a usable anchor here: the institution at the median position has only a published rank range (151-200), so a median rank cannot be computed. Because the institution at the median position has only a published rank range (151-200), no median rank can be computed, so no such split can be stated. For a student aiming at a program in the top 50, the competition is concentrated in a small group of institutions. For a student aiming at the top 100, the options expand considerably, but the score gap between the top 10 and the 51–100 band is still meaningful — the highest-scoring institutions are in the 90s, while the 70–79 band is where most of the top 100 actually sits.
 
 ## Data Notes
 
@@ -91,4 +91,4 @@ This article is based on the QS World University Rankings by Subject 2026, publi
 
 The figures presented here are derived from parsing the subject-specific table for Accounting & Finance, filtering by country, and using the lower-bound integer of each institution's rank. The global list includes 376 institutions across 53 countries and regions. The score bands and rank bands are computed from the published scores and ranks; no arithmetic has been performed in this article beyond reading the published values.
 
-One limitation to note: the rankings cover only institutions that QS includes in its subject tables. Institutions that do not meet the inclusion criteria — for example, those with insufficient publication or reputation data — are not listed, so the 376 institutions are not a complete census of every program in the world. The country leaderboard reflects the number of ranked institutions per country, not the total number of programs offered. The median rank of 151.0 is the published median across the 376 ranked institutions, and it should be read as a distributional reference rather than a quality benchmark for any individual program.
+One limitation to note: the rankings cover only institutions that QS includes in its subject tables. Institutions that do not meet the inclusion criteria — for example, those with insufficient publication or reputation data — are not listed, so the 376 institutions are not a complete census of every program in the world. The country leaderboard reflects the number of ranked institutions per country, not the total number of programs offered. No median rank is published for the 376 ranked institutions: the institution at the median position has only a published rank range (151-200), so a median rank cannot be computed.
